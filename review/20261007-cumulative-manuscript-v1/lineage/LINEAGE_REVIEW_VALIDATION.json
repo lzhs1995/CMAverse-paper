@@ -1,0 +1,85 @@
+{
+  "status": "PASS_OFFLINE_LINEAGE_VALIDATED_NATIVE_PENDING",
+  "review": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/actual_cumulative_closeout_20261007_v1/FINAL_ALL_STORY_LINEAGE_REVIEW_v1.json",
+    "bytes": 6496,
+    "sha256": "500f34e0f19e1a22d5558ecc7d5aca2dd6092c2576f24ff771de4b92a232a7a4"
+  },
+  "checks": {
+    "all_story_projection": true,
+    "stories": [
+      {
+        "part": "word/document.xml",
+        "accepted_content_semantics": true,
+        "accepted_clean_semantics": true,
+        "rejected_mother_normalized_xml": true
+      },
+      {
+        "part": "word/endnotes.xml",
+        "accepted_content_semantics": true,
+        "accepted_clean_semantics": true,
+        "rejected_mother_normalized_xml": true
+      },
+      {
+        "part": "word/footer1.xml",
+        "accepted_content_semantics": true,
+        "accepted_clean_semantics": true,
+        "rejected_mother_normalized_xml": true
+      },
+      {
+        "part": "word/footer2.xml",
+        "accepted_content_semantics": true,
+        "accepted_clean_semantics": true,
+        "rejected_mother_normalized_xml": true
+      },
+      {
+        "part": "word/footer3.xml",
+        "accepted_content_semantics": true,
+        "accepted_clean_semantics": true,
+        "rejected_mother_normalized_xml": true
+      },
+      {
+        "part": "word/footnotes.xml",
+        "accepted_content_semantics": true,
+        "accepted_clean_semantics": true,
+        "rejected_mother_normalized_xml": true
+      },
+      {
+        "part": "word/header1.xml",
+        "accepted_content_semantics": true,
+        "accepted_clean_semantics": true,
+        "rejected_mother_normalized_xml": true
+      },
+      {
+        "part": "word/header2.xml",
+        "accepted_content_semantics": true,
+        "accepted_clean_semantics": true,
+        "rejected_mother_normalized_xml": true
+      },
+      {
+        "part": "word/header3.xml",
+        "accepted_content_semantics": true,
+        "accepted_clean_semantics": true,
+        "rejected_mother_normalized_xml": true
+      }
+    ],
+    "protected_media_and_embeddings": true,
+    "clean_content_field_snapshots_equal": true,
+    "objects": [
+      34,
+      3,
+      37,
+      30
+    ],
+    "actual_native_saved_provenance": {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/native_readiness/native_citation_after_release_v5/native_saved_year_fixed.docx",
+      "bytes": 545513,
+      "sha256": "f2582b306d164858d79e3441b5d7bb4dbd4bb776a54820c9c64d4dc1ce60831b"
+    },
+    "exact_post_merge_targets": 21,
+    "post_merge_recomputed_without_unrelated_changes": true
+  },
+  "limitations": [
+    "Native formatting, accept/reject, reopen and PDF require parent execution."
+  ]
+}

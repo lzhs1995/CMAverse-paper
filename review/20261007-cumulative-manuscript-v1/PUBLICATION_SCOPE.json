@@ -1,0 +1,17 @@
+{
+  "at": "2026-10-06T20:18:31.133376+00:00",
+  "status": "OFFLINE_CUMULATIVE_REVIEW_READY_NATIVE_PENDING",
+  "review_mode": "solo_self_review",
+  "model_calls": 0,
+  "native_calls": 0,
+  "source_files_copied": 75,
+  "credential_pattern_hits": [],
+  "native_ready": false,
+  "final_pdf_present": false,
+  "final_nlm_review": false,
+  "prior_logs_not_reexecuted": [
+    "120 execution_inputs",
+    "statistical models",
+    "D2/D3 generators"
+  ]
+}

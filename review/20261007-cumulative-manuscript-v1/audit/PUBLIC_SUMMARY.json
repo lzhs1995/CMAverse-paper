@@ -1,0 +1,38 @@
+{
+  "status": "离线引文、书目及接受/拒绝态核验完成；原生Word验收待另行完成",
+  "scope": "CMAverse论文实际D3整合产物的文件级独立复核；不重新估计模型",
+  "artifact_sha256": {
+    "mother": "4f8cb6c2963c52efaf7cc1065110783ddefdc586785cce15f401d71e2787123d",
+    "content_patched": "0baf8ce3a71768b1361d4293e344577c16a802c97a7826f18c68e2c69a0c027d",
+    "tracked_patched": "c099e7b46fb8682f01d176e289b4d10fbaa17e5ce4e03c7c341a2b071af84531",
+    "accepted_offline": "59c2271b22acb6bc05b1f690250c978a145cdb94be81c5ebd55cafd99cefdf52",
+    "rejected_offline": "e98a935eda8a7412096165b33bec8d4f1e3febcf41bba9f93ed7f5e196b03448"
+  },
+  "counts": {
+    "citation_fields": {
+      "before": 22,
+      "after": 23
+    },
+    "members": {
+      "before": 37,
+      "after": 38
+    },
+    "unique_uris": {
+      "before": 24,
+      "after": 25
+    },
+    "bibliography_entries": {
+      "before": 24,
+      "after": 25
+    }
+  },
+  "findings": [
+    "母稿原22个引文域的完整代码、显示和CSL成员逐项保留，仅新增王跃生（2026）引文。",
+    "原24条参考文献文字及顺序完整保留，新增1条后共25条。",
+    "最终内容稿、接受修订稿与真实原生保存稿的全部字段快照一致。",
+    "拒绝修订稿全部字段和书目回到母稿；9个正文/注释/页眉页脚部件结构一致，仅忽略完全空的属性容器。",
+    "既定21项文字/标题样式修订均在内容稿和接受稿核实。",
+    "内存删去一条旧书目的反例虽不改变引文域和成员数，仍被完整书目检查阻断；重复静态年份反例被整段文字检查阻断。"
+  ],
+  "limitations": "这是离线文件核验，不能替代Word原生布局、接受/拒绝、只读重开和PDF验收，也不构成统计结果的新确认。"
+}

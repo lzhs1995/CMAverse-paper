@@ -1,0 +1,15 @@
+{
+  "status": "PASS_OFFLINE_PACKAGE_AND_DOCUMENT_SEMANTICS",
+  "manifest_files": 86,
+  "source_pins": 75,
+  "citation_fields_before": 22,
+  "citation_fields_after": 23,
+  "bibliography_before": 24,
+  "bibliography_after": 25,
+  "stories": 9,
+  "approved_targets": 21,
+  "negative_controls": 2,
+  "native_validation": "PENDING",
+  "models_executed": 0,
+  "evidence": "Observed process exit_code=0; local exec session 7864; command python3.14 payload/verify_package.py"
+}

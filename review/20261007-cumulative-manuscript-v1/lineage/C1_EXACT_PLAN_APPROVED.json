@@ -1,0 +1,403 @@
+{
+  "schema": "C1_EXACT_NARRATIVE_PLAN_V3",
+  "status": "C1_EXACT_PLAN_APPROVED",
+  "reviewer": "root: actual 21-target review, 2026-10-07",
+  "source": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/manuscript/CMAverse_论文收尾合入_离线候选_原生验收待完成.docx",
+    "bytes": 475988,
+    "sha256": "ff278c5bba68ff7c6cdd0d52fc9cdd8fa7d2bac57876a2751fee8be3ddb4e95f"
+  },
+  "evidence": [
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/claude_narrative_review_20261007/executor-report.md",
+      "bytes": 18837,
+      "sha256": "4ff154da6be4be3ede6f6824645b1918f5881aa3d549f4d02e9bc7a4dfe3fda9"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/review/00_前轮完整实证复核结论_比例来源.md",
+      "bytes": 13392,
+      "sha256": "4f1d94f9d28f8fc13c74024c7384970ea43d6b586bc8f4547188035a30fdfe3d"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/results/CANDIDATE_HISTORY_PANELS.csv",
+      "bytes": 12136,
+      "sha256": "3783cf06ca139b7d019d3a8cdecffbe734622f41e5f5d08dd01a7c673aa39c36"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/results/P3_THREE_STATE.csv",
+      "bytes": 1776,
+      "sha256": "1b0781887c17597ee31372357e61633563a8f2faff20bd8eb3c78202b0bfca11"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/results/P3_OMNIBUS.csv",
+      "bytes": 981,
+      "sha256": "ccffc457e5d67b0ba6f75800ce897e8ffe64fb0d838cbeec691a3d71028c23b3"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/review/00_数值收尾独立复核报告.md",
+      "bytes": 11899,
+      "sha256": "a4032744fb185fec462c20669a69e3bbb26b0bf337d6cceba246762478abc9e1"
+    }
+  ],
+  "targets": [
+    {
+      "locator": {
+        "kind": "body_paragraph",
+        "p": 163
+      },
+      "before": "表10汇总基础回归、历史八链、系统探索及选择后限定复核，分别回答收入关联、完整中介、收入联系的修饰、效应消除比例和政策情景问题。未获明确证据、仍属探索性线索与目前无法可靠量化，代表不同的证据状态。",
+      "after": "表10汇总基础回归、历史八链、系统探索及选择后限定复核，分别回答收入关联、完整中介、收入联系的修饰、效应消除比例和政策情景问题。未获明确证据、仍属探索性线索与目前无法可靠量化，代表不同的证据状态。其中选择后复核的完整结果见本章（四）。",
+      "before_style": "af5",
+      "after_style": "af5",
+      "replacements": [
+        {
+          "before": "代表不同的证据状态。",
+          "after": "代表不同的证据状态。其中选择后复核的完整结果见本章（四）。"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "kind": "body_paragraph",
+        "p": 165
+      },
+      "before": "新增14项均已完成B=200初筛，没有合格规格达到预设精化条件。历史11项B=1,000、次级和登记敏感性结果另列于附录D。早期R6_B1的5分对4分金额差异保留为辅助结果；最终金额修饰结论依据下节原金额与封顶金额的三状态整体检验。",
+      "after": "新增14项均已完成B=200初筛，没有合格规格达到预设精化条件。历史11项B=1,000、次级和登记敏感性结果另列于附录D。早期R6_B1的5分对4分金额差异保留为辅助结果；最终金额修饰结论见本章（四）及表13的原金额与封顶金额三状态整体检验。",
+      "before_style": "af5",
+      "after_style": "af5",
+      "replacements": [
+        {
+          "before": "最终金额修饰结论依据下节原金额与封顶金额的三状态整体检验。",
+          "after": "最终金额修饰结论见本章（四）及表13的原金额与封顶金额三状态整体检验。"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "kind": "body_paragraph",
+        "p": 167
+      },
+      "before": "限定复核保留了两条与夫妻相对婚姻评价有关的探索性线索。删除跨波累计的父辈支持变量后，相对位置跃迁候选与分差变化候选的固定状态CDE差分别为−0.409和−0.085，未调整95%区间均不含零（表11）。这些差值处于边际OR尺度，不能解释为支持概率下降的百分点。两项模型化自然间接对比的区间均包含无效值1，未提供明确的完整中介证据。",
+      "after": "限定复核保留了两条与夫妻相对婚姻评价有关的探索性线索。删除跨波累计的父辈支持变量后，相对位置跃迁候选与分差变化候选的固定状态CDE差分别为−0.409和−0.085，未调整95%区间均不含零（表11）。这些差值处于边际OR尺度，不能解释为支持概率下降的百分点。两项模型化自然间接对比以标准化边际OR表示，031为0.999 [0.994，1.004]，041为1.000 [0.998，1.003]；两者95%区间均包含无效值1，未提供明确的完整中介证据。",
+      "before_style": "af5",
+      "after_style": "af5",
+      "replacements": [
+        {
+          "before": "两项模型化自然间接对比的区间均包含无效值1，未提供明确的完整中介证据。",
+          "after": "两项模型化自然间接对比以标准化边际OR表示，031为0.999 [0.994，1.004]，041为1.000 [0.998，1.003]；两者95%区间均包含无效值1，未提供明确的完整中介证据。"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "kind": "body_paragraph",
+        "p": 182
+      },
+      "before": "相对婚姻评价与婚姻质量改善是不同构念。相对位置跃迁记录中，约28.35%伴随本人评分提高、88.01%伴随配偶评分下降，两类可以重叠。因此，负向修饰不能直接写成“婚姻越幸福越不支持父母”。一种待检验的解释是，夫妻关系评价的不对称变化与核心家庭、父代家庭之间的资源配置取向有关。本研究没有直接测量资源协商与控制过程，不能由相对评分差确认权力或谈判机制。关联、收入联系的修饰和完整中介回答不同问题，也不要求同时出现。",
+      "after": "相对婚姻评价与婚姻质量改善是不同构念。相对位置跃迁记录中，约28.35%伴随本人评分提高、88.01%伴随配偶评分下降，两类可以重叠。约71.65%的相对位置跃迁记录中本人评分未提高，因此不能将这一候选作为本人婚姻评价改善所产生“推力”的直接证据。负向修饰也不能直接写成“婚姻越幸福越不支持父母”。根据探索结果形成的一种待检验解释是，夫妻关系评价的不对称变化与核心家庭、父代家庭之间的资源配置取向有关。本研究没有直接测量资源协商与控制过程，不能由相对评分差确认权力或谈判机制。关联、收入联系的修饰和完整中介回答不同问题，也不要求同时出现。",
+      "before_style": "af5",
+      "after_style": "af5",
+      "replacements": [
+        {
+          "before": "两类可以重叠。",
+          "after": "两类可以重叠。约71.65%的相对位置跃迁记录中本人评分未提高，因此不能将这一候选作为本人婚姻评价改善所产生“推力”的直接证据。"
+        },
+        {
+          "before": "一种待检验的解释是",
+          "after": "根据探索结果形成的一种待检验解释是"
+        },
+        {
+          "before": "因此，负向修饰不能直接写成",
+          "after": "负向修饰也不能直接写成"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "kind": "body_paragraph",
+        "p": 221
+      },
+      "before": "比值型TNIE在表中报告原比值，检验在log尺度上进行（无效应值为1）；Delta_CDE为两个原模型比值之差（无效应值为0），不能解释为百分点。support_diff_10k由实际月均支持金额差除以10000生成，保留万元/月；support_log1p_10k由两期log1p(月均金额/10000)之差生成，其效应不是元/月或百分比。这些尺度不与新两部分模型的元/月混用。所有p均为原始探索值。",
+      "after": "比值型TNIE为标准化边际OR，检验在log尺度上进行（无效应值为1）；Delta_CDE为两个标准化边际OR之差，即正文的ΔOR（无效应值为0），不能解释为百分点。support_diff_10k由实际月均支持金额差除以10000生成，保留万元/月；support_log1p_10k由两期log1p(月均金额/10000)之差生成，其效应不是元/月或百分比。这些尺度不与新两部分模型的元/月混用。所有p均为原始探索值。",
+      "before_style": "af5",
+      "after_style": "af5",
+      "replacements": [
+        {
+          "before": "比值型TNIE在表中报告原比值",
+          "after": "比值型TNIE为标准化边际OR"
+        },
+        {
+          "before": "Delta_CDE为两个原模型比值之差",
+          "after": "Delta_CDE为两个标准化边际OR之差，即正文的ΔOR"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "kind": "body_paragraph",
+        "p": 248
+      },
+      "before": "R2_B1金额抽样195/200有效，主推断缺失；不采用其百分位区间绕过稳定性门槛。组件T_P/T_Y并非调节对比，不能把其显著性作为满意度机制的证据。所有p为本行原始值，未据此声称全探索校正后的发现。",
+      "after": "R2_B1金额抽样195/200有效，主推断缺失；不采用其百分位区间绕过稳定性门槛。组件T_P/T_Y并非调节对比，不能把其显著性作为满意度机制的证据。所有p为本行原始值，未据此声称全探索校正后的发现。同一原金额目标量已在附录E.2以原2,000份整簇抽样修复，三状态点值与预先登记整体检验见表13；本表R2_B1仍为修复前的B=200记录，其5分对4分单项推断未重新计算。",
+      "before_style": "af5",
+      "after_style": "af5",
+      "replacements": [
+        {
+          "before": "未据此声称全探索校正后的发现。",
+          "after": "未据此声称全探索校正后的发现。同一原金额目标量已在附录E.2以原2,000份整簇抽样修复，三状态点值与预先登记整体检验见表13；本表R2_B1仍为修复前的B=200记录，其5分对4分单项推断未重新计算。"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "kind": "body_paragraph",
+        "p": 258
+      },
+      "before": "失败规格：无。",
+      "after": "无执行失败的规格；有效重复低于98%的6项暂缓主推断，见下注。",
+      "before_style": "af5",
+      "after_style": "af5",
+      "replacements": [
+        {
+          "before": "失败规格：无。",
+          "after": "无执行失败的规格；有效重复低于98%的6项暂缓主推断，见下注。"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "kind": "body_paragraph",
+        "p": 263
+      },
+      "before": "R6_B1的辅助金额对比原始p<0.05；此结果属于多次探索中的辅助发现，尚不能称为控制整个搜索过程后的显著机制。不能将“主要对比未发现原始显著结果”扩写为“所有调节对比均不显著”。有效比例不足98%的结果继续暂缓推断。",
+      "after": "R6_B1的辅助金额对比原始p<0.05；此结果属于多次探索中的辅助发现，尚不能称为控制整个搜索过程后的显著机制。该对比的点估计（−30.36元/月）与附录E.2预定封顶口径的“5分减4分”相同；最终判断依据预先登记的二维整体检验（封顶p=0.080，原金额p=0.132，表13），而非此单项对比。两者抽样计划不同，本轮未重新计算单项p。不能将“主要对比未发现原始显著结果”扩写为“所有调节对比均不显著”。有效比例不足98%的结果继续暂缓推断。",
+      "before_style": "af5",
+      "after_style": "af5",
+      "replacements": [
+        {
+          "before": "尚不能称为控制整个搜索过程后的显著机制。",
+          "after": "尚不能称为控制整个搜索过程后的显著机制。该对比的点估计（−30.36元/月）与附录E.2预定封顶口径的“5分减4分”相同；最终判断依据预先登记的二维整体检验（封顶p=0.080，原金额p=0.132，表13），而非此单项对比。两者抽样计划不同，本轮未重新计算单项p。"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "kind": "table_cell",
+        "t": 25,
+        "r": 2,
+        "c": 3,
+        "p": 1
+      },
+      "before": "原模型比值",
+      "after": "边际OR",
+      "before_style": "af5",
+      "after_style": "af5",
+      "replacements": [
+        {
+          "before": "原模型比值",
+          "after": "边际OR"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "kind": "table_cell",
+        "t": 25,
+        "r": 3,
+        "c": 3,
+        "p": 1
+      },
+      "before": "原模型比值之差",
+      "after": "边际OR之差（ΔOR）",
+      "before_style": "af5",
+      "after_style": "af5",
+      "replacements": [
+        {
+          "before": "原模型比值之差",
+          "after": "边际OR之差（ΔOR）"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "kind": "table_cell",
+        "t": 25,
+        "r": 4,
+        "c": 3,
+        "p": 1
+      },
+      "before": "原模型比值",
+      "after": "边际OR",
+      "before_style": "af5",
+      "after_style": "af5",
+      "replacements": [
+        {
+          "before": "原模型比值",
+          "after": "边际OR"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "kind": "table_cell",
+        "t": 25,
+        "r": 5,
+        "c": 3,
+        "p": 1
+      },
+      "before": "原模型比值之差",
+      "after": "边际OR之差（ΔOR）",
+      "before_style": "af5",
+      "after_style": "af5",
+      "replacements": [
+        {
+          "before": "原模型比值之差",
+          "after": "边际OR之差（ΔOR）"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "kind": "table_cell",
+        "t": 25,
+        "r": 6,
+        "c": 3,
+        "p": 1
+      },
+      "before": "原模型比值",
+      "after": "边际OR",
+      "before_style": "af5",
+      "after_style": "af5",
+      "replacements": [
+        {
+          "before": "原模型比值",
+          "after": "边际OR"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "kind": "table_cell",
+        "t": 25,
+        "r": 7,
+        "c": 3,
+        "p": 1
+      },
+      "before": "原模型比值之差",
+      "after": "边际OR之差（ΔOR）",
+      "before_style": "af5",
+      "after_style": "af5",
+      "replacements": [
+        {
+          "before": "原模型比值之差",
+          "after": "边际OR之差（ΔOR）"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "kind": "table_cell",
+        "t": 25,
+        "r": 8,
+        "c": 3,
+        "p": 1
+      },
+      "before": "原模型比值",
+      "after": "边际OR",
+      "before_style": "af5",
+      "after_style": "af5",
+      "replacements": [
+        {
+          "before": "原模型比值",
+          "after": "边际OR"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "kind": "table_cell",
+        "t": 25,
+        "r": 9,
+        "c": 3,
+        "p": 1
+      },
+      "before": "原模型比值之差",
+      "after": "边际OR之差（ΔOR）",
+      "before_style": "af5",
+      "after_style": "af5",
+      "replacements": [
+        {
+          "before": "原模型比值之差",
+          "after": "边际OR之差（ΔOR）"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "kind": "body_paragraph",
+        "p": 217
+      },
+      "before": "附录D 追加探索及敏感性分析",
+      "after": "附录D 追加探索及敏感性分析",
+      "before_style": "af5",
+      "after_style": "aff4",
+      "replacements": []
+    },
+    {
+      "locator": {
+        "kind": "body_paragraph",
+        "p": 264
+      },
+      "before": "附录E 选择后的限定复核",
+      "after": "附录E 选择后的限定复核",
+      "before_style": "af5",
+      "after_style": "aff4",
+      "replacements": []
+    },
+    {
+      "locator": {
+        "kind": "body_paragraph",
+        "p": 265
+      },
+      "before": "E.1 候选定义、样本与区间",
+      "after": "E.1 候选定义、样本与区间",
+      "before_style": "af5",
+      "after_style": "afffa",
+      "replacements": []
+    },
+    {
+      "locator": {
+        "kind": "body_paragraph",
+        "p": 272
+      },
+      "before": "E.2 三状态金额对比及失败记录",
+      "after": "E.2 三状态金额对比及失败记录",
+      "before_style": "af5",
+      "after_style": "afffa",
+      "replacements": []
+    },
+    {
+      "locator": {
+        "kind": "body_paragraph",
+        "p": 277
+      },
+      "before": "E.3 本人—波次关联及固定六项校正",
+      "after": "E.3 本人—波次关联及固定六项校正",
+      "before_style": "af5",
+      "after_style": "afffa",
+      "replacements": []
+    }
+  ],
+  "scope": {
+    "body_text_paragraphs": 8,
+    "table_cells": 8,
+    "heading_style_paragraphs": 5,
+    "total": 21
+  },
+  "boundaries": [
+    "F01 option B, no renumbering",
+    "F05 only self did not improve, no chiefly-spouse-decline claim",
+    "F08 paragraph values, no added row",
+    "No statistical changes, fields, UI or native receipt"
+  ]
+}

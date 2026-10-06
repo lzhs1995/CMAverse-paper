@@ -1,0 +1,115 @@
+{
+  "schema": "ALL_STORY_LINEAGE_REVIEW_V3",
+  "status": "NOT_READY_REQUIRES_REVIEW",
+  "reviewer": null,
+  "mother": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/delivery/current_recovered_manuscript_20261005_v1/CMAverse_基础回归与八链结果恢复后_当前整合稿.docx",
+    "bytes": 496516,
+    "sha256": "4f8cb6c2963c52efaf7cc1065110783ddefdc586785cce15f401d71e2787123d"
+  },
+  "final_content": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/actual_cumulative_closeout_20261007_v1/d3_patch_pagecache_successor/content_patched.docx",
+    "bytes": 480296,
+    "sha256": "0baf8ce3a71768b1361d4293e344577c16a802c97a7826f18c68e2c69a0c027d"
+  },
+  "final_clean": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/actual_cumulative_closeout_20261007_v1/d3_patch_pagecache_successor/accepted_offline.docx",
+    "bytes": 485550,
+    "sha256": "59c2271b22acb6bc05b1f690250c978a145cdb94be81c5ebd55cafd99cefdf52"
+  },
+  "final_tracked": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/actual_cumulative_closeout_20261007_v1/d3_patch_pagecache_successor/tracked_patched.docx",
+    "bytes": 572539,
+    "sha256": "c099e7b46fb8682f01d176e289b4d10fbaa17e5ce4e03c7c341a2b071af84531"
+  },
+  "merge_qa": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/actual_cumulative_closeout_20261007_v1/d2_merge_prooferr_successor/MERGE_QA.json",
+    "bytes": 3074,
+    "sha256": "613a0a50525ead7b7a3de873f51a5efadcca1f64cb6a8cdc32cdd5fffa1cad01"
+  },
+  "post_merge_qa": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/actual_cumulative_closeout_20261007_v1/d3_patch_pagecache_successor/POST_MERGE_QA.json",
+    "bytes": 6254,
+    "sha256": "1c3774393500af68b7b53679ff910f0214a8e1f45fee1561662971d839f8de53"
+  },
+  "checks": {
+    "all_story_projection": true,
+    "stories": [
+      {
+        "part": "word/document.xml",
+        "accepted_content_semantics": true,
+        "accepted_clean_semantics": true,
+        "rejected_mother_normalized_xml": true
+      },
+      {
+        "part": "word/endnotes.xml",
+        "accepted_content_semantics": true,
+        "accepted_clean_semantics": true,
+        "rejected_mother_normalized_xml": true
+      },
+      {
+        "part": "word/footer1.xml",
+        "accepted_content_semantics": true,
+        "accepted_clean_semantics": true,
+        "rejected_mother_normalized_xml": true
+      },
+      {
+        "part": "word/footer2.xml",
+        "accepted_content_semantics": true,
+        "accepted_clean_semantics": true,
+        "rejected_mother_normalized_xml": true
+      },
+      {
+        "part": "word/footer3.xml",
+        "accepted_content_semantics": true,
+        "accepted_clean_semantics": true,
+        "rejected_mother_normalized_xml": true
+      },
+      {
+        "part": "word/footnotes.xml",
+        "accepted_content_semantics": true,
+        "accepted_clean_semantics": true,
+        "rejected_mother_normalized_xml": true
+      },
+      {
+        "part": "word/header1.xml",
+        "accepted_content_semantics": true,
+        "accepted_clean_semantics": true,
+        "rejected_mother_normalized_xml": true
+      },
+      {
+        "part": "word/header2.xml",
+        "accepted_content_semantics": true,
+        "accepted_clean_semantics": true,
+        "rejected_mother_normalized_xml": true
+      },
+      {
+        "part": "word/header3.xml",
+        "accepted_content_semantics": true,
+        "accepted_clean_semantics": true,
+        "rejected_mother_normalized_xml": true
+      }
+    ],
+    "protected_media_and_embeddings": true,
+    "clean_content_field_snapshots_equal": true,
+    "objects": [
+      34,
+      3,
+      37,
+      30
+    ],
+    "actual_native_saved_provenance": {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/native_readiness/native_citation_after_release_v5/native_saved_year_fixed.docx",
+      "bytes": 545513,
+      "sha256": "f2582b306d164858d79e3441b5d7bb4dbd4bb776a54820c9c64d4dc1ce60831b"
+    },
+    "exact_post_merge_targets": 21,
+    "post_merge_recomputed_without_unrelated_changes": true
+  },
+  "schema_validation": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/actual_cumulative_closeout_20261007_v1/final_lineage_pagecache_v1/SCHEMA_VALIDATION.json",
+    "bytes": 832,
+    "sha256": "f9abfe3370f0aa711a95f728b2a2e871762112f9ab648c4f4a6a877ed5a58f5a"
+  },
+  "native_calls": 0
+}

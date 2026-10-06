@@ -1,0 +1,28 @@
+{
+  "status": "PASS_EVIDENCE_VALIDATED_NOT_FREEZE_APPROVAL",
+  "review_evidence": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/actual_cumulative_closeout_20261007_v1/FINAL_FIELD_DELTA_REVIEW_v1.json",
+    "bytes": 206373,
+    "sha256": "ad9687c682b7ba6c174084d32163999c7cbb002de402b52e498e693e9ffbbdbd"
+  },
+  "field_approval": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/actual_cumulative_closeout_20261007_v1/FINAL_FIELD_DELTA_APPROVAL_v1.json",
+    "bytes": 206797,
+    "sha256": "6228d5b17285376064be5fff261626d6c588f3605684301c19bbbbb7345aee8e"
+  },
+  "delta_blocks": 2,
+  "wang": {
+    "citation_location": {
+      "story": "word/document.xml",
+      "index": 2
+    },
+    "uri": "http://zotero.org/users/9676737/items/HM4KAHLB",
+    "year": 2026,
+    "suppress_author": true,
+    "bibliography_checked": true
+  },
+  "limitations": [
+    "All-story relationship/attribute lineage requires separate QA",
+    "Native layout, geometry and PDF QA remain required"
+  ]
+}

@@ -1,11 +1,25 @@
-# 最新：论文改文与来源补齐已完成，原生交付待验收（2026-10-06）
+# 最新：累计论文修改与三份Claude审阅已合入（2026-10-07）
+
+入口：
+https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/main/review/20261007-cumulative-manuscript-v1/START_HERE.md
+
+反馈说明：
+https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/main/review/20261007-cumulative-manuscript-v1/WEB_FEEDBACK.md
+
+本轮约6.04 MB增量，87个包内文件：四份累计稿、母稿与即时前驱、9张冻结结果CSV、120项执行输入绑定日志、有限理论矩阵及完整引文/书目核验。21项批准修改已落实；真实Zotero新增引文已合入。统计不重跑。
+
+状态：可以向ChatGPT/Claude网页端开展内容复核。累计稿原生Word接受/拒绝、最终PDF及同版NLM仍待完成，不能称最终论文全流程通过。
+
+---
+
+# 历史：论文收尾首包（2026-10-06）
 
 完整说明：
 https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/main/review/20261006-paper-closeout-v1/README.md
 
 本轮新增离线论文候选及两个前驱、9张结果CSV、120项执行输入绑定、有限理论证据矩阵和独立DOCX核验。一个1.65 MB增量ZIP；不重传旧包，不新增模型。031/041保留探索性线索，P3整体未显著。原生Word/Zotero刷新/最终PDF/同版NLM仍为PENDING。
 
-# 最新：数值收尾已完成（2026-10-06）
+# 历史：数值收尾已完成（2026-10-06）
 
 入口：review/20261006-numerical-closeout-v1/README.md
 

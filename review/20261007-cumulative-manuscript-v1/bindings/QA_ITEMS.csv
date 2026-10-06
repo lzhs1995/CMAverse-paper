@@ -1,0 +1,13 @@
+check_id,status,detail
+SOURCE_FILE_HASHES,PASS,288 frozen source files match saved SHA256 and bytes; pins never refreshed.
+HISTORICAL_COVERAGE_AND_NATIVE_RECEIPT,PASS,150 registered / 120 estimable / 240 B200 targets; accepted native job d128f101 retained.
+ACTUAL_120_EXECUTION_INPUTS,PASS,"Fresh whole-file hashes for 120 actual execution_inputs.rds and 120 METRICS.rds; accepted R row-index/seed audit reused, not rerun."
+RESULT_TABLE_MANIFEST_AND_PROVENANCE,PASS,8 data tables + version table; every row has a valid pinned source path/hash/bytes and row locator.
+CANDIDATE_DEFINITION_MAPPING,PASS,"Both candidate codes, fixed contrasts, N/clusters, old adjustment and timing caveat match the saved registry; source transforms pinned."
+HISTORICAL_B200_INDEPENDENT_ARITHMETIC,PASS,"Recomputed 240 SDs/raw centered p values, two 120-target RW families and all-240 RW from the 200×240 frozen matrix; no fits or new tests."
+CANDIDATE_HISTORY_VERSION_SEPARATION,PASS,"20 rows retain B200 log-OR TNIE, B1000 OR TNIE, OR differences and interval-only rows separately; no p transplant."
+PERIOD_AND_LOO_SUMMARIES,PASS,"Four period diagnostics and all 2,939 + 3,149 leave-one-cluster point diagnostics reduce exactly to the saved summaries; no new per-period/LOO inference."
+P3_COMPLETE_PAIRED_DRAWS_AND_DIAGNOSTICS,PASS,"All 6,000 rows finite/complete; each of 2,000 replicates shares one hash across three components; 4,000 amount fits have saved convergence/full-rank evidence. R index identity is reused from accepted receipt."
+P3_POINT_DIFFERENCES_AND_OMNIBUS,PASS,Three-state differences and both centered 2-df quadratic tail counts reproduced from frozen paired draws; no new adjacent-contrast p values.
+SIX_TEST_BH_BY_AND_N1_PRESERVATION,PASS,"Six actual raw p values reproduce BH/BY; all original N1 coefficients, SE, CI, raw p and within-four q preserved. Only final six-family fields filled."
+SCOPE_LIMITS,PASS,"No fitting, R execution, new hypotheses, microdata copies, UI, publication, queue or broker mutation by this verifier."

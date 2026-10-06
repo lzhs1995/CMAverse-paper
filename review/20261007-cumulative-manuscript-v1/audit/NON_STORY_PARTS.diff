@@ -1,0 +1,180 @@
+
+PART: docProps/app.xml
+{"part": "docProps/app.xml", "before": {"sha256": "60ade4d0e26647ec79df0f594ae08d273cc4613bff482fcf9250ba8edeaf0ec9", "bytes": 729, "is_story": false, "canonical_xml_sha256": "8d1592cd5a9dd4f49cbd16fa92d573854d59b6a6aa337028699b9e88d9e9ca49"}, "after": {"sha256": "26b47c59eec8a09495acabea94017b64dbc51711d151b526206f809d4312822c", "bytes": 730, "is_story": false, "canonical_xml_sha256": "2f63ef0fdcab0457ec89690c66d9aaa555523849edd29f7c85d378600d4627d7"}, "change": "changed", "canonical_xml_equal": false, "review_status": "PENDING_EXPLICIT_REVIEW"}
+--- before/docProps/app.xml
++++ after/docProps/app.xml
+@@ -1,19 +1,19 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ <Properties xmlns="http://schemas.openxmlformats.org/officeDocument/2006/extended-properties" xmlns:vt="http://schemas.openxmlformats.org/officeDocument/2006/docPropsVTypes">
+ <Template>Normal.dotm</Template>
+-<TotalTime>343</TotalTime>
+-<Pages>34</Pages>
+-<Words>15159</Words>
+-<Characters>86411</Characters>
++<TotalTime>358</TotalTime>
++<Pages>45</Pages>
++<Words>18199</Words>
++<Characters>103737</Characters>
+ <Application>Microsoft Office Word</Application>
+ <DocSecurity>0</DocSecurity>
+-<Lines>720</Lines>
+-<Paragraphs>202</Paragraphs>
++<Lines>864</Lines>
++<Paragraphs>243</Paragraphs>
+ <ScaleCrop>false</ScaleCrop>
+ <Company>
+ </Company>
+ <LinksUpToDate>false</LinksUpToDate>
+-<CharactersWithSpaces>101368</CharactersWithSpaces>
++<CharactersWithSpaces>121693</CharactersWithSpaces>
+ <SharedDoc>false</SharedDoc>
+ <HyperlinksChanged>false</HyperlinksChanged>
+ <AppVersion>16.0000</AppVersion>
+
+PART: docProps/core.xml
+{"part": "docProps/core.xml", "before": {"sha256": "4f7645cd983976cc04e40039b4d69883282ed6c68a3ba64873c19903eac4f629", "bytes": 744, "is_story": false, "canonical_xml_sha256": "9036eb364fae9e5817ca705a09a6ab9ffa0c7d4b9ed2082599af1252b8a3671f"}, "after": {"sha256": "8130fec021e5e894b20490f1566744a3c9a493615c387121ec242a32b4a24387", "bytes": 744, "is_story": false, "canonical_xml_sha256": "79aca053170da59786045f270349486623ceeea2934731bf2fed36730879a5a9"}, "change": "changed", "canonical_xml_equal": false, "review_status": "PENDING_EXPLICIT_REVIEW"}
+--- before/docProps/core.xml
++++ after/docProps/core.xml
+@@ -10,7 +10,7 @@
+ <dc:description>
+ </dc:description>
+ <cp:lastModifiedBy>a33593</cp:lastModifiedBy>
+-<cp:revision>46</cp:revision>
++<cp:revision>49</cp:revision>
+ <dcterms:created xsi:type="dcterms:W3CDTF">2026-09-01T11:46:00Z</dcterms:created>
+-<dcterms:modified xsi:type="dcterms:W3CDTF">2026-10-04T17:14:00Z</dcterms:modified>
++<dcterms:modified xsi:type="dcterms:W3CDTF">2026-10-06T19:40:00Z</dcterms:modified>
+ </cp:coreProperties>
+PART: docProps/custom.xml
+{"part": "docProps/custom.xml", "before": {"sha256": "8a5505824f8e7120125c61960c3a0b2e91e52c52851c909f8ba7085aa2b52dc0", "bytes": 1113, "is_story": false, "canonical_xml_sha256": "b8bf7ec8e68ecd26656bb95409c957bf59e321f9012b7c29fa0102dff8d6dad9"}, "after": {"sha256": "16e0cccd2e0e77b015beb2209cf40e494be651ca947a2449a76c9fa1112e12b1", "bytes": 1113, "is_story": false, "canonical_xml_sha256": "b7d83813d690c231ca47b7c35abcda2cab8cf9896960d0d74cd6918f1f498e9f"}, "change": "changed", "canonical_xml_equal": false, "review_status": "PENDING_EXPLICIT_REVIEW"}
+--- before/docProps/custom.xml
++++ after/docProps/custom.xml
+@@ -1,7 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ <Properties xmlns="http://schemas.openxmlformats.org/officeDocument/2006/custom-properties" xmlns:vt="http://schemas.openxmlformats.org/officeDocument/2006/docPropsVTypes">
+ <property fmtid="{D5CDD505-2E9C-101B-9397-08002B2CF9AE}" pid="2" name="ZOTERO_PREF_1">
+-<vt:lpwstr>&lt;data data-version="3" zotero-version="10.0.1"&gt;&lt;session id="ybcfHawo"/&gt;&lt;style id="http://www.zotero.org/styles/gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses" hasBibliography="1" bibliographyStyleHasBeenSet="0"/&gt;&lt;prefs</vt:lpwstr>
++<vt:lpwstr>&lt;data data-version="3" zotero-version="10.0.5"&gt;&lt;session id="LSSeUiCE"/&gt;&lt;style id="http://www.zotero.org/styles/gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses" hasBibliography="1" bibliographyStyleHasBeenSet="1"/&gt;&lt;prefs</vt:lpwstr>
+ </property>
+ <property fmtid="{D5CDD505-2E9C-101B-9397-08002B2CF9AE}" pid="3" name="ZOTERO_PREF_2">
+ <vt:lpwstr>&gt;&lt;pref name="fieldType" value="Field"/&gt;&lt;/prefs&gt;&lt;/data&gt;</vt:lpwstr>
+
+PART: word/fontTable.xml
+{"part": "word/fontTable.xml", "before": {"sha256": "d0e24e6c4d51b727beb0a3206781cf9af6be4061459bd4520e4d6cba2bd1e2e8", "bytes": 3867, "is_story": false, "canonical_xml_sha256": "a21f347bb5f3522ec35e31b15fede6853d6cf05e324fc73e5b7ee8f8510ab024"}, "after": {"sha256": "427fd0bda9c589570a89bb997cc439ba8ecec4f3c27a3b42be5c89f034460042", "bytes": 3867, "is_story": false, "canonical_xml_sha256": "19c0d84c70e6bb192bb6c8c75e681698ffbd5a5885b9efa87911f9c5271f1ddc"}, "change": "changed", "canonical_xml_equal": false, "review_status": "PENDING_EXPLICIT_REVIEW"}
+--- before/word/fontTable.xml
++++ after/word/fontTable.xml
+@@ -36,7 +36,7 @@
+ <w:charset w:val="00"/>
+ <w:family w:val="modern"/>
+ <w:pitch w:val="fixed"/>
+-<w:sig w:usb0="E10002FF" w:usb1="4000FCFF" w:usb2="00000009" w:usb3="00000000" w:csb0="0000019F" w:csb1="00000000"/>
++<w:sig w:usb0="E10006FF" w:usb1="4000FCFF" w:usb2="00000009" w:usb3="00000000" w:csb0="0000019F" w:csb1="00000000"/>
+ </w:font>
+ <w:font w:name="KaiTi">
+ <w:altName w:val="楷体"/>
+
+PART: word/settings.xml
+{"part": "word/settings.xml", "before": {"sha256": "f6501678c577b808d0711f1d441c2e5fe8de0fd4a97cd5a2778687e559767c57", "bytes": 42196, "is_story": false, "canonical_xml_sha256": "e7dff7f617f33e44ba53a8aa93f05d30519796fc49c52a25f245be084b4ba7ed"}, "after": {"sha256": "6a0f08c94903e3d5817b80d0bf126a537fc7f0fbafa8f6d3280a7eaaac533017", "bytes": 42423, "is_story": false, "canonical_xml_sha256": "72fc50149e3f326f4683f03252c9d7352ae1d2b75fb6b8fcbc366bde9ddd3086"}, "change": "changed", "canonical_xml_equal": false, "review_status": "PENDING_EXPLICIT_REVIEW"}
+--- before/word/settings.xml
++++ after/word/settings.xml
+@@ -3,7 +3,6 @@
+ <w:zoom w:percent="87"/>
+ <w:bordersDoNotSurroundHeader/>
+ <w:bordersDoNotSurroundFooter/>
+-<w:proofState w:grammar="clean"/>
+ <w:defaultTabStop w:val="420"/>
+ <w:drawingGridHorizontalSpacing w:val="105"/>
+ <w:drawingGridVerticalSpacing w:val="156"/>
+@@ -77,6 +76,7 @@
+ <w:rsid w:val="00073DD4"/>
+ <w:rsid w:val="000744B2"/>
+ <w:rsid w:val="00075D4A"/>
++<w:rsid w:val="00076C98"/>
+ <w:rsid w:val="00080CED"/>
+ <w:rsid w:val="000839EC"/>
+ <w:rsid w:val="000854EA"/>
+@@ -143,6 +143,7 @@
+ <w:rsid w:val="001049CA"/>
+ <w:rsid w:val="001062D7"/>
+ <w:rsid w:val="001066AE"/>
++<w:rsid w:val="00107537"/>
+ <w:rsid w:val="00107FA2"/>
+ <w:rsid w:val="00110A5E"/>
+ <w:rsid w:val="00115A49"/>
+@@ -174,6 +175,7 @@
+ <w:rsid w:val="001575E8"/>
+ <w:rsid w:val="00163165"/>
+ <w:rsid w:val="0016343F"/>
++<w:rsid w:val="001654B7"/>
+ <w:rsid w:val="0016557D"/>
+ <w:rsid w:val="00167C4B"/>
+ <w:rsid w:val="00167DBA"/>
+@@ -226,6 +228,7 @@
+ <w:rsid w:val="001E7D79"/>
+ <w:rsid w:val="001F4060"/>
+ <w:rsid w:val="001F4917"/>
++<w:rsid w:val="001F52D5"/>
+ <w:rsid w:val="001F73FF"/>
+ <w:rsid w:val="001F7A97"/>
+ <w:rsid w:val="00200B1D"/>
+@@ -388,11 +391,14 @@
+ <w:rsid w:val="003A6FAB"/>
+ <w:rsid w:val="003A7A78"/>
+ <w:rsid w:val="003B0366"/>
++<w:rsid w:val="003B03CE"/>
+ <w:rsid w:val="003B18D8"/>
++<w:rsid w:val="003B22D5"/>
+ <w:rsid w:val="003B5227"/>
+ <w:rsid w:val="003C2473"/>
+ <w:rsid w:val="003C3853"/>
+ <w:rsid w:val="003C426D"/>
++<w:rsid w:val="003C461A"/>
+ <w:rsid w:val="003C4A23"/>
+ <w:rsid w:val="003C4BD2"/>
+ <w:rsid w:val="003C6D2F"/>
+@@ -675,6 +681,7 @@
+ <w:rsid w:val="006B2113"/>
+ <w:rsid w:val="006B258F"/>
+ <w:rsid w:val="006B62DE"/>
++<w:rsid w:val="006B7537"/>
+ <w:rsid w:val="006C323B"/>
+ <w:rsid w:val="006C376F"/>
+ <w:rsid w:val="006C3D0C"/>
+@@ -1090,6 +1097,7 @@
+ <w:rsid w:val="00B46D05"/>
+ <w:rsid w:val="00B47FC7"/>
+ <w:rsid w:val="00B50F15"/>
++<w:rsid w:val="00B51BCD"/>
+ <w:rsid w:val="00B526B1"/>
+ <w:rsid w:val="00B53BE1"/>
+ <w:rsid w:val="00B5655D"/>
+@@ -1108,6 +1116,7 @@
+ <w:rsid w:val="00B73EA3"/>
+ <w:rsid w:val="00B74716"/>
+ <w:rsid w:val="00B75A32"/>
++<w:rsid w:val="00B76844"/>
+ <w:rsid w:val="00B8125C"/>
+ <w:rsid w:val="00B82690"/>
+ <w:rsid w:val="00B83375"/>
+@@ -1539,7 +1548,7 @@
+ </w:shapeDefaults>
+ <w:decimalSymbol w:val="."/>
+ <w:listSeparator w:val=","/>
+-<w14:docId w14:val="43C35E1C"/>
++<w14:docId w14:val="52B4B367"/>
+ <w15:chartTrackingRefBased/>
+ <w15:docId w15:val="{D5CFA725-7C64-429A-8565-A5142B64D7FF}"/>
+ </w:settings>
+PART: word/styles.xml
+{"part": "word/styles.xml", "before": {"sha256": "33f69f413c3aaa9cf8ef4af1339c2329e7260a5f060d0a06ac95c86472a06e62", "bytes": 81223, "is_story": false, "canonical_xml_sha256": "7c3808ce71604f864954e4545b41325161eee7f060a8d0836579206409249e48"}, "after": {"sha256": "0c3a3e73cd4191167db28fb89b490de1c172293e3725dd3aa1de17d1293ad2cf", "bytes": 81234, "is_story": false, "canonical_xml_sha256": "d1833fa4707b2d22d95270acb6dd4b69c66150ce982a783bb350a94fc2ed7152"}, "change": "changed", "canonical_xml_equal": false, "review_status": "PENDING_EXPLICIT_REVIEW"}
+--- before/word/styles.xml
++++ after/word/styles.xml
+@@ -1307,7 +1307,7 @@
+ <w:rsid w:val="003D0255"/>
+ <w:pPr>
+ <w:widowControl/>
+-<w:spacing w:after="200"/>
++<w:ind w:left="720" w:hanging="720"/>
+ <w:jc w:val="left"/>
+ </w:pPr>
+ <w:rPr>

@@ -1,0 +1,56 @@
+{
+  "schema": "BOUNDED_MERGE_QA_V2",
+  "status": "OFFLINE_SEMANTIC_LINEAGE_PASS_NATIVE_PENDING",
+  "request": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/actual_d2_d3_prooferr_successor_v3/MERGE_REQUEST.json",
+    "bytes": 13840,
+    "sha256": "96a790125dc1215fb9654cc5058b7526a962cf8972cc9fd6ef627c578999b579"
+  },
+  "scope": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/actual_cumulative_closeout_20261007_v1/MERGE_SCOPE_PROOFERR_SUCCESSOR_APPROVED.json",
+    "bytes": 6411,
+    "sha256": "04caca0a59289aa882327bb805b385495d8b9d16e9385d8cf3b6dfd6ab67c897"
+  },
+  "outputs": {
+    "tracked": {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/actual_cumulative_closeout_20261007_v1/d2_merge_prooferr_successor/tracked.docx",
+      "bytes": 571897,
+      "sha256": "045605b662c46104267f1eff9dd3180c88c05e8fa483c3d40a2b5e5a8ee6c2a3"
+    },
+    "accepted_offline": {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/actual_cumulative_closeout_20261007_v1/d2_merge_prooferr_successor/accepted_offline.docx",
+      "bytes": 485027,
+      "sha256": "88ed14f5dad18396b418c32d5cf464baeb4fc103dc82482632d317e689f186af"
+    },
+    "rejected_offline": {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/actual_cumulative_closeout_20261007_v1/d2_merge_prooferr_successor/rejected_offline.docx",
+      "bytes": 432571,
+      "sha256": "3558fd40352bd5b5d8626d20166f70baacde04d1b1856aa6246ca5c8c57ed970"
+    }
+  },
+  "operations": [
+    {
+      "unit": 48,
+      "restored_mother_paragraphs": 1,
+      "native_inserted_paragraphs": 1
+    },
+    {
+      "unit": 318,
+      "restored_mother_paragraphs": 25,
+      "native_inserted_paragraphs": 26
+    }
+  ],
+  "checks": {
+    "accepted_all_story_semantics_and_fields_equal_native": true,
+    "rejected_all_story_normalized_xml_and_fields_equal_mother": true,
+    "non_document_parts_preserved_from_cumulative": true
+  },
+  "not_claimed": [
+    "native_accept_reject",
+    "native_reopen",
+    "effective_format_equality",
+    "native_pdf",
+    "final_field_review_approval"
+  ],
+  "native_calls": 0
+}

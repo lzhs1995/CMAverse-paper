@@ -1,0 +1,526 @@
+{
+  "status": "MECHANICAL_CHECKS_CLEAR_REQUIRES_INDEPENDENT_REVIEW",
+  "not_an_approval": true,
+  "fail_closed_checks": {
+    "before_has_citations": true,
+    "before_has_bibliography_entries": true,
+    "old_uri_occurrences_preserved": true,
+    "only_wang_uri_added_once": true,
+    "wang_not_preexisting": true,
+    "old_complete_csl_members_preserved_exactly": true,
+    "citation_field_count_increased_by_one": true,
+    "old_citation_ids_preserved": true,
+    "citation_ids_present_and_unique": true,
+    "bibliography_field_count_unchanged": true,
+    "old_bibliography_entries_preserved_normalized": true,
+    "wang_unique_and_metadata_correct": true,
+    "wang_bibliography_unique": true,
+    "only_wang_bibliography_added": true,
+    "no_members_without_uri": true,
+    "after_has_no_tracked_elements": true
+  },
+  "blocking_violations": [],
+  "non_story_parts": [
+    {
+      "part": "[Content_Types].xml",
+      "before": {
+        "sha256": "96b24ade3b51e540ebe85699104546dd4e587d352ef40ef388dae821132a8b51",
+        "bytes": 2784,
+        "is_story": false,
+        "canonical_xml_sha256": "9917b81945c056522b57bfbd7962f26fd5b93f7e3a0989976a7edce654c831fd"
+      },
+      "after": {
+        "sha256": "96b24ade3b51e540ebe85699104546dd4e587d352ef40ef388dae821132a8b51",
+        "bytes": 2784,
+        "is_story": false,
+        "canonical_xml_sha256": "9917b81945c056522b57bfbd7962f26fd5b93f7e3a0989976a7edce654c831fd"
+      },
+      "change": "unchanged",
+      "canonical_xml_equal": true,
+      "review_status": "BYTE_IDENTICAL"
+    },
+    {
+      "part": "_rels/.rels",
+      "before": {
+        "sha256": "c30fe099dbcfed4ecc4ae544ccf82f432c8d3bb665e2a301df283738b196d803",
+        "bytes": 737,
+        "is_story": false,
+        "canonical_xml_sha256": "82a76078d78f360686093fbadf720faa2bf6720f88eb5e180bd7baf310d7b00c"
+      },
+      "after": {
+        "sha256": "c30fe099dbcfed4ecc4ae544ccf82f432c8d3bb665e2a301df283738b196d803",
+        "bytes": 737,
+        "is_story": false,
+        "canonical_xml_sha256": "82a76078d78f360686093fbadf720faa2bf6720f88eb5e180bd7baf310d7b00c"
+      },
+      "change": "unchanged",
+      "canonical_xml_equal": true,
+      "review_status": "BYTE_IDENTICAL"
+    },
+    {
+      "part": "customXml/_rels/item1.xml.rels",
+      "before": {
+        "sha256": "80482f86e196171d66001e0e74d1900408a3aaf2463e54005d251b5f2db9a0b0",
+        "bytes": 296,
+        "is_story": false,
+        "canonical_xml_sha256": "063ebdfb492f3221c720768ab6a64a325287ab9c430b47edfe4d61e8870bd10b"
+      },
+      "after": {
+        "sha256": "80482f86e196171d66001e0e74d1900408a3aaf2463e54005d251b5f2db9a0b0",
+        "bytes": 296,
+        "is_story": false,
+        "canonical_xml_sha256": "063ebdfb492f3221c720768ab6a64a325287ab9c430b47edfe4d61e8870bd10b"
+      },
+      "change": "unchanged",
+      "canonical_xml_equal": true,
+      "review_status": "BYTE_IDENTICAL"
+    },
+    {
+      "part": "customXml/item1.xml",
+      "before": {
+        "sha256": "b30b8fd758aa47aada70ee7d8d8287349d6a21eb03c79bcb2e8930a1789022cc",
+        "bytes": 289,
+        "is_story": false,
+        "canonical_xml_sha256": "5a0d5b2640fc2b8533b86f0b1bf361e100bb898f18b885bdd48877615c6a5a3e"
+      },
+      "after": {
+        "sha256": "b30b8fd758aa47aada70ee7d8d8287349d6a21eb03c79bcb2e8930a1789022cc",
+        "bytes": 289,
+        "is_story": false,
+        "canonical_xml_sha256": "5a0d5b2640fc2b8533b86f0b1bf361e100bb898f18b885bdd48877615c6a5a3e"
+      },
+      "change": "unchanged",
+      "canonical_xml_equal": true,
+      "review_status": "BYTE_IDENTICAL"
+    },
+    {
+      "part": "customXml/itemProps1.xml",
+      "before": {
+        "sha256": "8401f11b1012b1c7770467c61744d42a4eaa24e1bda3c8dd393d764984d0e5c3",
+        "bytes": 341,
+        "is_story": false,
+        "canonical_xml_sha256": "626c142534b1e0fac0da1624cd9d8f1be6057324cd5dc0b73ed0385a199300ea"
+      },
+      "after": {
+        "sha256": "8401f11b1012b1c7770467c61744d42a4eaa24e1bda3c8dd393d764984d0e5c3",
+        "bytes": 341,
+        "is_story": false,
+        "canonical_xml_sha256": "626c142534b1e0fac0da1624cd9d8f1be6057324cd5dc0b73ed0385a199300ea"
+      },
+      "change": "unchanged",
+      "canonical_xml_equal": true,
+      "review_status": "BYTE_IDENTICAL"
+    },
+    {
+      "part": "docProps/app.xml",
+      "before": {
+        "sha256": "60ade4d0e26647ec79df0f594ae08d273cc4613bff482fcf9250ba8edeaf0ec9",
+        "bytes": 729,
+        "is_story": false,
+        "canonical_xml_sha256": "8d1592cd5a9dd4f49cbd16fa92d573854d59b6a6aa337028699b9e88d9e9ca49"
+      },
+      "after": {
+        "sha256": "26b47c59eec8a09495acabea94017b64dbc51711d151b526206f809d4312822c",
+        "bytes": 730,
+        "is_story": false,
+        "canonical_xml_sha256": "2f63ef0fdcab0457ec89690c66d9aaa555523849edd29f7c85d378600d4627d7"
+      },
+      "change": "changed",
+      "canonical_xml_equal": false,
+      "review_status": "PENDING_EXPLICIT_REVIEW"
+    },
+    {
+      "part": "docProps/core.xml",
+      "before": {
+        "sha256": "4f7645cd983976cc04e40039b4d69883282ed6c68a3ba64873c19903eac4f629",
+        "bytes": 744,
+        "is_story": false,
+        "canonical_xml_sha256": "9036eb364fae9e5817ca705a09a6ab9ffa0c7d4b9ed2082599af1252b8a3671f"
+      },
+      "after": {
+        "sha256": "8130fec021e5e894b20490f1566744a3c9a493615c387121ec242a32b4a24387",
+        "bytes": 744,
+        "is_story": false,
+        "canonical_xml_sha256": "79aca053170da59786045f270349486623ceeea2934731bf2fed36730879a5a9"
+      },
+      "change": "changed",
+      "canonical_xml_equal": false,
+      "review_status": "PENDING_EXPLICIT_REVIEW"
+    },
+    {
+      "part": "docProps/custom.xml",
+      "before": {
+        "sha256": "8a5505824f8e7120125c61960c3a0b2e91e52c52851c909f8ba7085aa2b52dc0",
+        "bytes": 1113,
+        "is_story": false,
+        "canonical_xml_sha256": "b8bf7ec8e68ecd26656bb95409c957bf59e321f9012b7c29fa0102dff8d6dad9"
+      },
+      "after": {
+        "sha256": "16e0cccd2e0e77b015beb2209cf40e494be651ca947a2449a76c9fa1112e12b1",
+        "bytes": 1113,
+        "is_story": false,
+        "canonical_xml_sha256": "b7d83813d690c231ca47b7c35abcda2cab8cf9896960d0d74cd6918f1f498e9f"
+      },
+      "change": "changed",
+      "canonical_xml_equal": false,
+      "review_status": "PENDING_EXPLICIT_REVIEW"
+    },
+    {
+      "part": "word/_rels/document.xml.rels",
+      "before": {
+        "sha256": "b508080d5aca47abcdd778a04bb50ae2e666162fa8414d49ea5ada7342758b67",
+        "bytes": 2529,
+        "is_story": false,
+        "canonical_xml_sha256": "2c3a6be5d43413fc4024e256e19f42c16f77bcaca8f7b1ecd3b18d3e2ee72676"
+      },
+      "after": {
+        "sha256": "b508080d5aca47abcdd778a04bb50ae2e666162fa8414d49ea5ada7342758b67",
+        "bytes": 2529,
+        "is_story": false,
+        "canonical_xml_sha256": "2c3a6be5d43413fc4024e256e19f42c16f77bcaca8f7b1ecd3b18d3e2ee72676"
+      },
+      "change": "unchanged",
+      "canonical_xml_equal": true,
+      "review_status": "BYTE_IDENTICAL"
+    },
+    {
+      "part": "word/fontTable.xml",
+      "before": {
+        "sha256": "d0e24e6c4d51b727beb0a3206781cf9af6be4061459bd4520e4d6cba2bd1e2e8",
+        "bytes": 3867,
+        "is_story": false,
+        "canonical_xml_sha256": "a21f347bb5f3522ec35e31b15fede6853d6cf05e324fc73e5b7ee8f8510ab024"
+      },
+      "after": {
+        "sha256": "427fd0bda9c589570a89bb997cc439ba8ecec4f3c27a3b42be5c89f034460042",
+        "bytes": 3867,
+        "is_story": false,
+        "canonical_xml_sha256": "19c0d84c70e6bb192bb6c8c75e681698ffbd5a5885b9efa87911f9c5271f1ddc"
+      },
+      "change": "changed",
+      "canonical_xml_equal": false,
+      "review_status": "PENDING_EXPLICIT_REVIEW"
+    },
+    {
+      "part": "word/media/image1.png",
+      "before": {
+        "sha256": "ed3943119af2039afbda5bb8959e59fe520241f17152f28a14ee1336415ef98c",
+        "bytes": 147239,
+        "is_story": false
+      },
+      "after": {
+        "sha256": "ed3943119af2039afbda5bb8959e59fe520241f17152f28a14ee1336415ef98c",
+        "bytes": 147239,
+        "is_story": false
+      },
+      "change": "unchanged",
+      "canonical_xml_equal": null,
+      "review_status": "BYTE_IDENTICAL"
+    },
+    {
+      "part": "word/media/image2.png",
+      "before": {
+        "sha256": "5cd960db6f2cc04ffca7a8e588839598c0e6b51481f23bd06d6028dea48f0099",
+        "bytes": 100259,
+        "is_story": false
+      },
+      "after": {
+        "sha256": "5cd960db6f2cc04ffca7a8e588839598c0e6b51481f23bd06d6028dea48f0099",
+        "bytes": 100259,
+        "is_story": false
+      },
+      "change": "unchanged",
+      "canonical_xml_equal": null,
+      "review_status": "BYTE_IDENTICAL"
+    },
+    {
+      "part": "word/media/image3.png",
+      "before": {
+        "sha256": "5392477752cc4c816e704e67ae566ef0207b7f1c0982482b97e308622009cee4",
+        "bytes": 84578,
+        "is_story": false
+      },
+      "after": {
+        "sha256": "5392477752cc4c816e704e67ae566ef0207b7f1c0982482b97e308622009cee4",
+        "bytes": 84578,
+        "is_story": false
+      },
+      "change": "unchanged",
+      "canonical_xml_equal": null,
+      "review_status": "BYTE_IDENTICAL"
+    },
+    {
+      "part": "word/numbering.xml",
+      "before": {
+        "sha256": "1577dd56ad7d05bb209fe03fc0994422c3fae57cc4d0c1667e7750a7d2d8bbc6",
+        "bytes": 21960,
+        "is_story": false,
+        "canonical_xml_sha256": "32452e69ca668bbe19a61d1dd699e6c30b06612154e85ec90760bb467528b546"
+      },
+      "after": {
+        "sha256": "1577dd56ad7d05bb209fe03fc0994422c3fae57cc4d0c1667e7750a7d2d8bbc6",
+        "bytes": 21960,
+        "is_story": false,
+        "canonical_xml_sha256": "32452e69ca668bbe19a61d1dd699e6c30b06612154e85ec90760bb467528b546"
+      },
+      "change": "unchanged",
+      "canonical_xml_equal": true,
+      "review_status": "BYTE_IDENTICAL"
+    },
+    {
+      "part": "word/settings.xml",
+      "before": {
+        "sha256": "f6501678c577b808d0711f1d441c2e5fe8de0fd4a97cd5a2778687e559767c57",
+        "bytes": 42196,
+        "is_story": false,
+        "canonical_xml_sha256": "e7dff7f617f33e44ba53a8aa93f05d30519796fc49c52a25f245be084b4ba7ed"
+      },
+      "after": {
+        "sha256": "6a0f08c94903e3d5817b80d0bf126a537fc7f0fbafa8f6d3280a7eaaac533017",
+        "bytes": 42423,
+        "is_story": false,
+        "canonical_xml_sha256": "72fc50149e3f326f4683f03252c9d7352ae1d2b75fb6b8fcbc366bde9ddd3086"
+      },
+      "change": "changed",
+      "canonical_xml_equal": false,
+      "review_status": "PENDING_EXPLICIT_REVIEW"
+    },
+    {
+      "part": "word/styles.xml",
+      "before": {
+        "sha256": "33f69f413c3aaa9cf8ef4af1339c2329e7260a5f060d0a06ac95c86472a06e62",
+        "bytes": 81223,
+        "is_story": false,
+        "canonical_xml_sha256": "7c3808ce71604f864954e4545b41325161eee7f060a8d0836579206409249e48"
+      },
+      "after": {
+        "sha256": "0c3a3e73cd4191167db28fb89b490de1c172293e3725dd3aa1de17d1293ad2cf",
+        "bytes": 81234,
+        "is_story": false,
+        "canonical_xml_sha256": "d1833fa4707b2d22d95270acb6dd4b69c66150ce982a783bb350a94fc2ed7152"
+      },
+      "change": "changed",
+      "canonical_xml_equal": false,
+      "review_status": "PENDING_EXPLICIT_REVIEW"
+    },
+    {
+      "part": "word/theme/theme1.xml",
+      "before": {
+        "sha256": "7017cbe8b7512b56e04e6b3e3579aa862a35b6f9f31e0bf48328f6e5c074ebbd",
+        "bytes": 8398,
+        "is_story": false,
+        "canonical_xml_sha256": "44c5cdb5d77ee763b00e65f9326c860ee210894d288ef2e598e76b58a68372ee"
+      },
+      "after": {
+        "sha256": "7017cbe8b7512b56e04e6b3e3579aa862a35b6f9f31e0bf48328f6e5c074ebbd",
+        "bytes": 8398,
+        "is_story": false,
+        "canonical_xml_sha256": "44c5cdb5d77ee763b00e65f9326c860ee210894d288ef2e598e76b58a68372ee"
+      },
+      "change": "unchanged",
+      "canonical_xml_equal": true,
+      "review_status": "BYTE_IDENTICAL"
+    },
+    {
+      "part": "word/webSettings.xml",
+      "before": {
+        "sha256": "9d21da07e99d87dfe36f6587ccc669539495e7130c513a0b63e3df49d2d71bd1",
+        "bytes": 1069,
+        "is_story": false,
+        "canonical_xml_sha256": "9abe7911a7c57e6a2913a0ce3585eba7161dfbc8626778696b40b958362037c2"
+      },
+      "after": {
+        "sha256": "9d21da07e99d87dfe36f6587ccc669539495e7130c513a0b63e3df49d2d71bd1",
+        "bytes": 1069,
+        "is_story": false,
+        "canonical_xml_sha256": "9abe7911a7c57e6a2913a0ce3585eba7161dfbc8626778696b40b958362037c2"
+      },
+      "change": "unchanged",
+      "canonical_xml_equal": true,
+      "review_status": "BYTE_IDENTICAL"
+    }
+  ],
+  "non_story_changed_pending_review": [
+    "docProps/app.xml",
+    "docProps/core.xml",
+    "docProps/custom.xml",
+    "word/fontTable.xml",
+    "word/settings.xml",
+    "word/styles.xml"
+  ],
+  "citation_field_count": {
+    "before": 22,
+    "after": 23
+  },
+  "all_field_count": {
+    "before": 23,
+    "after": 24
+  },
+  "citation_member_count": {
+    "before": 37,
+    "after": 38
+  },
+  "uri_occurrence_deltas": {
+    "removed": {},
+    "added": {
+      "http://zotero.org/users/9676737/items/HM4KAHLB": 1
+    }
+  },
+  "complete_csl_member_deltas_excluding_added_wang": {
+    "removed": {},
+    "added": {}
+  },
+  "unique_uri_count": {
+    "before": 24,
+    "after": 25
+  },
+  "removed_citationIDs": [],
+  "added_citationIDs": [
+    "VSZB9qN9"
+  ],
+  "duplicate_citationIDs_after": {},
+  "common_citation_changes": [],
+  "bibliography_field_count": {
+    "before": 1,
+    "after": 1
+  },
+  "bibliography_paragraph_count": {
+    "before": 24,
+    "after": 25
+  },
+  "bibliography_removed_normalized": {},
+  "bibliography_added_normalized": {
+    "王跃生,2026.中国家庭结构百年变迁及其特征分析[N].光明日报,2026-04-01(11).": 1
+  },
+  "bibliography_before": [
+    "许琪, 2022. 挣钱还是做家务——丈夫的经济贡献和家务贡献对妻子婚姻满意度的影响[J]. 社会学评论, 10(3): 43-63.",
+    "郑丹丹, 狄金华, 2017. 女性家庭权力、夫妻关系与家庭代际资源分配[J]. 社会学研究, 32(1): 171-192+245.",
+    "Al-kassab-Córdova A, Mezones-Holguin E, Kaufman J S, 2025. Diminished returns of maternal education on children’s vaccination status for indigenous women in Peru[J]. Social Science & Medicine, 370: 117862.",
+    "Ding P, VanderWeele T J, 2016. Sensitivity analysis without assumptions[J]. Epidemiology, 27(3): 368-377.",
+    "Fujihara S, 2024. Identifying the role of high school in educational inequality: A causal mediation approach[J]. Social Science Research, 124: 103077.",
+    "Hsu Y T, Grodstein F, Liu T H, et al., 2025. Causal mediation of the association between educational attainment and late-life cognitive function by trajectories of social participation[J]. Social Science & Medicine, 370: 117861.",
+    "Ikram M A, VanderWeele T J, 2015. A proposed clinical and biological interpretation of mediated interaction[J]. European Journal of Epidemiology, 30(10): 1115-1118.",
+    "Kratz F, Pettinger B, Grätz M, 2022. At which age is education the great equalizer? A causal mediation analysis of the (in-)direct effects of social origin over the life course[J]. European Sociological Review, 38(6): 866-881.",
+    "Lundberg I, 2024. The gap-closing estimand: A causal approach to study interventions that close disparities across social categories[J]. Sociological Methods & Research, 53(2): 507-570.",
+    "Lundberg I, Johnson R, Stewart B M, 2021. What is your estimand? Defining the target quantity connects statistical evidence to theory[J]. American Sociological Review, 86(3): 532-565.",
+    "Madia J E, Gruijters R J, Raabe I J, et al., 2025. Growth mindset and socioeconomic inequality in academic achievement across seventy-three PISA countries[J]. npj Science of Learning, 10(1): 81.",
+    "Mencarini L, Vignoli D, 2018. Employed women and marital union stability: It helps when men help[J]. Journal of Family Issues, 39(5): 1348-1373.",
+    "Mikkonen J, Remes H, Moustgaard H, et al., 2021. Early adolescent health problems, school performance, and upper secondary educational pathways: A counterfactual-based mediation analysis[J]. Social Forces, 99(3): 1146-1175.",
+    "Qin X, Yang F, 2022. Simulation-based sensitivity analysis for causal mediation studies[J]. Psychological Methods, 27(6): 1000-1013.",
+    "Rijnhart J J M, Valente M J, Smyth H L, et al., 2023. Statistical mediation analysis for models with a binary mediator and a binary outcome: The differences between causal and traditional mediation analysis[J]. Prevention Science, 24(3): 408-418.",
+    "Shi B, Choirat C, Coull B A, et al., 2021. CMAverse: A suite of functions for reproducible causal mediation analyses[J]. Epidemiology, 32(5): e20-e22.",
+    "Smith L H, VanderWeele T J, 2019. Mediational E-values: Approximate sensitivity analysis for unmeasured mediator-outcome confounding[J]. Epidemiology (Cambridge, Mass.), 30(6): 835-837.",
+    "VanderWeele T J, 2013. A three-way decomposition of a total effect into direct, indirect, and interactive effects[J]. Epidemiology, 24(2): 224-232.",
+    "VanderWeele T J, 2014. A unification of mediation and interaction: A 4-way decomposition[J]. Epidemiology, 25(5): 749-761.",
+    "VanderWeele T J, Ding P, 2017a. Sensitivity analysis in observational research: Introducing the E-value[J]. Annals of Internal Medicine, 167(4): 268-274.",
+    "VanderWeele T J, Tchetgen Tchetgen E J, 2017b. Mediation analysis with time varying exposures and mediators[J]. Journal of the Royal Statistical Society. Series B, Statistical methodology, 79(3): 917-938.",
+    "Vignoli D, Mencarini L, Alderotti G, 2020. Is the effect of job uncertainty on fertility intentions channeled by subjective well-being?[J]. Advances in Life Course Research, 46: 100343.",
+    "Wang A, Arah O A, 2015. G-computation demonstration in causal mediation analysis[J]. European Journal of Epidemiology, 30(10): 1119-1127.",
+    "Yazawa A, Shiba K, Inoue Y, et al., 2022. Early childhood adversity and late-life depressive symptoms: Unpacking mediation and interaction by adult socioeconomic status[J]. Social Psychiatry and Psychiatric Epidemiology, 57(6): 1147-1156."
+  ],
+  "bibliography_after": [
+    "王跃生, 2026. 中国家庭结构百年变迁及其特征分析[N]. 光明日报, 2026-04-01(11).",
+    "许琪, 2022. 挣钱还是做家务——丈夫的经济贡献和家务贡献对妻子婚姻满意度的影响[J]. 社会学评论, 10(3): 43-63.",
+    "郑丹丹, 狄金华, 2017. 女性家庭权力、夫妻关系与家庭代际资源分配[J]. 社会学研究, 32(1): 171-192+245.",
+    "Al-kassab-Córdova A, Mezones-Holguin E, Kaufman J S, 2025. Diminished returns of maternal education on children’s vaccination status for indigenous women in Peru[J]. Social Science & Medicine, 370: 117862.",
+    "Ding P, VanderWeele T J, 2016. Sensitivity analysis without assumptions[J]. Epidemiology, 27(3): 368-377.",
+    "Fujihara S, 2024. Identifying the role of high school in educational inequality: A causal mediation approach[J]. Social Science Research, 124: 103077.",
+    "Hsu Y T, Grodstein F, Liu T H, et al., 2025. Causal mediation of the association between educational attainment and late-life cognitive function by trajectories of social participation[J]. Social Science & Medicine, 370: 117861.",
+    "Ikram M A, VanderWeele T J, 2015. A proposed clinical and biological interpretation of mediated interaction[J]. European Journal of Epidemiology, 30(10): 1115-1118.",
+    "Kratz F, Pettinger B, Grätz M, 2022. At which age is education the great equalizer? A causal mediation analysis of the (in-)direct effects of social origin over the life course[J]. European Sociological Review, 38(6): 866-881.",
+    "Lundberg I, 2024. The gap-closing estimand: A causal approach to study interventions that close disparities across social categories[J]. Sociological Methods & Research, 53(2): 507-570.",
+    "Lundberg I, Johnson R, Stewart B M, 2021. What is your estimand? Defining the target quantity connects statistical evidence to theory[J]. American Sociological Review, 86(3): 532-565.",
+    "Madia J E, Gruijters R J, Raabe I J, et al., 2025. Growth mindset and socioeconomic inequality in academic achievement across seventy-three PISA countries[J]. npj Science of Learning, 10(1): 81.",
+    "Mencarini L, Vignoli D, 2018. Employed women and marital union stability: It helps when men help[J]. Journal of Family Issues, 39(5): 1348-1373.",
+    "Mikkonen J, Remes H, Moustgaard H, et al., 2021. Early adolescent health problems, school performance, and upper secondary educational pathways: A counterfactual-based mediation analysis[J]. Social Forces, 99(3): 1146-1175.",
+    "Qin X, Yang F, 2022. Simulation-based sensitivity analysis for causal mediation studies[J]. Psychological Methods, 27(6): 1000-1013.",
+    "Rijnhart J J M, Valente M J, Smyth H L, et al., 2023. Statistical mediation analysis for models with a binary mediator and a binary outcome: The differences between causal and traditional mediation analysis[J]. Prevention Science, 24(3): 408-418.",
+    "Shi B, Choirat C, Coull B A, et al., 2021. CMAverse: A suite of functions for reproducible causal mediation analyses[J]. Epidemiology, 32(5): e20-e22.",
+    "Smith L H, VanderWeele T J, 2019. Mediational E-values: Approximate sensitivity analysis for unmeasured mediator-outcome confounding[J]. Epidemiology (Cambridge, Mass.), 30(6): 835-837.",
+    "VanderWeele T J, 2013. A three-way decomposition of a total effect into direct, indirect, and interactive effects[J]. Epidemiology, 24(2): 224-232.",
+    "VanderWeele T J, 2014. A unification of mediation and interaction: A 4-way decomposition[J]. Epidemiology, 25(5): 749-761.",
+    "VanderWeele T J, Ding P, 2017a. Sensitivity analysis in observational research: Introducing the E-value[J]. Annals of Internal Medicine, 167(4): 268-274.",
+    "VanderWeele T J, Tchetgen Tchetgen E J, 2017b. Mediation analysis with time varying exposures and mediators[J]. Journal of the Royal Statistical Society. Series B, Statistical methodology, 79(3): 917-938.",
+    "Vignoli D, Mencarini L, Alderotti G, 2020. Is the effect of job uncertainty on fertility intentions channeled by subjective well-being?[J]. Advances in Life Course Research, 46: 100343.",
+    "Wang A, Arah O A, 2015. G-computation demonstration in causal mediation analysis[J]. European Journal of Epidemiology, 30(10): 1119-1127.",
+    "Yazawa A, Shiba K, Inoue Y, et al., 2022. Early childhood adversity and late-life depressive symptoms: Unpacking mediation and interaction by adult socioeconomic status[J]. Social Psychiatry and Psychiatric Epidemiology, 57(6): 1147-1156."
+  ],
+  "wang_occurrences": [
+    {
+      "story": "word/document.xml",
+      "ordinal": 3,
+      "citationID": "VSZB9qN9",
+      "member": {
+        "id": 26067,
+        "uris": [
+          "http://zotero.org/users/9676737/items/HM4KAHLB"
+        ],
+        "itemData": {
+          "id": 26067,
+          "type": "article-newspaper",
+          "container-title": "光明日报",
+          "page": "11",
+          "title": "中国家庭结构百年变迁及其特征分析",
+          "author": [
+            {
+              "family": "王跃生",
+              "given": ""
+            }
+          ],
+          "issued": {
+            "date-parts": [
+              [
+                "2026",
+                4,
+                1
+              ]
+            ]
+          }
+        },
+        "suppress-author": true
+      },
+      "display": "（2026）",
+      "checks": {
+        "title_exact": true,
+        "year_2026": true,
+        "suppress_author": true,
+        "display_year_only": true
+      }
+    }
+  ],
+  "wang_bibliography_matching_paragraphs": [
+    "王跃生, 2026. 中国家庭结构百年变迁及其特征分析[N]. 光明日报, 2026-04-01(11)."
+  ],
+  "members_without_uri": [],
+  "warnings_for_reviewer": [],
+  "limitations": [
+    "格式/拆段变化可能导致逐段文本差异，需要人工对照条目与被引成员；不能把段数当文献数。",
+    "仅从文件读取无法证明真实 Word 保存/只读重开；原生来源回执由 supervisor 另核。",
+    "无差异或机械检查通过均不能自动成为 FIELD_DELTA_APPROVAL。",
+    "citationID 变化可能来自原生刷新；需用 URI、成员、位置与显示共同复核。"
+  ],
+  "schema": "PRIVATE_FIELD_SEMANTIC_AUDIT_V1",
+  "at": "2026-10-06T19:59:55.143184+00:00",
+  "stage": "mother_to_final_content",
+  "before": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/delivery/current_recovered_manuscript_20261005_v1/CMAverse_基础回归与八链结果恢复后_当前整合稿.docx",
+    "sha256": "4f8cb6c2963c52efaf7cc1065110783ddefdc586785cce15f401d71e2787123d",
+    "bytes": 496516
+  },
+  "after": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/actual_cumulative_closeout_20261007_v1/d3_patch_pagecache_successor/content_patched.docx",
+    "sha256": "0baf8ce3a71768b1361d4293e344577c16a802c97a7826f18c68e2c69a0c027d",
+    "bytes": 480296
+  },
+  "script": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/private_actual_field_semantics_audit_v1/audit_actual_fields_readonly.py",
+    "sha256": "cc5e1d594c51b98230ecfe6ea396d0c37ae6fab200c722a7bbdd558f28b11d45",
+    "bytes": 19222
+  },
+  "native_reference": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/native_readiness/native_citation_after_release_v5/native_saved_year_fixed.docx",
+    "sha256": "f2582b306d164858d79e3441b5d7bb4dbd4bb776a54820c9c64d4dc1ce60831b",
+    "bytes": 545513
+  },
+  "final_fields_exactly_equal_native_reference": true
+}

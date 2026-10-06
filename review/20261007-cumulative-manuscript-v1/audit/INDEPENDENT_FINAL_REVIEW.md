@@ -1,0 +1,37 @@
+# 最终内容稿独立完整引文、书目与接受/拒绝态核验
+
+状态：INDEPENDENT_OFFLINE_SEMANTICS_CLEAR_NATIVE_PENDING。无离线语义阻断；不是批准，不宣称原生验收完成。
+
+## 核验结论
+
+- 母稿原22个引文域的完整代码、显示和CSL成员逐项保留，仅新增王跃生（2026）引文。
+- 原24条参考文献文字及顺序完整保留，新增1条后共25条。
+- 最终内容稿、接受修订稿与真实原生保存稿的全部字段快照一致。
+- 拒绝修订稿全部字段和书目回到母稿；9个正文/注释/页眉页脚部件结构一致，仅忽略完全空的属性容器。
+- 既定21项文字/标题样式修订均在内容稿和接受稿核实。
+- 内存删去一条旧书目的反例虽不改变引文域和成员数，仍被完整书目检查阻断；重复静态年份反例被整段文字检查阻断。
+
+## 核验范围与证据
+
+- mother: /Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/delivery/current_recovered_manuscript_20261005_v1/CMAverse_基础回归与八链结果恢复后_当前整合稿.docx
+  SHA256: 4f8cb6c2963c52efaf7cc1065110783ddefdc586785cce15f401d71e2787123d；496516 bytes。
+- native: /Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/native_readiness/native_citation_after_release_v5/native_saved_year_fixed.docx
+  SHA256: f2582b306d164858d79e3441b5d7bb4dbd4bb776a54820c9c64d4dc1ce60831b；545513 bytes。
+- content_patched: /Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/actual_cumulative_closeout_20261007_v1/d3_patch_pagecache_successor/content_patched.docx
+  SHA256: 0baf8ce3a71768b1361d4293e344577c16a802c97a7826f18c68e2c69a0c027d；480296 bytes。
+- tracked_patched: /Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/actual_cumulative_closeout_20261007_v1/d3_patch_pagecache_successor/tracked_patched.docx
+  SHA256: c099e7b46fb8682f01d176e289b4d10fbaa17e5ce4e03c7c341a2b071af84531；572539 bytes。
+- accepted_offline: /Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/actual_cumulative_closeout_20261007_v1/d3_patch_pagecache_successor/accepted_offline.docx
+  SHA256: 59c2271b22acb6bc05b1f690250c978a145cdb94be81c5ebd55cafd99cefdf52；485550 bytes。
+- rejected_offline: /Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/actual_cumulative_closeout_20261007_v1/d3_patch_pagecache_successor/rejected_offline.docx
+  SHA256: e98a935eda8a7412096165b33bec8d4f1e3febcf41bba9f93ed7f5e196b03448；432571 bytes。
+
+字段检查使用原完整语义审计器，另逐项核全部22旧域代码/显示/CSL、24原书目文字及顺序。接受稿与内容稿的可见文字结构及全部字段一致。拒绝稿采用独立展开命名空间树比较，仅忽略完全空pPr/rPr/trPr；保留非空属性、文字、控制、引用、关系和所有子节点顺序。
+
+书目负控在最终内容稿内存副本删除郑丹丹/狄金华2017书目67字，域和成员数维持不变，旧书目保全检查正确阻断。重复年份负控也不改变任何字段快照，由整段可见文字比较正确阻断。未生成负控DOCX。
+
+## 尚待原生核验
+
+母稿到内容稿的非story差异： docProps/app.xml, docProps/core.xml, docProps/custom.xml, word/fontTable.xml, word/settings.xml, word/styles.xml。实际D3内容稿除document.xml外全部包成员逐字节继承已核真实原生源。本报告不将这些元数据/样式差异自动批准；最终原生布局、PDF和只读重开由root另行执行。
+
+未重跑模型、未调用Word UI、未写任何DOCX、未生成批准。完整计数、源SHA、9个story检查和反例结果见INDEPENDENT_FINAL_REVIEW.json；可公开摘要见PUBLIC_SUMMARY.md与PUBLIC_SUMMARY.json。

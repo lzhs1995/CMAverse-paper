@@ -1,0 +1,166 @@
+{
+  "schema": "INDEPENDENT_FINAL_FIELD_REVIEW_V1",
+  "status": "INDEPENDENT_OFFLINE_SEMANTICS_CLEAR_NATIVE_PENDING",
+  "not_an_approval": true,
+  "at": "2026-10-06T20:02:15.866230+00:00",
+  "script": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/private_final_content_field_audit_20261007_v1/verify_final_fields_and_lineage.py",
+    "sha256": "f632ffa39e63bede058f4da399c6551311ad9346900a1ff67bbf1c303ebd3e95",
+    "bytes": 13901
+  },
+  "extractor": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/private_actual_field_semantics_audit_v1/audit_actual_fields_readonly.py",
+    "sha256": "cc5e1d594c51b98230ecfe6ea396d0c37ae6fab200c722a7bbdd558f28b11d45",
+    "bytes": 19222
+  },
+  "actual_post_merge_qa": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/actual_cumulative_closeout_20261007_v1/d3_patch_pagecache_successor/POST_MERGE_QA.json",
+    "sha256": "1c3774393500af68b7b53679ff910f0214a8e1f45fee1561662971d839f8de53",
+    "bytes": 6254
+  },
+  "sources": {
+    "mother": {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/delivery/current_recovered_manuscript_20261005_v1/CMAverse_基础回归与八链结果恢复后_当前整合稿.docx",
+      "bytes": 496516,
+      "sha256": "4f8cb6c2963c52efaf7cc1065110783ddefdc586785cce15f401d71e2787123d"
+    },
+    "native": {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/native_readiness/native_citation_after_release_v5/native_saved_year_fixed.docx",
+      "bytes": 545513,
+      "sha256": "f2582b306d164858d79e3441b5d7bb4dbd4bb776a54820c9c64d4dc1ce60831b"
+    },
+    "content_patched": {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/actual_cumulative_closeout_20261007_v1/d3_patch_pagecache_successor/content_patched.docx",
+      "bytes": 480296,
+      "sha256": "0baf8ce3a71768b1361d4293e344577c16a802c97a7826f18c68e2c69a0c027d"
+    },
+    "tracked_patched": {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/actual_cumulative_closeout_20261007_v1/d3_patch_pagecache_successor/tracked_patched.docx",
+      "bytes": 572539,
+      "sha256": "c099e7b46fb8682f01d176e289b4d10fbaa17e5ce4e03c7c341a2b071af84531"
+    },
+    "accepted_offline": {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/actual_cumulative_closeout_20261007_v1/d3_patch_pagecache_successor/accepted_offline.docx",
+      "bytes": 485550,
+      "sha256": "59c2271b22acb6bc05b1f690250c978a145cdb94be81c5ebd55cafd99cefdf52"
+    },
+    "rejected_offline": {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/actual_cumulative_closeout_20261007_v1/d3_patch_pagecache_successor/rejected_offline.docx",
+      "bytes": 432571,
+      "sha256": "e98a935eda8a7412096165b33bec8d4f1e3febcf41bba9f93ed7f5e196b03448"
+    }
+  },
+  "checks": {
+    "all_22_old_citation_instructions_displays_csl_exact": true,
+    "all_24_old_bibliography_entries_exact_in_order": true,
+    "only_wang_citation_and_bibliography_added": true,
+    "content_clean_native_all_field_snapshots_exact": true,
+    "rejected_mother_all_field_snapshots_exact": true,
+    "content_clean_native_bibliography_exact": true,
+    "rejected_mother_bibliography_exact": true,
+    "whole_visible_wang_paragraph_exact_single_year": true,
+    "no_tracking_in_content_clean_rejected": true,
+    "all_21_approved_targets_exact_in_content_and_clean": true,
+    "native_to_content_non_document_parts_byte_equal": true,
+    "media_and_embeddings_preserved": true
+  },
+  "counts": {
+    "citation_fields": {
+      "before": 22,
+      "after": 23
+    },
+    "members": {
+      "before": 37,
+      "after": 38
+    },
+    "unique_uris": {
+      "before": 24,
+      "after": 25
+    },
+    "bibliography_entries": {
+      "before": 24,
+      "after": 25
+    }
+  },
+  "stories": [
+    {
+      "part": "word/document.xml",
+      "content_clean_visible_semantics_equal": true,
+      "rejected_mother_structural_equal_ignoring_only_empty_property_containers": true
+    },
+    {
+      "part": "word/endnotes.xml",
+      "content_clean_visible_semantics_equal": true,
+      "rejected_mother_structural_equal_ignoring_only_empty_property_containers": true
+    },
+    {
+      "part": "word/footer1.xml",
+      "content_clean_visible_semantics_equal": true,
+      "rejected_mother_structural_equal_ignoring_only_empty_property_containers": true
+    },
+    {
+      "part": "word/footer2.xml",
+      "content_clean_visible_semantics_equal": true,
+      "rejected_mother_structural_equal_ignoring_only_empty_property_containers": true
+    },
+    {
+      "part": "word/footer3.xml",
+      "content_clean_visible_semantics_equal": true,
+      "rejected_mother_structural_equal_ignoring_only_empty_property_containers": true
+    },
+    {
+      "part": "word/footnotes.xml",
+      "content_clean_visible_semantics_equal": true,
+      "rejected_mother_structural_equal_ignoring_only_empty_property_containers": true
+    },
+    {
+      "part": "word/header1.xml",
+      "content_clean_visible_semantics_equal": true,
+      "rejected_mother_structural_equal_ignoring_only_empty_property_containers": true
+    },
+    {
+      "part": "word/header2.xml",
+      "content_clean_visible_semantics_equal": true,
+      "rejected_mother_structural_equal_ignoring_only_empty_property_containers": true
+    },
+    {
+      "part": "word/header3.xml",
+      "content_clean_visible_semantics_equal": true,
+      "rejected_mother_structural_equal_ignoring_only_empty_property_containers": true
+    }
+  ],
+  "whole_wang_paragraph": "王跃生（2026）根据2020年人口普查资料报告，城镇、乡村直系家庭占比分别为13.89%和21.48%；",
+  "negative_controls": {
+    "bibliography_removal": {
+      "in_memory_only": true,
+      "removed_text": "郑丹丹, 狄金华, 2017. 女性家庭权力、夫妻关系与家庭代际资源分配[J]. 社会学研究, 32(1): 171-192+245.",
+      "removed_characters": 67,
+      "blocked": true,
+      "blocking_violations": [
+        "old_bibliography_entries_preserved_normalized"
+      ],
+      "citation_counts_and_members_unchanged": true
+    },
+    "static_duplicate_year": {
+      "in_memory_only": true,
+      "all_field_snapshots_unchanged": true,
+      "whole_paragraph_comparison_blocks": true,
+      "negative_visible_text": "王跃生（2026）（2026）根据2020年人口普查资料报告，城镇、乡村直系家庭占比分别为13.89%和21.48%；"
+    }
+  },
+  "non_story_changed_from_mother": [
+    "docProps/app.xml",
+    "docProps/core.xml",
+    "docProps/custom.xml",
+    "word/fontTable.xml",
+    "word/settings.xml",
+    "word/styles.xml"
+  ],
+  "boundaries": [
+    "No model execution or modification",
+    "No Word UI/native call",
+    "No DOCX write",
+    "No approval generated",
+    "Native formatting, PDF, Word accept/reject and readonly reopen remain separate requirements"
+  ]
+}
