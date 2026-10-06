@@ -4,8 +4,8 @@
 本次ZIP：6,037,715字节（约6.04 MB）；87项；86项载荷哈希及全ZIP CRC通过。
 ZIP SHA256：a727e520e695f0a8b2044e3bc86ee87e6080508e9f9911c2c52da9af8e0dd035
 
-给网页端的完整说明：
-https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/main/review/20261007-cumulative-manuscript-v1/WEB_FEEDBACK.md
+发布成功说明及固定提交下载地址：
+https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/main/review/20261007-cumulative-manuscript-v1/PUBLICATION_FEEDBACK.md
 
 当前三方意见裁定：
 https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/main/review/20261007-cumulative-manuscript-v1/REPORT.md
@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/main/review/20261007-c
 完整文件清单：
 https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/main/review/20261007-cumulative-manuscript-v1/MANIFEST.json
 
-包内README和WEB_FEEDBACK定义本次范围；START_HERE、BUILD_RECEIPT、PORTABLE_VERIFY_RECEIPT是包外发布辅助文件，包内MANIFEST不宣称覆盖它们。后续远端回下载回执另行发布，未完成前不宣称远端验收。
+包内README和WEB_FEEDBACK定义本次范围；START_HERE、BUILD_RECEIPT、PORTABLE_VERIFY_RECEIPT是包外发布辅助文件，包内MANIFEST不宣称覆盖它们。本次已完成92个固定提交文件回下载（目录91项及根README），全部字节一致；ZIP的86项清单与CRC通过。REMOTE_VERIFY_RECEIPT.json、PUBLICATION_FEEDBACK.md及远端核验脚本另行发布，不属原ZIP清单。资料固定提交：c0f6fac62dd20fa5d14c94b57d53344628290b39。
 
 统计结论：031/041为探索性修饰线索，历史校正后未显著；P3原金额整体p=0.131934，封顶p=0.079960。未再跑模型。
 三份Claude审阅及原稿即时前驱已补齐，22旧引文域与24旧书目完整保留；实际累计稿最终23引文域、25书目。原D2门禁缺陷本身未修，实际输出另经完整独立核验。

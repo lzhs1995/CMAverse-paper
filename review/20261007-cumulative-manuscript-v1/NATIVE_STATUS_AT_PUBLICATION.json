@@ -1,0 +1,16 @@
+{
+  "at_utc": "2026-10-06T20:23:33.110747+00:00",
+  "mode": "read_only_sqlite",
+  "native_observation_performed": false,
+  "ticket": {
+    "id": "8bd72229-b774-46fa-89c7-3ffc829e85de",
+    "task_id": "PLAN13-Wang2026-native-citation-20261006-v1",
+    "workspace_uuid": "26E665BA-7E98-49DE-B0EA-DDE37AFBBB88",
+    "surface_uuid": "2A2CDBE8-DD07-4185-A972-2E56BB3135DF",
+    "resource": "word-zotero",
+    "status": "ACTIVE",
+    "expires": 1791316106.2613819,
+    "pgid": null,
+    "invocations": 24
+  }
+}
