@@ -1,0 +1,1730 @@
+[
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/export_closeout_v1.R",
+    "bytes": 3647,
+    "sha256": "362c7fc8383eaf6b6bdfc61e23a5e94696a54dcf81b876f1eb1ac7b37d415a81",
+    "role": "previous_numerical_contract"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/search_audit_v1.R",
+    "bytes": 3380,
+    "sha256": "785d4517ba4efc6a75f14c7e23bb3f1782205dec33f1e4c5f924ae94aeffaf64",
+    "role": "previous_numerical_contract"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/closeout_solver_v1.R",
+    "bytes": 5109,
+    "sha256": "8d1c73e1fabb2f590cb5eb645995a19bac1f90ac525aba99d86a2d55da72aaa4",
+    "role": "previous_numerical_contract"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/production_native_v1.R",
+    "bytes": 1844,
+    "sha256": "8fd9576b9c08dc3d2b2a1343c30babfa78614e118a7ddf858b87cca783d8a848",
+    "role": "previous_numerical_contract"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/CONTRACT.md",
+    "bytes": 755,
+    "sha256": "242bb97e0788ad086cd1057a4700172e674cc3d1263a771e781c9f9fb32bed10",
+    "role": "previous_numerical_contract"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/p3/BOUNDED_INPUT_MANIFEST_v1.json",
+    "bytes": 6680,
+    "sha256": "24c8519d3799a04de50c79cd46ef5c8725bb0daaa9fda00e0f0d34014fa75678",
+    "role": "previous_numerical_contract"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/p3/p3_frozen_worker.R",
+    "bytes": 18352,
+    "sha256": "667796705de9637d2e466a266e8dabbf4fcb02759ebd6c33c6a2b916bd11ffbd",
+    "role": "previous_numerical_contract"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/p3/p3_bounded_driver_v1.R",
+    "bytes": 9784,
+    "sha256": "9cbaa4fc84808c8e0ddb3273295a36b475137ae83826f818ef4612cf2e4ef86a",
+    "role": "previous_numerical_contract"
+  },
+  {
+    "path": "/Users/lzhs/Downloads/00_完整实证复核结论.md",
+    "bytes": 13392,
+    "sha256": "4f1d94f9d28f8fc13c74024c7384970ea43d6b586bc8f4547188035a30fdfe3d",
+    "role": "previous_numerical_contract"
+  },
+  {
+    "path": "/Users/lzhs/Downloads/N1_independent_OLS_HC1.csv",
+    "bytes": 2861,
+    "sha256": "1bede59c9e5c62cf79464380be5200740f4ba7466d58a5c67f8b355023a30e84",
+    "role": "previous_numerical_contract"
+  },
+  {
+    "path": "/Users/lzhs/Downloads/FEAS_original_revised_period_LOO_refits.csv",
+    "bytes": 3644,
+    "sha256": "fcce275024dbfde583bb57d451949597c1f3410434fdb1cd32fe2214a8248724",
+    "role": "previous_numerical_contract"
+  },
+  {
+    "path": "/Users/lzhs/Downloads/20261006_第二轮复核与v6执行方案_仅2018-2022.md",
+    "bytes": 30052,
+    "sha256": "c53d0886f51a7fc4c18d785d4796bdf7b83ae1ae1a7a594cbc501c65c110f4d8",
+    "role": "previous_numerical_contract"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/search_audit/INDEX_AUDIT.csv",
+    "bytes": 18692,
+    "sha256": "eacb3cb891caeecf241f11753e807b806e4a153321208a3acd1ce41455057664",
+    "role": "accepted_numerical_evidence"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/search_audit/AUDIT.rds",
+    "bytes": 520549,
+    "sha256": "e5d449f83a83e83a5dd75597a15924e815f4986e6e965e94cdcab1aa3cef4e4a",
+    "role": "accepted_numerical_evidence"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/search_audit/ALL_150_REGISTER.csv",
+    "bytes": 90581,
+    "sha256": "4d253cb8f7cdd795e185633d0d556e662277251497b15bf236e27998ee0d16e6",
+    "role": "frozen_result"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/search_audit/COVERAGE_150.csv",
+    "bytes": 2451,
+    "sha256": "4ba251a4816cb6e3cea14c71be7ef99528d47a593b197948fad6591af2c17ecc",
+    "role": "accepted_numerical_evidence"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/search_audit/RW_ALL_240.csv",
+    "bytes": 21754,
+    "sha256": "06369784ef17c1c66fa2dd4e7528db69aee28a5520dd23b7ed26c55e4bb229b6",
+    "role": "frozen_result"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/search_audit/BOOTSTRAP_TEST_VALUES.csv",
+    "bytes": 995734,
+    "sha256": "6bb6c533ee8948ad1e65cc3a1ba0bb0d28977a1ce3f1178cc7afe63b6d83f7ce",
+    "role": "accepted_numerical_evidence"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/native/search_terminal.json",
+    "bytes": 1418,
+    "sha256": "23a992b261126b71e5d1ba55e321c267181805bbac9fd1e64a201e6e02aae114",
+    "role": "accepted_numerical_evidence"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/native/production_terminal.json",
+    "bytes": 888,
+    "sha256": "10fc630f688577dfa98ec13002c7a810e839db32b01d7c815899f9d561ce942b",
+    "role": "accepted_numerical_evidence"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/native/validation_terminal.json",
+    "bytes": 866,
+    "sha256": "4a1cabc02785564c5cdad18b823d7bab4aafe961cdd254eefe14a2569869f02c",
+    "role": "accepted_numerical_evidence"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/exports/ACCEPTANCE.json",
+    "bytes": 208,
+    "sha256": "680a966ff17dc5ce547439d759086a412425fdf76460a1032586f90d488ed38f",
+    "role": "accepted_numerical_evidence"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/exports/INDEPENDENT_ARITHMETIC.json",
+    "bytes": 480,
+    "sha256": "7cf5bd0bf79e54ce9e9ed4ca0c303f05a458713f16628307cac8de7dc78c8feb",
+    "role": "accepted_numerical_evidence"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/exports/COMPACT_RESULT.rds",
+    "bytes": 369566,
+    "sha256": "b8ba8cd496863242db9c2b044d489caa1dffad547463232cf3ee96e33dfcd93f",
+    "role": "accepted_numerical_evidence"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/exports/P3_ALL_6000_DRAWS.csv",
+    "bytes": 1035700,
+    "sha256": "fddf6b93ae5ff093ad506fbe16efdfaaac7b566dfdb8e07056cfa68c6a9d5634",
+    "role": "accepted_numerical_evidence"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/exports/P3_ALL_6000_DIAGNOSTICS.csv",
+    "bytes": 375881,
+    "sha256": "b887a30843ed4956e0640a720c624964edb6b01aed4a90c826826739503e4df8",
+    "role": "accepted_numerical_evidence"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/exports/P3_OLD_NEW_COMPARISON.csv",
+    "bytes": 238553,
+    "sha256": "3045b82c2700b6689abaefc0738ab0a0b6519082ab301afa93b7c996874784ba",
+    "role": "accepted_numerical_evidence"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/independent_arithmetic_v1.py",
+    "bytes": 2640,
+    "sha256": "1880d74ce0262d1a7cd61c92d05b02bba86dce82bd4e2bf2425b6c825060b842",
+    "role": "accepted_numerical_evidence"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/VALIDATION.csv",
+    "bytes": 10757,
+    "sha256": "1c3d609900132664865f26cb93941386777380bcc8a81ceb9384db2b45f5f0cb",
+    "role": "accepted_numerical_evidence"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/selection_inputs_complete_v1/SOURCE_PROOFS.json",
+    "bytes": 8658794,
+    "sha256": "47a3d57959728ff28ef9ab676321275d5a6fd37758722b65b9575b0a15af1ea9",
+    "role": "historical_search_contract"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/selection_inputs_complete_v1/INPUTS.rds",
+    "bytes": 260132,
+    "sha256": "2386077cfec598f420cf8d0919b641f4cbf46b578e507f37b12b8e7285b87010",
+    "role": "historical_search_contract"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/feasible_sampling_v1/screen.rds",
+    "bytes": 1322310,
+    "sha256": "de29e12922c57ca1688fd5e371c00f7561be04d0b4fd9c957f9d0a07f7618b5f",
+    "role": "historical_search_contract"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/candidate_data.R",
+    "bytes": 1629,
+    "sha256": "802a91bb456de0a193049998e5f5392049bacb5903ca672eafc62aef5eb2d9a1",
+    "role": "historical_search_contract"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/screening_records.R",
+    "bytes": 3107,
+    "sha256": "3738309998390d967b0aa6b8b9830666e4162a21da5dfc1efb7f6e792e4ae635",
+    "role": "historical_search_contract"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/first_B200_v1/FEAS_001/execution_inputs.rds",
+    "bytes": 1049588,
+    "sha256": "7eafe6bf885a8e665501b0d6b7aec2194e6699201f37947eac0a837b3340a03c",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/first_B200_v1/METRICS.rds",
+    "bytes": 3382,
+    "sha256": "8be3a712b4b79d1ec36258239b414b9df21ab9a6f67d322b2fa1e8f55b7974ea",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch01/FEAS_002/FEAS_002/execution_inputs.rds",
+    "bytes": 670465,
+    "sha256": "42fc8c8cd87435539ed3b113d4ffa4f68fc03287696703488891c7ba3d7e5506",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch01/FEAS_002/METRICS.rds",
+    "bytes": 3381,
+    "sha256": "b9c7a4a73b0824230dded3a32d954291b8140fa9a42fcfa6fec01a00de274e57",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch01/FEAS_003/FEAS_003/execution_inputs.rds",
+    "bytes": 740478,
+    "sha256": "299065b7df128fc7955b08937b091d488b75c512838b7778d9109fd83cdb6fe5",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch01/FEAS_003/METRICS.rds",
+    "bytes": 3376,
+    "sha256": "d30aae73a4f2a839be460679105ec72d4bd7a4f40b0998a7089e5a6aaed809d9",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch01/FEAS_004/FEAS_004/execution_inputs.rds",
+    "bytes": 686430,
+    "sha256": "30af89cd4ac1d89f9e4d4192f297fb3b1a95c36d083817a0b7c8890ff723de7d",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch01/FEAS_004/METRICS.rds",
+    "bytes": 3388,
+    "sha256": "4bd8b3b115b0e87b745d0631115523830756e60cc2400e43fed26c0080ab6933",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch01/FEAS_005/FEAS_005/execution_inputs.rds",
+    "bytes": 670034,
+    "sha256": "f2637cb7e82367624c8230656bfe3bd4c2c668c50c81855a4f22fb53c253e2d7",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch01/FEAS_005/METRICS.rds",
+    "bytes": 3378,
+    "sha256": "218282ac3ace04700b70acd7cc9eaa1024606a31ac2a02196d943e6e9e1ef77a",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/binary_remaining_B200_v1/FEAS_006/FEAS_006/execution_inputs.rds",
+    "bytes": 1015226,
+    "sha256": "97d041db4bbab8309deb388cbc0984978f56a9a7a7e1daccb1aa4be47044d1e9",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/binary_remaining_B200_v1/FEAS_006/METRICS.rds",
+    "bytes": 3376,
+    "sha256": "401d29726e9dfa7e7018e28e836a25c9c113182bbb378102d558c430b62067fc",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch01/FEAS_007/FEAS_007/execution_inputs.rds",
+    "bytes": 704119,
+    "sha256": "1ead974a378f873b451a3b6022409276c17c84afb460191f54879ef7cd7a143e",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch01/FEAS_007/METRICS.rds",
+    "bytes": 3380,
+    "sha256": "731577ea52d399f9f69261dd52f13f3a15bf752dbbd78c9edd8d26bdcfa820af",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch01/FEAS_008/FEAS_008/execution_inputs.rds",
+    "bytes": 768998,
+    "sha256": "03fa2b19a95dc14b22ba632ae1de15b9ac0cfdc8a71a9c6ad23b9a3d5346eae6",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch01/FEAS_008/METRICS.rds",
+    "bytes": 3367,
+    "sha256": "5f46904a49bfe950df427dee69b3aa5ecc5d21425d73f8e60bf33a6744be1996",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch01/FEAS_009/FEAS_009/execution_inputs.rds",
+    "bytes": 548308,
+    "sha256": "7168cce3c2e043a62075fa6623e68eb366bdc2510a7f684f7d87f03be510cebd",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch01/FEAS_009/METRICS.rds",
+    "bytes": 3388,
+    "sha256": "f4fd800fdad31a434f2f5e6e3686c58b0baeff98d162b7a8b5fde142ed44d5e1",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch01/FEAS_010/FEAS_010/execution_inputs.rds",
+    "bytes": 655325,
+    "sha256": "a724ee1fbb32e5ceac5545ffafd5e486210960cd9461889fb1fe6f5232ae81e3",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch01/FEAS_010/METRICS.rds",
+    "bytes": 3389,
+    "sha256": "5b791583af16aa99e26469341cba2f53f1e88a71fe451edf7073441f8107557b",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/binary_expanded_recovery_v1/FEAS_011/FEAS_011/execution_inputs.rds",
+    "bytes": 1070279,
+    "sha256": "a6226844704e916d284fdf50742ded9ccf346791581981f9484dd8965f422ba6",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/binary_expanded_recovery_v1/FEAS_011/METRICS.rds",
+    "bytes": 3382,
+    "sha256": "8be3a712b4b79d1ec36258239b414b9df21ab9a6f67d322b2fa1e8f55b7974ea",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch02/FEAS_012/FEAS_012/execution_inputs.rds",
+    "bytes": 691707,
+    "sha256": "e20cbe87f842176bd2b64ccd51b1bcbb7fe2b7192b0dfa48754079c1d6580e70",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch02/FEAS_012/METRICS.rds",
+    "bytes": 3381,
+    "sha256": "b9c7a4a73b0824230dded3a32d954291b8140fa9a42fcfa6fec01a00de274e57",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch02/FEAS_013/FEAS_013/execution_inputs.rds",
+    "bytes": 761634,
+    "sha256": "fe534255389e0965d4f3b041094ba39ce633917b6fe84464f17faf83442cae97",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch02/FEAS_013/METRICS.rds",
+    "bytes": 3376,
+    "sha256": "d30aae73a4f2a839be460679105ec72d4bd7a4f40b0998a7089e5a6aaed809d9",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch02/FEAS_014/FEAS_014/execution_inputs.rds",
+    "bytes": 699707,
+    "sha256": "682fb6c86cedd8c9cec973f672f0a67a65bebff239b72c0508a308b7ecd263cc",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch02/FEAS_014/METRICS.rds",
+    "bytes": 3388,
+    "sha256": "4bd8b3b115b0e87b745d0631115523830756e60cc2400e43fed26c0080ab6933",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch02/FEAS_015/FEAS_015/execution_inputs.rds",
+    "bytes": 691399,
+    "sha256": "c0bd401b3948896940c166c9fabd1093cce41f1fdc6c03f274d3c5ddd0731af2",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch02/FEAS_015/METRICS.rds",
+    "bytes": 3378,
+    "sha256": "218282ac3ace04700b70acd7cc9eaa1024606a31ac2a02196d943e6e9e1ef77a",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/binary_expanded_recovery_v1/FEAS_016/FEAS_016/execution_inputs.rds",
+    "bytes": 1036672,
+    "sha256": "c0109ea55cfdec83754f08a4d6d83f59b15b30cd3f7ff01c3c273ff5879944f8",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/binary_expanded_recovery_v1/FEAS_016/METRICS.rds",
+    "bytes": 3376,
+    "sha256": "401d29726e9dfa7e7018e28e836a25c9c113182bbb378102d558c430b62067fc",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch02/FEAS_017/FEAS_017/execution_inputs.rds",
+    "bytes": 724901,
+    "sha256": "883c9bbd004e7629092ebbc7afc85e34f092311a2a2ab0f08e9223f345f0ac1b",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch02/FEAS_017/METRICS.rds",
+    "bytes": 3380,
+    "sha256": "731577ea52d399f9f69261dd52f13f3a15bf752dbbd78c9edd8d26bdcfa820af",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch02/FEAS_018/FEAS_018/execution_inputs.rds",
+    "bytes": 789747,
+    "sha256": "790a1927cb71bcd622c7b9c990a19f29b10a1e10e0734892d217e2b4083f8e05",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch02/FEAS_018/METRICS.rds",
+    "bytes": 3367,
+    "sha256": "5f46904a49bfe950df427dee69b3aa5ecc5d21425d73f8e60bf33a6744be1996",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch02/FEAS_019/FEAS_019/execution_inputs.rds",
+    "bytes": 563271,
+    "sha256": "1ada2d6696fb5ce9da361b5b6d758613f8a73640abf3edc12144adaae5bd0188",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch02/FEAS_019/METRICS.rds",
+    "bytes": 3388,
+    "sha256": "f4fd800fdad31a434f2f5e6e3686c58b0baeff98d162b7a8b5fde142ed44d5e1",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch02/FEAS_020/FEAS_020/execution_inputs.rds",
+    "bytes": 676488,
+    "sha256": "efa6daabc863b32b67b19dbab5ed8ec87c071908db689a015ef4bbbfe020c922",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch02/FEAS_020/METRICS.rds",
+    "bytes": 3389,
+    "sha256": "5b791583af16aa99e26469341cba2f53f1e88a71fe451edf7073441f8107557b",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/binary_expanded_recovery_v1/FEAS_031/FEAS_031/execution_inputs.rds",
+    "bytes": 3163364,
+    "sha256": "38c44e36a606a4549f098432c6470b46f88cd143dd0d72e55a2425f37c0d4111",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/binary_expanded_recovery_v1/FEAS_031/METRICS.rds",
+    "bytes": 3383,
+    "sha256": "2155cf5e58b61268b2729ff948addf783bab6c0831882aecb9f0455089647a6c",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch02/FEAS_032/FEAS_032/execution_inputs.rds",
+    "bytes": 1835422,
+    "sha256": "8a50d95d38399d831b97ca1aa6068642be709b3eaa05fabc6233aff027836217",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch02/FEAS_032/METRICS.rds",
+    "bytes": 3379,
+    "sha256": "ad57e09cdd930d2fac49a029a1d93ac9abf7c026c55b00e2057ee7e86b10741c",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch02/FEAS_033/FEAS_033/execution_inputs.rds",
+    "bytes": 2106039,
+    "sha256": "7422c98dd46a7a48529bd630c4d795388848ceca9fca49050dbaebb43ba6fd88",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch02/FEAS_033/METRICS.rds",
+    "bytes": 3383,
+    "sha256": "cf26ef64e6198f434cc6073cd9631328fc6a96656f32ed752d0c5165de5c8079",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch03_recovery_v1/FEAS_034/FEAS_034/execution_inputs.rds",
+    "bytes": 1839867,
+    "sha256": "3bcf7087f5f8de92a277f2b5149e19621df432af6db5c5df5f078c87a5b9881e",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch03_recovery_v1/FEAS_034/METRICS.rds",
+    "bytes": 3382,
+    "sha256": "d03b9c3f2b68a231db023af0753d9a138bafe8930b3c25f550560ff54eb948ea",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch03_recovery_v1/FEAS_035/FEAS_035/execution_inputs.rds",
+    "bytes": 1915005,
+    "sha256": "c49be7f8451db865129373217ad2f2946bd0ef9ca73f97ca92f3fb0c93fa7459",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch03_recovery_v1/FEAS_035/METRICS.rds",
+    "bytes": 3384,
+    "sha256": "da26eae38956a887f7e24292fb7f63a2d8025f4d84603603c883fb4da199ca68",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/binary_expanded_recovery_v1/FEAS_036/FEAS_036/execution_inputs.rds",
+    "bytes": 3125724,
+    "sha256": "49726d0653a5cb98d8c84af2b3f02e4546048792a470aa21d70753507825b154",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/binary_expanded_recovery_v1/FEAS_036/METRICS.rds",
+    "bytes": 3377,
+    "sha256": "fe150716bc59b93cfbd27dd881affe606e21d1e18f7502ec4355c3a493813a1c",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch02/FEAS_037/FEAS_037/execution_inputs.rds",
+    "bytes": 1896218,
+    "sha256": "c9f9023cac6ada15d240c7228b382ac073af8c7907cd34bedbcfcd6c26682172",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch02/FEAS_037/METRICS.rds",
+    "bytes": 3374,
+    "sha256": "407a3a851cea4b0af391ac5c418c2366f33647afeca695a2f32a8c6ba0b338b8",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch02/FEAS_038/FEAS_038/execution_inputs.rds",
+    "bytes": 2154402,
+    "sha256": "82c13cb59213e990a211b790206785931641d6259a09e53b8929d6ef6f43db89",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch02/FEAS_038/METRICS.rds",
+    "bytes": 3383,
+    "sha256": "f21e977b5bf299a6513636585246ca4a25d236c437340a936d9639c961e2e331",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch03_recovery_v1/FEAS_039/FEAS_039/execution_inputs.rds",
+    "bytes": 1628511,
+    "sha256": "fb50ed4f99a7d8bdef0742117aa1db7ec084184c277423c9d8c8d171e5b67770",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch03_recovery_v1/FEAS_039/METRICS.rds",
+    "bytes": 3387,
+    "sha256": "8dd4a7a8f8d2e2f6d7e220313c5fbc8cc3a33962d6487ad21c67ddcc9fbbe365",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch03_recovery_v1/FEAS_040/FEAS_040/execution_inputs.rds",
+    "bytes": 1901432,
+    "sha256": "2d80106a7eb2b53105fb069366250f61ca5c73448013475e575f9de84afee268",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch03_recovery_v1/FEAS_040/METRICS.rds",
+    "bytes": 3389,
+    "sha256": "48c58f259c1bcaca175fa14cb730ba12a66da93f8bdeea4434c223eac70c68a0",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch01/FEAS_041/FEAS_041/execution_inputs.rds",
+    "bytes": 4240016,
+    "sha256": "9b66dfe9f1c073d2fc3a24b94dc0d2d7de459a07e21d56518eb9cde78052494d",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch01/FEAS_041/METRICS.rds",
+    "bytes": 3381,
+    "sha256": "316584483a2743f14f840aa3b93e0399d4764e8849cb28f970cb16a8ea1271df",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch01/FEAS_042/FEAS_042/execution_inputs.rds",
+    "bytes": 2534654,
+    "sha256": "1fa036a22397b2ace972f44fbb91b89adf0660a19c6da6f4f112c23d5a7b78a0",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch01/FEAS_042/METRICS.rds",
+    "bytes": 3346,
+    "sha256": "1ff4dd89d6c3b28bdf2b449bb8fcc0bfd16dad1b2a05e45acf705fc19befce35",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch01/FEAS_043/FEAS_043/execution_inputs.rds",
+    "bytes": 2886856,
+    "sha256": "c208c9bdb37da4771a7c461f01551def0ff5667970572a4bdd87fe5c8311651a",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch01/FEAS_043/METRICS.rds",
+    "bytes": 3364,
+    "sha256": "543d31387ec7d623fd8ba43cf4612a9d7f9b5049dad4e419ab4e2bbb06fc070a",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch01/FEAS_044/FEAS_044/execution_inputs.rds",
+    "bytes": 2321851,
+    "sha256": "41ea743ef5d280034dc9ed5112becfc2359df5cd939c49f98212d669a4840e2a",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch01/FEAS_044/METRICS.rds",
+    "bytes": 3376,
+    "sha256": "8d2aa60e99ad350fc2dc2323c09da860bdec5816be5065c496e34f3a607fc919",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch02/FEAS_045/FEAS_045/execution_inputs.rds",
+    "bytes": 2560308,
+    "sha256": "32ed755aff1c41a7c3d8118a1cc7991853727e1df27e494ab27396ecffbdf0a5",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch02/FEAS_045/METRICS.rds",
+    "bytes": 3371,
+    "sha256": "0aa96af2c7a05f47c54ae5fa10614e69b8c592851dbfe8e5151c175fb62198fb",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch02/FEAS_046/FEAS_046/execution_inputs.rds",
+    "bytes": 4240020,
+    "sha256": "7199d7e80a4ae780ae4edda6ac78679af941eb85bca895a401c3b46de4b0c644",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch02/FEAS_046/METRICS.rds",
+    "bytes": 3381,
+    "sha256": "26393766f999562096f01323ec173c52406ba125b906afc24a8c03ce6551ad46",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch02/FEAS_047/FEAS_047/execution_inputs.rds",
+    "bytes": 2534660,
+    "sha256": "7738afaf7656e6c01b136d5f44b19ffccf4e688054ed712e6622dd998b62cc85",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch02/FEAS_047/METRICS.rds",
+    "bytes": 3348,
+    "sha256": "ade63269d2a99de919d3d6270bc6eec726ade9353d89fd0db20618c2c76d26b5",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch02/FEAS_048/FEAS_048/execution_inputs.rds",
+    "bytes": 2886863,
+    "sha256": "aaf93a89a863a6de291b791a47473124208b8dc0db29c6d9a73529b971d0f2d5",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch02/FEAS_048/METRICS.rds",
+    "bytes": 3366,
+    "sha256": "095b6e45f7c1dd60972680eb09856e0755f13aeae05ab259e53afca4f9c4a61d",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch03/FEAS_049/FEAS_049/execution_inputs.rds",
+    "bytes": 2321854,
+    "sha256": "11db6c4ea2b54eab363db3ef7fb321917160441981856d30b79405090e92def2",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch03/FEAS_049/METRICS.rds",
+    "bytes": 3378,
+    "sha256": "18fa2b7a1402b366fb61e1efc755f41bf4c817180caab5c5bea14cc63604f919",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch03/FEAS_050/FEAS_050/execution_inputs.rds",
+    "bytes": 2560317,
+    "sha256": "4d3d81b4334fce1e7ecaa70b4d025996370cb5cf229fa36a2bb311de87bf0f27",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch03/FEAS_050/METRICS.rds",
+    "bytes": 3370,
+    "sha256": "1f37893e4dad2ad59606d768699965d62d18830fa45964d34a7a811dbf79b751",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/binary_remaining_B200_v1/FEAS_051/FEAS_051/execution_inputs.rds",
+    "bytes": 1049592,
+    "sha256": "03eb4f91020a3eab931765336b80fe2763215d840926b358082ac5c90e8bd41b",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/binary_remaining_B200_v1/FEAS_051/METRICS.rds",
+    "bytes": 3341,
+    "sha256": "1d410832f7588f4f2ebb4ed1ddee7f8a120c9cba63bef64fe195d4ea3a1687c4",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch03/FEAS_052/FEAS_052/execution_inputs.rds",
+    "bytes": 670457,
+    "sha256": "f1628904cd8d1de3cd452e3257a1f2326ef519f9409eaebe1ea9976493143cd7",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch03/FEAS_052/METRICS.rds",
+    "bytes": 3364,
+    "sha256": "ccad38a7879afbe6c0b0627c58cdfc1a9c0a9ce3627af28932fd7447099d2a41",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch03/FEAS_053/FEAS_053/execution_inputs.rds",
+    "bytes": 740475,
+    "sha256": "a27b2cbd63b438e4a9af0f71743471a3695c48c8a4e53ce2a6d226c6e13d3efe",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch03/FEAS_053/METRICS.rds",
+    "bytes": 3346,
+    "sha256": "26bf637aeb352cac88dce74d07a6c4593674e919fc2375a9dbce54ff51365cfc",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch04/FEAS_054/FEAS_054/execution_inputs.rds",
+    "bytes": 686431,
+    "sha256": "e955e0cf3ac771ce21ad5fa4a8bdc4dea11d865dd40f5eb85e64ec2f06a9de1b",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch04/FEAS_054/METRICS.rds",
+    "bytes": 3352,
+    "sha256": "58f99a74569b4485a70e8116c329a85b695a469886e1b36f1ae4f1c307c0a7e9",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch04/FEAS_055/FEAS_055/execution_inputs.rds",
+    "bytes": 670031,
+    "sha256": "d97045971482a98d52d5ec9f527d0ba8bcca3f475413431c1ba37619d1c70389",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch04/FEAS_055/METRICS.rds",
+    "bytes": 3330,
+    "sha256": "be1a87787d19df65ce1788bb6a467221f6cf1df080709e13f8a77992b62fe84c",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/binary_remaining_B200_v1/FEAS_056/FEAS_056/execution_inputs.rds",
+    "bytes": 1015224,
+    "sha256": "02024923927415aee49aeb3e47ab883032fad76143b7dec3a8ced036ae7cb0b8",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/binary_remaining_B200_v1/FEAS_056/METRICS.rds",
+    "bytes": 3346,
+    "sha256": "37f0036a3d46da683fe334bef51914f0761eac564024db0afd7c9c6540b4b8b4",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch03/FEAS_057/FEAS_057/execution_inputs.rds",
+    "bytes": 704113,
+    "sha256": "fed8436225ca6a733b901f74a0b5a0d91526677f73e3186b8ea394a8a665da34",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch03/FEAS_057/METRICS.rds",
+    "bytes": 3361,
+    "sha256": "06575cfb964087e3f08b93f0c94cb69a9c9ae622ff379bc005f4477faaa8b2b7",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch03/FEAS_058/FEAS_058/execution_inputs.rds",
+    "bytes": 768998,
+    "sha256": "3cecd9ec4ccbce9251da3b48565ab0d22fa2c8eb14a06ef0f330f0311e447f05",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch03/FEAS_058/METRICS.rds",
+    "bytes": 3361,
+    "sha256": "2b205b1b384cf3185f6b84bbfb7c16162df62847107d068101d97e0133d478c3",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch04/FEAS_059/FEAS_059/execution_inputs.rds",
+    "bytes": 548313,
+    "sha256": "3e1a0a5fd2ef9185441aedbc5671e64a89bd7a4d64becc208bcf48e7ee3951ac",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch04/FEAS_059/METRICS.rds",
+    "bytes": 3364,
+    "sha256": "4d2673832f41e006c6eb8ea3b317cba3b191443552a0cffd87b3d7a72834255e",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch04/FEAS_060/FEAS_060/execution_inputs.rds",
+    "bytes": 655318,
+    "sha256": "2412fbf40c4fee3bfdc6b34464794704923a3b40393249fcfe32239cc51f727d",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch04/FEAS_060/METRICS.rds",
+    "bytes": 3359,
+    "sha256": "cccf52479cf678e4df0964b8845b5a055dae22034bfa1cb18b539a85154c7c76",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/binary_expanded_B200_batch02/FEAS_061/FEAS_061/execution_inputs.rds",
+    "bytes": 1070280,
+    "sha256": "97daf7c842b52cd9bbe509796b08d1f8e0ac672abb45f22cc3bb64ef85aa799c",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/binary_expanded_B200_batch02/FEAS_061/METRICS.rds",
+    "bytes": 3341,
+    "sha256": "1d410832f7588f4f2ebb4ed1ddee7f8a120c9cba63bef64fe195d4ea3a1687c4",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch03/FEAS_062/FEAS_062/execution_inputs.rds",
+    "bytes": 691702,
+    "sha256": "d19ee715d49abb445da3d070ec74a98ee7d2ef55a3ca110cf27c92d90b1ad740",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch03/FEAS_062/METRICS.rds",
+    "bytes": 3364,
+    "sha256": "ccad38a7879afbe6c0b0627c58cdfc1a9c0a9ce3627af28932fd7447099d2a41",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch03/FEAS_063/FEAS_063/execution_inputs.rds",
+    "bytes": 761632,
+    "sha256": "456d5c78b54776df4ab12decf54a54e30f2561693071a418163f1a71d20057be",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch03/FEAS_063/METRICS.rds",
+    "bytes": 3346,
+    "sha256": "26bf637aeb352cac88dce74d07a6c4593674e919fc2375a9dbce54ff51365cfc",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch05/FEAS_064/FEAS_064/execution_inputs.rds",
+    "bytes": 699708,
+    "sha256": "9e787daf9e10de8c280701baff7798ba325aee6b310191d17c0803bfe3aebbe7",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch05/FEAS_064/METRICS.rds",
+    "bytes": 3352,
+    "sha256": "58f99a74569b4485a70e8116c329a85b695a469886e1b36f1ae4f1c307c0a7e9",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch05/FEAS_065/FEAS_065/execution_inputs.rds",
+    "bytes": 691397,
+    "sha256": "3e12803ab1ef34872abf6f839597a22115d9aa7916c38442054fc4e49abd62ff",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch05/FEAS_065/METRICS.rds",
+    "bytes": 3330,
+    "sha256": "be1a87787d19df65ce1788bb6a467221f6cf1df080709e13f8a77992b62fe84c",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/binary_expanded_B200_batch02/FEAS_066/FEAS_066/execution_inputs.rds",
+    "bytes": 1036675,
+    "sha256": "6f055dd8005a53f4d650d1affc74dc6c97fd5812aab2d51e9dfa1712068d3d8f",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/binary_expanded_B200_batch02/FEAS_066/METRICS.rds",
+    "bytes": 3346,
+    "sha256": "37f0036a3d46da683fe334bef51914f0761eac564024db0afd7c9c6540b4b8b4",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch03/FEAS_067/FEAS_067/execution_inputs.rds",
+    "bytes": 724893,
+    "sha256": "a42aa3afc817f78de80f4707e86a1824ac067cc86b7c1f5281912be46806afa2",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch03/FEAS_067/METRICS.rds",
+    "bytes": 3361,
+    "sha256": "06575cfb964087e3f08b93f0c94cb69a9c9ae622ff379bc005f4477faaa8b2b7",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch03/FEAS_068/FEAS_068/execution_inputs.rds",
+    "bytes": 789744,
+    "sha256": "3e2acfe16e2c7ac8ee7a3c837055c9d1169a64cd0ea0b976204564122cc599b2",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch03/FEAS_068/METRICS.rds",
+    "bytes": 3361,
+    "sha256": "2b205b1b384cf3185f6b84bbfb7c16162df62847107d068101d97e0133d478c3",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch05/FEAS_069/FEAS_069/execution_inputs.rds",
+    "bytes": 563273,
+    "sha256": "e18c7a14734c32abd63578f6e0cc085185a02c4256994c6245f98a39bc5a5983",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch05/FEAS_069/METRICS.rds",
+    "bytes": 3364,
+    "sha256": "4d2673832f41e006c6eb8ea3b317cba3b191443552a0cffd87b3d7a72834255e",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch05/FEAS_070/FEAS_070/execution_inputs.rds",
+    "bytes": 676483,
+    "sha256": "315b97ad05b2dc8cb1c7c2e4183c9ce4a28adae9d7eedf3bafc079ace68e0c31",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch05/FEAS_070/METRICS.rds",
+    "bytes": 3359,
+    "sha256": "cccf52479cf678e4df0964b8845b5a055dae22034bfa1cb18b539a85154c7c76",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/binary_expanded_B200_batch02/FEAS_081/FEAS_081/execution_inputs.rds",
+    "bytes": 3163364,
+    "sha256": "ef2623c19b5b55555cd3d44a76a0d524bc7f1da904263a00043914a527417b14",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/binary_expanded_B200_batch02/FEAS_081/METRICS.rds",
+    "bytes": 3346,
+    "sha256": "8baf2e45aa7fb9ac7e0be3da4a10283a4be19ffdf7b77dcd225a790a2c2af197",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch04/FEAS_082/FEAS_082/execution_inputs.rds",
+    "bytes": 1835412,
+    "sha256": "86703719c10b9411b47436ab7b84163095d41e555d1d85cdf659784fe2e30f4c",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch04/FEAS_082/METRICS.rds",
+    "bytes": 3356,
+    "sha256": "2c4c343e79a87d2b8cc73ff547b051d97d4c2ce63195e34c7d70edbe9420252e",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch04/FEAS_083/FEAS_083/execution_inputs.rds",
+    "bytes": 2106034,
+    "sha256": "6e39a504fd29d0a7cc492bc916837ac28422d5a610d783ee2847f576721ae88f",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch04/FEAS_083/METRICS.rds",
+    "bytes": 3366,
+    "sha256": "15e5e36a47ecb407ad109303da05d93901d976efe9b5846d1931df98d4fb57a1",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch06/FEAS_084/FEAS_084/execution_inputs.rds",
+    "bytes": 1839862,
+    "sha256": "e7f46215870974206e3dfee1c087ec40ca003a32aeab8ea7f9e7e80e7b7fe183",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch06/FEAS_084/METRICS.rds",
+    "bytes": 3348,
+    "sha256": "2fd4aa5a861f9043ec9d81e8bf29ba464bec307865b248e885c614e7af3f4aba",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch06/FEAS_085/FEAS_085/execution_inputs.rds",
+    "bytes": 1915000,
+    "sha256": "d1cc1ced66d28e92a52a8b0660cd18eec24ec1a1f5598151fff80c1bf35c4f54",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch06/FEAS_085/METRICS.rds",
+    "bytes": 3348,
+    "sha256": "b9dad7d8a5ee67cf37de42cc7b4bb7a064dd1160337ad55f104f3bb2b4d7f814",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/binary_expanded_B200_batch02/FEAS_086/FEAS_086/execution_inputs.rds",
+    "bytes": 3125730,
+    "sha256": "8c183b8997ffc5a4802676e4140d0b0238d5efc2281a49c75891532ad3d49270",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/binary_expanded_B200_batch02/FEAS_086/METRICS.rds",
+    "bytes": 3355,
+    "sha256": "6ca418187f1ffc20419f13fbed6ebc53d19fe8c16599c9f04ba8dfcc269a897f",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch04/FEAS_087/FEAS_087/execution_inputs.rds",
+    "bytes": 1896208,
+    "sha256": "bd9c110e2eaf2aa7fae0b9ed72814a79ffbc78833bf1fef0a6b7b642e8952133",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch04/FEAS_087/METRICS.rds",
+    "bytes": 3355,
+    "sha256": "aa4cb9c2bff84390190379332d31d88d97933ca7489fd6230c6de16d37b14b93",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch04/FEAS_088/FEAS_088/execution_inputs.rds",
+    "bytes": 2154398,
+    "sha256": "f24133a79f8ae430be98e0aeefaf5fce0b6b87007615319d8eedd4e9bb0d6662",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch04/FEAS_088/METRICS.rds",
+    "bytes": 3334,
+    "sha256": "783a090aad279bab114c920b6862c0fd4667f77b9001ca74fd7caf8bf5342f89",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch06/FEAS_089/FEAS_089/execution_inputs.rds",
+    "bytes": 1628505,
+    "sha256": "0f014c7785cbb3f5b0ffd90fac776f6f9d81ece0b5e5822a94934db6056c1f96",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch06/FEAS_089/METRICS.rds",
+    "bytes": 3372,
+    "sha256": "34db4e000a2aa6a8896d8b30f57ffb0cb0ecec26a6d7fdcc34ceb76e9ce3f7c1",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch06/FEAS_090/FEAS_090/execution_inputs.rds",
+    "bytes": 1901423,
+    "sha256": "6d14063a90cbb878f0e35a80a154b41c060df381bc42b0bac9adc86d39a27ea1",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch06/FEAS_090/METRICS.rds",
+    "bytes": 3343,
+    "sha256": "911bc73ad9ad2e147f5b14a22cd1a69aeec648a7d8b82512be5a392bb71aa371",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch03/FEAS_091/FEAS_091/execution_inputs.rds",
+    "bytes": 4239998,
+    "sha256": "64eb72a69babc4a54e7cfffec911effb7c2d2465a7cf8c4951278b9ee9012b02",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch03/FEAS_091/METRICS.rds",
+    "bytes": 3337,
+    "sha256": "c0e08bd69309c2eb846172497c752bd5ceb9b9e960af9df91b13f91e85103645",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch03/FEAS_092/FEAS_092/execution_inputs.rds",
+    "bytes": 2534625,
+    "sha256": "42e43391928eeced967eff2cb553bc918d54bd2b21573b269ece771b8dde73aa",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch03/FEAS_092/METRICS.rds",
+    "bytes": 3330,
+    "sha256": "47fb1a5aebb8f282dc8f05c7180dad6822dfe5f5b4020138e16122b8d2e5eaca",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch04/FEAS_093/FEAS_093/execution_inputs.rds",
+    "bytes": 2886830,
+    "sha256": "ae1b4376fa7e7194dc38877926c9a927d83ccd0f4daf9f992fd3b1312c8e2cdd",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch04/FEAS_093/METRICS.rds",
+    "bytes": 3317,
+    "sha256": "c26f6959eec8483c03ca18cb1a4ac3005901a061b1372107c2d927002ebd3e24",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch04/FEAS_094/FEAS_094/execution_inputs.rds",
+    "bytes": 2321823,
+    "sha256": "a9d144b7a5416a7e27aa43032f74cbb2dc9fe285947a207dbec2593d8cc1a8ab",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch04/FEAS_094/METRICS.rds",
+    "bytes": 3339,
+    "sha256": "bda82288002c70dbb975fdb0ed1fbed872ef84deb5c632a10a5d71355269d484",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch04/FEAS_095/FEAS_095/execution_inputs.rds",
+    "bytes": 2560281,
+    "sha256": "01b63ede87849b0b8963cde3bb1bab2798fcce9297392ee4405d5eeed99f69e5",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch04/FEAS_095/METRICS.rds",
+    "bytes": 3322,
+    "sha256": "1286b06d7a6eb9ce1978c716932f06f92b3617328b5a8435b90559692a850751",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch04/FEAS_096/FEAS_096/execution_inputs.rds",
+    "bytes": 4240007,
+    "sha256": "0d866dcd909167f20d87dc724789d521a07b5f2ddd5b19f665f1f8cf959a449c",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch04/FEAS_096/METRICS.rds",
+    "bytes": 3343,
+    "sha256": "b3382360e550412f0c8c080bce756f9cc948fa36dc0664820290bf7f1c08c4d3",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch05/FEAS_097/FEAS_097/execution_inputs.rds",
+    "bytes": 2534631,
+    "sha256": "efd8b05686abd682911b060f75a477cc41f46ab19bf185d52de49f59f75bb31a",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch05/FEAS_097/METRICS.rds",
+    "bytes": 3335,
+    "sha256": "98f0976560ba836941732c1717af2b0716be1c91375d621171bb572f769a8fcf",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch05/FEAS_098/FEAS_098/execution_inputs.rds",
+    "bytes": 2886838,
+    "sha256": "ab41f56a67882ec993e11ad3392efd41f904de12fff12fff5b3ac10c322cd224",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch05/FEAS_098/METRICS.rds",
+    "bytes": 3315,
+    "sha256": "ef510686b6237e8910f9bb7c796ef596dfd7a262596437351891ce45eca66c02",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch05/FEAS_099/FEAS_099/execution_inputs.rds",
+    "bytes": 2321828,
+    "sha256": "1b8178ea778efa49c87ab4d2e13983916425db8092bc7567de4f74c2977158c8",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch05/FEAS_099/METRICS.rds",
+    "bytes": 3336,
+    "sha256": "659af7fb09747a8dfb52ef7a4b2c6edd2256730cadfc2ffe7dbf8f0016bdc274",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch05/FEAS_100/FEAS_100/execution_inputs.rds",
+    "bytes": 2560288,
+    "sha256": "103ec8c7b717234f454c6bbe859ee377b0993e31d428f5723d2e45768368f2a0",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch05/FEAS_100/METRICS.rds",
+    "bytes": 3323,
+    "sha256": "4c43ea5bb02cf7ad1e7dea1e3dbb409621037a8cf48e80c7145dfd71e84d35f0",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/binary_remaining_B200_v1/FEAS_101/FEAS_101/execution_inputs.rds",
+    "bytes": 1049591,
+    "sha256": "cd38ffa7d641f5b127b77ed1382ddf9bf1ca1bc1f3289c905979e6d7b93a2ea4",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/binary_remaining_B200_v1/FEAS_101/METRICS.rds",
+    "bytes": 3331,
+    "sha256": "d1b49f0799a53831e1d9d319967e43b6e44a2fa1413ddbcf27ef729729bffdf3",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch04/FEAS_102/FEAS_102/execution_inputs.rds",
+    "bytes": 670460,
+    "sha256": "37028799b395da5112a229a1105e8ef7a1ee4e616132cc323d3129394afc8630",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch04/FEAS_102/METRICS.rds",
+    "bytes": 3363,
+    "sha256": "d319220e8dfd362a81b934a3a308da05c0a4e12ae9efec70d34a3b4683b36129",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch04/FEAS_103/FEAS_103/execution_inputs.rds",
+    "bytes": 740472,
+    "sha256": "b466b4c83ed5c6e91bc1b8489259c9cbec8a48a608e2cb86b5a05e2f6baf3eab",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch04/FEAS_103/METRICS.rds",
+    "bytes": 3336,
+    "sha256": "c2e569d43455fa709f1b06f6eabc65e2f10ad319aa39bbb91c72cdf1cb8c5250",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch07/FEAS_104/FEAS_104/execution_inputs.rds",
+    "bytes": 686431,
+    "sha256": "76759b280774909dac17af0aea7979e2667d32148c2bc0f6138717f049c7ad5c",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch07/FEAS_104/METRICS.rds",
+    "bytes": 3360,
+    "sha256": "e4d97ac2bca98395324d00c45841781f1c00f5dd76a0924e5df3666d1f2b13ef",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch07/FEAS_105/FEAS_105/execution_inputs.rds",
+    "bytes": 670034,
+    "sha256": "f20e5256f5647177dff00e201f50df0262b7e356786548feb2e1e2ee57e9de0e",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch07/FEAS_105/METRICS.rds",
+    "bytes": 3318,
+    "sha256": "397ceb32d0c84fa83cf30875efdb0607d4f775c2532910be5a84ca1c7f2cec21",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/binary_remaining_B200_v1/FEAS_106/FEAS_106/execution_inputs.rds",
+    "bytes": 1015228,
+    "sha256": "f6074489d472f4a6f84506d6c8d7f22a9f291da7afeafb2196f0d89e57ef87c5",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/binary_remaining_B200_v1/FEAS_106/METRICS.rds",
+    "bytes": 3336,
+    "sha256": "f6860ae666b2c7d880f4c2a7f1c08a0e55b741c0059cde00aa8c2fc9109dc7b6",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch04/FEAS_107/FEAS_107/execution_inputs.rds",
+    "bytes": 704117,
+    "sha256": "a639ced1c4b44953244ba94f73f12f2c66315ea2c3ba301e8cbef7895f067f0b",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch04/FEAS_107/METRICS.rds",
+    "bytes": 3364,
+    "sha256": "64ad8cd680f2a00198e966d9991ed0d226be06623ecbd672751122e90d3e7e75",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch04/FEAS_108/FEAS_108/execution_inputs.rds",
+    "bytes": 768995,
+    "sha256": "7dc4a730950bfeb2087b1fb032b6ed0280f254711246429276371a8dc5eb2cec",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch04/FEAS_108/METRICS.rds",
+    "bytes": 3371,
+    "sha256": "eca70e867ef71baf54f30dd26445e22e68d6b94c6b2a6bd2cb0026b272648a08",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch07/FEAS_109/FEAS_109/execution_inputs.rds",
+    "bytes": 548315,
+    "sha256": "ca619d5e580f602f70d11324e0bbcc5ed4051c5bb71a9878739ffe8a749d756c",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch07/FEAS_109/METRICS.rds",
+    "bytes": 3351,
+    "sha256": "36455d147ff3f4555e0ccd42898241c61077c079c84773927dc0894e8d7860ec",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch07/FEAS_110/FEAS_110/execution_inputs.rds",
+    "bytes": 655323,
+    "sha256": "a2073880886ab9b916f52b783e4f8761ebcf500595cd492980e36a34c00df5f1",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch07/FEAS_110/METRICS.rds",
+    "bytes": 3369,
+    "sha256": "9d25bc43b33a1724e6a41b740a65a0aaa4ec0d40fe96e6f3a90d73acf69818e9",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/binary_expanded_B200_batch03/FEAS_111/FEAS_111/execution_inputs.rds",
+    "bytes": 1070280,
+    "sha256": "a381ae2b9abaab6e409eec9b0e27f41f36913286667cee8978946b0f5d18f5bb",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/binary_expanded_B200_batch03/FEAS_111/METRICS.rds",
+    "bytes": 3331,
+    "sha256": "d1b49f0799a53831e1d9d319967e43b6e44a2fa1413ddbcf27ef729729bffdf3",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch05/FEAS_112/FEAS_112/execution_inputs.rds",
+    "bytes": 691704,
+    "sha256": "ec991b0d2aaab1c39ba74fe1712078f43ee47b9f7eb56dd78fa153ceaebb992b",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch05/FEAS_112/METRICS.rds",
+    "bytes": 3363,
+    "sha256": "d319220e8dfd362a81b934a3a308da05c0a4e12ae9efec70d34a3b4683b36129",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch05/FEAS_113/FEAS_113/execution_inputs.rds",
+    "bytes": 761629,
+    "sha256": "a151b8266fa07ffaa523f02561e980aaf827e4581a8136b79a4e99ef58a06525",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch05/FEAS_113/METRICS.rds",
+    "bytes": 3336,
+    "sha256": "c2e569d43455fa709f1b06f6eabc65e2f10ad319aa39bbb91c72cdf1cb8c5250",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch08/FEAS_114/FEAS_114/execution_inputs.rds",
+    "bytes": 699708,
+    "sha256": "9aba61730486247e29e4cb8d31070eba74e5296c5a14762610cabf7cb5320e34",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch08/FEAS_114/METRICS.rds",
+    "bytes": 3360,
+    "sha256": "e4d97ac2bca98395324d00c45841781f1c00f5dd76a0924e5df3666d1f2b13ef",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch08/FEAS_115/FEAS_115/execution_inputs.rds",
+    "bytes": 691398,
+    "sha256": "090202ec5ab5214a3499618a0bc735efb9b794456f0767a83be03fcb64317b67",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch08/FEAS_115/METRICS.rds",
+    "bytes": 3318,
+    "sha256": "397ceb32d0c84fa83cf30875efdb0607d4f775c2532910be5a84ca1c7f2cec21",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/binary_expanded_B200_batch03/FEAS_116/FEAS_116/execution_inputs.rds",
+    "bytes": 1036675,
+    "sha256": "405f80c85e6eadaa8623850993363aef1cb1caeb3fcf7d21c8eaf8a04d39dd55",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/binary_expanded_B200_batch03/FEAS_116/METRICS.rds",
+    "bytes": 3336,
+    "sha256": "f6860ae666b2c7d880f4c2a7f1c08a0e55b741c0059cde00aa8c2fc9109dc7b6",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch05/FEAS_117/FEAS_117/execution_inputs.rds",
+    "bytes": 724899,
+    "sha256": "ee0b4a3a708bbe7400c9ad5fa435e00baadfe57512479f82cc0dbb71ea7a2286",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch05/FEAS_117/METRICS.rds",
+    "bytes": 3364,
+    "sha256": "64ad8cd680f2a00198e966d9991ed0d226be06623ecbd672751122e90d3e7e75",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch05/FEAS_118/FEAS_118/execution_inputs.rds",
+    "bytes": 789742,
+    "sha256": "edff9012d7395b94d2fb56230688e01a9310770e7d539e667ea71bc4a272c10e",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch05/FEAS_118/METRICS.rds",
+    "bytes": 3371,
+    "sha256": "eca70e867ef71baf54f30dd26445e22e68d6b94c6b2a6bd2cb0026b272648a08",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch08/FEAS_119/FEAS_119/execution_inputs.rds",
+    "bytes": 563275,
+    "sha256": "ab5b3fadfce25a719a94a145a05d489cc1e3b85d5cd1b819d9560515859fb78b",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch08/FEAS_119/METRICS.rds",
+    "bytes": 3351,
+    "sha256": "36455d147ff3f4555e0ccd42898241c61077c079c84773927dc0894e8d7860ec",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch08/FEAS_120/FEAS_120/execution_inputs.rds",
+    "bytes": 676487,
+    "sha256": "eda4c41b9a03b9976744c0b528fbb2f03cad630c1687135e22707e3dc1665525",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch08/FEAS_120/METRICS.rds",
+    "bytes": 3369,
+    "sha256": "9d25bc43b33a1724e6a41b740a65a0aaa4ec0d40fe96e6f3a90d73acf69818e9",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/binary_expanded_B200_batch03/FEAS_131/FEAS_131/execution_inputs.rds",
+    "bytes": 3163367,
+    "sha256": "91e293293bcf9b837ddcd46e5f5b755872166d29b16e8256cb2c39062a8a323b",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/binary_expanded_B200_batch03/FEAS_131/METRICS.rds",
+    "bytes": 3353,
+    "sha256": "c82f99ace3dab036cca8f43808d3ca3191cafc03185adb7294b1614d0e1301e2",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch05/FEAS_132/FEAS_132/execution_inputs.rds",
+    "bytes": 1835418,
+    "sha256": "5313f7084267faecdac7d22d405b799a9b932e124c2cbda0fe445c90e3d778cd",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch05/FEAS_132/METRICS.rds",
+    "bytes": 3344,
+    "sha256": "1d5cfbe8983826dd0380c9e2cdcf265f249f7e10edc428cc101ecabab1f6cb83",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch05/FEAS_133/FEAS_133/execution_inputs.rds",
+    "bytes": 2106033,
+    "sha256": "1bbc16f98062eea24143d56a25a4cc1a2d87d11841a5482bdf431e9a4d41f9a8",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch05/FEAS_133/METRICS.rds",
+    "bytes": 3361,
+    "sha256": "c25ed419aa0369a7be71ca49b497c7fefa595742ed26302bb962308f56de9f66",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch09/FEAS_134/FEAS_134/execution_inputs.rds",
+    "bytes": 1839865,
+    "sha256": "1dd15281d7d9782973a70478b3b97bf74f0917725f89587d5c861a3687659cf6",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch09/FEAS_134/METRICS.rds",
+    "bytes": 3361,
+    "sha256": "e44d64ee0a9edc8d269657f4feb420d081e3819199d751de0e7240ae34db3c60",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch09/FEAS_135/FEAS_135/execution_inputs.rds",
+    "bytes": 1915004,
+    "sha256": "076bdd43cbda7e9e9a10e9a7f794f8d42e7aa55d342c3598165d5e0a0768c43f",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch09/FEAS_135/METRICS.rds",
+    "bytes": 3344,
+    "sha256": "145f4a986f459b06b2cd473752294d804d7128bf1e60ba5138f5f959c6b7c029",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/binary_expanded_B200_batch03/FEAS_136/FEAS_136/execution_inputs.rds",
+    "bytes": 3125733,
+    "sha256": "0c0067390dd52a96ccb6a406a6a63abcb35f58563aa49b2a607784b92b690916",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/binary_expanded_B200_batch03/FEAS_136/METRICS.rds",
+    "bytes": 3347,
+    "sha256": "3e78dd97d3eb58903631facacdd4bbd3a00b5975a8ecf99cb6888f641d8a96ea",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch05/FEAS_137/FEAS_137/execution_inputs.rds",
+    "bytes": 1896214,
+    "sha256": "5ecf72f770cdde23ac17555c47f78b13ee3f91d1ebec04d64bc20daa4e0227e2",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch05/FEAS_137/METRICS.rds",
+    "bytes": 3358,
+    "sha256": "f9fcaecd05323ea7dcc48e6c6efcda8826fbfe6b516d9919b4460076004358c2",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch05/FEAS_138/FEAS_138/execution_inputs.rds",
+    "bytes": 2154397,
+    "sha256": "a16f96729706d5858f82d8af61fa4b9c76c7d9761e7d570a4bf7bd91ce1f95bd",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/absolute_continuousX_binaryM_B200_batch05/FEAS_138/METRICS.rds",
+    "bytes": 3336,
+    "sha256": "382f920bda642c34f069887529b60278d43b4c4b123bc07f7e8ab61ffa163aad",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch09/FEAS_139/FEAS_139/execution_inputs.rds",
+    "bytes": 1628508,
+    "sha256": "072ca8f4e8cc1f9d473741cc24ccafdfe206596902ccdddd32ca0819f30d44ae",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch09/FEAS_139/METRICS.rds",
+    "bytes": 3371,
+    "sha256": "f32f8f19796f4b2597e69db46ef9de9766c086ec42d773244fc0cb50a29e1854",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch09/FEAS_140/FEAS_140/execution_inputs.rds",
+    "bytes": 1901427,
+    "sha256": "cec38f063ce3197d5294149bacebec52ecab4c7b913b1bc1e63ebd61ee39517a",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relativeX_binaryM_B200_batch09/FEAS_140/METRICS.rds",
+    "bytes": 3321,
+    "sha256": "72ec3122181581a036e8212b91511d4b245d91729cdc5b90b4edf3cd13b711c3",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch06/FEAS_141/FEAS_141/execution_inputs.rds",
+    "bytes": 4240006,
+    "sha256": "faad845117767a998fc82162dd691d3f07a94bfaa4093f3256825c4192618d37",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch06/FEAS_141/METRICS.rds",
+    "bytes": 3329,
+    "sha256": "f65d55d0404e590ab131135ea597fa785e329bd5ca6735ca7201839f272f6eee",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch06/FEAS_142/FEAS_142/execution_inputs.rds",
+    "bytes": 2534632,
+    "sha256": "1151ceec9a9292ca5ca50810067eaeb49af5a4033588aa78c4ca13fb98462335",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch06/FEAS_142/METRICS.rds",
+    "bytes": 3321,
+    "sha256": "9d917aea6fe1ea5840b8ff507d4d667e15d12964c06be47261276bf4ccd1da53",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch06/FEAS_143/FEAS_143/execution_inputs.rds",
+    "bytes": 2886828,
+    "sha256": "646385c081ebd81273c02c9bceda52ddeb1785337ff729094e6f8c31d4da47c2",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch06/FEAS_143/METRICS.rds",
+    "bytes": 3320,
+    "sha256": "d66e7f7cb05bad446cd77d7817a2cda9e49c4440d43805d99e1dff7768b93026",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch06/FEAS_144/FEAS_144/execution_inputs.rds",
+    "bytes": 2321829,
+    "sha256": "fa880fea3c07a2fdf8b1c3ada6326ef1cc3a35e82104a0cb82ee747892d08d4d",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch06/FEAS_144/METRICS.rds",
+    "bytes": 3335,
+    "sha256": "f4da83ec3b5235bcea7dac88dc6347354807db4fedece93719113db338546488",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch07_recovery_v1/FEAS_145/FEAS_145/execution_inputs.rds",
+    "bytes": 2560285,
+    "sha256": "fb2b5d1031dfdbee9855b39f1768e889629d1a2c514de45be466ef62527b70a4",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch07_recovery_v1/FEAS_145/METRICS.rds",
+    "bytes": 3310,
+    "sha256": "9d330a78af4de0a72ffb23cb0ad308a10ed3cfb14eef3887bc3562a2d0817303",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch07_recovery_v1/FEAS_146/FEAS_146/execution_inputs.rds",
+    "bytes": 4240012,
+    "sha256": "fbe858ffa681eb88091f6290144cac7c812a79d0d50890047e338be81f83e682",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch07_recovery_v1/FEAS_146/METRICS.rds",
+    "bytes": 3323,
+    "sha256": "8e6be431f3eaa370a5f7578da03f381368f8744e2609ba48dc1423527aff5750",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch07_recovery_v1/FEAS_147/FEAS_147/execution_inputs.rds",
+    "bytes": 2534639,
+    "sha256": "22b8056eeb72311494c2ad2f0699ef35ec0cb29d90534dd469410668bae891be",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch07_recovery_v1/FEAS_147/METRICS.rds",
+    "bytes": 3324,
+    "sha256": "014a45ad9687cde9a3158efa699d15d40dbb229b02afd8cae05ad74761628efc",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch07_recovery_v1/FEAS_148/FEAS_148/execution_inputs.rds",
+    "bytes": 2886836,
+    "sha256": "56b0113e0649369ed192e1d7923c91d35acef614bc36bc28753afbd624db054f",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch07_recovery_v1/FEAS_148/METRICS.rds",
+    "bytes": 3316,
+    "sha256": "d1e15ff3887adc59ee9a8c727cb47d4b63802c59b269e5aa61caf718f52c4d81",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch08/FEAS_149/FEAS_149/execution_inputs.rds",
+    "bytes": 2321835,
+    "sha256": "3ccb40e1eb2a9927b0c3375072e99f21c8a8f0156b8ca38e367ad6341f4a5855",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch08/FEAS_149/METRICS.rds",
+    "bytes": 3345,
+    "sha256": "215692b92ffd8fa12fa2606bfc8ad9282cf9d9e6f4f00aa0e6efed789c9348dd",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch08/FEAS_150/FEAS_150/execution_inputs.rds",
+    "bytes": 2560295,
+    "sha256": "1f0eef2ed9cdb0d53b9da1a122eab147eb571eaada0d32749901279cd61d1c50",
+    "role": "actual_execution_inputs"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/relative_continuousM_B200_batch08/FEAS_150/METRICS.rds",
+    "bytes": 3317,
+    "sha256": "f4ba9e70f652d0f57fe04fe2ba544ff145d0ee7b76cc6f26b4fe30ad37b1a17a",
+    "role": "accepted_metrics"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/verify_B1000_v1/FEAS_031/METRICS.csv",
+    "bytes": 591,
+    "sha256": "b0b72189ba173917e4e454e38d3d9baaf7471e5690ec84af09aca3b469030952",
+    "role": "frozen_result"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/p1_p2/readonly_summary_v1/FEAS_031_intervals.csv",
+    "bytes": 906,
+    "sha256": "a16da1aae8ba566623908e17eae1056e27e7abc7325a3319abd0631d9f4a5872",
+    "role": "frozen_result"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/verify_B1000_v1/FEAS_041/METRICS.csv",
+    "bytes": 594,
+    "sha256": "514527d3f778b1fbe54f5146bdc21bc0608a8991a9f6db3b0d999530ec654dba",
+    "role": "frozen_result"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/p1_p2/readonly_summary_v1/FEAS_041_intervals.csv",
+    "bytes": 911,
+    "sha256": "b52e0385b11f9311c6ef4eea60bfd56aa630bfa2bfd649d31b494ad4d0237617",
+    "role": "frozen_result"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/p1_p2/readonly_summary_v1/FEAS_031_period.csv",
+    "bytes": 1698,
+    "sha256": "b28984ffa5430c7caf249daff7b5abd5c982fe6ca7e362c3a18eda4776c29113",
+    "role": "frozen_result"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/p1_p2/readonly_summary_v1/FEAS_031_loo.csv",
+    "bytes": 2304318,
+    "sha256": "3f8578a3af9da01b3f0b2b79be8ff1826ef3cff235b3e890f60156e4ee26c8e8",
+    "role": "frozen_result"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/p1_p2/readonly_summary_v1/FEAS_041_period.csv",
+    "bytes": 1699,
+    "sha256": "ba6cd4e404f38445b8910dde5a22a2d47d7a1399b13dc58b0b331e45673af8f3",
+    "role": "frozen_result"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/p1_p2/readonly_summary_v1/FEAS_041_loo.csv",
+    "bytes": 2475478,
+    "sha256": "2166abaae863ba80a94282276e3c69bd64a8ccad3a5f9595412cbf337b6adc83",
+    "role": "frozen_result"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/exports/P3_POINTS.csv",
+    "bytes": 349,
+    "sha256": "b26fd98a7d07cc1011f7f80a0aaba2d12150563bb2359a483e286e2818d5cb71",
+    "role": "frozen_result"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/exports/P3_OMNIBUS.csv",
+    "bytes": 276,
+    "sha256": "66efaccabcb3d9cc27849239c38e3dd186fce674db90a2491c6224f18a37375a",
+    "role": "frozen_result"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/exports/SIX_TEST_FAMILY.csv",
+    "bytes": 458,
+    "sha256": "898dae5ff61817e300c949ce3d450d739bba1c94eb1300bc576631697c2d5885",
+    "role": "frozen_result"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/n1_n2/runtime_v2/N1_formal_v3/N1_primary_four.csv",
+    "bytes": 922,
+    "sha256": "7e316aefe1087dfed5cdea08778153aa8e9a8869647f96c6bca040499ef3316c",
+    "role": "frozen_result"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/p1_p2/readonly_summary_v1/ACCEPTANCE.json",
+    "bytes": 875,
+    "sha256": "c67f2ba1b27d15e6f31b7ce33b475c4922052253699b93c84634aedd479dda61",
+    "role": "frozen_result"
+  },
+  {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/p1_p2/NATIVE_TERMINAL_points_v1.json",
+    "bytes": 431425,
+    "sha256": "00686c5c0277567cfe00fe571331e7b5695e4022f7dc7b65d17cf598de972692",
+    "role": "frozen_result"
+  }
+]

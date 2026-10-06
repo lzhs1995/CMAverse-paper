@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "zip": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/delivery/paper_review_part01.zip",
+  "bytes": 1647725,
+  "sha256": "f45fb9ce0fac0354947afc42673f362b9125e8a8a35b05cb6b2d81ad305293a9",
+  "members": 57,
+  "payload_hashes_verified": 56,
+  "crc": "PASS",
+  "manifest_self_excluded": true,
+  "parsed": {
+    "json": 18,
+    "csv": 12,
+    "docx": 3
+  },
+  "candidate_sha256": "ff278c5bba68ff7c6cdd0d52fc9cdd8fa7d2bac57876a2751fee8be3ddb4e95f",
+  "docx_parts_changed": [
+    "word/document.xml"
+  ],
+  "scope": "File integrity, parsing, and offline DOCX part comparison; not model execution or native Word/PDF QA."
+}

@@ -1,0 +1,30 @@
+{
+  "status": "OFFLINE_CONTENT_PASS_NATIVE_PENDING",
+  "source": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/manuscript/CMAverse_数值收尾合入_离线内容候选_未原生验收.docx",
+  "source_sha256": "cace3fc14e4cb8e4f516386890d331093c99fb0ffa363b91065200e1e5fcf00d",
+  "output": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/manuscript/CMAverse_论文收尾合入_离线候选_原生验收待完成.docx",
+  "output_sha256": "ff278c5bba68ff7c6cdd0d52fc9cdd8fa7d2bac57876a2751fee8be3ddb4e95f",
+  "only_changed_zip_part": "word/document.xml",
+  "all_other_parts_identical": true,
+  "fields_drawings_bookmarks_sections_identical": true,
+  "revision_elements": 0,
+  "tables_before": 31,
+  "tables_after": 34,
+  "source_paragraph_changes": [
+    96,
+    139,
+    161,
+    163,
+    165,
+    166,
+    167,
+    168,
+    170,
+    171,
+    173,
+    263
+  ],
+  "numeric_sources": "frozen CSV only; no models or new p values",
+  "native_word_pdf_zotero_nlm": "NOT_COMPLETED",
+  "limitations": "OOXML integrity does not establish native field refresh, accepted/rejected revision behavior, pagination or final same-PDF NLM review."
+}

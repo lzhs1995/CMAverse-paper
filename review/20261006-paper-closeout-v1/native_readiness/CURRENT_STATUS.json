@@ -1,0 +1,41 @@
+{
+  "as_of_utc": "2026-10-06T14:39:31Z",
+  "status": "NATIVE_DELIVERY_PENDING",
+  "candidate_sha256": "ff278c5bba68ff7c6cdd0d52fc9cdd8fa7d2bac57876a2751fee8be3ddb4e95f",
+  "resource_snapshot": {
+    "at": "2026-10-06T14:38:01Z",
+    "active_tickets": 0,
+    "waiting_tickets": 0,
+    "other_owner_released_at": "2026-10-06T14:26:08.244992Z",
+    "release_checks_passed": 9,
+    "release_file_pins_verified": 87
+  },
+  "completed": "Offline source bindings, manuscript content, structure, and theory review",
+  "pending": [
+    "Bind current candidate and native anchors to existing executor",
+    "Native tracked/accepted/rejected content verification",
+    "Actual Zotero refresh and save/reopen",
+    "Word native PDF and page review",
+    "Same final PDF NLM review"
+  ],
+  "scope_note": "Resource snapshot is time-specific, not a permanent reservation or evidence of native Word responsiveness. Historical missing outer-wait log is separate from current resource release.",
+  "source_records": [
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/qa/PUBLICATION_RESOURCE_SNAPSHOT.json",
+      "bytes": 5847,
+      "sha256": "d4bebdd1d19b3715e6b0ac95856556120765cf4f6839f851d2a8864bf6483d33"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/qa/EXTERNAL_RELEASE_VERIFICATION.json",
+      "bytes": 31844,
+      "sha256": "735051becc8ed3b98af15e91c8e780d1294ebe6204ca2a65f40c802e3dcf4798"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/native_readiness/short_successor_actual_release_v4/READY.json",
+      "bytes": 2008,
+      "sha256": "dfa108445ca648f3b1427b66d51342b42a9608930ad6232b7b1f331f122fbf18"
+    }
+  ],
+  "new_user_approval_required": false,
+  "new_models_run": 0
+}

@@ -1,3 +1,10 @@
+# 最新：论文改文与来源补齐已完成，原生交付待验收（2026-10-06）
+
+完整说明：
+https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/main/review/20261006-paper-closeout-v1/README.md
+
+本轮新增离线论文候选及两个前驱、9张结果CSV、120项执行输入绑定、有限理论证据矩阵和独立DOCX核验。一个1.65 MB增量ZIP；不重传旧包，不新增模型。031/041保留探索性线索，P3整体未显著。原生Word/Zotero刷新/最终PDF/同版NLM仍为PENDING。
+
 # 最新：数值收尾已完成（2026-10-06）
 
 入口：review/20261006-numerical-closeout-v1/README.md

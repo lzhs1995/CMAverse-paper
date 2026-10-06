@@ -1,0 +1,291 @@
+{
+  "schema": 1,
+  "task": "CMAverse significance screening paper closeout",
+  "created_at_utc": "2026-10-06T14:49:59.957289+00:00",
+  "self_excluded": [
+    "MANIFEST.json"
+  ],
+  "file_count": 56,
+  "files": [
+    {
+      "path": "ACCEPTANCE.json",
+      "bytes": 1309,
+      "sha256": "56f0123e42e2bec42834cd0843a42004e11a58ddffe068af5c00a681ea257abc"
+    },
+    {
+      "path": "FOR_WEB_REVIEWERS.md",
+      "bytes": 3014,
+      "sha256": "0ceb63f281ccc2fbae46b981092d41cc2d4c4e5c86dca4b8127d761bc9eeb85c"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3333,
+      "sha256": "295e8185933609c5b3071fc9d5aa95c0e90deb66d624b2650eb3cc1b6be4f22d"
+    },
+    {
+      "path": "REPORT.md",
+      "bytes": 9613,
+      "sha256": "d30f843bb556aefd99aff4672f9fbc58b00186b2df9543bd9a76ccc61ca96d1b"
+    },
+    {
+      "path": "bindings/EXECUTION_INPUTS_120.csv",
+      "bytes": 128566,
+      "sha256": "308b3224ece31cc83ed72c82739adad9bb2c1a7bc5750d6aa0067e13cb2c6218"
+    },
+    {
+      "path": "bindings/EXECUTION_INPUTS_120.json",
+      "bytes": 163911,
+      "sha256": "f90f792763e2483cf0345ae05089b6a24240a912bde191c4125d834f213179ad"
+    },
+    {
+      "path": "bindings/MANUSCRIPT_TABLE_READBACK.json",
+      "bytes": 3278,
+      "sha256": "11d435f9bbbbb25f05d3aa699c10e888c3955cd53781d7be989485c6032d1206"
+    },
+    {
+      "path": "bindings/OUTPUT_MANIFEST.json",
+      "bytes": 7377,
+      "sha256": "49e7bdd4d683658d6c46e721558f14930d6a58f4aba5213d118f3ac19f8a5791"
+    },
+    {
+      "path": "bindings/QA.json",
+      "bytes": 1985,
+      "sha256": "83aee25f2a1edc59deb4146ae2fcb6b8b82bb85b42a98934958ed45705a173f5"
+    },
+    {
+      "path": "bindings/QA_ITEMS.csv",
+      "bytes": 2049,
+      "sha256": "40428e99376adffa70b2f697ceba26ca4386a857e546f856397413e760afa6bc"
+    },
+    {
+      "path": "bindings/RELATIVE_CHANGE_DESCRIPTION_SOURCE.json",
+      "bytes": 751,
+      "sha256": "5a3b067d5050f1e639aa1af428b44eb7803aa039a70639d24e5b0854c55f1c17"
+    },
+    {
+      "path": "bindings/REPORT.md",
+      "bytes": 3538,
+      "sha256": "c230445ccd9542cf2ff706cd8394efb94f0a94bffae671d76ff054de434390a6"
+    },
+    {
+      "path": "bindings/SCOPE.json",
+      "bytes": 646,
+      "sha256": "a6ccce0bef7ba86b412806c5a9777888dcdb02ef0251735983f6470b9ac5ce06"
+    },
+    {
+      "path": "bindings/SOURCE_PINS.json",
+      "bytes": 115796,
+      "sha256": "97f4ddf1e8343beca88d2bcb956a3a3e60602d9bfae674470b56f9ea2897556e"
+    },
+    {
+      "path": "bindings/build_bound_tables_v1.py",
+      "bytes": 10518,
+      "sha256": "3df3f0104747cbc9e113961c86e6b4b0bb821d62ca2b55ca824ec08f21c321e1"
+    },
+    {
+      "path": "bindings/verify_bound_results_v1.py",
+      "bytes": 26909,
+      "sha256": "33c2d0a4e0b969f6cc5842566dc6d2253cce0948e3b64cb6f1a46a414385a42d"
+    },
+    {
+      "path": "bindings/verify_manuscript_tables_v1.py",
+      "bytes": 3983,
+      "sha256": "78fb2c9566bec8d13c9814cc9aebc3814e1c4bc797cbef3c5a545fdb3aea484d"
+    },
+    {
+      "path": "build_paper_candidate.py",
+      "bytes": 22727,
+      "sha256": "3349a80287bc5dc91f95c4b03da27d0f0837448100c4b36f25f85e8079f8cab0"
+    },
+    {
+      "path": "build_publication.py",
+      "bytes": 8912,
+      "sha256": "f1ae3503ace95a6e6794af6cff61525c8eb5299f8ffaa6cabea9982a53dccea0"
+    },
+    {
+      "path": "manuscript/CMAverse_论文收尾合入_离线候选_原生验收待完成.docx",
+      "bytes": 475988,
+      "sha256": "ff278c5bba68ff7c6cdd0d52fc9cdd8fa7d2bac57876a2751fee8be3ddb4e95f"
+    },
+    {
+      "path": "manuscript/EVIDENCE_TABLES.json",
+      "bytes": 3828,
+      "sha256": "64b4f63cd6f15ee496df26f07ece37bd03ec7a260e1376aa30a4cc6f9f2c79c5"
+    },
+    {
+      "path": "manuscript/MANUSCRIPT_TEXT.md",
+      "bytes": 120414,
+      "sha256": "055e91995ad9c0b695a8aa69972dff04f206da40cddf54dbdfcafa9187a35bcc"
+    },
+    {
+      "path": "manuscript/TEXT_PATCHES.json",
+      "bytes": 18555,
+      "sha256": "536d15b44a2de7cb21d71c98b40a8624884196ad26b427fa9c59dcb101bdc5f1"
+    },
+    {
+      "path": "manuscript/analysis_manifest.json",
+      "bytes": 2590,
+      "sha256": "46dddf30eef731919cb175088f53946976dd5f6fa173264e28bb7d2881eb4410"
+    },
+    {
+      "path": "manuscript/sources/CMAverse_数值收尾合入_离线内容候选_未原生验收.docx",
+      "bytes": 474184,
+      "sha256": "cace3fc14e4cb8e4f516386890d331093c99fb0ffa363b91065200e1e5fcf00d"
+    },
+    {
+      "path": "manuscript/sources/CMAverse_限定复核与家务核验合入_干净离线候选_非交付_结构规范化.docx",
+      "bytes": 529492,
+      "sha256": "b0eec6b7af348f289928c961b1e89ca51d9389e50f529d2a4b738bee91bdce91"
+    },
+    {
+      "path": "native_readiness/CURRENT_STATUS.json",
+      "bytes": 2328,
+      "sha256": "846fb7d862f64dde5c7e0444d9fdc26b5b375bc7a60052362d8224d690953afa"
+    },
+    {
+      "path": "prepare_reports.py",
+      "bytes": 14881,
+      "sha256": "1c29f9fa36ea7f869b29bfc1555a4737033ccbb5ab940cc982c866c512c1cc41"
+    },
+    {
+      "path": "qa/DOCX_PART_DIFF.csv",
+      "bytes": 9293,
+      "sha256": "7c8838da20329823aa373e3caf3ef6d76020e9a95d5fe0c0caad7fd4076e1f47"
+    },
+    {
+      "path": "qa/FORMAT_CONTRACT.json",
+      "bytes": 963,
+      "sha256": "5504d93ecb3f43a486f9afb7b8c1d8d5c1618bc9e6174088cab988cf8910bbc5"
+    },
+    {
+      "path": "qa/INDEPENDENT_DOCX_REVIEW.json",
+      "bytes": 46581,
+      "sha256": "f564678c44783292c9c928362aa3057dab5fd57a71c04ddf03c8e735d88f1865"
+    },
+    {
+      "path": "qa/INDEPENDENT_DOCX_REVIEW.md",
+      "bytes": 2766,
+      "sha256": "5ce9086e3ced4e531381e6392a6bf957b5fce49f041ffb5c93ec00005b3808b3"
+    },
+    {
+      "path": "qa/MANUSCRIPT_QA.json",
+      "bytes": 1518,
+      "sha256": "38676dab6115c1d44a4812c540c1abc6ab772ba6c5cfa195cc004da7c39fc4ce"
+    },
+    {
+      "path": "qa/independent_docx_review.py",
+      "bytes": 15525,
+      "sha256": "5121a9c98ece2b135130a0ec71fdd6c8f65d70329c6cf309f4f2505c5829ca8b"
+    },
+    {
+      "path": "results/CANDIDATE_DEFINITIONS.csv",
+      "bytes": 2582,
+      "sha256": "91594719bdb90408d2db2d8dc3b7d058f8010af3580ab36d1089dbf236c69713"
+    },
+    {
+      "path": "results/CANDIDATE_HISTORY_PANELS.csv",
+      "bytes": 12136,
+      "sha256": "3783cf06ca139b7d019d3a8cdecffbe734622f41e5f5d08dd01a7c673aa39c36"
+    },
+    {
+      "path": "results/CANDIDATE_LOO_SUMMARY.csv",
+      "bytes": 1127,
+      "sha256": "3b3e1fecba910204070f91e552d79848af3d9b60a62f6088521949b918f0061f"
+    },
+    {
+      "path": "results/CANDIDATE_PERIOD_DIAGNOSTICS.csv",
+      "bytes": 3583,
+      "sha256": "45ad54ecde9ff1aca7d9b125f265dffd0501237d1ce78aeb4a38426a7315d659"
+    },
+    {
+      "path": "results/N1_FOUR_WITH_FINAL_SIX_ADJUSTMENT.csv",
+      "bytes": 3786,
+      "sha256": "f4a13582042d0ddfff237ead1050c2fb0fda71fe15324d877af058c7ccf3ca9a"
+    },
+    {
+      "path": "results/P3_OMNIBUS.csv",
+      "bytes": 981,
+      "sha256": "ccffc457e5d67b0ba6f75800ce897e8ffe64fb0d838cbeec691a3d71028c23b3"
+    },
+    {
+      "path": "results/P3_THREE_STATE.csv",
+      "bytes": 1776,
+      "sha256": "1b0781887c17597ee31372357e61633563a8f2faff20bd8eb3c78202b0bfca11"
+    },
+    {
+      "path": "results/RESULT_VERSION_TABLE.csv",
+      "bytes": 3268,
+      "sha256": "d5430655147c2522ab0db7ff212cafbd89b8fd0c72cb18cd09a09f3c1113c836"
+    },
+    {
+      "path": "results/SIX_TEST_FAMILY.csv",
+      "bytes": 2587,
+      "sha256": "add3162358ec82782d17fc1a8e7001af3db338999f4de60e8e1134f7b4cbf36e"
+    },
+    {
+      "path": "review/00_前轮完整实证复核结论_比例来源.md",
+      "bytes": 13392,
+      "sha256": "4f1d94f9d28f8fc13c74024c7384970ea43d6b586bc8f4547188035a30fdfe3d"
+    },
+    {
+      "path": "review/00_数值收尾独立复核报告.md",
+      "bytes": 11899,
+      "sha256": "a4032744fb185fec462c20669a69e3bbb26b0bf337d6cceba246762478abc9e1"
+    },
+    {
+      "path": "review/01_Astra_Mac_论文收尾执行方案.md",
+      "bytes": 10403,
+      "sha256": "b4dd50da44d97409957daf2f6fa352958a22b49bb05830dcae6a530a1a35e450"
+    },
+    {
+      "path": "review/02_论文可用改文.md",
+      "bytes": 11540,
+      "sha256": "40810420581d133883c955c144f24fb03d1ceded0d51f9f281ba198d1a033bed"
+    },
+    {
+      "path": "review/PRO_RESPONSE.md",
+      "bytes": 1844,
+      "sha256": "1677a6a78297bde4044862046fcb87d92a1db51e0dfff939a0fb828204b17856"
+    },
+    {
+      "path": "review/WRITING_REVIEW.md",
+      "bytes": 1360,
+      "sha256": "911ce4d5c40b18f9edd9edcdeab7963e5d44e44dc2e4320a160f3e1c8d6b1ee8"
+    },
+    {
+      "path": "theory/DISCUSSION_INSERT_v1.md",
+      "bytes": 3330,
+      "sha256": "80a48d233d3f16558c548f00526d0252aea3fbb246c522f12d93c7f63f92a3e0"
+    },
+    {
+      "path": "theory/GAPS_AND_LIMITS_v1.md",
+      "bytes": 2018,
+      "sha256": "63e2772b18138b56c8d468ead2602bf1f4004dff56dc78f8edd4cb883a569fcb"
+    },
+    {
+      "path": "theory/READBACK_v1.json",
+      "bytes": 2840,
+      "sha256": "04779a2d75b0ca3cafcb76f9e1bcf722ed105c7e71481105e0a3c2d3c3266f08"
+    },
+    {
+      "path": "theory/SOURCE_MANIFEST_v1.json",
+      "bytes": 11025,
+      "sha256": "cb237e78005c14c7a2adf49a45747a6170629ed675293ea26ebbc7d7c0a03e26"
+    },
+    {
+      "path": "theory/THEORY_EVIDENCE_MATRIX_v1.json",
+      "bytes": 12738,
+      "sha256": "01213f7ada65ab034964b46c691df7cbbe14f41c6cd9299d053c30f5ae6f42aa"
+    },
+    {
+      "path": "theory/THEORY_EVIDENCE_MATRIX_v1.md",
+      "bytes": 12329,
+      "sha256": "d212db99f947c77062cac18a8a067a8855d26dd33f8a3106b42a249bbb772dbd"
+    },
+    {
+      "path": "verify_review_package.py",
+      "bytes": 3478,
+      "sha256": "5327e10df564196cacee29f3feb4f8bcffc4a55f04327a6875845927bf22072e"
+    }
+  ]
+}

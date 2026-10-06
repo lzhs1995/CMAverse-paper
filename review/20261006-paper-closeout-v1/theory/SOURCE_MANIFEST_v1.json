@@ -1,0 +1,222 @@
+{
+  "version": "limited-theory-evidence-v1",
+  "created_at_utc": "2026-10-06T14:32:33.049738+00:00",
+  "scope": "仅三篇现有原文的有限回溯；无新统计、R运行、网络检索、Word/Zotero写入、UI或传输",
+  "sources": [
+    {
+      "id": "XU2022",
+      "citation": "许琪，2022．挣钱还是做家务——丈夫的经济贡献和家务贡献对妻子婚姻满意度的影响．社会学评论，10(3)：43–63．",
+      "original": {
+        "path": "/Users/lzhs/Zotero/社会学评论2022/许琪_2022_挣钱还是做家务——丈夫的经济贡献和家务贡献对妻子婚姻满意度的影响.pdf",
+        "exists": true,
+        "bytes": 1900872,
+        "sha256": "fa30d7dba7023e958e76161b9d03926c135eb24260b753b920c351d1e0007459",
+        "role": "本地原始论文PDF；本轮刷新SHA并直接提取指定页段",
+        "matches_prior_sha": true
+      },
+      "existing_extract": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/review/nlm-runtime/round02_scoped_gaps_20261003_v1/caller_continuation_20261004_v1/route_recovery_v1/successor/local_adjudication_v1/source_claim_verification_v1/primary-14603-layout.txt",
+        "exists": true,
+        "bytes": 60170,
+        "sha256": "3bfaef95a3321939f3063b167dcbc3bc1a2700e3944421c61818b3681de08b1c",
+        "role": "已有文本摘录；正文相关页段阅读依据",
+        "matches_prior_sha": true
+      },
+      "read_pdf_pages": [
+        8,
+        9,
+        10,
+        13,
+        14,
+        18,
+        19
+      ],
+      "pagination": "印刷页=PDF页+42",
+      "fresh_original_anchor_checks": [
+        {
+          "pdf_page": 8,
+          "anchor": "本研究使用的是2014年的追踪调查数据",
+          "normalization": "仅移除空白；标点与字符不替换",
+          "found_in_fresh_pdf_text": true,
+          "fresh_page_text_sha256": "a8fade735734fd4a62332b60b327cab2323437db4ad32da80f98d157c20c99eb"
+        },
+        {
+          "pdf_page": 9,
+          "anchor": "本文的因变量是妻子的婚姻满意度",
+          "normalization": "仅移除空白；标点与字符不替换",
+          "found_in_fresh_pdf_text": true,
+          "fresh_page_text_sha256": "d86db070d63e92f884863ecd1a49fec6cecf1f8dfde1c2f0a090dca901c4f6c1"
+        },
+        {
+          "pdf_page": 18,
+          "anchor": "本文只分析了妻子的婚姻满意度及其影响因素，而没有同时分析丈夫的婚姻满意度",
+          "normalization": "仅移除空白；标点与字符不替换",
+          "found_in_fresh_pdf_text": true,
+          "fresh_page_text_sha256": "6d1660d653a9b4faacc8f57199b3123912a3ca6e4438dd90a0b3746c3348c10d"
+        }
+      ],
+      "original_missing": false
+    },
+    {
+      "id": "ZHENG_DI2017",
+      "citation": "郑丹丹、狄金华，2017．女性家庭权力、夫妻关系与家庭代际资源分配．社会学研究，32(1)：171–192，245．DOI:10.19934/j.cnki.shxyj.2017.01.009．",
+      "original": {
+        "path": "/Users/lzhs/Zotero/代际理论/代际团结理论/子女婚姻/权力结构与议价能力/郑丹丹_狄金华_2017_女性家庭权力、夫妻关系与家庭代际资源分配.pdf",
+        "exists": true,
+        "bytes": 662334,
+        "sha256": "38ad57008f6c8ce94c274dd12af61782da2a12f9ebc514abd560c01414b49a50",
+        "role": "本地原始论文PDF；本轮刷新SHA并直接提取指定页段",
+        "matches_prior_sha": true
+      },
+      "existing_extract": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/review/nlm-runtime/round02_scoped_gaps_20261003_v1/caller_continuation_20261004_v1/route_recovery_v1/successor/local_adjudication_v1/source_claim_verification_v1/primary-18036-layout.txt",
+        "exists": true,
+        "bytes": 66916,
+        "sha256": "46df68c1f8cf910c5750956c19ffef8914540b2d2fbbf5c57a0ecce310606842",
+        "role": "已有文本摘录；正文相关页段阅读依据",
+        "matches_prior_sha": true
+      },
+      "read_pdf_pages": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        16,
+        17,
+        18,
+        19
+      ],
+      "pagination": "印刷页=PDF页+170",
+      "fresh_original_anchor_checks": [
+        {
+          "pdf_page": 11,
+          "anchor": "过去一年为父系家长和母系家长所提供的经济支持",
+          "normalization": "仅移除空白；标点与字符不替换",
+          "found_in_fresh_pdf_text": true,
+          "fresh_page_text_sha256": "051f2a140a2e76b407f2c306a4efa0e83cf2fb087975b4fba7749d706c9b849d"
+        },
+        {
+          "pdf_page": 12,
+          "anchor": "另一个自变量（及调节变量）是被调查家庭的夫妻关系状况",
+          "normalization": "仅移除空白；标点与字符不替换",
+          "found_in_fresh_pdf_text": true,
+          "fresh_page_text_sha256": "deda14322eab03d265aafe1c7f5576e5454930ba98c411dcba66833a7c862315"
+        },
+        {
+          "pdf_page": 13,
+          "anchor": "最终的分析对象为1139户家庭",
+          "normalization": "仅移除空白；标点与字符不替换",
+          "found_in_fresh_pdf_text": true,
+          "fresh_page_text_sha256": "fd950ba995c4f9266cf5e3c0deae99cda04d16e0475932f88414215a3a16ca02"
+        }
+      ],
+      "original_missing": false
+    },
+    {
+      "id": "FUJIHARA2024",
+      "citation": "Fujihara, S. (2024). Identifying the role of high school in educational inequality: A causal mediation approach. Social Science Research, 124, 103077. DOI:10.1016/j.ssresearch.2024.103077.",
+      "original": {
+        "path": "/Users/lzhs/Zotero/storage/VE6XPIJC/Fujihara_2024_Identifying the role of high school in educational inequality A causal mediation approach.pdf",
+        "exists": true,
+        "bytes": 1853415,
+        "sha256": "6b6f10d39319321b9522dbb0d9f6c146fabdc8fdea155a2c622db34b0ca805bb",
+        "role": "本地原始论文PDF；本轮刷新SHA并直接提取指定页段",
+        "matches_prior_sha": true
+      },
+      "existing_extract": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/review/draft_audit/bibliography_completion/local_sources/25728_VE6XPIJC.txt",
+        "exists": true,
+        "bytes": 113427,
+        "sha256": "87691f69eeb3f0e51cdce7750f31fbf89873859e85d2fa0d9190f490e97464d5",
+        "role": "已有文本摘录；正文相关页段阅读依据",
+        "matches_prior_sha": true
+      },
+      "read_pdf_pages": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "pagination": "PDF页与印刷页相同；第13–15页此前仅浏览标题，不计全文审读",
+      "fresh_original_anchor_checks": [
+        {
+          "pdf_page": 7,
+          "anchor": "There is no indirect counterpart because the mediator m is fixed to be a particular value.",
+          "normalization": "仅移除空白；标点与字符不替换",
+          "found_in_fresh_pdf_text": true,
+          "fresh_page_text_sha256": "7560c450d86f7c44157d9cb450355d6cb71dfa5a3c589c14ef06d470d2672921"
+        },
+        {
+          "pdf_page": 8,
+          "anchor": "1000 bootstrap samples",
+          "normalization": "仅移除空白；标点与字符不替换",
+          "found_in_fresh_pdf_text": true,
+          "fresh_page_text_sha256": "b63126b91f1ade9d51502759f03c4543ed4d8ef883bfdd9387ca78a19f82c411"
+        },
+        {
+          "pdf_page": 9,
+          "anchor": "n = 1790",
+          "normalization": "仅移除空白；标点与字符不替换",
+          "found_in_fresh_pdf_text": true,
+          "fresh_page_text_sha256": "b100c56b7d533ba55c35e3d1833063000921eb68ea18cca85d427bf1a060d6fb"
+        }
+      ],
+      "original_missing": false
+    }
+  ],
+  "inputs": [
+    {
+      "path": "/Users/lzhs/Downloads/00_数值收尾独立复核报告.md",
+      "exists": true,
+      "bytes": 11899,
+      "sha256": "a4032744fb185fec462c20669a69e3bbb26b0bf337d6cceba246762478abc9e1",
+      "role": "用户提供的本轮数值裁定/改文建议；作为措辞边界，不充当三篇论文的原文"
+    },
+    {
+      "path": "/Users/lzhs/Downloads/02_论文可用改文.md",
+      "exists": true,
+      "bytes": 11540,
+      "sha256": "40810420581d133883c955c144f24fb03d1ceded0d51f9f281ba198d1a033bed",
+      "role": "用户提供的本轮数值裁定/改文建议；作为措辞边界，不充当三篇论文的原文"
+    }
+  ],
+  "prior_adjudications": [
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/review/nlm-runtime/round02_scoped_gaps_20261003_v1/caller_continuation_20261004_v1/route_recovery_v1/successor/local_adjudication_v1/source_claim_verification_v1/CHINESE_CLAIMS.json",
+      "exists": true,
+      "bytes": 8655,
+      "sha256": "40a9d9df2bfcc96040bd4b8662de8af08a2a3c8b73d2c7cec4f2a9341041b3f4",
+      "role": "既有中文原文裁定；本轮复用有限支持边界"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/review/nlm-runtime/citation_source_gap_adjudication_20260930/CITATION_SOURCE_MAP.json",
+      "exists": true,
+      "bytes": 91914,
+      "sha256": "10fb40999b59b1d0faf0526dc18d253ecfff2ac51847945837da819c561df047",
+      "role": "既有引文源映射；仅使用Fujihara 25728的原文身份信息"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/review/nlm-runtime/final_cf_frozen_20261001/adjudication/round01/independent_citations_format_v1/CITATION_GAP_X02.json",
+      "exists": true,
+      "bytes": 13263,
+      "sha256": "8d2ad381fd38271514e7adf435909783188001e8a4cb5b0bfd9ddb26a16986aa",
+      "role": "历史中文引文元数据/缺口；不推定现稿仍缺引文"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/review/nlm-runtime/final_x02_review_prep_20261001/root_admission_v1/primary-18036-adjudication.json",
+      "exists": true,
+      "bytes": 372568,
+      "sha256": "e3de23b258236800d2ff89e353e9c2be15583d1083a42b59dc09ea0481d4aafb",
+      "role": "既有中文摘录差异裁定；其范围仅文本提取、非视觉表图验收"
+    }
+  ],
+  "missing_originals": [],
+  "verification_limits": [
+    "原始PDF新鲜SHA及选定页段直接pdftotext读回通过，不等同于本轮逐页视觉排版验收。",
+    "摘录已经读过的页段作为限定审计范围；未把三篇论文称为全文系统综述。",
+    "文献内容核验不等同于现稿动态引用Refresh或Word/PDF原生验收。"
+  ]
+}

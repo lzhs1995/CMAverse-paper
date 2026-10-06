@@ -1,0 +1,17 @@
+{
+  "created_at": "2026-10-06T14:15:04.677255+00:00",
+  "new_models": 0,
+  "new_R_index_audits": 0,
+  "new_hypothesis_tests": 0,
+  "microdata_copies": 0,
+  "execution_input_files": 120,
+  "execution_input_bytes": 197603909,
+  "source_pin_count": 288,
+  "coverage": "150 registered, 120 estimable, 240 B200 targets; accepted R row-index/seed identity reused with fresh whole-file SHA256 matching",
+  "limits": [
+    "Not independent statistical confirmation",
+    "Not a general FWER calibration proof",
+    "No p-value transplanted across model or inference versions",
+    "P1/P2 remaining timing and OR noncollapsibility caveats retained"
+  ]
+}

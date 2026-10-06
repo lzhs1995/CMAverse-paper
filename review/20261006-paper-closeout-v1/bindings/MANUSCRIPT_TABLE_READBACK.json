@@ -1,0 +1,48 @@
+{
+  "status": "PASS",
+  "created_at": "2026-10-06T14:24:32.197891+00:00",
+  "checks": [
+    "FEAS_031 table11 N/clusters/revised DeltaOR/CI exact rounding",
+    "FEAS_041 table11 N/clusters/revised DeltaOR/CI exact rounding",
+    "FEAS_031 A_B200_SEARCH table12 exact p and version separation",
+    "FEAS_041 A_B200_SEARCH table12 exact p and version separation",
+    "FEAS_031 B_B1000_LEGACY table12 exact p and version separation",
+    "FEAS_041 B_B1000_LEGACY table12 exact p and version separation",
+    "original table13 three states/two differences/omnibus exact rounding",
+    "capped table13 three states/two differences/omnibus exact rounding",
+    "table10 search/family/association/replication caveats retained"
+  ],
+  "files": [
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/manuscript/EVIDENCE_TABLES.json",
+      "bytes": 3828,
+      "sha256": "64b4f63cd6f15ee496df26f07ece37bd03ec7a260e1376aa30a4cc6f9f2c79c5"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/results/CANDIDATE_DEFINITIONS.csv",
+      "bytes": 2582,
+      "sha256": "91594719bdb90408d2db2d8dc3b7d058f8010af3580ab36d1089dbf236c69713"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/results/CANDIDATE_HISTORY_PANELS.csv",
+      "bytes": 12136,
+      "sha256": "3783cf06ca139b7d019d3a8cdecffbe734622f41e5f5d08dd01a7c673aa39c36"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/results/P3_THREE_STATE.csv",
+      "bytes": 1776,
+      "sha256": "1b0781887c17597ee31372357e61633563a8f2faff20bd8eb3c78202b0bfca11"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/results/P3_OMNIBUS.csv",
+      "bytes": 981,
+      "sha256": "ccffc457e5d67b0ba6f75800ce897e8ffe64fb0d838cbeec691a3d71028c23b3"
+    }
+  ],
+  "verifier": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/bindings/verify_manuscript_tables_v1.py",
+    "bytes": 3983,
+    "sha256": "78fb2c9566bec8d13c9814cc9aebc3814e1c4bc797cbef3c5a545fdb3aea484d"
+  },
+  "scope": "EVIDENCE_TABLES.json numeric/version readback only; not DOCX native acceptance"
+}

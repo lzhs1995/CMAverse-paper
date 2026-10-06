@@ -1,0 +1,72 @@
+{
+  "status": "PASS",
+  "created_at": "2026-10-06T14:21:56.384496+00:00",
+  "checks": 12,
+  "failed_check": null,
+  "error": null,
+  "verification": "fresh file hashes and independent arithmetic from frozen CSV exports",
+  "reused_evidence": "accepted native R row-index/replicate-seed audits; not newly rerun",
+  "limitations": [
+    "No independent model refit or new model",
+    "No general FWER or mediation-null calibration proof",
+    "No independent statistical confirmation of selected candidates",
+    "No removal of remaining covariate timing / OR noncollapsibility caveats",
+    "Word/PDF/NLM/publication acceptance outside this scope"
+  ],
+  "details": {
+    "SOURCE_FILE_HASHES": {
+      "count": 288,
+      "total_bytes": 217259313
+    },
+    "ACTUAL_120_EXECUTION_INPUTS": {
+      "files": 120,
+      "bytes": 197603909,
+      "new_R_index_audits": 0
+    },
+    "HISTORICAL_B200_INDEPENDENT_ARITHMETIC": {
+      "B": 200,
+      "targets": 240,
+      "minimum_all240": 0.5422885572139303
+    },
+    "P3_POINT_DIFFERENCES_AND_OMNIBUS": {
+      "calculations": [
+        {
+          "component": "original",
+          "covariance": [
+            [
+              362.1830131097261,
+              72.07571114467214
+            ],
+            [
+              72.07571114467214,
+              281.07862777497814
+            ]
+          ],
+          "statistic": 4.058448019316557,
+          "tail_count": 263,
+          "p_raw": 0.13193403298350825
+        },
+        {
+          "component": "capped",
+          "covariance": [
+            [
+              323.95212446779226,
+              54.34458296444521
+            ],
+            [
+              54.34458296444521,
+              225.98879370238487
+            ]
+          ],
+          "statistic": 5.155888083647372,
+          "tail_count": 159,
+          "p_raw": 0.079960019990005
+        }
+      ]
+    },
+    "SIX_TEST_BH_BY_AND_N1_PRESERVATION": {
+      "BH_rejections_05": 0,
+      "BY_rejections_05": 0
+    }
+  }
+}

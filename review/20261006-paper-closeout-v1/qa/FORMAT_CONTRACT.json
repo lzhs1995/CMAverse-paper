@@ -1,0 +1,18 @@
+{
+  "source_sha256": "cace3fc14e4cb8e4f516386890d331093c99fb0ffa363b91065200e1e5fcf00d",
+  "mode": "offline_content_candidate",
+  "body_size_half_points": 21,
+  "table_size_half_points": 21,
+  "evidence": "source body paragraph165 and table13/table30 explicit w:sz=21",
+  "table_fonts": {
+    "eastAsia": "SimSun",
+    "ascii": "Times New Roman",
+    "hAnsi": "Times New Roman",
+    "cs": "Times New Roman"
+  },
+  "table_alignment": "han-left-nonhan-right",
+  "indent_length_and_char_units": 0,
+  "format_master": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/manuscript/CMAverse_数值收尾合入_离线内容候选_未原生验收.docx",
+  "native_autofit_and_pagination": "PENDING",
+  "changed_tables": "table10 updated; tables11-13 added; tableE.1 values retained"
+}

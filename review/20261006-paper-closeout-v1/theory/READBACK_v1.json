@@ -1,0 +1,54 @@
+{
+  "status": "PASS_SCOPED",
+  "checks": {
+    "all_3_original_pdfs_present": true,
+    "all_3_pdf_sha_match_prior": true,
+    "all_3_extract_sha_match_prior": true,
+    "all_9_fresh_pdf_anchor_checks_pass": true,
+    "matrix_rows": 7,
+    "external_network_calls": 0,
+    "statistical_models_executed": 0,
+    "word_or_zotero_mutations": 0,
+    "new_static_citations_inserted": 0,
+    "ui_operations": 0,
+    "transfers": 0
+  },
+  "artifacts": [
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/theory/SOURCE_MANIFEST_v1.json",
+      "exists": true,
+      "bytes": 11025,
+      "sha256": "cb237e78005c14c7a2adf49a45747a6170629ed675293ea26ebbc7d7c0a03e26",
+      "role": "有限理论审计交付"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/theory/THEORY_EVIDENCE_MATRIX_v1.json",
+      "exists": true,
+      "bytes": 12738,
+      "sha256": "01213f7ada65ab034964b46c691df7cbbe14f41c6cd9299d053c30f5ae6f42aa",
+      "role": "有限理论审计交付"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/theory/THEORY_EVIDENCE_MATRIX_v1.md",
+      "exists": true,
+      "bytes": 12329,
+      "sha256": "d212db99f947c77062cac18a8a067a8855d26dd33f8a3106b42a249bbb772dbd",
+      "role": "有限理论审计交付"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/theory/DISCUSSION_INSERT_v1.md",
+      "exists": true,
+      "bytes": 3330,
+      "sha256": "80a48d233d3f16558c548f00526d0252aea3fbb246c522f12d93c7f63f92a3e0",
+      "role": "有限理论审计交付"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/theory/GAPS_AND_LIMITS_v1.md",
+      "exists": true,
+      "bytes": 2018,
+      "sha256": "63e2772b18138b56c8d468ead2602bf1f4004dff56dc78f8edd4cb883a569fcb",
+      "role": "有限理论审计交付"
+    }
+  ],
+  "self_hash_excluded": true
+}

@@ -1,0 +1,1473 @@
+{
+  "status": "OFFLINE_STRUCTURE_NUMERIC_TRACE_AND_TEXT_PASS_NATIVE_PENDING",
+  "at": "2026-10-06T14:35:41.252215+00:00",
+  "reviewer": "/root/limited_p3_code",
+  "independence": "Stdlib ZIP/XML/provenance and arithmetic only; did not import/execute manuscript builder, R, UI, shared resource code.",
+  "review_script": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/qa/independent_docx_review.py",
+    "sha256": "5121a9c98ece2b135130a0ec71fdd6c8f65d70329c6cf309f4f2505c5829ca8b",
+    "bytes": 15525
+  },
+  "source": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/manuscript/CMAverse_数值收尾合入_离线内容候选_未原生验收.docx",
+    "sha256": "cace3fc14e4cb8e4f516386890d331093c99fb0ffa363b91065200e1e5fcf00d",
+    "bytes": 474184
+  },
+  "output": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/manuscript/CMAverse_论文收尾合入_离线候选_原生验收待完成.docx",
+    "sha256": "ff278c5bba68ff7c6cdd0d52fc9cdd8fa7d2bac57876a2751fee8be3ddb4e95f",
+    "bytes": 475988
+  },
+  "checks": {
+    "frozen_output_sha": true,
+    "source_sha": true,
+    "zip_crc_all_members": true,
+    "no_duplicate_zip_names": true,
+    "zip_member_set_unchanged": true,
+    "only_document_xml_changed": true,
+    "every_xml_and_rels_parses": true,
+    "internal_relationship_targets_exist": true,
+    "relationship_ids_unique_per_part": true,
+    "document_relationship_references_resolve": true,
+    "content_type_overrides_exist": true,
+    "all_parts_have_content_types": true,
+    "preserved_fldChar": true,
+    "preserved_instrText": true,
+    "preserved_fldSimple": true,
+    "preserved_drawing": true,
+    "preserved_pict": true,
+    "preserved_object": true,
+    "preserved_footnoteReference": true,
+    "preserved_endnoteReference": true,
+    "preserved_bookmarkStart": true,
+    "preserved_bookmarkEnd": true,
+    "preserved_sectPr": true,
+    "preserved_oMath": true,
+    "preserved_oMathPara": true,
+    "all_story_asset_subtrees_preserved": true,
+    "all_other_original_paragraphs_preserved_in_order": true,
+    "original_asset_paragraphs_preserved_in_order": true,
+    "p67_exact_element_preserved_once": true,
+    "p67_explanation_separate_following_paragraph": true,
+    "footnoteReference_definitions_resolve": true,
+    "endnoteReference_definitions_resolve": true,
+    "bookmark_id_pairing": true,
+    "bookmark_ids_unique": true,
+    "no_revision_markup_in_offline_candidate": true,
+    "expected_table_count": true,
+    "untouched_original_tables_preserved_in_order": true,
+    "table13_exact_csv_values": true,
+    "table11_revised_estimates_intervals": true,
+    "table12_historical_values_and_version_caveat": true,
+    "revised_does_not_inherit_historical_p": true,
+    "P3_p_frozen_tail_counts": true,
+    "frozen_six_BH_BY_arithmetic": true,
+    "no_six_family_adjusted_rejection": true,
+    "candidate_TNIE_intervals_include_one": true,
+    "declared_result_source_hashes_match": true,
+    "precision_note_monotonicity_resolved": true,
+    "precision_note_modelled_estimand_resolved": true,
+    "native_snapshot_timestamp_present": true,
+    "native_snapshot_not_product_acceptance": true
+  },
+  "passed": 50,
+  "failed": [],
+  "details": {
+    "zip_members": [
+      {
+        "part": "[Content_Types].xml",
+        "before_sha256": "96b24ade3b51e540ebe85699104546dd4e587d352ef40ef388dae821132a8b51",
+        "after_sha256": "96b24ade3b51e540ebe85699104546dd4e587d352ef40ef388dae821132a8b51",
+        "equal": true
+      },
+      {
+        "part": "_rels/.rels",
+        "before_sha256": "c30fe099dbcfed4ecc4ae544ccf82f432c8d3bb665e2a301df283738b196d803",
+        "after_sha256": "c30fe099dbcfed4ecc4ae544ccf82f432c8d3bb665e2a301df283738b196d803",
+        "equal": true
+      },
+      {
+        "part": "customXml/_rels/item1.xml.rels",
+        "before_sha256": "80482f86e196171d66001e0e74d1900408a3aaf2463e54005d251b5f2db9a0b0",
+        "after_sha256": "80482f86e196171d66001e0e74d1900408a3aaf2463e54005d251b5f2db9a0b0",
+        "equal": true
+      },
+      {
+        "part": "customXml/item1.xml",
+        "before_sha256": "b30b8fd758aa47aada70ee7d8d8287349d6a21eb03c79bcb2e8930a1789022cc",
+        "after_sha256": "b30b8fd758aa47aada70ee7d8d8287349d6a21eb03c79bcb2e8930a1789022cc",
+        "equal": true
+      },
+      {
+        "part": "customXml/itemProps1.xml",
+        "before_sha256": "8401f11b1012b1c7770467c61744d42a4eaa24e1bda3c8dd393d764984d0e5c3",
+        "after_sha256": "8401f11b1012b1c7770467c61744d42a4eaa24e1bda3c8dd393d764984d0e5c3",
+        "equal": true
+      },
+      {
+        "part": "docProps/app.xml",
+        "before_sha256": "27d4b7cdb3eabe087a3c0da963b56e41bd193f3e781bc7a50d0a1d57b9f0a2fb",
+        "after_sha256": "27d4b7cdb3eabe087a3c0da963b56e41bd193f3e781bc7a50d0a1d57b9f0a2fb",
+        "equal": true
+      },
+      {
+        "part": "docProps/core.xml",
+        "before_sha256": "fcb81179d9cafaedbb6c38a88bbbe8b8b5f120dc0ecd3b32e4d1df5125100261",
+        "after_sha256": "fcb81179d9cafaedbb6c38a88bbbe8b8b5f120dc0ecd3b32e4d1df5125100261",
+        "equal": true
+      },
+      {
+        "part": "docProps/custom.xml",
+        "before_sha256": "8a5505824f8e7120125c61960c3a0b2e91e52c52851c909f8ba7085aa2b52dc0",
+        "after_sha256": "8a5505824f8e7120125c61960c3a0b2e91e52c52851c909f8ba7085aa2b52dc0",
+        "equal": true
+      },
+      {
+        "part": "word/_rels/document.xml.rels",
+        "before_sha256": "b508080d5aca47abcdd778a04bb50ae2e666162fa8414d49ea5ada7342758b67",
+        "after_sha256": "b508080d5aca47abcdd778a04bb50ae2e666162fa8414d49ea5ada7342758b67",
+        "equal": true
+      },
+      {
+        "part": "word/document.xml",
+        "before_sha256": "1de530e66fcfe49bf02bcb3a99140e3a5ba4014aaa4ed69f824aa6990084ae80",
+        "after_sha256": "d66d8016c433e0cb48802dd0ea63d6261978366a3ddc50e142206c440a2c4b38",
+        "equal": false
+      },
+      {
+        "part": "word/endnotes.xml",
+        "before_sha256": "c9608919c622181e20f7f7bf9a148787ad02aa8cbd7f039403eef9960b634929",
+        "after_sha256": "c9608919c622181e20f7f7bf9a148787ad02aa8cbd7f039403eef9960b634929",
+        "equal": true
+      },
+      {
+        "part": "word/fontTable.xml",
+        "before_sha256": "427fd0bda9c589570a89bb997cc439ba8ecec4f3c27a3b42be5c89f034460042",
+        "after_sha256": "427fd0bda9c589570a89bb997cc439ba8ecec4f3c27a3b42be5c89f034460042",
+        "equal": true
+      },
+      {
+        "part": "word/footer1.xml",
+        "before_sha256": "6299e76cedf832f446b0ae0af9ce05ab9e48d5d4578271ff317e6c1c1f5d1e0a",
+        "after_sha256": "6299e76cedf832f446b0ae0af9ce05ab9e48d5d4578271ff317e6c1c1f5d1e0a",
+        "equal": true
+      },
+      {
+        "part": "word/footer2.xml",
+        "before_sha256": "c0a3c1f98994320532252409aa36c5086c2827dbd0637909d2acb3991c9ee8f8",
+        "after_sha256": "c0a3c1f98994320532252409aa36c5086c2827dbd0637909d2acb3991c9ee8f8",
+        "equal": true
+      },
+      {
+        "part": "word/footer3.xml",
+        "before_sha256": "ad64f7c12243af3c26c0c8de7a17d38d2e587e27dd68a356971f4fee8ce63afa",
+        "after_sha256": "ad64f7c12243af3c26c0c8de7a17d38d2e587e27dd68a356971f4fee8ce63afa",
+        "equal": true
+      },
+      {
+        "part": "word/footnotes.xml",
+        "before_sha256": "deb63dc6d766432365f436313f2e328efba80d1be5645e0e69604b412df49574",
+        "after_sha256": "deb63dc6d766432365f436313f2e328efba80d1be5645e0e69604b412df49574",
+        "equal": true
+      },
+      {
+        "part": "word/header1.xml",
+        "before_sha256": "40aad9c8f5e3a3374dcf4757778c732f55ca7d8a4c78d6a4ae09232b2567377b",
+        "after_sha256": "40aad9c8f5e3a3374dcf4757778c732f55ca7d8a4c78d6a4ae09232b2567377b",
+        "equal": true
+      },
+      {
+        "part": "word/header2.xml",
+        "before_sha256": "6656611433d3c2e49ec4689fdc3cd0bac786a41fe8c78d770715b8179f853d9c",
+        "after_sha256": "6656611433d3c2e49ec4689fdc3cd0bac786a41fe8c78d770715b8179f853d9c",
+        "equal": true
+      },
+      {
+        "part": "word/header3.xml",
+        "before_sha256": "f7b800efafa41cb2e0900bbbf8ba1ea64393bf3aa253818011f9ebc655a948ba",
+        "after_sha256": "f7b800efafa41cb2e0900bbbf8ba1ea64393bf3aa253818011f9ebc655a948ba",
+        "equal": true
+      },
+      {
+        "part": "word/media/image1.png",
+        "before_sha256": "ed3943119af2039afbda5bb8959e59fe520241f17152f28a14ee1336415ef98c",
+        "after_sha256": "ed3943119af2039afbda5bb8959e59fe520241f17152f28a14ee1336415ef98c",
+        "equal": true
+      },
+      {
+        "part": "word/media/image2.png",
+        "before_sha256": "5cd960db6f2cc04ffca7a8e588839598c0e6b51481f23bd06d6028dea48f0099",
+        "after_sha256": "5cd960db6f2cc04ffca7a8e588839598c0e6b51481f23bd06d6028dea48f0099",
+        "equal": true
+      },
+      {
+        "part": "word/media/image3.png",
+        "before_sha256": "5392477752cc4c816e704e67ae566ef0207b7f1c0982482b97e308622009cee4",
+        "after_sha256": "5392477752cc4c816e704e67ae566ef0207b7f1c0982482b97e308622009cee4",
+        "equal": true
+      },
+      {
+        "part": "word/numbering.xml",
+        "before_sha256": "1577dd56ad7d05bb209fe03fc0994422c3fae57cc4d0c1667e7750a7d2d8bbc6",
+        "after_sha256": "1577dd56ad7d05bb209fe03fc0994422c3fae57cc4d0c1667e7750a7d2d8bbc6",
+        "equal": true
+      },
+      {
+        "part": "word/settings.xml",
+        "before_sha256": "1ce9eedf9cbac41f356a82cd696f79eb754dc29a1a83eee70b03114e92f47c2a",
+        "after_sha256": "1ce9eedf9cbac41f356a82cd696f79eb754dc29a1a83eee70b03114e92f47c2a",
+        "equal": true
+      },
+      {
+        "part": "word/styles.xml",
+        "before_sha256": "33f69f413c3aaa9cf8ef4af1339c2329e7260a5f060d0a06ac95c86472a06e62",
+        "after_sha256": "33f69f413c3aaa9cf8ef4af1339c2329e7260a5f060d0a06ac95c86472a06e62",
+        "equal": true
+      },
+      {
+        "part": "word/theme/theme1.xml",
+        "before_sha256": "7017cbe8b7512b56e04e6b3e3579aa862a35b6f9f31e0bf48328f6e5c074ebbd",
+        "after_sha256": "7017cbe8b7512b56e04e6b3e3579aa862a35b6f9f31e0bf48328f6e5c074ebbd",
+        "equal": true
+      },
+      {
+        "part": "word/webSettings.xml",
+        "before_sha256": "9d21da07e99d87dfe36f6587ccc669539495e7130c513a0b63e3df49d2d71bd1",
+        "after_sha256": "9d21da07e99d87dfe36f6587ccc669539495e7130c513a0b63e3df49d2d71bd1",
+        "equal": true
+      }
+    ],
+    "parse_errors": [],
+    "relationships": {
+      "total": 23,
+      "missing_targets": [],
+      "duplicate_ids": []
+    },
+    "assets": {
+      "fldChar": {
+        "before": 60,
+        "after": 60,
+        "identical": true
+      },
+      "instrText": {
+        "before": 216,
+        "after": 216,
+        "identical": true
+      },
+      "fldSimple": {
+        "before": 0,
+        "after": 0,
+        "identical": true
+      },
+      "drawing": {
+        "before": 3,
+        "after": 3,
+        "identical": true
+      },
+      "pict": {
+        "before": 0,
+        "after": 0,
+        "identical": true
+      },
+      "object": {
+        "before": 0,
+        "after": 0,
+        "identical": true
+      },
+      "footnoteReference": {
+        "before": 6,
+        "after": 6,
+        "identical": true
+      },
+      "endnoteReference": {
+        "before": 0,
+        "after": 0,
+        "identical": true
+      },
+      "bookmarkStart": {
+        "before": 3,
+        "after": 3,
+        "identical": true
+      },
+      "bookmarkEnd": {
+        "before": 3,
+        "after": 3,
+        "identical": true
+      },
+      "sectPr": {
+        "before": 1,
+        "after": 1,
+        "identical": true
+      },
+      "oMath": {
+        "before": 10,
+        "after": 10,
+        "identical": true
+      },
+      "oMathPara": {
+        "before": 10,
+        "after": 10,
+        "identical": true
+      }
+    },
+    "all_word_story_parts": {
+      "word/document.xml": {
+        "whole_part_identical": false,
+        "assets": {
+          "fldChar": {
+            "before": 60,
+            "after": 60,
+            "identical": true
+          },
+          "instrText": {
+            "before": 216,
+            "after": 216,
+            "identical": true
+          },
+          "fldSimple": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "drawing": {
+            "before": 3,
+            "after": 3,
+            "identical": true
+          },
+          "pict": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "object": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "footnoteReference": {
+            "before": 6,
+            "after": 6,
+            "identical": true
+          },
+          "endnoteReference": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "bookmarkStart": {
+            "before": 3,
+            "after": 3,
+            "identical": true
+          },
+          "bookmarkEnd": {
+            "before": 3,
+            "after": 3,
+            "identical": true
+          },
+          "sectPr": {
+            "before": 1,
+            "after": 1,
+            "identical": true
+          },
+          "oMath": {
+            "before": 10,
+            "after": 10,
+            "identical": true
+          },
+          "oMathPara": {
+            "before": 10,
+            "after": 10,
+            "identical": true
+          }
+        }
+      },
+      "word/footnotes.xml": {
+        "whole_part_identical": true,
+        "assets": {
+          "fldChar": {
+            "before": 9,
+            "after": 9,
+            "identical": true
+          },
+          "instrText": {
+            "before": 53,
+            "after": 53,
+            "identical": true
+          },
+          "fldSimple": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "drawing": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "pict": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "object": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "footnoteReference": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "endnoteReference": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "bookmarkStart": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "bookmarkEnd": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "sectPr": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "oMath": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "oMathPara": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          }
+        }
+      },
+      "word/endnotes.xml": {
+        "whole_part_identical": true,
+        "assets": {
+          "fldChar": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "instrText": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "fldSimple": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "drawing": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "pict": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "object": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "footnoteReference": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "endnoteReference": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "bookmarkStart": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "bookmarkEnd": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "sectPr": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "oMath": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "oMathPara": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          }
+        }
+      },
+      "word/header1.xml": {
+        "whole_part_identical": true,
+        "assets": {
+          "fldChar": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "instrText": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "fldSimple": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "drawing": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "pict": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "object": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "footnoteReference": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "endnoteReference": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "bookmarkStart": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "bookmarkEnd": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "sectPr": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "oMath": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "oMathPara": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          }
+        }
+      },
+      "word/header2.xml": {
+        "whole_part_identical": true,
+        "assets": {
+          "fldChar": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "instrText": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "fldSimple": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "drawing": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "pict": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "object": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "footnoteReference": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "endnoteReference": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "bookmarkStart": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "bookmarkEnd": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "sectPr": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "oMath": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "oMathPara": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          }
+        }
+      },
+      "word/footer1.xml": {
+        "whole_part_identical": true,
+        "assets": {
+          "fldChar": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "instrText": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "fldSimple": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "drawing": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "pict": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "object": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "footnoteReference": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "endnoteReference": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "bookmarkStart": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "bookmarkEnd": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "sectPr": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "oMath": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "oMathPara": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          }
+        }
+      },
+      "word/footer2.xml": {
+        "whole_part_identical": true,
+        "assets": {
+          "fldChar": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "instrText": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "fldSimple": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "drawing": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "pict": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "object": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "footnoteReference": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "endnoteReference": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "bookmarkStart": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "bookmarkEnd": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "sectPr": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "oMath": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "oMathPara": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          }
+        }
+      },
+      "word/header3.xml": {
+        "whole_part_identical": true,
+        "assets": {
+          "fldChar": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "instrText": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "fldSimple": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "drawing": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "pict": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "object": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "footnoteReference": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "endnoteReference": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "bookmarkStart": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "bookmarkEnd": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "sectPr": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "oMath": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "oMathPara": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          }
+        }
+      },
+      "word/footer3.xml": {
+        "whole_part_identical": true,
+        "assets": {
+          "fldChar": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "instrText": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "fldSimple": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "drawing": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "pict": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "object": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "footnoteReference": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "endnoteReference": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "bookmarkStart": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "bookmarkEnd": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "sectPr": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "oMath": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "oMathPara": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          }
+        }
+      },
+      "word/settings.xml": {
+        "whole_part_identical": true,
+        "assets": {
+          "fldChar": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "instrText": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "fldSimple": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "drawing": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "pict": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "object": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "footnoteReference": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "endnoteReference": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "bookmarkStart": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "bookmarkEnd": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "sectPr": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "oMath": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "oMathPara": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          }
+        }
+      },
+      "word/styles.xml": {
+        "whole_part_identical": true,
+        "assets": {
+          "fldChar": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "instrText": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "fldSimple": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "drawing": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "pict": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "object": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "footnoteReference": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "endnoteReference": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "bookmarkStart": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "bookmarkEnd": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "sectPr": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "oMath": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "oMathPara": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          }
+        }
+      },
+      "word/webSettings.xml": {
+        "whole_part_identical": true,
+        "assets": {
+          "fldChar": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "instrText": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "fldSimple": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "drawing": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "pict": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "object": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "footnoteReference": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "endnoteReference": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "bookmarkStart": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "bookmarkEnd": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "sectPr": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "oMath": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "oMathPara": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          }
+        }
+      },
+      "word/fontTable.xml": {
+        "whole_part_identical": true,
+        "assets": {
+          "fldChar": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "instrText": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "fldSimple": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "drawing": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "pict": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "object": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "footnoteReference": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "endnoteReference": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "bookmarkStart": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "bookmarkEnd": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "sectPr": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "oMath": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "oMathPara": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          }
+        }
+      },
+      "word/numbering.xml": {
+        "whole_part_identical": true,
+        "assets": {
+          "fldChar": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "instrText": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "fldSimple": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "drawing": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "pict": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "object": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "footnoteReference": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "endnoteReference": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "bookmarkStart": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "bookmarkEnd": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "sectPr": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "oMath": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          },
+          "oMathPara": {
+            "before": 0,
+            "after": 0,
+            "identical": true
+          }
+        }
+      }
+    },
+    "p67": {
+      "source_index_zero_based": 67,
+      "output_indices_zero_based": [
+        67
+      ],
+      "source_text": "受控直接效应CDE(m)在理论上比较全体目标记录的M均设为同一状态m时，两种收入状态对应的结果，不删除实际观察到另一M状态的记录。比较CDE(1)与CDE(0)须以两种联合设定可行及相应识别条件成立为前提。本文相对满意度链存在固定M与其他状态的确定性禁配，因此既有CDE差值不能作为已识别的因果调节检验。",
+      "asset_counts": {
+        "fldChar": 0,
+        "instrText": 0,
+        "fldSimple": 0,
+        "drawing": 0,
+        "pict": 0,
+        "object": 0,
+        "footnoteReference": 1,
+        "endnoteReference": 0,
+        "bookmarkStart": 0,
+        "bookmarkEnd": 0,
+        "sectPr": 0
+      },
+      "explanation_text": "上述确定性禁配针对历史八链的联合设定。后续031／041采用不同的调整结构，其固定M对比须按各自模型判断支持与识别条件，见限定复核。"
+    },
+    "revision_counts": {
+      "ins": 0,
+      "del": 0,
+      "moveFrom": 0,
+      "moveTo": 0,
+      "pPrChange": 0,
+      "rPrChange": 0,
+      "tblPrChange": 0,
+      "sectPrChange": 0
+    },
+    "result_source_references": [
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/search_audit/ALL_150_REGISTER.csv",
+        "sha256": "4d253cb8f7cdd795e185633d0d556e662277251497b15bf236e27998ee0d16e6",
+        "bytes": 90581,
+        "verified": true
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/search_audit/RW_ALL_240.csv",
+        "sha256": "06369784ef17c1c66fa2dd4e7528db69aee28a5520dd23b7ed26c55e4bb229b6",
+        "bytes": 21754,
+        "verified": true
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/verify_B1000_v1/FEAS_031/METRICS.csv",
+        "sha256": "b0b72189ba173917e4e454e38d3d9baaf7471e5690ec84af09aca3b469030952",
+        "bytes": 591,
+        "verified": true
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/p1_p2/readonly_summary_v1/FEAS_031_intervals.csv",
+        "sha256": "a16da1aae8ba566623908e17eae1056e27e7abc7325a3319abd0631d9f4a5872",
+        "bytes": 906,
+        "verified": true
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/verify_B1000_v1/FEAS_041/METRICS.csv",
+        "sha256": "514527d3f778b1fbe54f5146bdc21bc0608a8991a9f6db3b0d999530ec654dba",
+        "bytes": 594,
+        "verified": true
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/p1_p2/readonly_summary_v1/FEAS_041_intervals.csv",
+        "sha256": "b52e0385b11f9311c6ef4eea60bfd56aa630bfa2bfd649d31b494ad4d0237617",
+        "bytes": 911,
+        "verified": true
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/p1_p2/readonly_summary_v1/FEAS_031_loo.csv",
+        "sha256": "3f8578a3af9da01b3f0b2b79be8ff1826ef3cff235b3e890f60156e4ee26c8e8",
+        "bytes": 2304318,
+        "verified": true
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/p1_p2/readonly_summary_v1/FEAS_041_loo.csv",
+        "sha256": "2166abaae863ba80a94282276e3c69bd64a8ccad3a5f9595412cbf337b6adc83",
+        "bytes": 2475478,
+        "verified": true
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/p1_p2/readonly_summary_v1/FEAS_031_period.csv",
+        "sha256": "b28984ffa5430c7caf249daff7b5abd5c982fe6ca7e362c3a18eda4776c29113",
+        "bytes": 1698,
+        "verified": true
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/p1_p2/readonly_summary_v1/FEAS_041_period.csv",
+        "sha256": "ba6cd4e404f38445b8910dde5a22a2d47d7a1399b13dc58b0b331e45673af8f3",
+        "bytes": 1699,
+        "verified": true
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/n1_n2/runtime_v2/N1_formal_v3/N1_primary_four.csv",
+        "sha256": "7e316aefe1087dfed5cdea08778153aa8e9a8869647f96c6bca040499ef3316c",
+        "bytes": 922,
+        "verified": true
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/exports/SIX_TEST_FAMILY.csv",
+        "sha256": "898dae5ff61817e300c949ce3d450d739bba1c94eb1300bc576631697c2d5885",
+        "bytes": 458,
+        "verified": true
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/exports/P3_OMNIBUS.csv",
+        "sha256": "66efaccabcb3d9cc27849239c38e3dd186fce674db90a2491c6224f18a37375a",
+        "bytes": 276,
+        "verified": true
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/exports/P3_POINTS.csv",
+        "sha256": "b26fd98a7d07cc1011f7f80a0aaba2d12150563bb2359a483e286e2818d5cb71",
+        "bytes": 349,
+        "verified": true
+      }
+    ],
+    "native_limits": {
+      "snapshot_at": "2026-10-06T14:14:49.470415+00:00",
+      "adapter_at": "2026-10-06T14:23:18.532675+00:00",
+      "readiness": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/native_readiness/READINESS.json",
+        "sha256": "6be772a6305039ca9b1d0f0555f958cb0dc2d1d0784588b2163c4ad0afae2140",
+        "bytes": 17023
+      },
+      "report": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/native_readiness/REPORT.md",
+        "sha256": "8344cfaef3241ff66e9237cf33f347c153c7bde63fad05f41c0266a33a06292a",
+        "bytes": 2454
+      },
+      "adapter": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/native_readiness/short_successor_actual_release_v4/READY.json",
+        "sha256": "dfa108445ca648f3b1427b66d51342b42a9608930ad6232b7b1f331f122fbf18",
+        "bytes": 2008
+      },
+      "no_live_recheck_this_audit": true,
+      "predecessor_release": "Verified historically; not Word product acceptance.",
+      "current_manuscript": "Now frozen to this report SHA; old adapter statement that manuscript was not frozen is historical and superseded only for offline freeze, not runtime binding.",
+      "pending": [
+        "Original actual-release outer PROCESS/TERMINAL/wait provenance remains missing.",
+        "Current resource owner/release, FIFO, identity, HID and same-inode availability not freshly observed.",
+        "New frozen manuscript/source/short native anchor not bound into a runnable native execution package.",
+        "Native Word field behavior, tracked-revision accept/reject, pagination, same-version PDF and final NLM acceptance remain unperformed."
+      ]
+    }
+  },
+  "findings": [
+    {
+      "id": "TEXT_PRECISION_MONOTONICITY",
+      "severity": "resolved",
+      "paragraph_index_zero_based": 173,
+      "quote": "三状态金额复核恢复了原金额的可估计性，但没有提供预设5%水平下的整体修饰证据。基期本人满意度为5分时，收入增加对应的支持金额对比低于4分及≤3分状态；原金额与预定99%封顶口径的整体p分别为0.132和0.080（表13）。两者各有2,000次有效重复，固定六项家族调整后亦未显著。该结果描述不同满意度状态下的收入联系，不能解读为提高满意度使支持金额减少。",
+      "reason": "已限定为5分低于其余两类，不再概括为三状态单调下降。"
+    },
+    {
+      "id": "TEXT_ESTIMAND_IDENTIFICATION",
+      "severity": "resolved",
+      "paragraph_index_zero_based": 166,
+      "quote": "限定复核保留了两条与夫妻相对婚姻评价有关的探索性线索。删除跨波累计的父辈支持变量后，相对位置跃迁候选与分差变化候选的固定状态CDE差分别为−0.409和−0.085，未调整95%区间均不含零（表11）。这些差值处于边际OR尺度，不能解释为支持概率下降的百分点。两项模型化自然间接对比的区间均包含无效值1，未提供明确的完整中介证据。",
+      "reason": "已明确模型化自然间接对比；未宣称因果识别成立。"
+    },
+    {
+      "id": "NATIVE_DELIVERY_PENDING",
+      "severity": "scope_limit",
+      "reason": "离线候选无修订标记；不能据此确立原生Word显示、域刷新、修订接受/拒绝行为、分页或同版PDF/NLM通过。"
+    }
+  ],
+  "actions": {
+    "ui": 0,
+    "models": 0,
+    "network": 0,
+    "locks": 0,
+    "manuscript_edits": 0
+  },
+  "limitations": [
+    "Only target frozen SHA covered; later changes require rebind.",
+    "No independent historical model estimation or native field evaluation."
+  ]
+}
