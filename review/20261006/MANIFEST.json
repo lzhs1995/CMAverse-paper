@@ -1,0 +1,55 @@
+{
+  "scope": "10 immutable review packages; stage delivery, not final manuscript",
+  "files": [
+    {
+      "file": "01_review_part01.zip",
+      "bytes": 500543,
+      "sha256": "0fa63907cded226a4c4b2ccd3e6edfc9b528e077b2387ae125e0401e0c9c4808"
+    },
+    {
+      "file": "02_review_part01.zip",
+      "bytes": 10556678,
+      "sha256": "82f9e6a83284c485233b7101cd6a1f01d06d724499c1de973c2afa8e38dda4f6"
+    },
+    {
+      "file": "02_review_part02.zip",
+      "bytes": 16391902,
+      "sha256": "b30db4ee9774d3699dfe0be71360dfec42dfdd40592bf36bb2cbd055fe989ab0"
+    },
+    {
+      "file": "03_review_part01.zip",
+      "bytes": 15753773,
+      "sha256": "af821f3b73d9d8e433175381cb7b8558aa6bbf4f024680649e64b015a619103c"
+    },
+    {
+      "file": "04_正文审计补充.zip",
+      "bytes": 460333,
+      "sha256": "9ef48622323c42b0dd4541804e846b80e7296ba02d137f8c91fb66735fedaf99"
+    },
+    {
+      "file": "05_最新候选与离线验收补充.zip",
+      "bytes": 1391685,
+      "sha256": "1a198434abccb449dc82054dad6ccad28daff7f47c5ef2449bd88bc3ec7324b6"
+    },
+    {
+      "file": "06_结构修复与原生边界补充.zip",
+      "bytes": 1003659,
+      "sha256": "f5825103250aff315bd8446c94eb38bab88bde9a1bdc1e9f5cab4414b3ce38b1"
+    },
+    {
+      "file": "08_分页修复与原生验收补充.zip",
+      "bytes": 2156038,
+      "sha256": "035f079ae9b71b9c04909e35be694bee76ba95021a0f97e04921f069290b39b7"
+    },
+    {
+      "file": "09_版式裁决与字体核查补充.zip",
+      "bytes": 6923,
+      "sha256": "9322916bb51172399e6c04a4d4dd5c35c8e404f065c637b59c2ddbd101f89a98"
+    },
+    {
+      "file": "10_最新原生稿与验收补充.zip",
+      "bytes": 2592348,
+      "sha256": "f807348d04c4c39435ff38e5c8a55ac31f20a586d459b189769fa0f139c8b090"
+    }
+  ]
+}
