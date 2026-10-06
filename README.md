@@ -1,3 +1,12 @@
+## 2026-10-07 接续状态补充已发布
+
+新补充包8,161字节；6文件已从固定提交回下载核验。统计及累计离线改文冻结；最终原生Word/PDF和同版NLM仍待资源安全交接。主体资料继续使用下方累计稿入口。
+
+补充说明：
+https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/main/review/20261007-followup-status-v1/PUBLICATION_FEEDBACK.md
+
+---
+
 # 最新：累计论文修改与三份Claude审阅已合入（2026-10-07）
 
 入口：

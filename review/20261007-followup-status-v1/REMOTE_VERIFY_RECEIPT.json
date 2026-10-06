@@ -1,0 +1,65 @@
+{
+  "status": "PUBLISHED_FIXED_COMMIT_DOWNLOAD_VERIFIED",
+  "checked_at": "2026-10-06T20:48:45.569318+00:00",
+  "repository": "https://github.com/lzhs1995/CMAverse-paper",
+  "commit": "97eab4e7f217ff1b1f7582aa2354d91c4fb504b4",
+  "files": [
+    {
+      "file": "MANIFEST.json",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/97eab4e7f217ff1b1f7582aa2354d91c4fb504b4/review/20261007-followup-status-v1/MANIFEST.json",
+      "http_status": 200,
+      "bytes": 805,
+      "sha256": "cdde3972ad8206a8331532dd27281ba82a0935925ff45a3d2835785f340e1703",
+      "matches_published_local_bytes": true
+    },
+    {
+      "file": "REPORT.md",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/97eab4e7f217ff1b1f7582aa2354d91c4fb504b4/review/20261007-followup-status-v1/REPORT.md",
+      "http_status": 200,
+      "bytes": 4882,
+      "sha256": "a7007a34ca0c8429c045f04019ec0d108d32f810d8a9071f00d388cba8ef5c89",
+      "matches_published_local_bytes": true
+    },
+    {
+      "file": "SKILL_DOCUMENTATION_VERIFICATION.json",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/97eab4e7f217ff1b1f7582aa2354d91c4fb504b4/review/20261007-followup-status-v1/SKILL_DOCUMENTATION_VERIFICATION.json",
+      "http_status": 200,
+      "bytes": 2784,
+      "sha256": "a304ee2fb1769b4da1881d2eb3dc26c61b38aee1814eb422be3f8a7e5041fe6c",
+      "matches_published_local_bytes": true
+    },
+    {
+      "file": "followup_status_part01.zip",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/97eab4e7f217ff1b1f7582aa2354d91c4fb504b4/review/20261007-followup-status-v1/followup_status_part01.zip",
+      "http_status": 200,
+      "bytes": 8161,
+      "sha256": "5d03163fe381abb3e18abdfd8415c9835faf1ebd66482e4bac6f27672c4733da",
+      "matches_published_local_bytes": true
+    },
+    {
+      "file": "frozen-results-and-closeout-20261007.md",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/97eab4e7f217ff1b1f7582aa2354d91c4fb504b4/review/20261007-followup-status-v1/frozen-results-and-closeout-20261007.md",
+      "http_status": 200,
+      "bytes": 2554,
+      "sha256": "676df3c519366abc514f090298e347d429dfa3f3b9620eab3dfe1545b7598393",
+      "matches_published_local_bytes": true
+    },
+    {
+      "file": "selection-search-manuscript-closeout-20261007.md",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/97eab4e7f217ff1b1f7582aa2354d91c4fb504b4/review/20261007-followup-status-v1/selection-search-manuscript-closeout-20261007.md",
+      "http_status": 200,
+      "bytes": 3261,
+      "sha256": "cf6e6331967fc8d5d60385a5f2ab4fbc471344bb9c6c1a2f3367b04259f2fea5",
+      "matches_published_local_bytes": true
+    }
+  ],
+  "downloaded_files": 6,
+  "zip_members": 5,
+  "manifest_verified_files": 4,
+  "crc_pass": true,
+  "zip_bytes": 8161,
+  "all_zip_files_below_25000000_bytes": true,
+  "native_final_complete": false,
+  "statistical_estimation_calls": 0,
+  "reviewer": "solo_self_review"
+}
