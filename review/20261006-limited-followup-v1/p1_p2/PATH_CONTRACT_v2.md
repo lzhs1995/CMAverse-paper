@@ -1,0 +1,11 @@
+# P1/P2真实旧产物契约修复
+
+仅改p1_p2目录。旧worker逐字保存在p1_p2_frozen_worker.before_path_contract_v2.R。离线文件证据SHA与bytes见PATH_CONTRACT_v2.json。
+
+原失败原因：worker少拼接了一层规格ID；真正执行输入为verify_B1000_v1/FEAS_031/FEAS_031/execution_inputs.rds（041同理）。另一个隐患：完整cmest_full.rds当前不在本地，不能仅修路径后继续假定存在。
+
+修复采用本地原紧凑对象而非重估或恢复大文件：1000个bootstrap_%02d.rds、bootstrap_t0.rds均已离线核存在；外层ALL_NATIVE_EFFECTS.csv保留原生效应尺度/点估计，ARTIFACT_VALIDATION.json保留原完整对象与grid一致性、实际抽样SHA。
+
+保留原样本SHA、spec严格一致、原抽样逐次重建identical和种子identical；新增原ARTIFACT_VALIDATION中的actual_indices整体SHA、抽样计划registry/membership文件SHA验证。公式完全按原regrun.R的X+M+X*M+basec构造，必须与保存pointgrid结果模型系数名逐列一致。代入旧系数计算CDE并与原点值核至1e-8，不重新拟合。旧点值同时与ALL_NATIVE_EFFECTS核对，全部1000个grid及源文件写入manifest。
+
+状态：只有离线路径/存在性/源代码检查已完成。未运行R、未新估计、未放松SHA；原生prepare还需由supervisor重source修订worker后执行，任何断言失败应保留错误，不绕过门禁。

@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "method": "Scaled normal equations plus cluster score outer products; no lm/glm/vcovCL calls",
+  "n": 13293,
+  "k": 15,
+  "clusters": 3186,
+  "HC1_cadjust": 1.0014,
+  "max_absolute_error": {
+    "estimate": 1.3772e-12,
+    "se": 1.1621e-14,
+    "p": 1.2781e-11
+  },
+  "tolerance": 1e-07,
+  "columns": ["(Intercept)", "s_mean", "s_dev", "sp_mean", "sp_dev", "inc_ihs_mean", "inc_ihs_dev", "factor(wave)2020", "factor(wave)2022", "female", "age", "I(age^2)", "edu", "hukou", "n_par"],
+  "formula": ["y_any ~ s_mean + s_dev + sp_mean + sp_dev + inc_ihs_mean + inc_ihs_dev + ", "    factor(wave) + female + age + I(age^2) + edu + hukou + n_par"],
+  "new_tests": 0,
+  "boundary": "Implementation equivalence only; does not establish causality or validate new significance"
+}

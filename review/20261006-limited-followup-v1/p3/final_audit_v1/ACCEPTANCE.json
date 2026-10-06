@@ -1,0 +1,32 @@
+{
+  "status": "FILE_AUDIT_PASS",
+  "models_run": 0,
+  "identity": "a26a717a2a6b17fb83d1cabc3ebcf759baa20798349786a450ed424de3eb683c",
+  "B": 2000,
+  "all_draws_verified": 2000,
+  "equations_checked": 6000,
+  "global_clusters": 3212,
+  "eligible_clusters": 3153,
+  "zero_contribution_clusters": 59,
+  "eligible_rows": 12634,
+  "cap": 2664.2984,
+  "cap_operation": "pmin",
+  "cold_primary": true,
+  "warm_used_in_primary": false,
+  "final_min_valid": 1960,
+  "fixed_family_n": 6,
+  "withheld_test_ids": "P3_ORIGINAL_OMNIBUS",
+  "technical200_counts": {
+    "probability": 200,
+    "original": 195,
+    "capped": 200
+  },
+  "no_new_p_values": true,
+  "original_omnibus_arithmetic_verified": true,
+  "native_terminal_verified_by_supervisor": true,
+  "native_terminal_evidence": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/p3/NATIVE_TERMINAL_finish_v1.json",
+  "native_terminal_sha256": "3a0513072d63b6a337e71072f6e9951be268e8df30d69da13f43eef81c7cea5e",
+  "input_sha_unchanged": true,
+  "prior_search_correction_claim": false,
+  "at": "2026-10-06 05:17:10 UTC"
+}

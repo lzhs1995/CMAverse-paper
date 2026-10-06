@@ -1,0 +1,17 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "2026-10-06 05:03:34 UTC start P3 screen 原固定计划；已保存 0 \n2026-10-06 05:03:45 UTC bootstrap_checkpoint P3已保存 25 /2000；cold主估计/warm仅诊断 \n2026-10-06 05:03:53 UTC bootstrap_checkpoint P3已保存 50 /2000；cold主估计/warm仅诊断 \n2026-10-06 05:03:59 UTC bootstrap_checkpoint P3已保存 75 /2000；cold主估计/warm仅诊断 \n2026-10-06 05:04:07 UTC bootstrap_checkpoint P3已保存 100 /2000；cold主估计/warm仅诊断 \n2026-10-06 05:04:15 UTC bootstrap_checkpoint P3已保存 125 /2000；cold主估计/warm仅诊断 \n2026-10-06 05:04:25 UTC bootstrap_checkpoint P3已保存 150 /2000；cold主估计/warm仅诊断 \n2026-10-06 05:04:31 UTC bootstrap_checkpoint P3已保存 175 /2000；cold主估计/warm仅诊断 \n2026-10-06 05:04:39 UTC bootstrap_checkpoint P3已保存 200 /2000；cold主估计/warm仅诊断 \n2026-10-06 05:04:39 UTC phase_complete screen 函数完成；仍需原async终态 \n"
+    },
+    {
+      "type": "text",
+      "text": "--- Final progress ---\nstage=screen_return; message=PHASE_COMPLETE 200; updated_at=2026-10-06 13:04:39 CST"
+    },
+    {
+      "type": "text",
+      "text": "--- Async metadata and parallel guidance ---\nAsync metadata: job_id=02591407; agent_id=agent-3310b112; session_name=default; session_port=8791; started_at=2026-10-06 13:03:32 CST; main_session_available=true.\nParallel guidance: Lightweight read-only commands in the main session are safe while the async job runs.\nParallel caution: Avoid long synchronous main-session jobs, mutating the same output objects, or writing the same files/directories used by the async job.\nCancel caution: Cancelling kills the background process and cleans marshaling tempfiles, but it does not roll back durable files already written by user code."
+    }
+  ],
+  "isError": false
+}

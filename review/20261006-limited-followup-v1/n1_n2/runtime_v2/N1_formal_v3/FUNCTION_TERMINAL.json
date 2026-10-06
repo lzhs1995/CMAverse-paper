@@ -1,0 +1,42 @@
+{
+  "status": "FUNCTION_COMPLETED",
+  "at": "2026-10-06 04:54:31 UTC",
+  "pid": 1584,
+  "seconds": 0.4112,
+  "acceptance": {
+    "passed": true,
+    "n": 13293,
+    "actors": 5249,
+    "clusters": 3186,
+    "new_tests": 4,
+    "new_N2_tests": 0,
+    "sample_rebuilt_without_refitting": true,
+    "formula_environment": "baseenv",
+    "primary_arithmetic_verified": true,
+    "global6_status": "PENDING_TWO_REGISTERED_P3_OMNIBUS",
+    "limit": "Checks sample, formula, stored inference arithmetic and artifacts; does not independently refit covariance",
+    "files": [
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/n1_n2/runtime_v2/N1_formal_v3/N1_result.rds",
+        "bytes": 326678,
+        "sha256": "a4db351d1c8c38ac786d272d17a878ff0e405db6285c3077a3e9624bb317a0ec"
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/n1_n2/runtime_v2/N1_formal_v3/N1_primary_four.csv",
+        "bytes": 922,
+        "sha256": "7e316aefe1087dfed5cdea08778153aa8e9a8869647f96c6bca040499ef3316c"
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/n1_n2/runtime_v2/N1_formal_v3/N1_analysis_sample.csv",
+        "bytes": 1691651,
+        "sha256": "84b3afa1236b39dbde55ecb941f18e462af9c674fcc54fff20e5fb607016042b"
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/n1_n2/runtime_v2/N1_formal_v3/N2_existing_period_points.csv",
+        "bytes": 259,
+        "sha256": "e7a7783936565252aa4c70bbc663f0b4743139802f469750f0390b3bd57c8f30"
+      }
+    ]
+  },
+  "boundary": "Function return; original native job/process terminal retained by supervisor"
+}

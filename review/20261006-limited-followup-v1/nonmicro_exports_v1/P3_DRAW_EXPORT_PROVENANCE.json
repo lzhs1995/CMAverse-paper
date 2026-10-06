@@ -1,0 +1,18 @@
+{
+  "status": "NONMICRO_EXPORT_VERIFIED",
+  "models_run": 0,
+  "source_result_sha256": "bc4d8beb09315d8b77734749c84e0529916c9b0bf19c3dfd958da496064a9a4f",
+  "source_checkpoint_sha256": "70d6fb1807e69be4c73dc22beb06577fa0088cf6e1f53f1e7b55c9385283bbcb",
+  "identity": "a26a717a2a6b17fb83d1cabc3ebcf759baa20798349786a450ed424de3eb683c",
+  "rows_per_equation": 2000,
+  "global_cluster_count": 3212,
+  "draw_orientation": "CSV row b is original draw b; selection_j values index original plan ids",
+  "draw_values": "Ordinal indices only; no raw person/family identifiers",
+  "original_plan_ids_digest": "265432101baa771a200fce30c43ae5a38071bd5d8046d4a6f1c0f27b02605e5f",
+  "original_plan_draw_matrix_digest": "1fe29731cb491d58cfbc2f6ed492749a630d4d7299770a175013180ae781ae79",
+  "original_plan_path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/pro_claude_v4_consensus_20261005_v1/production_two_stage_v1/plan2000.rds",
+  "reconstruction": "Use unchanged prior published plan2000.rds ids order. Gzip CSV ordinals are lossless original columns transposed.",
+  "all_failed_draws_preserved": true,
+  "cold_primary": true,
+  "warm_used_in_primary": false
+}

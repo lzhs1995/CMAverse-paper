@@ -1,0 +1,11 @@
+# 数据与抽样字典
+
+P1/P2：readonly_summary_v1中的intervals为原/去dwm/配对变化区间；paired_draws中b为原重复编号，valid为有效性，old/revised/paired_TNIE与Delta_OR沿原效应尺度；loo中unit是删除簇的顺序编号，不是原家庭ID；period为分期点估计。请与候选注册行共同阅读。
+
+P3：nonmicro_exports_v1/P3_ALL_2000_PAIRED_DRAWS.csv保留2000次、三个方程的6000行结果/有效性/原抽样哈希。P3_ORIGINAL_GLOBAL_DRAW_ORDINALS.csv.gz是2000行×3212列的原全域抽样索引，每项仅为1至3212的顺序位置；同簇重复抽中不去重。它不是原始家庭ID。顺序映射引用旧03包中new_analysis/production_two_stage_v1/plan2000.rds的原ids顺序，SHA与顺序摘要见P3_DRAW_EXPORT_PROVENANCE.json；不可从当前子样本重新排序。3212全域簇中3153进入P3风险集，59个为零贡献，实际12634行。封顶是pmin(Y,2664.2984)，冷启动正式、warm仅诊断。
+
+ALL_6000_EQUATION_DIAGNOSTICS.csv与ALL_PRIMARY_FAILURES.csv逐次保留失败；P3_POINT_ESTIMANDS_NO_NEW_P.csv仅点估计，未补造辅助p。REGISTERED_SIX_BH_BY.csv固定六项家族，暂缓项保持NA，不把NA解释为p=1的实际结果。
+
+N1：actor_wave_dictionary_v2.csv说明三期人波构造；N1_primary_four.csv为人际/个人内关联四检验。N2_existing_period_points.csv仅性别收入关联分期点，不能当新中介或时期差异检验。
+
+B为bootstrap次数，不是样本量。旧微观资料：https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/8e9fbc04cc3bf2acf158b0f8c1b21a42e4d54bb8/review/20261006/02_review_part01.zip 。

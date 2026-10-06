@@ -1,0 +1,21 @@
+{
+  "status": "STATIC_ONLY_NOT_R_EXECUTED",
+  "disk_gate": "ps::ps_disk_usage available >= 10e9; unknown fail closed",
+  "files": [
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/n1_n2/n1_native_execute_v3.R",
+      "bytes": 7204,
+      "sha256": "884fd0fc57053368ebc507a4caafa8dc9a2306541c57e9b9d49b0a075cdada70"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/n1_n2/n1_native_accept_v3.R",
+      "bytes": 3502,
+      "sha256": "8edb6aec4f1717c9401318af952c89a4dc5c904da1c251399a4e290278b931d7"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/n1_n2/N1_NATIVE_INVOCATION_v3.md",
+      "bytes": 3607,
+      "sha256": "b3843b075c4fe587d9c5aa076480fcd22a1c6760db81521f853dcbaf3599b023"
+    }
+  ]
+}

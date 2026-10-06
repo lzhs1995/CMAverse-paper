@@ -1,0 +1,33 @@
+{
+  "first": {
+    "job_id": "c5c93bc5",
+    "status": "ERROR_BEFORE_CHUNK",
+    "reason": "DISK_GATE",
+    "native_at": "2026-10-06 12:36:04 CST"
+  },
+  "second": {
+    "job_id": "fae2ab1d",
+    "status": "ERROR_BEFORE_DRIVER",
+    "reason": "exists(\"clauder_progress\", mode = \"function\") is not TRUE",
+    "native_at": "2026-10-06 12:45:09 CST"
+  },
+  "resolution": "source defaults to globalenv; native clauder_progress is in async execution environment. Next submission uses source(local=TRUE). Neither failed job ran production draws.",
+  "submission": {
+    "content": [
+      {
+        "type": "text",
+        "text": "Job fae2ab1d started in a background R process. The main R session remains available — you can continue lightweight execute_r work while this job runs. Use get_async_result(\"fae2ab1d\") to check status when ready.\nAsync metadata: job_id=fae2ab1d; agent_id=agent-3310b112; session_name=default; session_port=8791; started_at=2026-10-06 12:45:09 CST; main_session_available=true.\nParallel guidance: Lightweight read-only commands in the main session are safe while the async job runs.\nParallel caution: Avoid long synchronous main-session jobs, mutating the same output objects, or writing the same files/directories used by the async job.\nCancel caution: Cancelling kills the background process and cleans marshaling tempfiles, but it does not roll back durable files already written by user code."
+      }
+    ],
+    "isError": false
+  },
+  "terminal": {
+    "content": [
+      {
+        "type": "text",
+        "text": "Async job error: exists(\"clauder_progress\", mode = \"function\") is not TRUE Final progress: stage=started; message=Background process started; updated_at=2026-10-06 12:45:09 CST.\nAsync metadata: job_id=fae2ab1d; agent_id=agent-3310b112; session_name=default; session_port=8791; started_at=2026-10-06 12:45:09 CST; main_session_available=true.\nParallel guidance: Lightweight read-only commands in the main session are safe while the async job runs.\nParallel caution: Avoid long synchronous main-session jobs, mutating the same output objects, or writing the same files/directories used by the async job.\nCancel caution: Cancelling kills the background process and cleans marshaling tempfiles, but it does not roll back durable files already written by user code."
+      }
+    ],
+    "isError": false
+  }
+}

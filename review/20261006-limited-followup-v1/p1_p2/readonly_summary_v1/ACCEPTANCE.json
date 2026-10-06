@@ -1,0 +1,11 @@
+{
+  "status": "READONLY_SUMMARY_COMPLETE",
+  "job_id": "aca6819f",
+  "native_receipt": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/p1_p2/NATIVE_TERMINAL_points_v1.json",
+  "native_receipt_sha256": "00686c5c0277567cfe00fe571331e7b5695e4022f7dc7b65d17cf598de972692",
+  "new_models": 0,
+  "new_p_values": 0,
+  "interval": "point +/- quantile(abs(draw-point), .95, type=7), original target scale; withheld if any invalid draw",
+  "LOO": "Revised no-dwm specification; denominator revised full-sample Delta_OR; differs from cloud v5 old-spec example; supervisor adjudicated",
+  "inference": "Sensitivity after selection, not independent confirmation; remaining covariate timing and OR noncollapsibility unresolved"
+}

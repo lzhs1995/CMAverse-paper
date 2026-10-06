@@ -1,0 +1,56 @@
+{
+  "FEAS_031": {
+    "paths": [
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_\u6062\u590d\u5de5\u7a0b_20260927/next_phase/PLAN13_\u5168\u7a3f\u5b9e\u8bc1\u590d\u6838\u4e0e\u4fee\u8ba2_20260929/exploratory_specification_search_20261005_v1/verify_B1000_v1/FEAS_031/FEAS_031/execution_inputs.rds",
+        "bytes": 15638765,
+        "sha256": "cd1cf09938cfce88dc2b3719060ebe3922651511ae2b748f0a5ec088a32d9c1a"
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_\u6062\u590d\u5de5\u7a0b_20260927/next_phase/PLAN13_\u5168\u7a3f\u5b9e\u8bc1\u590d\u6838\u4e0e\u4fee\u8ba2_20260929/exploratory_specification_search_20261005_v1/verify_B1000_v1/FEAS_031/FEAS_031/grids/bootstrap_t0.rds",
+        "bytes": 1264,
+        "sha256": "17870ae49380a3fb257d841ba72293f8bb25409a554b839e5325eb4f5d552362"
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_\u6062\u590d\u5de5\u7a0b_20260927/next_phase/PLAN13_\u5168\u7a3f\u5b9e\u8bc1\u590d\u6838\u4e0e\u4fee\u8ba2_20260929/exploratory_specification_search_20261005_v1/verify_B1000_v1/FEAS_031/ARTIFACT_VALIDATION.json",
+        "bytes": 922,
+        "sha256": "db90a2577b3874c57d8903100db4e03d44298fa6636545ecc4104e92c2ad4958"
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_\u6062\u590d\u5de5\u7a0b_20260927/next_phase/PLAN13_\u5168\u7a3f\u5b9e\u8bc1\u590d\u6838\u4e0e\u4fee\u8ba2_20260929/exploratory_specification_search_20261005_v1/verify_B1000_v1/FEAS_031/ALL_NATIVE_EFFECTS.csv",
+        "bytes": 3140,
+        "sha256": "f2af44599958d85511d63935eec840829565c645c4b611ede79be1b1d2e6f59c"
+      }
+    ],
+    "bootstrap_grid_count": 1000,
+    "full_object_local": false
+  },
+  "FEAS_041": {
+    "paths": [
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_\u6062\u590d\u5de5\u7a0b_20260927/next_phase/PLAN13_\u5168\u7a3f\u5b9e\u8bc1\u590d\u6838\u4e0e\u4fee\u8ba2_20260929/exploratory_specification_search_20261005_v1/verify_B1000_v1/FEAS_041/FEAS_041/execution_inputs.rds",
+        "bytes": 21007158,
+        "sha256": "bea608000103f6291daed253350773c9694df93724ffc41af41420fce558b137"
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_\u6062\u590d\u5de5\u7a0b_20260927/next_phase/PLAN13_\u5168\u7a3f\u5b9e\u8bc1\u590d\u6838\u4e0e\u4fee\u8ba2_20260929/exploratory_specification_search_20261005_v1/verify_B1000_v1/FEAS_041/FEAS_041/grids/bootstrap_t0.rds",
+        "bytes": 1283,
+        "sha256": "b4d55a34a0924c3d3089a279b04067d43fe241a3eb4f2ed36a97c59473dc41a4"
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_\u6062\u590d\u5de5\u7a0b_20260927/next_phase/PLAN13_\u5168\u7a3f\u5b9e\u8bc1\u590d\u6838\u4e0e\u4fee\u8ba2_20260929/exploratory_specification_search_20261005_v1/verify_B1000_v1/FEAS_041/ARTIFACT_VALIDATION.json",
+        "bytes": 923,
+        "sha256": "71dfc270bf5ac710f6e33ec82fd143dfe4dbf2546f6615f8dc3d5c89b18e1426"
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_\u6062\u590d\u5de5\u7a0b_20260927/next_phase/PLAN13_\u5168\u7a3f\u5b9e\u8bc1\u590d\u6838\u4e0e\u4fee\u8ba2_20260929/exploratory_specification_search_20261005_v1/verify_B1000_v1/FEAS_041/ALL_NATIVE_EFFECTS.csv",
+        "bytes": 3153,
+        "sha256": "5627bee3131dab0d822061d1e9fb0803d88c5253c01942404e6b9d7a21ad1adc"
+      }
+    ],
+    "bootstrap_grid_count": 1000,
+    "full_object_local": false
+  },
+  "worker_before_sha256": "e3b648d26be10c708bf8529423af391d75e1175a2c130e0bcff86f720c170933",
+  "worker_after_sha256": "a2d44a3c0530c6464813aa9d15b9ef59d4b9d6a558b0990bbe4b86573453c999"
+}

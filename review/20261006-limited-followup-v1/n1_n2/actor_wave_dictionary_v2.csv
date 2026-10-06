@@ -1,0 +1,13 @@
+variable,source,definition
+actor,原actor_pid_begin/end,唯一本人PID
+wave,begin_year/end_year,2018/2020/2022端点并集
+cl,unified_component,原统一亲属家庭簇
+y_any,原支持金额，逐父母槽,任一>0；任一金额缺失则缺失
+s,self_sat_begin/end及predata msat_c1_核对,本人原始1—5满意度
+sp,spouse_sat_begin/end及predata msat_c2_核对,配偶原始1—5满意度
+inc,actor_income_real_begin/end,原实际收入，模型作asinh
+female,predata gender_,0女性编码为1
+age,predata aage_,实际对应波次年龄
+edu,predata actor_edu2_,实际对应波次教育
+hukou,predata ahk_,实际对应波次户口
+n_par,唯一actor-wave-parent_role槽数,观察合格父母槽数，不是已知PID计数

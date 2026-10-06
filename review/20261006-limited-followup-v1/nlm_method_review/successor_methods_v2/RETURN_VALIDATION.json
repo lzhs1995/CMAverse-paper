@@ -1,0 +1,77 @@
+{
+  "status": "COMPLETE_RELEASED_READONLY_VERIFIED",
+  "request_id": "49ce54858a11010c9921b6c45a9f1cd7cdac468cac5396b1fa4ac33215a7f3da",
+  "receipt": {
+    "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/49ce54858a11010c9921b6c45a9f1cd7cdac468cac5396b1fa4ac33215a7f3da/receipt.json",
+    "sha256": "eb53f7032a19b03dfe682e94cc235272150113889277ecf60f3e382303f0a62d"
+  },
+  "raw": {
+    "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/49ce54858a11010c9921b6c45a9f1cd7cdac468cac5396b1fa4ac33215a7f3da/raw.json",
+    "sha256": "294250625e76449b7dd3544224381fa21243de692692af15b2d36bff77a3cf8d"
+  },
+  "budget_state": "COMPLETE",
+  "query_count": 72,
+  "lease_id": "7e736f3f-94f4-43ba-b2e9-c68a805e285e",
+  "lease_status": "RELEASED",
+  "lease_pgid": null,
+  "release_proof": {
+    "pending": false,
+    "own_processes_empty": true,
+    "in_flight_requests": [],
+    "terminal_receipt": {
+      "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/49ce54858a11010c9921b6c45a9f1cd7cdac468cac5396b1fa4ac33215a7f3da/receipt.json",
+      "sha256": "eb53f7032a19b03dfe682e94cc235272150113889277ecf60f3e382303f0a62d"
+    },
+    "external_locks_probed_and_released": true,
+    "documents_verified": false,
+    "released_at": 1791261029.5121028,
+    "reconciled": false
+  },
+  "citation_count": 34,
+  "pdf": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/manuscript_integration_v1/native_run_v5/evidence/accepted.pdf",
+    "sha256": "dcb2e6c3c3c6d859d1dd45a36e9d29847b39bd439dc2a6fc645b8ab44850f658"
+  },
+  "pdf_phrase_matches": [
+    {
+      "phrase": "全14项同时呈现原始p及BH/BY调整结果",
+      "pdf_physical_pages": [
+        9
+      ]
+    },
+    {
+      "phrase": "各检验的样本与关联簇数量随资格及缺失情况分别报告",
+      "pdf_physical_pages": [
+        9
+      ]
+    },
+    {
+      "phrase": "Delta_CDE为两个原模型比值之差",
+      "pdf_physical_pages": [
+        33
+      ]
+    },
+    {
+      "phrase": "特殊父母编码不形成共同簇",
+      "pdf_physical_pages": [
+        9
+      ]
+    }
+  ],
+  "network_calls": 0,
+  "shared_mutations": 0,
+  "outputs": [
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/nlm_method_review/successor_methods_v2/NLM_ANSWER.md",
+      "sha256": "34f2c9512048c107a4eec7da1d93c54aefd967c0fb2130ad7931db6bbb8ca000"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/nlm_method_review/successor_methods_v2/CITATION_ADJUDICATION_DRAFT.md",
+      "sha256": "9342c5e872b66c53f1dc32938151d617202d4cd631849e074fc8d90db3e7ba6e"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/nlm_method_review/successor_methods_v2/CITATION_SOURCE_EXCERPTS.json",
+      "sha256": "37d6983a30778d5cd69726222744db804041c448f0a906185de1581b93b302f2"
+    }
+  ]
+}

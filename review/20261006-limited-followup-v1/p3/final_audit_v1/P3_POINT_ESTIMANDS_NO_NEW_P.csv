@@ -1,0 +1,16 @@
+"equation","estimand","estimate","scale","descriptive_only"
+"probability","T_le3",0.0658167617984017,"probability",TRUE
+"probability","T_4",0.052650287236979,"probability",TRUE
+"probability","T_5",0.02371384334347,"probability",TRUE
+"probability","d_5vle3",-0.0421029184549317,"probability",TRUE
+"probability","d_5v4",-0.028936443893509,"probability",TRUE
+"original","T_le3",38.276488109609,"real_monthly_amount",TRUE
+"original","T_4",44.660807735179,"real_monthly_amount",TRUE
+"original","T_5",14.2455638384193,"real_monthly_amount",TRUE
+"original","d_5vle3",-24.0309242711897,"real_monthly_amount",TRUE
+"original","d_5v4",-30.4152438967598,"real_monthly_amount",TRUE
+"capped","T_le3",36.6694613759998,"real_monthly_amount",TRUE
+"capped","T_4",41.4139896676651,"real_monthly_amount",TRUE
+"capped","T_5",11.0588720137251,"real_monthly_amount",TRUE
+"capped","d_5vle3",-25.6105893622746,"real_monthly_amount",TRUE
+"capped","d_5v4",-30.3551176539399,"real_monthly_amount",TRUE

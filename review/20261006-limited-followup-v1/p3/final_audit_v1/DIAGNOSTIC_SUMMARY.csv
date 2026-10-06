@@ -1,0 +1,6 @@
+"equation","primary_valid","reason","warm_attempted","repeats"
+"capped",TRUE,"VALID_COLD",FALSE,2000
+"original",TRUE,"VALID_COLD",FALSE,1951
+"probability",TRUE,"VALID_COLD",FALSE,2000
+"original",FALSE,"FIT_OR_PREDICT_ERROR",TRUE,1
+"original",FALSE,"NONCONVERGED",TRUE,48

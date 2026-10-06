@@ -1,0 +1,7 @@
+"test_id","module","status","p_raw","q_BH6","q_BY6","family_n","interpretation"
+"N1_SELF_BETWEEN","N1","ESTIMATED_POST_SELECTION",0.0456818051341357,0.119940029985007,0.293853073463268,6,"Exploratory post-selection; fixed six only, not correction of prior search history"
+"N1_SELF_WITHIN","N1","ESTIMATED_POST_SELECTION",0.0759153440638701,0.119940029985007,0.293853073463268,6,"Exploratory post-selection; fixed six only, not correction of prior search history"
+"N1_SPOUSE_BETWEEN","N1","ESTIMATED_POST_SELECTION",0.0309374376976684,0.119940029985007,0.293853073463268,6,"Exploratory post-selection; fixed six only, not correction of prior search history"
+"N1_SPOUSE_WITHIN","N1","ESTIMATED_POST_SELECTION",0.19462668336981,0.233552020043772,0.572202449107241,6,"Exploratory post-selection; fixed six only, not correction of prior search history"
+"P3_ORIGINAL_OMNIBUS","P3","WITHHELD",NA,NA,NA,6,"Exploratory post-selection; fixed six only, not correction of prior search history"
+"P3_CAPPED_OMNIBUS","P3","ESTIMATED_POST_SELECTION",0.079960019990005,0.119940029985007,0.293853073463268,6,"Exploratory post-selection; fixed six only, not correction of prior search history"

@@ -1,0 +1,27 @@
+{
+  "rows": 13293,
+  "actors": 5249,
+  "clusters": 3186,
+  "complete_before_2wave": 13361,
+  "wave_counts": {
+    "2018": 4322,
+    "2020": 5217,
+    "2022": 3754
+  },
+  "waves_per_actor": {
+    "3": 2795,
+    "2": 2454
+  },
+  "y_any": {
+    "0": 6335,
+    "1": 6958
+  },
+  "max_decomposition_error": {
+    "s": 3.552713678800501e-15,
+    "sp": 3.552713678800501e-15,
+    "inc_ihs": 5.1514348342607263e-14
+  },
+  "raw_p_arithmetic": true,
+  "BH_BY4_arithmetic": true,
+  "all_acceptance_hashes_verified": true
+}

@@ -1,0 +1,167 @@
+{
+  "acceptance": {
+    "status": "FILE_AUDIT_PASS",
+    "models_run": 0,
+    "identity": "a26a717a2a6b17fb83d1cabc3ebcf759baa20798349786a450ed424de3eb683c",
+    "B": 2000,
+    "all_draws_verified": 2000,
+    "equations_checked": 6000,
+    "global_clusters": 3212,
+    "eligible_clusters": 3153,
+    "zero_contribution_clusters": 59,
+    "eligible_rows": 12634,
+    "cap": 2664.2984,
+    "cap_operation": "pmin",
+    "cold_primary": true,
+    "warm_used_in_primary": false,
+    "final_min_valid": 1960,
+    "fixed_family_n": 6,
+    "withheld_test_ids": "P3_ORIGINAL_OMNIBUS",
+    "technical200_counts": {
+      "probability": 200,
+      "original": 195,
+      "capped": 200
+    },
+    "no_new_p_values": true,
+    "original_omnibus_arithmetic_verified": true,
+    "native_terminal_verified_by_supervisor": true,
+    "native_terminal_evidence": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/p3/NATIVE_TERMINAL_finish_v1.json",
+    "native_terminal_sha256": "3a0513072d63b6a337e71072f6e9951be268e8df30d69da13f43eef81c7cea5e",
+    "input_sha_unchanged": true,
+    "prior_search_correction_claim": false,
+    "at": "2026-10-06 05:17:10 UTC"
+  },
+  "registered_six": [
+    {
+      "test_id": "N1_SELF_BETWEEN",
+      "module": "N1",
+      "status": "ESTIMATED_POST_SELECTION",
+      "p_raw": 0.0457,
+      "q_BH6": 0.1199,
+      "q_BY6": 0.2939,
+      "family_n": 6,
+      "interpretation": "Exploratory post-selection; fixed six only, not correction of prior search history"
+    },
+    {
+      "test_id": "N1_SELF_WITHIN",
+      "module": "N1",
+      "status": "ESTIMATED_POST_SELECTION",
+      "p_raw": 0.0759,
+      "q_BH6": 0.1199,
+      "q_BY6": 0.2939,
+      "family_n": 6,
+      "interpretation": "Exploratory post-selection; fixed six only, not correction of prior search history"
+    },
+    {
+      "test_id": "N1_SPOUSE_BETWEEN",
+      "module": "N1",
+      "status": "ESTIMATED_POST_SELECTION",
+      "p_raw": 0.0309,
+      "q_BH6": 0.1199,
+      "q_BY6": 0.2939,
+      "family_n": 6,
+      "interpretation": "Exploratory post-selection; fixed six only, not correction of prior search history"
+    },
+    {
+      "test_id": "N1_SPOUSE_WITHIN",
+      "module": "N1",
+      "status": "ESTIMATED_POST_SELECTION",
+      "p_raw": 0.1946,
+      "q_BH6": 0.2336,
+      "q_BY6": 0.5722,
+      "family_n": 6,
+      "interpretation": "Exploratory post-selection; fixed six only, not correction of prior search history"
+    },
+    {
+      "test_id": "P3_ORIGINAL_OMNIBUS",
+      "module": "P3",
+      "status": "WITHHELD",
+      "p_raw": null,
+      "q_BH6": null,
+      "q_BY6": null,
+      "family_n": 6,
+      "interpretation": "Exploratory post-selection; fixed six only, not correction of prior search history"
+    },
+    {
+      "test_id": "P3_CAPPED_OMNIBUS",
+      "module": "P3",
+      "status": "ESTIMATED_POST_SELECTION",
+      "p_raw": 0.08,
+      "q_BH6": 0.1199,
+      "q_BY6": 0.2939,
+      "family_n": 6,
+      "interpretation": "Exploratory post-selection; fixed six only, not correction of prior search history"
+    }
+  ],
+  "p3_tests": [
+    {
+      "test_id": "P3_ORIGINAL_OMNIBUS",
+      "module": "P3",
+      "estimand": "Three-state two-contrast omnibus",
+      "status": "WITHHELD",
+      "B": 2000,
+      "n_valid": 1951,
+      "valid_ratio": 0.9755,
+      "p_raw": null,
+      "statistic": null,
+      "T_le3": 38.2765,
+      "T_4": 44.6608,
+      "T_5": 14.2456,
+      "d_5vle3": -24.0309,
+      "d_5v4": -30.4152
+    },
+    {
+      "test_id": "P3_CAPPED_OMNIBUS",
+      "module": "P3",
+      "estimand": "Three-state two-contrast omnibus",
+      "status": "ESTIMATED_POST_SELECTION",
+      "B": 2000,
+      "n_valid": 2000,
+      "valid_ratio": 1,
+      "p_raw": 0.08,
+      "statistic": 5.1559,
+      "T_le3": 36.6695,
+      "T_4": 41.414,
+      "T_5": 11.0589,
+      "d_5vle3": -25.6106,
+      "d_5v4": -30.3551
+    }
+  ],
+  "diagnostics": [
+    {
+      "equation": "capped",
+      "primary_valid": true,
+      "reason": "VALID_COLD",
+      "warm_attempted": false,
+      "repeats": 2000
+    },
+    {
+      "equation": "original",
+      "primary_valid": true,
+      "reason": "VALID_COLD",
+      "warm_attempted": false,
+      "repeats": 1951
+    },
+    {
+      "equation": "probability",
+      "primary_valid": true,
+      "reason": "VALID_COLD",
+      "warm_attempted": false,
+      "repeats": 2000
+    },
+    {
+      "equation": "original",
+      "primary_valid": false,
+      "reason": "FIT_OR_PREDICT_ERROR",
+      "warm_attempted": true,
+      "repeats": 1
+    },
+    {
+      "equation": "original",
+      "primary_valid": false,
+      "reason": "NONCONVERGED",
+      "warm_attempted": true,
+      "repeats": 48
+    }
+  ]
+}

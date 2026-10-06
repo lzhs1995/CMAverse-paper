@@ -1,0 +1,17 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "2026-10-06 04:54:31 UTC n1_read 读取原生已核actor-wave，冻结完整共同样本后做人内分解 \n2026-10-06 04:54:31 UTC n1_fit 固定LPM + unified_component聚类HC1；四项人际/人内关联，非中介调节 \n2026-10-06 04:54:31 UTC n1_save 保存四项及q4；跨六项q等待P3，不将N1关联计作婚姻机制 \n2026-10-06 04:54:31 UTC n1_complete N1四项完成；分析记录 13293 本人 5249 簇 3186 ；N2零新增拟合 \n           term     estimate          se        ci_low     ci_high      p_raw\ns_mean   s_mean  0.016551127 0.008282514  0.0003173992 0.032784856 0.04568181\ns_dev     s_dev  0.012349407 0.006957827 -0.0012879334 0.025986746 0.07591534\nsp_mean sp_mean  0.018412076 0.008532498  0.0016883805 0.035135772 0.03093744\nsp_dev   sp_dev -0.009152595 0.007056671 -0.0229836699 0.004678481 0.19462668\n             q_BH4     q_BY4           test_id q_BH6 q_BY6\ns_mean  0.09136361 0.1903409   N1_SELF_BETWEEN    NA    NA\ns_dev   0.10122046 0.2108760    N1_SELF_WITHIN    NA    NA\nsp_mean 0.09136361 0.1903409 N1_SPOUSE_BETWEEN    NA    NA\nsp_dev  0.19462668 0.4054723  N1_SPOUSE_WITHIN    NA    NA\n                           global6_status\ns_mean  PENDING_TWO_REGISTERED_P3_OMNIBUS\ns_dev   PENDING_TWO_REGISTERED_P3_OMNIBUS\nsp_mean PENDING_TWO_REGISTERED_P3_OMNIBUS\nsp_dev  PENDING_TWO_REGISTERED_P3_OMNIBUS\n"
+    },
+    {
+      "type": "text",
+      "text": "--- Final progress ---\nstage=n1_complete; message=N1四项完成；分析记录 13293 本人 5249 簇 3186 ；N2零新增拟合; updated_at=2026-10-06 12:54:31 CST"
+    },
+    {
+      "type": "text",
+      "text": "--- Async metadata and parallel guidance ---\nAsync metadata: job_id=25f46f58; agent_id=agent-3310b112; session_name=default; session_port=8791; started_at=2026-10-06 12:54:31 CST; main_session_available=true.\nParallel guidance: Lightweight read-only commands in the main session are safe while the async job runs.\nParallel caution: Avoid long synchronous main-session jobs, mutating the same output objects, or writing the same files/directories used by the async job.\nCancel caution: Cancelling kills the background process and cleans marshaling tempfiles, but it does not roll back durable files already written by user code."
+    }
+  ],
+  "isError": false
+}

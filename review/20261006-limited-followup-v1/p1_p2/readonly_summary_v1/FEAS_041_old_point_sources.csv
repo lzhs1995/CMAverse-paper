@@ -1,0 +1,3 @@
+"metric","original_effect_pe","bootstrap_t0","source_effect_pe","source_bootstrap_t0"
+"TNIE",1.00039756153135,1.0003975652631,"ALL_NATIVE_EFFECTS.csv: original est_grid effect.pe","grids/bootstrap_t0.rds: later bootstrap statistic"
+"Delta_OR",-0.0858683431318399,-0.0858683431318368,"ALL_NATIVE_EFFECTS.csv: original est_grid effect.pe","grids/bootstrap_t0.rds: later bootstrap statistic"

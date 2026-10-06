@@ -1,0 +1,4 @@
+"id","rule","pass","failures"
+"FEAS_031","no_dwm_same_sign_retains_half",TRUE,0
+"FEAS_031","revised_period_same_direction",TRUE,0
+"FEAS_031","revised_LOO_max_relative_change_le_25pct",TRUE,0
