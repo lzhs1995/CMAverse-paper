@@ -1,0 +1,28 @@
+{
+  "files": [
+    {
+      "path": "REPORT.md",
+      "bytes": 4882,
+      "sha256": "a7007a34ca0c8429c045f04019ec0d108d32f810d8a9071f00d388cba8ef5c89"
+    },
+    {
+      "path": "SKILL_DOCUMENTATION_VERIFICATION.json",
+      "bytes": 2784,
+      "sha256": "a304ee2fb1769b4da1881d2eb3dc26c61b38aee1814eb422be3f8a7e5041fe6c"
+    },
+    {
+      "path": "frozen-results-and-closeout-20261007.md",
+      "bytes": 2554,
+      "sha256": "676df3c519366abc514f090298e347d429dfa3f3b9620eab3dfe1545b7598393"
+    },
+    {
+      "path": "selection-search-manuscript-closeout-20261007.md",
+      "bytes": 3261,
+      "sha256": "cf6e6331967fc8d5d60385a5f2ab4fbc471344bb9c6c1a2f3367b04259f2fea5"
+    }
+  ],
+  "excludes": [
+    "MANIFEST.json"
+  ],
+  "scope": "Four payload files; manifest cannot include its own hash"
+}

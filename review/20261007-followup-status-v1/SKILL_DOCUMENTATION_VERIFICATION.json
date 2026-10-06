@@ -1,0 +1,77 @@
+{
+  "status": "EIGHT_INSTALLED_FILES_READBACK_MATCH",
+  "at": "2026-10-06T20:41:27.024606+00:00",
+  "reviewer": "solo_self_review",
+  "installation_receipt_sha256": "944078c5369a6cead707fb5703e27fe1392ffc868225f79a0b026ee36a86e66c",
+  "readback_receipt_sha256": "da86c046020d0e04850d240cc9cf6c185cd52b94ccc3f2fbc788df965b0ff248",
+  "files": [
+    {
+      "client": "codex",
+      "installed_relative_path": "multi-agent-collaboration/references/frozen-results-and-closeout-20261007.md",
+      "bytes": 2554,
+      "sha256": "676df3c519366abc514f090298e347d429dfa3f3b9620eab3dfe1545b7598393",
+      "match": true,
+      "old_prefix_preserved": null
+    },
+    {
+      "client": "codex",
+      "installed_relative_path": "multi-agent-collaboration/SKILL.md",
+      "bytes": 8718,
+      "sha256": "5b1def360ae7ece21e53b551851b52eaed5789c83b81706dc431fd29995c304e",
+      "match": true,
+      "old_prefix_preserved": true
+    },
+    {
+      "client": "codex",
+      "installed_relative_path": "论文精炼助手/references/selection-search-manuscript-closeout-20261007.md",
+      "bytes": 3261,
+      "sha256": "cf6e6331967fc8d5d60385a5f2ab4fbc471344bb9c6c1a2f3367b04259f2fea5",
+      "match": true,
+      "old_prefix_preserved": null
+    },
+    {
+      "client": "codex",
+      "installed_relative_path": "论文精炼助手/SKILL.md",
+      "bytes": 8282,
+      "sha256": "ec88f32c8191ef64b1326388c84fc114d2bd917ddc53c1ea97d3b9236289d714",
+      "match": true,
+      "old_prefix_preserved": true
+    },
+    {
+      "client": "claude",
+      "installed_relative_path": "multi-agent-collaboration/references/frozen-results-and-closeout-20261007.md",
+      "bytes": 2554,
+      "sha256": "676df3c519366abc514f090298e347d429dfa3f3b9620eab3dfe1545b7598393",
+      "match": true,
+      "old_prefix_preserved": null
+    },
+    {
+      "client": "claude",
+      "installed_relative_path": "multi-agent-collaboration/SKILL.md",
+      "bytes": 6016,
+      "sha256": "89e6322bb659cf574ee48fdc29d32266cac477389ee87d7346dfef28c0c7cf5b",
+      "match": true,
+      "old_prefix_preserved": true
+    },
+    {
+      "client": "claude",
+      "installed_relative_path": "论文精炼助手/references/selection-search-manuscript-closeout-20261007.md",
+      "bytes": 3261,
+      "sha256": "cf6e6331967fc8d5d60385a5f2ab4fbc471344bb9c6c1a2f3367b04259f2fea5",
+      "match": true,
+      "old_prefix_preserved": null
+    },
+    {
+      "client": "claude",
+      "installed_relative_path": "论文精炼助手/SKILL.md",
+      "bytes": 6025,
+      "sha256": "79408012b9d388b756d0b4c2dd66ca71b2bc33fb739cc7627de377b733d5a2ca",
+      "match": true,
+      "old_prefix_preserved": true
+    }
+  ],
+  "runtime_upgraded": false,
+  "other_clients_reloaded": "not measured",
+  "native_calls": 0,
+  "model_calls": 0
+}
