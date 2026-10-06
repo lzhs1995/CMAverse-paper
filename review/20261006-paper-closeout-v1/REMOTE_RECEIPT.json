@@ -1,0 +1,501 @@
+{
+  "status": "PASS",
+  "verified_at_utc": "2026-10-06T14:51:42.028732+00:00",
+  "repository": "lzhs1995/CMAverse-paper",
+  "commit": "d6199e02094df66d2535bf1f388a77b970efca9a",
+  "files_verified": 59,
+  "files": [
+    {
+      "path": "ACCEPTANCE.json",
+      "bytes": 1309,
+      "sha256": "56f0123e42e2bec42834cd0843a42004e11a58ddffe068af5c00a681ea257abc",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/ACCEPTANCE.json",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "FOR_WEB_REVIEWERS.md",
+      "bytes": 3014,
+      "sha256": "0ceb63f281ccc2fbae46b981092d41cc2d4c4e5c86dca4b8127d761bc9eeb85c",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/FOR_WEB_REVIEWERS.md",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3333,
+      "sha256": "295e8185933609c5b3071fc9d5aa95c0e90deb66d624b2650eb3cc1b6be4f22d",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/README.md",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "REPORT.md",
+      "bytes": 9613,
+      "sha256": "d30f843bb556aefd99aff4672f9fbc58b00186b2df9543bd9a76ccc61ca96d1b",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/REPORT.md",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "bindings/EXECUTION_INPUTS_120.csv",
+      "bytes": 128566,
+      "sha256": "308b3224ece31cc83ed72c82739adad9bb2c1a7bc5750d6aa0067e13cb2c6218",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/bindings/EXECUTION_INPUTS_120.csv",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "bindings/EXECUTION_INPUTS_120.json",
+      "bytes": 163911,
+      "sha256": "f90f792763e2483cf0345ae05089b6a24240a912bde191c4125d834f213179ad",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/bindings/EXECUTION_INPUTS_120.json",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "bindings/MANUSCRIPT_TABLE_READBACK.json",
+      "bytes": 3278,
+      "sha256": "11d435f9bbbbb25f05d3aa699c10e888c3955cd53781d7be989485c6032d1206",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/bindings/MANUSCRIPT_TABLE_READBACK.json",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "bindings/OUTPUT_MANIFEST.json",
+      "bytes": 7377,
+      "sha256": "49e7bdd4d683658d6c46e721558f14930d6a58f4aba5213d118f3ac19f8a5791",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/bindings/OUTPUT_MANIFEST.json",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "bindings/QA.json",
+      "bytes": 1985,
+      "sha256": "83aee25f2a1edc59deb4146ae2fcb6b8b82bb85b42a98934958ed45705a173f5",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/bindings/QA.json",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "bindings/QA_ITEMS.csv",
+      "bytes": 2049,
+      "sha256": "40428e99376adffa70b2f697ceba26ca4386a857e546f856397413e760afa6bc",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/bindings/QA_ITEMS.csv",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "bindings/RELATIVE_CHANGE_DESCRIPTION_SOURCE.json",
+      "bytes": 751,
+      "sha256": "5a3b067d5050f1e639aa1af428b44eb7803aa039a70639d24e5b0854c55f1c17",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/bindings/RELATIVE_CHANGE_DESCRIPTION_SOURCE.json",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "bindings/REPORT.md",
+      "bytes": 3538,
+      "sha256": "c230445ccd9542cf2ff706cd8394efb94f0a94bffae671d76ff054de434390a6",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/bindings/REPORT.md",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "bindings/SCOPE.json",
+      "bytes": 646,
+      "sha256": "a6ccce0bef7ba86b412806c5a9777888dcdb02ef0251735983f6470b9ac5ce06",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/bindings/SCOPE.json",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "bindings/SOURCE_PINS.json",
+      "bytes": 115796,
+      "sha256": "97f4ddf1e8343beca88d2bcb956a3a3e60602d9bfae674470b56f9ea2897556e",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/bindings/SOURCE_PINS.json",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "bindings/build_bound_tables_v1.py",
+      "bytes": 10518,
+      "sha256": "3df3f0104747cbc9e113961c86e6b4b0bb821d62ca2b55ca824ec08f21c321e1",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/bindings/build_bound_tables_v1.py",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "bindings/verify_bound_results_v1.py",
+      "bytes": 26909,
+      "sha256": "33c2d0a4e0b969f6cc5842566dc6d2253cce0948e3b64cb6f1a46a414385a42d",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/bindings/verify_bound_results_v1.py",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "bindings/verify_manuscript_tables_v1.py",
+      "bytes": 3983,
+      "sha256": "78fb2c9566bec8d13c9814cc9aebc3814e1c4bc797cbef3c5a545fdb3aea484d",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/bindings/verify_manuscript_tables_v1.py",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "build_paper_candidate.py",
+      "bytes": 22727,
+      "sha256": "3349a80287bc5dc91f95c4b03da27d0f0837448100c4b36f25f85e8079f8cab0",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/build_paper_candidate.py",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "build_publication.py",
+      "bytes": 8912,
+      "sha256": "f1ae3503ace95a6e6794af6cff61525c8eb5299f8ffaa6cabea9982a53dccea0",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/build_publication.py",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "manuscript/CMAverse_论文收尾合入_离线候选_原生验收待完成.docx",
+      "bytes": 475988,
+      "sha256": "ff278c5bba68ff7c6cdd0d52fc9cdd8fa7d2bac57876a2751fee8be3ddb4e95f",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/manuscript/CMAverse_%E8%AE%BA%E6%96%87%E6%94%B6%E5%B0%BE%E5%90%88%E5%85%A5_%E7%A6%BB%E7%BA%BF%E5%80%99%E9%80%89_%E5%8E%9F%E7%94%9F%E9%AA%8C%E6%94%B6%E5%BE%85%E5%AE%8C%E6%88%90.docx",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "manuscript/EVIDENCE_TABLES.json",
+      "bytes": 3828,
+      "sha256": "64b4f63cd6f15ee496df26f07ece37bd03ec7a260e1376aa30a4cc6f9f2c79c5",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/manuscript/EVIDENCE_TABLES.json",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "manuscript/MANUSCRIPT_TEXT.md",
+      "bytes": 120414,
+      "sha256": "055e91995ad9c0b695a8aa69972dff04f206da40cddf54dbdfcafa9187a35bcc",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/manuscript/MANUSCRIPT_TEXT.md",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "manuscript/TEXT_PATCHES.json",
+      "bytes": 18555,
+      "sha256": "536d15b44a2de7cb21d71c98b40a8624884196ad26b427fa9c59dcb101bdc5f1",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/manuscript/TEXT_PATCHES.json",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "manuscript/analysis_manifest.json",
+      "bytes": 2590,
+      "sha256": "46dddf30eef731919cb175088f53946976dd5f6fa173264e28bb7d2881eb4410",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/manuscript/analysis_manifest.json",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "manuscript/sources/CMAverse_数值收尾合入_离线内容候选_未原生验收.docx",
+      "bytes": 474184,
+      "sha256": "cace3fc14e4cb8e4f516386890d331093c99fb0ffa363b91065200e1e5fcf00d",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/manuscript/sources/CMAverse_%E6%95%B0%E5%80%BC%E6%94%B6%E5%B0%BE%E5%90%88%E5%85%A5_%E7%A6%BB%E7%BA%BF%E5%86%85%E5%AE%B9%E5%80%99%E9%80%89_%E6%9C%AA%E5%8E%9F%E7%94%9F%E9%AA%8C%E6%94%B6.docx",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "manuscript/sources/CMAverse_限定复核与家务核验合入_干净离线候选_非交付_结构规范化.docx",
+      "bytes": 529492,
+      "sha256": "b0eec6b7af348f289928c961b1e89ca51d9389e50f529d2a4b738bee91bdce91",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/manuscript/sources/CMAverse_%E9%99%90%E5%AE%9A%E5%A4%8D%E6%A0%B8%E4%B8%8E%E5%AE%B6%E5%8A%A1%E6%A0%B8%E9%AA%8C%E5%90%88%E5%85%A5_%E5%B9%B2%E5%87%80%E7%A6%BB%E7%BA%BF%E5%80%99%E9%80%89_%E9%9D%9E%E4%BA%A4%E4%BB%98_%E7%BB%93%E6%9E%84%E8%A7%84%E8%8C%83%E5%8C%96.docx",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "native_readiness/CURRENT_STATUS.json",
+      "bytes": 2328,
+      "sha256": "846fb7d862f64dde5c7e0444d9fdc26b5b375bc7a60052362d8224d690953afa",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/native_readiness/CURRENT_STATUS.json",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "prepare_reports.py",
+      "bytes": 14881,
+      "sha256": "1c29f9fa36ea7f869b29bfc1555a4737033ccbb5ab940cc982c866c512c1cc41",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/prepare_reports.py",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "qa/DOCX_PART_DIFF.csv",
+      "bytes": 9293,
+      "sha256": "7c8838da20329823aa373e3caf3ef6d76020e9a95d5fe0c0caad7fd4076e1f47",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/qa/DOCX_PART_DIFF.csv",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "qa/FORMAT_CONTRACT.json",
+      "bytes": 963,
+      "sha256": "5504d93ecb3f43a486f9afb7b8c1d8d5c1618bc9e6174088cab988cf8910bbc5",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/qa/FORMAT_CONTRACT.json",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "qa/INDEPENDENT_DOCX_REVIEW.json",
+      "bytes": 46581,
+      "sha256": "f564678c44783292c9c928362aa3057dab5fd57a71c04ddf03c8e735d88f1865",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/qa/INDEPENDENT_DOCX_REVIEW.json",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "qa/INDEPENDENT_DOCX_REVIEW.md",
+      "bytes": 2766,
+      "sha256": "5ce9086e3ced4e531381e6392a6bf957b5fce49f041ffb5c93ec00005b3808b3",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/qa/INDEPENDENT_DOCX_REVIEW.md",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "qa/MANUSCRIPT_QA.json",
+      "bytes": 1518,
+      "sha256": "38676dab6115c1d44a4812c540c1abc6ab772ba6c5cfa195cc004da7c39fc4ce",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/qa/MANUSCRIPT_QA.json",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "qa/independent_docx_review.py",
+      "bytes": 15525,
+      "sha256": "5121a9c98ece2b135130a0ec71fdd6c8f65d70329c6cf309f4f2505c5829ca8b",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/qa/independent_docx_review.py",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "results/CANDIDATE_DEFINITIONS.csv",
+      "bytes": 2582,
+      "sha256": "91594719bdb90408d2db2d8dc3b7d058f8010af3580ab36d1089dbf236c69713",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/results/CANDIDATE_DEFINITIONS.csv",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "results/CANDIDATE_HISTORY_PANELS.csv",
+      "bytes": 12136,
+      "sha256": "3783cf06ca139b7d019d3a8cdecffbe734622f41e5f5d08dd01a7c673aa39c36",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/results/CANDIDATE_HISTORY_PANELS.csv",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "results/CANDIDATE_LOO_SUMMARY.csv",
+      "bytes": 1127,
+      "sha256": "3b3e1fecba910204070f91e552d79848af3d9b60a62f6088521949b918f0061f",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/results/CANDIDATE_LOO_SUMMARY.csv",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "results/CANDIDATE_PERIOD_DIAGNOSTICS.csv",
+      "bytes": 3583,
+      "sha256": "45ad54ecde9ff1aca7d9b125f265dffd0501237d1ce78aeb4a38426a7315d659",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/results/CANDIDATE_PERIOD_DIAGNOSTICS.csv",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "results/N1_FOUR_WITH_FINAL_SIX_ADJUSTMENT.csv",
+      "bytes": 3786,
+      "sha256": "f4a13582042d0ddfff237ead1050c2fb0fda71fe15324d877af058c7ccf3ca9a",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/results/N1_FOUR_WITH_FINAL_SIX_ADJUSTMENT.csv",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "results/P3_OMNIBUS.csv",
+      "bytes": 981,
+      "sha256": "ccffc457e5d67b0ba6f75800ce897e8ffe64fb0d838cbeec691a3d71028c23b3",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/results/P3_OMNIBUS.csv",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "results/P3_THREE_STATE.csv",
+      "bytes": 1776,
+      "sha256": "1b0781887c17597ee31372357e61633563a8f2faff20bd8eb3c78202b0bfca11",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/results/P3_THREE_STATE.csv",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "results/RESULT_VERSION_TABLE.csv",
+      "bytes": 3268,
+      "sha256": "d5430655147c2522ab0db7ff212cafbd89b8fd0c72cb18cd09a09f3c1113c836",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/results/RESULT_VERSION_TABLE.csv",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "results/SIX_TEST_FAMILY.csv",
+      "bytes": 2587,
+      "sha256": "add3162358ec82782d17fc1a8e7001af3db338999f4de60e8e1134f7b4cbf36e",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/results/SIX_TEST_FAMILY.csv",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "review/00_前轮完整实证复核结论_比例来源.md",
+      "bytes": 13392,
+      "sha256": "4f1d94f9d28f8fc13c74024c7384970ea43d6b586bc8f4547188035a30fdfe3d",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/review/00_%E5%89%8D%E8%BD%AE%E5%AE%8C%E6%95%B4%E5%AE%9E%E8%AF%81%E5%A4%8D%E6%A0%B8%E7%BB%93%E8%AE%BA_%E6%AF%94%E4%BE%8B%E6%9D%A5%E6%BA%90.md",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "review/00_数值收尾独立复核报告.md",
+      "bytes": 11899,
+      "sha256": "a4032744fb185fec462c20669a69e3bbb26b0bf337d6cceba246762478abc9e1",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/review/00_%E6%95%B0%E5%80%BC%E6%94%B6%E5%B0%BE%E7%8B%AC%E7%AB%8B%E5%A4%8D%E6%A0%B8%E6%8A%A5%E5%91%8A.md",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "review/01_Astra_Mac_论文收尾执行方案.md",
+      "bytes": 10403,
+      "sha256": "b4dd50da44d97409957daf2f6fa352958a22b49bb05830dcae6a530a1a35e450",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/review/01_Astra_Mac_%E8%AE%BA%E6%96%87%E6%94%B6%E5%B0%BE%E6%89%A7%E8%A1%8C%E6%96%B9%E6%A1%88.md",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "review/02_论文可用改文.md",
+      "bytes": 11540,
+      "sha256": "40810420581d133883c955c144f24fb03d1ceded0d51f9f281ba198d1a033bed",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/review/02_%E8%AE%BA%E6%96%87%E5%8F%AF%E7%94%A8%E6%94%B9%E6%96%87.md",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "review/PRO_RESPONSE.md",
+      "bytes": 1844,
+      "sha256": "1677a6a78297bde4044862046fcb87d92a1db51e0dfff939a0fb828204b17856",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/review/PRO_RESPONSE.md",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "review/WRITING_REVIEW.md",
+      "bytes": 1360,
+      "sha256": "911ce4d5c40b18f9edd9edcdeab7963e5d44e44dc2e4320a160f3e1c8d6b1ee8",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/review/WRITING_REVIEW.md",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "theory/DISCUSSION_INSERT_v1.md",
+      "bytes": 3330,
+      "sha256": "80a48d233d3f16558c548f00526d0252aea3fbb246c522f12d93c7f63f92a3e0",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/theory/DISCUSSION_INSERT_v1.md",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "theory/GAPS_AND_LIMITS_v1.md",
+      "bytes": 2018,
+      "sha256": "63e2772b18138b56c8d468ead2602bf1f4004dff56dc78f8edd4cb883a569fcb",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/theory/GAPS_AND_LIMITS_v1.md",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "theory/READBACK_v1.json",
+      "bytes": 2840,
+      "sha256": "04779a2d75b0ca3cafcb76f9e1bcf722ed105c7e71481105e0a3c2d3c3266f08",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/theory/READBACK_v1.json",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "theory/SOURCE_MANIFEST_v1.json",
+      "bytes": 11025,
+      "sha256": "cb237e78005c14c7a2adf49a45747a6170629ed675293ea26ebbc7d7c0a03e26",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/theory/SOURCE_MANIFEST_v1.json",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "theory/THEORY_EVIDENCE_MATRIX_v1.json",
+      "bytes": 12738,
+      "sha256": "01213f7ada65ab034964b46c691df7cbbe14f41c6cd9299d053c30f5ae6f42aa",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/theory/THEORY_EVIDENCE_MATRIX_v1.json",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "theory/THEORY_EVIDENCE_MATRIX_v1.md",
+      "bytes": 12329,
+      "sha256": "d212db99f947c77062cac18a8a067a8855d26dd33f8a3106b42a249bbb772dbd",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/theory/THEORY_EVIDENCE_MATRIX_v1.md",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "verify_review_package.py",
+      "bytes": 3478,
+      "sha256": "5327e10df564196cacee29f3feb4f8bcffc4a55f04327a6875845927bf22072e",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/verify_review_package.py",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "MANIFEST.json",
+      "bytes": 9616,
+      "sha256": "fda54edddd26985eb93344d09d0f6838b8d250d99d6f8805edf50e84e26bd86b",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/MANIFEST.json",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "PACKAGE_QA.json",
+      "bytes": 834,
+      "sha256": "6324fc7f61e0045e5f6a22b858e82c92bb3f0bf922cff9608d7131a44a179c96",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/PACKAGE_QA.json",
+      "http_status": 200,
+      "status": "PASS"
+    },
+    {
+      "path": "paper_review_part01.zip",
+      "bytes": 1647725,
+      "sha256": "f45fb9ce0fac0354947afc42673f362b9125e8a8a35b05cb6b2d81ad305293a9",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/d6199e02094df66d2535bf1f388a77b970efca9a/review/20261006-paper-closeout-v1/paper_review_part01.zip",
+      "http_status": 200,
+      "status": "PASS"
+    }
+  ],
+  "remote_package_verified": {
+    "status": "PASS",
+    "zip": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/delivery/remote_readback/paper_review_part01.zip",
+    "bytes": 1647725,
+    "sha256": "f45fb9ce0fac0354947afc42673f362b9125e8a8a35b05cb6b2d81ad305293a9",
+    "members": 57,
+    "payload_hashes_verified": 56,
+    "crc": "PASS",
+    "manifest_self_excluded": true,
+    "parsed": {
+      "json": 18,
+      "csv": 12,
+      "docx": 3
+    },
+    "candidate_sha256": "ff278c5bba68ff7c6cdd0d52fc9cdd8fa7d2bac57876a2751fee8be3ddb4e95f",
+    "docx_parts_changed": [
+      "word/document.xml"
+    ],
+    "scope": "File integrity, parsing, and offline DOCX part comparison; not model execution or native Word/PDF QA."
+  }
+}
