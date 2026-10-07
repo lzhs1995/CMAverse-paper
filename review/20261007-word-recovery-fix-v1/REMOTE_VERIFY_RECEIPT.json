@@ -1,0 +1,177 @@
+{
+  "at": "2026-10-07T00:25:07.611601+00:00",
+  "commit": "1ba43a43745ba68d1456e97cd4e86d12c2f39d1d",
+  "status": "PASS",
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/1ba43a43745ba68d1456e97cd4e86d12c2f39d1d/README.md",
+      "http_status": 200,
+      "bytes": 4031,
+      "sha256": "c1d8a6ec3da513b3541cb32be1098ec226a1c0c0e35351bd544b051fbd271692",
+      "exact_match": true
+    },
+    {
+      "path": "review/20261007-word-recovery-fix-v1/MANIFEST.json",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/1ba43a43745ba68d1456e97cd4e86d12c2f39d1d/review/20261007-word-recovery-fix-v1/MANIFEST.json",
+      "http_status": 200,
+      "bytes": 2567,
+      "sha256": "868416d3220642a18f66ee5cd85b37260a2716b0cb4880103c2cf480d437a45a",
+      "exact_match": true
+    },
+    {
+      "path": "review/20261007-word-recovery-fix-v1/PACKAGE_RECEIPT.json",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/1ba43a43745ba68d1456e97cd4e86d12c2f39d1d/review/20261007-word-recovery-fix-v1/PACKAGE_RECEIPT.json",
+      "http_status": 200,
+      "bytes": 1094,
+      "sha256": "2cb898dfea151696d00e7e4876f50f29e3a6009eeb3b386baee2f8d0a1549d6e",
+      "exact_match": true
+    },
+    {
+      "path": "review/20261007-word-recovery-fix-v1/REPORT.md",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/1ba43a43745ba68d1456e97cd4e86d12c2f39d1d/review/20261007-word-recovery-fix-v1/REPORT.md",
+      "http_status": 200,
+      "bytes": 7149,
+      "sha256": "69bca292129f5e7b9f1409de58575f686874c1b36b07eab6919d611c1439b6fc",
+      "exact_match": true
+    },
+    {
+      "path": "review/20261007-word-recovery-fix-v1/code/README.md",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/1ba43a43745ba68d1456e97cd4e86d12c2f39d1d/review/20261007-word-recovery-fix-v1/code/README.md",
+      "http_status": 200,
+      "bytes": 4319,
+      "sha256": "17f5b45948459f2c2d0c25750cd7bb53d97d346a7bad7e7800fca8ff108e8ccb",
+      "exact_match": true
+    },
+    {
+      "path": "review/20261007-word-recovery-fix-v1/code/observe_ax.applescript",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/1ba43a43745ba68d1456e97cd4e86d12c2f39d1d/review/20261007-word-recovery-fix-v1/code/observe_ax.applescript",
+      "http_status": 200,
+      "bytes": 2610,
+      "sha256": "68a4e89f9a563ca890830378a33e4683c36a8ed2ee3c0a1f5dd0f1c9a5ca156e",
+      "exact_match": true
+    },
+    {
+      "path": "review/20261007-word-recovery-fix-v1/code/observe_word.applescript",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/1ba43a43745ba68d1456e97cd4e86d12c2f39d1d/review/20261007-word-recovery-fix-v1/code/observe_word.applescript",
+      "http_status": 200,
+      "bytes": 1246,
+      "sha256": "e11b1a142ebfbacc145f421748c7b281104f643716f1534b0f863e7928995aff",
+      "exact_match": true
+    },
+    {
+      "path": "review/20261007-word-recovery-fix-v1/code/reference_broker.py",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/1ba43a43745ba68d1456e97cd4e86d12c2f39d1d/review/20261007-word-recovery-fix-v1/code/reference_broker.py",
+      "http_status": 200,
+      "bytes": 13776,
+      "sha256": "27039b5941598825c928a2a4647cabb87d890f96ef2704461df5725e35762974",
+      "exact_match": true
+    },
+    {
+      "path": "review/20261007-word-recovery-fix-v1/code/resource_recovery.py",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/1ba43a43745ba68d1456e97cd4e86d12c2f39d1d/review/20261007-word-recovery-fix-v1/code/resource_recovery.py",
+      "http_status": 200,
+      "bytes": 20544,
+      "sha256": "76e75aac8f028d4babd1786fc0f71caef1a8f4a2fad6966a78b52e9066579099",
+      "exact_match": true
+    },
+    {
+      "path": "review/20261007-word-recovery-fix-v1/code/run_tests.py",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/1ba43a43745ba68d1456e97cd4e86d12c2f39d1d/review/20261007-word-recovery-fix-v1/code/run_tests.py",
+      "http_status": 200,
+      "bytes": 638,
+      "sha256": "a98f36d3c8f3be1d81b613e5e3f285374d8e2bd6e1ac40cba9287c4a7e64a4ee",
+      "exact_match": true
+    },
+    {
+      "path": "review/20261007-word-recovery-fix-v1/code/test_recovery.py",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/1ba43a43745ba68d1456e97cd4e86d12c2f39d1d/review/20261007-word-recovery-fix-v1/code/test_recovery.py",
+      "http_status": 200,
+      "bytes": 15908,
+      "sha256": "b866f96e3c4561acaa02d8906550d966d3cef9edb3374391bed5943e6239b299",
+      "exact_match": true
+    },
+    {
+      "path": "review/20261007-word-recovery-fix-v1/evidence/INSTALLATION_SUMMARY.json",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/1ba43a43745ba68d1456e97cd4e86d12c2f39d1d/review/20261007-word-recovery-fix-v1/evidence/INSTALLATION_SUMMARY.json",
+      "http_status": 200,
+      "bytes": 3811,
+      "sha256": "2a10bc52316690240ef919cb4b46a49c26a4795573243eba02fe34b2076485ae",
+      "exact_match": true
+    },
+    {
+      "path": "review/20261007-word-recovery-fix-v1/evidence/RELEASE_SUMMARY.json",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/1ba43a43745ba68d1456e97cd4e86d12c2f39d1d/review/20261007-word-recovery-fix-v1/evidence/RELEASE_SUMMARY.json",
+      "http_status": 200,
+      "bytes": 1957,
+      "sha256": "bb4f9e919bfc7adf9f5dc8785b900271502fe8122da96bb616f53b231caee91d",
+      "exact_match": true
+    },
+    {
+      "path": "review/20261007-word-recovery-fix-v1/evidence/ax_compile.json",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/1ba43a43745ba68d1456e97cd4e86d12c2f39d1d/review/20261007-word-recovery-fix-v1/evidence/ax_compile.json",
+      "http_status": 200,
+      "bytes": 44,
+      "sha256": "cbf7d5bdaa935ea8317e011a950c330a9c7b8cde84911df400376137cb2a992d",
+      "exact_match": true
+    },
+    {
+      "path": "review/20261007-word-recovery-fix-v1/evidence/installed_help.log",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/1ba43a43745ba68d1456e97cd4e86d12c2f39d1d/review/20261007-word-recovery-fix-v1/evidence/installed_help.log",
+      "http_status": 200,
+      "bytes": 272,
+      "sha256": "ec50663cb20d395759263dbe4bb298dc7c1cfcb3c99c1d460c18edd29310680b",
+      "exact_match": true
+    },
+    {
+      "path": "review/20261007-word-recovery-fix-v1/evidence/installed_tests.log",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/1ba43a43745ba68d1456e97cd4e86d12c2f39d1d/review/20261007-word-recovery-fix-v1/evidence/installed_tests.log",
+      "http_status": 200,
+      "bytes": 4033,
+      "sha256": "60f8cb821f2709fed9c5add0572c7c1fab7655bdcfaa5553b2a8f8c20236e502",
+      "exact_match": true
+    },
+    {
+      "path": "review/20261007-word-recovery-fix-v1/evidence/source_tests.log",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/1ba43a43745ba68d1456e97cd4e86d12c2f39d1d/review/20261007-word-recovery-fix-v1/evidence/source_tests.log",
+      "http_status": 200,
+      "bytes": 4033,
+      "sha256": "b9d90e36a878cbd534ac3e4063d793ec4dbe162e9d7e3c0a03226179ce56bad4",
+      "exact_match": true
+    },
+    {
+      "path": "review/20261007-word-recovery-fix-v1/evidence/word_compile.json",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/1ba43a43745ba68d1456e97cd4e86d12c2f39d1d/review/20261007-word-recovery-fix-v1/evidence/word_compile.json",
+      "http_status": 200,
+      "bytes": 44,
+      "sha256": "cbf7d5bdaa935ea8317e011a950c330a9c7b8cde84911df400376137cb2a992d",
+      "exact_match": true
+    },
+    {
+      "path": "review/20261007-word-recovery-fix-v1/package_verification.log",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/1ba43a43745ba68d1456e97cd4e86d12c2f39d1d/review/20261007-word-recovery-fix-v1/package_verification.log",
+      "http_status": 200,
+      "bytes": 4059,
+      "sha256": "a947fb3b7855686e4aca50a379edc7756ff53acacac602cb85202bbd8fbc5604",
+      "exact_match": true
+    },
+    {
+      "path": "review/20261007-word-recovery-fix-v1/verify_package.py",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/1ba43a43745ba68d1456e97cd4e86d12c2f39d1d/review/20261007-word-recovery-fix-v1/verify_package.py",
+      "http_status": 200,
+      "bytes": 784,
+      "sha256": "c35b60522ab294f308ef4c3ce9e23794298098a40a3bb43a2e4ea4822b3b695c",
+      "exact_match": true
+    },
+    {
+      "path": "review/20261007-word-recovery-fix-v1/word_recovery_fix_part01.zip",
+      "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/1ba43a43745ba68d1456e97cd4e86d12c2f39d1d/review/20261007-word-recovery-fix-v1/word_recovery_fix_part01.zip",
+      "http_status": 200,
+      "bytes": 30759,
+      "sha256": "4b6721e32e2c9848bdf051435d0b0d946bed0f47ed3dd37e92f25ea0e97a8d37",
+      "exact_match": true
+    }
+  ],
+  "count": 21,
+  "kind": "actual fixed-commit remote download; every byte compared"
+}
