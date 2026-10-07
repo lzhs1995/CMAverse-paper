@@ -1,3 +1,13 @@
+## 2026-10-07 最新：筛选显著性集中反馈包 v5
+
+[现在能反馈什么：完整报告](review/20261007-significance-feedback-v5/REPORT.md) · [网页端读取入口](review/20261007-significance-feedback-v5/START_HERE.md) · [下载数据与当前稿件](review/20261007-significance-feedback-v5/significance_feedback_part01.zip)
+
+统计计算与限定核验已完成，031／041保留探索性线索；尚未确认最佳显著机制。P3修复后整体p=0.132／0.080。集中包包含必要保存结果、版本对照、当前全文及四份DOCX；最终原生Word/PDF/NLM仍待验收，不影响现在反馈。
+
+下方均为历史阶段入口，资源状态只代表各自记录时点。
+
+---
+
 ## 2026-10-07 v4：身份纠正、Word观察修复与两位Claude核收
 
 [最新反馈与读取入口](review/20261007-native-repair-status-v4/START_HERE.md) · [详细说明](review/20261007-native-repair-status-v4/WEB_FEEDBACK.md)

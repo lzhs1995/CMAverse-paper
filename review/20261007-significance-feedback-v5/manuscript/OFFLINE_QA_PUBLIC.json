@@ -1,0 +1,154 @@
+{
+  "source": {
+    "source": "outputs_v3/OFFLINE_QA.json",
+    "bytes": 7948,
+    "sha256": "56be4877db532e967dcf3091c041bf35c83ffd7297328b423cd6b3ee755320c9"
+  },
+  "qa": {
+    "status": "OFFLINE_PASS_NATIVE_PENDING",
+    "inputs": {
+      "accepted_offline.docx": {
+        "bytes": 485550,
+        "sha256": "59c2271b22acb6bc05b1f690250c978a145cdb94be81c5ebd55cafd99cefdf52"
+      },
+      "content_patched.docx": {
+        "bytes": 480296,
+        "sha256": "0baf8ce3a71768b1361d4293e344577c16a802c97a7826f18c68e2c69a0c027d"
+      },
+      "tracked_patched.docx": {
+        "bytes": 572539,
+        "sha256": "c099e7b46fb8682f01d176e289b4d10fbaa17e5ce4e03c7c341a2b071af84531"
+      },
+      "rejected_offline.docx": {
+        "bytes": 432571,
+        "sha256": "e98a935eda8a7412096165b33bec8d4f1e3febcf41bba9f93ed7f5e196b03448"
+      },
+      "mother": {
+        "bytes": 496516,
+        "sha256": "4f8cb6c2963c52efaf7cc1065110783ddefdc586785cce15f401d71e2787123d"
+      },
+      "registry": {
+        "bytes": 13524,
+        "sha256": "d501fd9ad04e09fc6d3a93a7a40e62454e443910259ab982ccc60a99b9071706"
+      },
+      "functions": {
+        "bytes": 61161,
+        "sha256": "928566461039724f078ddf6af068e5c675841fc04f1033e2f57444178e6faffe"
+      },
+      "source_map": {
+        "bytes": 37951,
+        "sha256": "b49c156ec43998b70e5dc6482ab27e52e7723e8a52640d28d2f553ea9094d817"
+      }
+    },
+    "outputs": {
+      "content_patched": {
+        "bytes": 481485,
+        "sha256": "03603a06a527a98c8710e91bc8c5734028377d01fd44c4ce0b9e3f6269f7bc57"
+      },
+      "tracked_patched": {
+        "bytes": 575365,
+        "sha256": "ed06f46e65d47fc34b990c802fd6e68221b9da4afd2663d579ebbf9764b17fa8"
+      },
+      "accepted_offline": {
+        "bytes": 486695,
+        "sha256": "5063b21a076d79a5037a99dc2feece9928d95eb1dd697d07da06f9989539d8bf"
+      },
+      "rejected_offline": {
+        "bytes": 432571,
+        "sha256": "f420b617893a57e2fc16eb71248fd23d43e0e601674b43a08a32a50b5040d9c1"
+      }
+    },
+    "checks": {
+      "all_story_projection": true,
+      "stories": [
+        {
+          "part": "word/document.xml",
+          "accepted_content_semantics": true,
+          "accepted_clean_semantics": true,
+          "rejected_mother_normalized_xml": true
+        },
+        {
+          "part": "word/endnotes.xml",
+          "accepted_content_semantics": true,
+          "accepted_clean_semantics": true,
+          "rejected_mother_normalized_xml": true
+        },
+        {
+          "part": "word/footer1.xml",
+          "accepted_content_semantics": true,
+          "accepted_clean_semantics": true,
+          "rejected_mother_normalized_xml": true
+        },
+        {
+          "part": "word/footer2.xml",
+          "accepted_content_semantics": true,
+          "accepted_clean_semantics": true,
+          "rejected_mother_normalized_xml": true
+        },
+        {
+          "part": "word/footer3.xml",
+          "accepted_content_semantics": true,
+          "accepted_clean_semantics": true,
+          "rejected_mother_normalized_xml": true
+        },
+        {
+          "part": "word/footnotes.xml",
+          "accepted_content_semantics": true,
+          "accepted_clean_semantics": true,
+          "rejected_mother_normalized_xml": true
+        },
+        {
+          "part": "word/header1.xml",
+          "accepted_content_semantics": true,
+          "accepted_clean_semantics": true,
+          "rejected_mother_normalized_xml": true
+        },
+        {
+          "part": "word/header2.xml",
+          "accepted_content_semantics": true,
+          "accepted_clean_semantics": true,
+          "rejected_mother_normalized_xml": true
+        },
+        {
+          "part": "word/header3.xml",
+          "accepted_content_semantics": true,
+          "accepted_clean_semantics": true,
+          "rejected_mother_normalized_xml": true
+        }
+      ],
+      "protected_media_and_embeddings": true,
+      "clean_content_field_snapshots_equal": true,
+      "objects": [
+        34,
+        3,
+        37,
+        30
+      ]
+    },
+    "targeted_existing_paragraphs_or_cells": 8,
+    "inserted_appendix_paragraphs": 2,
+    "footnote": {
+      "id": 3,
+      "before": " 我院王跃生教授在《光明日报》撰文：中国家庭结构百年变迁及其特征分析 https://history.nankai.edu.cn/2026/0403/c16078a592148/page.htm",
+      "after": " 王跃生：《中国家庭结构百年变迁及其特征分析》，《光明日报》，2026年4月1日，第11版。",
+      "existing_fields_in_this_footnote": 0,
+      "reference_marker_preserved": true
+    },
+    "old_note_chars": 1282,
+    "new_note_chars": 332,
+    "all_story_count": 9,
+    "all_field_count": 24,
+    "citation_count": 23,
+    "bibliography_entries": 25,
+    "field_code_display_csl_preserved": true,
+    "changed_content_zip_parts": [
+      "word/document.xml",
+      "word/footnotes.xml"
+    ],
+    "revision_ids_unique": true,
+    "old_21_edits_rebuilt": false,
+    "native_calls": 0,
+    "statistical_execution": false
+  },
+  "interpretation": "离线结构/投影核验，不能替代原生 Word 接受/拒绝、插件刷新、PDF 或同版 NLM 验收。"
+}

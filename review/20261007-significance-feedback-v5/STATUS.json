@@ -1,0 +1,21 @@
+{
+  "compiled_at_utc": "2026-10-07T08:44:33.380587+00:00",
+  "statistical_review": "READY_FROZEN",
+  "confirmed_best_mechanism": "NOT_ESTABLISHED",
+  "exploratory_candidates": [
+    "FEAS_031",
+    "FEAS_041"
+  ],
+  "p3_numerical_repair": "COMPLETE_2000_OF_2000",
+  "manuscript": "V3_OFFLINE_REFERENCE_CONTENT_UNCHANGED",
+  "final_native_delivery": "PENDING",
+  "new_model_runs_this_package": 0,
+  "new_bootstrap_draws_this_package": 0,
+  "new_p_values_this_package": 0,
+  "package_review_mode": "solo_self_review; prior bounded Claude reports inherited",
+  "resource_snapshot": {
+    "source_time_utc": "2026-10-07T08:25:12Z",
+    "meaning": "Predecessor executed once and stopped with SNAPSHOT_FAILED; receipt reports normal_quit_41102 CONFIRMED_ONCE; coordinator release was pending. This is timestamped evidence, not a live-status claim.",
+    "next_action": "Exact coordinator acknowledgement/release, then existing FIFO successor. Statistical publication is independent."
+  }
+}

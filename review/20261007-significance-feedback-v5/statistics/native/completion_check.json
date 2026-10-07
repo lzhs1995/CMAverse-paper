@@ -1,0 +1,53 @@
+{
+  "schema_version": "0.2.4",
+  "producer_version": "0.6.6",
+  "evidence_id": "a167fadb-5327-46b1-9aba-36157d3ef11d",
+  "parent_evidence_ids": [],
+  "task_key": null,
+  "harness_name": "completion_check",
+  "timestamp_utc": "2026-10-06T11:54:00.895286Z",
+  "agent": "unknown",
+  "transport_class": null,
+  "session_name": null,
+  "pid": null,
+  "job_id": null,
+  "io_mode": "durable_files",
+  "decision": "PASS",
+  "reasons": [
+    "completion contract passed"
+  ],
+  "artifact_paths": [
+    "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/VALIDATION.csv",
+    "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/exports/P3_ALL_6000_DRAWS.csv"
+  ],
+  "policy_violations": [],
+  "exit_code": 0,
+  "extra": {
+    "artifact_checks": [
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/VALIDATION.csv",
+        "artifact_type": "validation",
+        "options": {
+          "min_rows": 106,
+          "max_age_h": 24.0
+        },
+        "ok": true,
+        "reason": "csv has 106 data rows"
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/exports/P3_ALL_6000_DRAWS.csv",
+        "artifact_type": "effects",
+        "options": {
+          "min_rows": 6000,
+          "max_age_h": 24.0
+        },
+        "ok": true,
+        "reason": "file exists"
+      }
+    ],
+    "mode": "formal",
+    "policy": "strict",
+    "contract": "",
+    "resource_gate_check": null
+  }
+}

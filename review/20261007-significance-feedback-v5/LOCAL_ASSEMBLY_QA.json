@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "at_utc": "2026-10-07T08:44:33.380587+00:00",
+  "inherited_files_verified_against_fixed_git_commit": 58,
+  "source_commit": "97ea7482b380070b3637b20ae4530e8c8520120d",
+  "row_counts": {
+    "P3_effects": 6000,
+    "P3_diagnostics": 6000,
+    "RW_targets": 240,
+    "registered_specs": 150,
+    "execution_input_binding_rows": 120
+  },
+  "all_four_docx_match_v3_source_bindings": true,
+  "revised_model_p_columns_remain_blank": true,
+  "scope": "Package source inheritance and structural checks; not repeated model or numerical validation"
+}
