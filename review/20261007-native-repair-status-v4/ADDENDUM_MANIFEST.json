@@ -1,0 +1,17 @@
+{
+  "schema": "CMA_REPAIR_ADDENDUM_V1",
+  "base_package_commit": "cf90d5982da4ed4b82eee1ed78287253a9ced399",
+  "note": "原包、入口及全部原清单保持不变；以下仅包外增补。",
+  "files": [
+    {
+      "path": "SOURCE_BINDINGS_SCOPE.md",
+      "bytes": 944,
+      "sha256": "2a0714813a606255a52352f5364783c95b74eda6e2e4874beae685a866381dfc"
+    },
+    {
+      "path": "REMOTE_VERIFICATION_CF90D59.json",
+      "bytes": 3706,
+      "sha256": "ef15a0b6fc8019881c6e4869103f454ffc3d8408130bd4dda40daa0dd9ca09d0"
+    }
+  ]
+}
