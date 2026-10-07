@@ -1,0 +1,46 @@
+{
+  "kind": "public extract; full original receipts retained locally",
+  "source_receipts": [
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/resource_recovery_fix_20261007_v1/scoped_modal_v6/apply_01/COMMITTED.json",
+      "bytes": 3338,
+      "sha256": "4085d031b86e41392a8a3df15f6b2189fe4ac0c753b3b2f893fde949da7f94bd"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/resource_recovery_fix_20261007_v1/scoped_modal_v6/POST_RELEASE_VERIFICATION.json",
+      "bytes": 1221,
+      "sha256": "770ce2faa6a11ed586e5a0e454865523b273a78dda14a5ce9acef8c1c879742f"
+    }
+  ],
+  "status": "RELEASED",
+  "database_status": "RELEASED",
+  "ticket": "8bd72229-b774-46fa-89c7-3ffc829e85de",
+  "journal_summary": {
+    "invocations": 24,
+    "native_intents": 31,
+    "pinned_files": 400
+  },
+  "owned_documents_open": 0,
+  "global_documents": 1,
+  "foreign_unsaved_documents": 1,
+  "foreign_modals_retained": 1,
+  "global_ui_ready": false,
+  "pending": false,
+  "own_processes_empty": true,
+  "locks_held_through_commit": true,
+  "changed_fields": [
+    "status",
+    "release_proof"
+  ],
+  "only_target_changed": true,
+  "all_other_tickets_identical": true,
+  "old_token_rejected": "LEASE_OWNER_MISMATCH",
+  "broker_pin": {
+    "path": "/Users/lzhs/.local/share/multi-agent-collaboration/releases/0.1.2-callback138-0996f3030702/source/scripts/resource_broker.py",
+    "sha256": "27039b5941598825c928a2a4647cabb87d890f96ef2704461df5725e35762974",
+    "bytes": 13776
+  },
+  "at": 1791331430.1600158,
+  "ui_actions": 0,
+  "models_run": 0
+}

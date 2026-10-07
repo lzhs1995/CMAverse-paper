@@ -1,0 +1,74 @@
+{
+  "kind": "public extract; full backup/plan retained locally",
+  "source_receipts": [
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/resource_recovery_fix_20261007_v1/install_v6/INSTALLED.json",
+      "bytes": 2761,
+      "sha256": "d8e0e36ee8a6832cf16e2d7ca965416288e355de5a5e918f073a1cb13647bbf1"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/resource_recovery_fix_20261007_v1/install_v6/VALIDATED.json",
+      "bytes": 2074,
+      "sha256": "b3c5eb49b0c8473bde8ad1bafee5594d873d6d2ab6f4f74dd95297294b8e6053"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/resource_recovery_fix_20261007_v1/install_v6/CLIENT_READBACK.json",
+      "bytes": 802,
+      "sha256": "70949e994ae0249182082aa894e80932f7dadd68bb75cc0cb90f44222380e8bb"
+    }
+  ],
+  "status": "INSTALLED_READBACK_VERIFIED",
+  "files": [
+    {
+      "path": "/Users/lzhs/.local/share/multi-agent-collaboration/recovery/word-scoped-v6-76e75aac8f02/resource_recovery.py",
+      "bytes": 20544,
+      "sha256": "76e75aac8f028d4babd1786fc0f71caef1a8f4a2fad6966a78b52e9066579099"
+    },
+    {
+      "path": "/Users/lzhs/.local/share/multi-agent-collaboration/recovery/word-scoped-v6-76e75aac8f02/test_recovery.py",
+      "bytes": 15908,
+      "sha256": "b866f96e3c4561acaa02d8906550d966d3cef9edb3374391bed5943e6239b299"
+    },
+    {
+      "path": "/Users/lzhs/.local/share/multi-agent-collaboration/recovery/word-scoped-v6-76e75aac8f02/observe_word.applescript",
+      "bytes": 1246,
+      "sha256": "e11b1a142ebfbacc145f421748c7b281104f643716f1534b0f863e7928995aff"
+    },
+    {
+      "path": "/Users/lzhs/.local/share/multi-agent-collaboration/recovery/word-scoped-v6-76e75aac8f02/observe_ax.applescript",
+      "bytes": 2610,
+      "sha256": "68a4e89f9a563ca890830378a33e4683c36a8ed2ee3c0a1f5dd0f1c9a5ca156e"
+    },
+    {
+      "path": "/Users/lzhs/.local/share/multi-agent-collaboration/recovery/word-scoped-v6-76e75aac8f02/README.md",
+      "bytes": 4319,
+      "sha256": "17f5b45948459f2c2d0c25750cd7bb53d97d346a7bad7e7800fca8ff108e8ccb"
+    },
+    {
+      "path": "/Users/lzhs/.local/share/multi-agent-collaboration/recovery/word-scoped-v6-76e75aac8f02/run_tests.py",
+      "bytes": 638,
+      "sha256": "a98f36d3c8f3be1d81b613e5e3f285374d8e2bd6e1ac40cba9287c4a7e64a4ee"
+    },
+    {
+      "path": "/Users/lzhs/.local/share/multi-agent-collaboration/recovery/word-scoped-v6-76e75aac8f02/reference_broker.py",
+      "bytes": 13776,
+      "sha256": "27039b5941598825c928a2a4647cabb87d890f96ef2704461df5725e35762974"
+    },
+    {
+      "path": "/Users/lzhs/.codex/skills/multi-agent-collaboration/SKILL.md",
+      "bytes": 9752,
+      "sha256": "d842e48f782b3933c100ff11188575b74ff0dc6930202a9869832b47b8365607"
+    },
+    {
+      "path": "/Users/lzhs/.claude/skills/multi-agent-collaboration/SKILL.md",
+      "bytes": 7050,
+      "sha256": "d56f3a4fc93207d3c255db71d05023900f383ec53685b8fc0dbd8c7d9b2b7c16"
+    }
+  ],
+  "protected_unchanged": true,
+  "tests": 41,
+  "sidecar_loaded_in_test": "/Users/lzhs/.local/share/multi-agent-collaboration/recovery/word-scoped-v6-76e75aac8f02",
+  "current_codex_readback": true,
+  "other_clients_reloaded": "not measured",
+  "review": "solo_self_review"
+}

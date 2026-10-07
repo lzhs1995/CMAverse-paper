@@ -1,0 +1,85 @@
+{
+  "schema": 1,
+  "files": [
+    {
+      "path": "REPORT.md",
+      "bytes": 7149,
+      "sha256": "69bca292129f5e7b9f1409de58575f686874c1b36b07eab6919d611c1439b6fc"
+    },
+    {
+      "path": "code/README.md",
+      "bytes": 4319,
+      "sha256": "17f5b45948459f2c2d0c25750cd7bb53d97d346a7bad7e7800fca8ff108e8ccb"
+    },
+    {
+      "path": "code/observe_ax.applescript",
+      "bytes": 2610,
+      "sha256": "68a4e89f9a563ca890830378a33e4683c36a8ed2ee3c0a1f5dd0f1c9a5ca156e"
+    },
+    {
+      "path": "code/observe_word.applescript",
+      "bytes": 1246,
+      "sha256": "e11b1a142ebfbacc145f421748c7b281104f643716f1534b0f863e7928995aff"
+    },
+    {
+      "path": "code/reference_broker.py",
+      "bytes": 13776,
+      "sha256": "27039b5941598825c928a2a4647cabb87d890f96ef2704461df5725e35762974"
+    },
+    {
+      "path": "code/resource_recovery.py",
+      "bytes": 20544,
+      "sha256": "76e75aac8f028d4babd1786fc0f71caef1a8f4a2fad6966a78b52e9066579099"
+    },
+    {
+      "path": "code/run_tests.py",
+      "bytes": 638,
+      "sha256": "a98f36d3c8f3be1d81b613e5e3f285374d8e2bd6e1ac40cba9287c4a7e64a4ee"
+    },
+    {
+      "path": "code/test_recovery.py",
+      "bytes": 15908,
+      "sha256": "b866f96e3c4561acaa02d8906550d966d3cef9edb3374391bed5943e6239b299"
+    },
+    {
+      "path": "evidence/INSTALLATION_SUMMARY.json",
+      "bytes": 3811,
+      "sha256": "2a10bc52316690240ef919cb4b46a49c26a4795573243eba02fe34b2076485ae"
+    },
+    {
+      "path": "evidence/RELEASE_SUMMARY.json",
+      "bytes": 1957,
+      "sha256": "bb4f9e919bfc7adf9f5dc8785b900271502fe8122da96bb616f53b231caee91d"
+    },
+    {
+      "path": "evidence/ax_compile.json",
+      "bytes": 44,
+      "sha256": "cbf7d5bdaa935ea8317e011a950c330a9c7b8cde84911df400376137cb2a992d"
+    },
+    {
+      "path": "evidence/installed_help.log",
+      "bytes": 272,
+      "sha256": "ec50663cb20d395759263dbe4bb298dc7c1cfcb3c99c1d460c18edd29310680b"
+    },
+    {
+      "path": "evidence/installed_tests.log",
+      "bytes": 4033,
+      "sha256": "60f8cb821f2709fed9c5add0572c7c1fab7655bdcfaa5553b2a8f8c20236e502"
+    },
+    {
+      "path": "evidence/source_tests.log",
+      "bytes": 4033,
+      "sha256": "b9d90e36a878cbd534ac3e4063d793ec4dbe162e9d7e3c0a03226179ce56bad4"
+    },
+    {
+      "path": "evidence/word_compile.json",
+      "bytes": 44,
+      "sha256": "cbf7d5bdaa935ea8317e011a950c330a9c7b8cde84911df400376137cb2a992d"
+    },
+    {
+      "path": "verify_package.py",
+      "bytes": 784,
+      "sha256": "c35b60522ab294f308ef4c3ce9e23794298098a40a3bb43a2e4ea4822b3b695c"
+    }
+  ]
+}

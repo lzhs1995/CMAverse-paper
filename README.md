@@ -1,3 +1,15 @@
+## 2026-10-07 Word 过期租约死锁已修复
+
+真实旧票已 RELEASED，旧令牌已失效；恢复工具已安装到 Codex/Claude 技能入口，41 项回归及安装位置测试通过。外方未保存文稿和模态原样保留，FIFO 不变。统计及累计改文冻结；最终 Word/PDF/NLM 仍按合法后继票继续。
+
+详细报告：
+https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/main/review/20261007-word-recovery-fix-v1/REPORT.md
+
+修复证据包（30,759 字节，17 文件，单包小于 25 MB）：
+https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/main/review/20261007-word-recovery-fix-v1/word_recovery_fix_part01.zip
+
+---
+
 ## 2026-10-07 接续状态补充已发布
 
 新补充包8,161字节；6文件已从固定提交回下载核验。统计及累计离线改文冻结；最终原生Word/PDF和同版NLM仍待资源安全交接。主体资料继续使用下方累计稿入口。

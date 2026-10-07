@@ -1,0 +1,19 @@
+{
+  "at": "2026-10-07T00:19:14.151388+00:00",
+  "archive": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/resource_recovery_fix_20261007_v1/delivery_v6/word_recovery_fix_part01.zip",
+    "bytes": 30759,
+    "sha256": "4b6721e32e2c9848bdf051435d0b0d946bed0f47ed3dd37e92f25ea0e97a8d37"
+  },
+  "members": 17,
+  "manifest_entries": 16,
+  "crc": "PASS",
+  "sha256_sizes": "PASS",
+  "extracted_tests": 41,
+  "under_25000000_bytes": true,
+  "validation_log": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/resource_recovery_fix_20261007_v1/delivery_v6/package_verification.log",
+    "bytes": 4059,
+    "sha256": "a947fb3b7855686e4aca50a379edc7756ff53acacac602cb85202bbd8fbc5604"
+  }
+}

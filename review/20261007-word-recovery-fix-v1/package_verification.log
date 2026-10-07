@@ -1,0 +1,47 @@
+PASS: 16 manifest entries
+test_changed_ax_inventory (__main__.ObserverTests.test_changed_ax_inventory) ... ok
+test_invalid_boolean (__main__.ObserverTests.test_invalid_boolean) ... ok
+test_inventory_parser (__main__.ObserverTests.test_inventory_parser) ... ok
+test_sheet_count_must_match_direct_children (__main__.ObserverTests.test_sheet_count_must_match_direct_children) ... ok
+test_sheet_needs_observed_parent (__main__.ObserverTests.test_sheet_needs_observed_parent) ... ok
+test_split_observer_and_changed_inventory (__main__.ObserverTests.test_split_observer_and_changed_inventory) ... ok
+test_truncated_output (__main__.ObserverTests.test_truncated_output) ... ok
+test_word_process_observation_required (__main__.ObserverTests.test_word_process_observation_required) ... ok
+test_word_zero_windows_zotero_main_window (__main__.ObserverTests.test_word_zero_windows_zotero_main_window) ... ok
+test_actual_process_alive (__main__.RecoveryTests.test_actual_process_alive) ... ok
+test_changed_lease (__main__.RecoveryTests.test_changed_lease) ... ok
+test_extra_modal_not_recoverable (__main__.RecoveryTests.test_extra_modal_not_recoverable) ... ok
+test_foreign_actor_mismatch (__main__.RecoveryTests.test_foreign_actor_mismatch) ... ok
+test_foreign_modal_scoped_release_preserves_waiter (__main__.RecoveryTests.test_foreign_modal_scoped_release_preserves_waiter) ... ok
+test_foreign_request_changes_during_observation (__main__.RecoveryTests.test_foreign_request_changes_during_observation) ... ok
+test_foreign_scope_mismatch (__main__.RecoveryTests.test_foreign_scope_mismatch) ... ok
+test_foreign_sheet_inherits_verified_parent_scope (__main__.RecoveryTests.test_foreign_sheet_inherits_verified_parent_scope) ... ok
+test_foreign_sheet_missing_ancestry_rejected (__main__.RecoveryTests.test_foreign_sheet_missing_ancestry_rejected) ... ok
+test_foreign_sheet_with_changed_parent_rejected (__main__.RecoveryTests.test_foreign_sheet_with_changed_parent_rejected) ... ok
+test_foreign_unsaved_doc_release_and_old_token_fenced_fifo_preserved (__main__.RecoveryTests.test_foreign_unsaved_doc_release_and_old_token_fenced_fifo_preserved) ... ok
+test_foreign_waiter_changed (__main__.RecoveryTests.test_foreign_waiter_changed) ... ok
+test_journal_mutation_during_observation (__main__.RecoveryTests.test_journal_mutation_during_observation) ... ok
+test_locks_remain_held_during_observation (__main__.RecoveryTests.test_locks_remain_held_during_observation) ... ok
+test_missing_modal_inventory (__main__.RecoveryTests.test_missing_modal_inventory) ... ok
+test_modal (__main__.RecoveryTests.test_modal) ... ok
+test_nlm_never_recovered (__main__.RecoveryTests.test_nlm_never_recovered) ... ok
+test_observe_only_never_mutates (__main__.RecoveryTests.test_observe_only_never_mutates) ... ok
+test_owned_document_open (__main__.RecoveryTests.test_owned_document_open) ... ok
+test_owned_scope_cannot_omit_a_document (__main__.RecoveryTests.test_owned_scope_cannot_omit_a_document) ... ok
+test_pending_inner_intent (__main__.RecoveryTests.test_pending_inner_intent) ... ok
+test_pending_outer_launch (__main__.RecoveryTests.test_pending_outer_launch) ... ok
+test_postcommit_receipt_failure_is_truthful (__main__.RecoveryTests.test_postcommit_receipt_failure_is_truthful) ... ok
+test_real_lock_busy (__main__.RecoveryTests.test_real_lock_busy) ... ok
+test_replay_refused (__main__.RecoveryTests.test_replay_refused) ... ok
+test_stale (__main__.RecoveryTests.test_stale) ... ok
+test_unexpired (__main__.RecoveryTests.test_unexpired) ... ok
+test_unknown_and_boolean_counts_rejected (__main__.RecoveryTests.test_unknown_and_boolean_counts_rejected) ... ok
+test_unknown_inventory (__main__.RecoveryTests.test_unknown_inventory) ... ok
+test_unknown_modal_owner (__main__.RecoveryTests.test_unknown_modal_owner) ... ok
+test_wrong_actor (__main__.RecoveryTests.test_wrong_actor) ... ok
+test_zotero_modal_not_recoverable (__main__.RecoveryTests.test_zotero_modal_not_recoverable) ... ok
+
+----------------------------------------------------------------------
+Ran 41 tests in 0.172s
+
+OK
