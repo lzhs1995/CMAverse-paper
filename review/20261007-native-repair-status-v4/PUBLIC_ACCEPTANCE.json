@@ -1,0 +1,9 @@
+{
+  "gates": [],
+  "native_or_nlm_verified_by_packager": false,
+  "note": "仅资料反馈；最终 Word、Zotero、PDF 与同版 NLM 状态须以正式回执为准。",
+  "review_mode": "solo_self_review",
+  "source_bytes": 130,
+  "source_sha256": "0ac7878bffe3f421853b102552a13740bd3832aa419f72c880eafb2c15ee8025",
+  "status": "REVIEW_ONLY_NOT_FINAL"
+}

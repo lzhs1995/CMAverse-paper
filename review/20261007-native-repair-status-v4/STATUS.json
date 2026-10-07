@@ -1,0 +1,114 @@
+{
+  "schema": "CMA_REPAIR_FEEDBACK_STATUS_V1",
+  "status": "REVIEW_ONLY_NOT_FINAL",
+  "prepared_at": "2026-10-07T07:30:17.325738+00:00",
+  "snapshot_note": "运行状态为2026-10-07 15:26 +08:00主管只读观察转述；本包编制者未重新查询实时数据库。发布时应由主管注明后继状态是否改变。",
+  "identity": {
+    "actual_surface": 40,
+    "actual_workspace": 13,
+    "claude_surfaces": [
+      41,
+      2596
+    ],
+    "incorrect_daemon_surface": 46,
+    "incorrect_daemon_workspace": 15,
+    "local_source_recovery": "PASS",
+    "global_environment_or_installed_skill_changed": false,
+    "source_id": "identity_acceptance"
+  },
+  "window_observation": {
+    "repair": "empty Word collection compatibility and exact known Zotero/InputSource window classification",
+    "unknown_counts_coerced_to_zero": false,
+    "unknown_or_extra_dialogs_still_block": true,
+    "offline_checks_reported": {
+      "new": 71,
+      "legacy": 41
+    },
+    "checks_rerun_by_this_package_preparer": false,
+    "source_id": "observer_review"
+  },
+  "predecessor": {
+    "reference": "460c4293",
+    "status": "RELEASED",
+    "database_status_in_receipt": "RELEASED",
+    "released_at": "2026-10-07T15:14:42.060000+08:00",
+    "observed_owned_documents_open": 0,
+    "observed_global_documents": 0,
+    "observed_global_windows": 0,
+    "observed_pending": false,
+    "observed_own_processes_empty": true,
+    "locks_held_through_commit": true,
+    "source_id": "release_commit"
+  },
+  "successor": {
+    "reference": "4f69d896",
+    "status_at_root_snapshot": "WAITING",
+    "invocations_at_root_snapshot": 0,
+    "predecessor_references_at_root_snapshot": [
+      "cf1c3f92",
+      "9300cfa8"
+    ],
+    "active_count_at_root_snapshot": 0,
+    "snapshot_origin": "root read-only observation at 2026-10-07 15:26 +08:00; HANDOFF checkpoint",
+    "request_source_id": "successor_request",
+    "request_is_not_grant": true,
+    "owner_response_written": true,
+    "owner_response_consumption_confirmed": false
+  },
+  "claude_reviews": [
+    {
+      "source_id": "claude_native_review",
+      "scope": "minimal native runner and input preparation",
+      "finding": "No P1 code defect found; one P2 NULL proof error, one P2 path-normalization fragility, two P3 documentation/frozen-input issues.",
+      "native_final_acceptance": false,
+      "historical_predecessor_active_block": "superseded by later release_commit",
+      "original_completion_received_by_root": true
+    },
+    {
+      "source_id": "claude_bibliography_review",
+      "scope": "bibliography preservation verifier and review-versus-final publication status",
+      "finding": "No evidenced P0/P1; four P2 coverage/interpretation boundaries. Used real extractor functions and in-memory controls, not execution of the verifier itself.",
+      "native_final_acceptance": false,
+      "completion_delivery_claim": "report reviewed; no additional callback-consumption claim in this package"
+    }
+  ],
+  "successor_code": {
+    "status": "PASS_FILE_PREPARATION_ONLY",
+    "checks": 12,
+    "input_pins": 132,
+    "old_111_pins_preserved": true,
+    "source_id": "successor_preparation"
+  },
+  "statistics": {
+    "status": "FROZEN",
+    "models_run_for_this_package": 0,
+    "new_tests_added": 0,
+    "candidates": "FEAS_031 and FEAS_041 exploratory modification signals, not confirmed complete mediation",
+    "P3_original_p": 0.131934032983508,
+    "P3_capped_p": 0.079960019990005,
+    "versions_must_not_be_combined": true
+  },
+  "final_delivery": {
+    "native_accept_reject_current_fixed_version": "PENDING",
+    "final_Zotero_refresh_and_reopen": "PENDING",
+    "final_DOCX_bibliography_verification": "PENDING",
+    "final_PDF_all_pages_and_fonts": "PENDING",
+    "same_final_PDF_NLM_two_rounds_twelve_questions": "PENDING",
+    "overall": "NOT_FINAL"
+  },
+  "package_preparation": {
+    "review_mode": "solo_self_review",
+    "network_calls": 0,
+    "UI_calls": 0,
+    "NLM_queries": 0,
+    "model_calls": 0,
+    "queue_writes": 0,
+    "git_writes": 0,
+    "upload_performed": false
+  },
+  "publication": {
+    "target_repository": "https://github.com/lzhs1995/CMAverse-paper",
+    "last_known_public_commit_before_this_package": "766e8f029f6123422dcc05eef90fcf7b011aff7d",
+    "this_package": "PREPARED_LOCAL_ONLY_PENDING_ROOT_REVIEW"
+  }
+}

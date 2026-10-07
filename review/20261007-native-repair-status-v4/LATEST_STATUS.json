@@ -1,0 +1,53 @@
+{
+  "schema": "CMA_ROOT_STATUS_V4",
+  "at": "2026-10-07T07:40:15.184147+00:00",
+  "delivery_status": "REVIEW_ONLY_NOT_FINAL",
+  "snapshot_supersedes": "STATUS.json successor queue snapshot only",
+  "predecessor": {
+    "id": "460c4293-0ca9-491f-9c20-6b7009d02a90",
+    "status": "RELEASED",
+    "invocations": 4
+  },
+  "word_queue": [
+    {
+      "id": "9300cfa8-c4d7-4250-b6ba-7e4d4458efa2",
+      "task_id": "early2915-bibliography7-refresh-v3",
+      "status": "WAITING",
+      "invocations": 0
+    },
+    {
+      "id": "4f69d896-00a6-43d6-97b7-1b5c94341062",
+      "task_id": "cmaverse-final-native-closeout-actual40-20261007-v4",
+      "status": "WAITING",
+      "invocations": 0
+    }
+  ],
+  "claude_completion_received_by_root": [
+    {
+      "task": "cmaverse-minimal-native-independent-20261007-r1",
+      "nonce": "2cc9958bec44223a61be6faad33e8995",
+      "report_sha256": "b841595bf006d4df0159197f5f094dea26f01f64c69dc5e2e9863c869629b823"
+    },
+    {
+      "task": "cmaverse-final-bibliography-delivery-20261007-r1",
+      "nonce": "9102aee0266ced08df1c059a92c7bd49",
+      "report_sha256": "3bf4c8cd01aa3dc9bbec0709d9621cc8ed84ba8239f0ccc42c7f4735f804ae94"
+    }
+  ],
+  "completion_evidence": "Actual DONE messages received in current root conversation; this is root acknowledgement, not a fabricated bridge receipt.",
+  "statistics": "FROZEN",
+  "final_native_word_pdf_nlm": "PENDING",
+  "new_model_runs": 0,
+  "preceding_spatial_observations": [
+    {
+      "at": "2026-10-07T07:37:23+00:00",
+      "status": "ACTIVE",
+      "invocations": 1
+    },
+    {
+      "at": "2026-10-07T07:40:36+00:00",
+      "status": "RELEASED",
+      "invocations": 1
+    }
+  ]
+}

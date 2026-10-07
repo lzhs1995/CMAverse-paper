@@ -1,0 +1,90 @@
+{
+  "schema": "CMA_ROOT_DELIVERY_V4",
+  "status": "REVIEW_ONLY_NOT_FINAL",
+  "files": [
+    {
+      "path": "CANDIDATE_DEFINITIONS.csv",
+      "bytes": 1626,
+      "sha256": "6f08c1eb455885c21893a68d8960ff9eb35f28fdc9f78737efe32f45b4616cc3"
+    },
+    {
+      "path": "CLAUDE_BIBLIOGRAPHY_REVIEW.md",
+      "bytes": 15182,
+      "sha256": "3bf4c8cd01aa3dc9bbec0709d9621cc8ed84ba8239f0ccc42c7f4735f804ae94"
+    },
+    {
+      "path": "CLAUDE_NATIVE_REVIEW.md",
+      "bytes": 13394,
+      "sha256": "b841595bf006d4df0159197f5f094dea26f01f64c69dc5e2e9863c869629b823"
+    },
+    {
+      "path": "LATEST_STATUS.json",
+      "bytes": 1674,
+      "sha256": "ae96e6f0b11057d659e7d9f6803a6848b79113701544d769bb621fe2b9095e6c"
+    },
+    {
+      "path": "P3_OMNIBUS.csv",
+      "bytes": 452,
+      "sha256": "385ce683ac9c879880e2fc4cdc4991cc062fddd53196f8bee750d611e64566e7"
+    },
+    {
+      "path": "PUBLIC_ACCEPTANCE.json",
+      "bytes": 355,
+      "sha256": "7162abefcec0badd9e1c8520ee5b6d191f076ab11393e39af001edbcf7dd99d3"
+    },
+    {
+      "path": "REPAIR_FACTS.md",
+      "bytes": 6353,
+      "sha256": "9ecee998873ce84e35457a2b7459e7fe67cc15e31878a170b7c442e8c7b72633"
+    },
+    {
+      "path": "RESULT_VERSIONS.csv",
+      "bytes": 2203,
+      "sha256": "0c050a2ad8f29f0de79bb296cac11e6e19d0ddfe6080b590e8c6ec97ceb8e202"
+    },
+    {
+      "path": "ROOT_ACCEPTANCE.json",
+      "bytes": 815,
+      "sha256": "e02db00df284159f5f3342316da703130ae0413572999327fd1cb976cf0514e0"
+    },
+    {
+      "path": "SIX_TEST_FAMILY.csv",
+      "bytes": 988,
+      "sha256": "deb26ff0e24f27ba04981ca27a571b5ad22a95341e1d9f81543f05812a88c4f3"
+    },
+    {
+      "path": "SOURCE_BINDINGS.json",
+      "bytes": 3067,
+      "sha256": "606f73aca8a134b223204811a68af714ab2b0009c203bfd128f058262709d9a7"
+    },
+    {
+      "path": "START_HERE.md",
+      "bytes": 2240,
+      "sha256": "8cb47db41f5ab193b4fdca43d73a1b187b21b86eb7114a8a31c94420b940be11"
+    },
+    {
+      "path": "STATUS.json",
+      "bytes": 4330,
+      "sha256": "af785d44c1315a004e2049c3d0933a5b3266c33042efbbbd9c34cc2fc56d413c"
+    },
+    {
+      "path": "WEB_FEEDBACK.md",
+      "bytes": 4671,
+      "sha256": "7f2fd17861e744a895c1c4bf7d2a2737e007136d9a131538600e046e229e99cb"
+    },
+    {
+      "path": "MANIFEST.json",
+      "bytes": 2277,
+      "sha256": "d33df2751d27d6ba4e444ea5ae4e697ddde527af20bcc8709265a90413ab6df5"
+    }
+  ],
+  "archives": [
+    {
+      "path": "repair_feedback_part01.zip",
+      "bytes": 32378,
+      "sha256": "ce2b311dc6ee3e842b8eaec4538efeeddb143c37a0ba4189a07288a61fe8e3d1",
+      "member_count": 15
+    }
+  ],
+  "max_zip_bytes": 25000000
+}

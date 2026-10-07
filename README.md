@@ -1,3 +1,11 @@
+## 2026-10-07 v4：身份纠正、Word观察修复与两位Claude核收
+
+[最新反馈与读取入口](review/20261007-native-repair-status-v4/START_HERE.md) · [详细说明](review/20261007-native-repair-status-v4/WEB_FEEDBACK.md)
+
+旧票已真实释放，spatial已接续，本任务按FIFO等待。两位Claude报告与完成通知均已核收。统计冻结；最终Word/Zotero/PDF及同版NLM仍未完成。本次为修复证据增量，正文继续使用下方v3。
+
+---
+
 ## 2026-10-07 v3 实际累计稿与有限改文
 
 [本次阅读入口](review/20261007-limited-manuscript-v3/START_HERE.md) · [接受态全文文字副本](review/20261007-limited-manuscript-v3/MANUSCRIPT_ACCEPTED_TEXT.md)

@@ -1,0 +1,90 @@
+{
+  "schema": "CMA_REPAIR_SOURCE_DIGESTS_V1",
+  "note": "公开来源摘要仅绑定原件字节与逻辑角色；私有运行原件不随包提供。摘要不是原生动作或外部独立复验的替代。统计CSV为既有公开汇总的逐字节副本。",
+  "sources": [
+    {
+      "source_id": "identity_acceptance",
+      "bytes": 5737,
+      "sha256": "620e39fbc985492032ccca7ae2b9f0851b0b8bf462ccccba4bbde8bdf7826f5a",
+      "included_in_this_package": false
+    },
+    {
+      "source_id": "identity_summary",
+      "bytes": 1655,
+      "sha256": "bac1353be3adb72221e16d18409e7aa5c8f6fe189127d372e08929731e6bd172",
+      "included_in_this_package": false
+    },
+    {
+      "source_id": "release_commit",
+      "bytes": 2179,
+      "sha256": "3443ddf848dfde30491de6ba9568534dc348c6c87fcb60d4197b3e8321a1c3ee",
+      "included_in_this_package": false
+    },
+    {
+      "source_id": "release_receipt",
+      "bytes": 2380,
+      "sha256": "6e06a58fc5fb2fedc3e0dd7a1f7a3e81085232d8da4bb1fcdc02fea7c599b5e3",
+      "included_in_this_package": false
+    },
+    {
+      "source_id": "observer_review",
+      "bytes": 5038,
+      "sha256": "f1d864bfddcc8c8abd41b1ff43685c9f68daf54af5d39cc83b12a762f6a59149",
+      "included_in_this_package": false
+    },
+    {
+      "source_id": "successor_preparation",
+      "bytes": 3037,
+      "sha256": "0de2127a95ee4590b2c8ab15fc01a9bf5a6b8f239efe3789eefd0a04d3bdd06d",
+      "included_in_this_package": false
+    },
+    {
+      "source_id": "claude_native_review",
+      "bytes": 13394,
+      "sha256": "b841595bf006d4df0159197f5f094dea26f01f64c69dc5e2e9863c869629b823",
+      "included_in_this_package": false
+    },
+    {
+      "source_id": "claude_bibliography_review",
+      "bytes": 15182,
+      "sha256": "3bf4c8cd01aa3dc9bbec0709d9621cc8ed84ba8239f0ccc42c7f4735f804ae94",
+      "included_in_this_package": false
+    },
+    {
+      "source_id": "successor_request",
+      "bytes": 419,
+      "sha256": "fd1d136c237ff761259f3e559fd2f45180053a476d56b3292c14f3dcc9005a42",
+      "included_in_this_package": false
+    },
+    {
+      "source_id": "root_checkpoint",
+      "bytes": 343544,
+      "sha256": "4371432d9e6592139247bdb1b979fa4f73f06453c8904aeb105900fdb71512e7",
+      "included_in_this_package": false
+    },
+    {
+      "source_id": "RESULT_VERSIONS.csv",
+      "bytes": 2203,
+      "sha256": "0c050a2ad8f29f0de79bb296cac11e6e19d0ddfe6080b590e8c6ec97ceb8e202",
+      "included_in_this_package": true
+    },
+    {
+      "source_id": "CANDIDATE_DEFINITIONS.csv",
+      "bytes": 1626,
+      "sha256": "6f08c1eb455885c21893a68d8960ff9eb35f28fdc9f78737efe32f45b4616cc3",
+      "included_in_this_package": true
+    },
+    {
+      "source_id": "P3_OMNIBUS.csv",
+      "bytes": 452,
+      "sha256": "385ce683ac9c879880e2fc4cdc4991cc062fddd53196f8bee750d611e64566e7",
+      "included_in_this_package": true
+    },
+    {
+      "source_id": "SIX_TEST_FAMILY.csv",
+      "bytes": 988,
+      "sha256": "deb26ff0e24f27ba04981ca27a571b5ad22a95341e1d9f81543f05812a88c4f3",
+      "included_in_this_package": true
+    }
+  ]
+}
