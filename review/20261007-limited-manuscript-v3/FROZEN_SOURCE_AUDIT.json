@@ -1,0 +1,577 @@
+{
+  "schema": "CMA_ANONYMIZED_FROZEN_BINDING_AUDIT_V1",
+  "source_manifest": {
+    "source": "frozen_manifest",
+    "bytes": 38471,
+    "sha256": "ea04e742f167784a91ccdde957e88371e6cbfbbcb255694d8b798f4741a21852"
+  },
+  "status": "PASS",
+  "count": 94,
+  "note": "逐项读取实际本机文件并核对长度/SHA；不发布执行路径、任务标识或文件原文。本日志是实际核验记录，不声称外部审阅者已读取全部94原件。",
+  "items": [
+    {
+      "id": "frozen_001",
+      "bytes": 19578,
+      "sha256": "1ac1f2660e1bf0e8ab6cec484083e1b1312fa5a5afa5d0fa5082aac0340f220a",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_002",
+      "bytes": 6592,
+      "sha256": "009af1d71d1d98c64b5b1ada1cc11cbf6070b7ffc2c67810429b5ad8df0dbc73",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_003",
+      "bytes": 5387,
+      "sha256": "c00555bdef9fa1bb4e5d57e3fa529bde91933c2a245b5223616dc8728b784f48",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_004",
+      "bytes": 496516,
+      "sha256": "4f8cb6c2963c52efaf7cc1065110783ddefdc586785cce15f401d71e2787123d",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_005",
+      "bytes": 475988,
+      "sha256": "ff278c5bba68ff7c6cdd0d52fc9cdd8fa7d2bac57876a2751fee8be3ddb4e95f",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_006",
+      "bytes": 571174,
+      "sha256": "d7c694d8cc322e39c47e18e266982077dbeff8dae14f5cd27b9b9a4e6363abf9",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_007",
+      "bytes": 3350,
+      "sha256": "571773b9da618ade190454a090f339aecf3dc4fad40f9f7452aaa55428f7dd14",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_008",
+      "bytes": 4361,
+      "sha256": "ca33dd3eb54c0c900be3d062115de52efaea04a0b86ec6000b42dfa2b58378a4",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_009",
+      "bytes": 21068,
+      "sha256": "5867072d0ee3f4d97d8a9812b3ea8346dc56f90d2d012a70a5669452e123941c",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_010",
+      "bytes": 9235,
+      "sha256": "f80e290eb2528889a53cf14ee0b45e3b896dabe24e61f84e15ad91d6632eb720",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_011",
+      "bytes": 10893,
+      "sha256": "f82d22ac0e8c114e80927a73f0b2529b398225fe14234af76348064696d84e16",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_012",
+      "bytes": 11885,
+      "sha256": "cbdee80cc5ac33565001ca221f7086ce2360292c27fa01329b761406f1e9bc77",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_013",
+      "bytes": 6878,
+      "sha256": "c700ef743e37532cebf3d10a0a78bb410920ddc1ca6280f10aaedf851a7b8458",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_014",
+      "bytes": 20207,
+      "sha256": "4132f0e04d7ba4bd10374a6fc85db22110f374eb45c0c23fddf4af0d31361cef",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_015",
+      "bytes": 39807,
+      "sha256": "2a58943ef908fd7202d3a653fcecd5faa7abe8db75edcf2c7628d855fb32f582",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_016",
+      "bytes": 1523,
+      "sha256": "a03d9de024199ea4a47b22fd22105875df6fe7c279f0e9d1235e6af28e197975",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_017",
+      "bytes": 6202,
+      "sha256": "bc045915163d6e40aa698cb69ed9ae11d01c4968d091b356787207caf53b0986",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_018",
+      "bytes": 27863,
+      "sha256": "097d4599052a5d091b540c52a0cfc17d0acc8b606599daa5a5d0c2820e624a50",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_019",
+      "bytes": 22456,
+      "sha256": "96f22f32c73460066afa9ff0146b52a0ab85c243074a77cb6ab360321a603268",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_020",
+      "bytes": 11186,
+      "sha256": "b7a5010a1723e11edc521ff4f07a73a665428b955b02a631a4afe4c1bd22d833",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_021",
+      "bytes": 3885,
+      "sha256": "28aa58f1564da58800578e7f77e4e80a10191a9cf631e3b7aad733796b8f7043",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_022",
+      "bytes": 2570,
+      "sha256": "520efa3b463891102b68b624cee25a45784929f2a191e2ab70634ed33b22f723",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_023",
+      "bytes": 6839,
+      "sha256": "d83c14838c47dfdafd5f15115dfe3d5ad7263354ca45ea28bbb8a84fd8a563e2",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_024",
+      "bytes": 4902,
+      "sha256": "b6d8336806516d8422b18166d8cdc5c0251b45ac5d8686452992ab0a72038537",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_025",
+      "bytes": 775,
+      "sha256": "28f89489bd0ba6307bcf97a3e43c93d1711dc55701d8d17ff6f306736e0f7d41",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_026",
+      "bytes": 3625,
+      "sha256": "98de74c71dc17243f9b18fc9df51c0d356e3409e2ef47ae9e56c6cfed5cb5fe7",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_027",
+      "bytes": 3825,
+      "sha256": "cdcd1c4d38e0a7d554b22979f79e534562ef009c01a4ec2be4ac52f0601a55ad",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_028",
+      "bytes": 4177,
+      "sha256": "ecd28fd3e9dc5a31a3618e8b11eb72459c80d9e0da9ed7ddbf471b1763460ec3",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_029",
+      "bytes": 21811,
+      "sha256": "33e08a61abe05d45d345b292c4ad4d69f22ce465317f0eb0f68142a54ca4a34f",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_030",
+      "bytes": 20254,
+      "sha256": "627d0fd4f7231060dd1e635f43aee2b35f1d3f1af7255b8e8c4eba554896c6ad",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_031",
+      "bytes": 6483,
+      "sha256": "ea5fa9ddfdf010ad299e604eb7ac8107afd6a6b9399813ed27032fc2aea78aba",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_032",
+      "bytes": 4390,
+      "sha256": "d4abc2c4f0f2dc9fe64789eced7fd4ec2706690e517c9e960f3d71356816ccd7",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_033",
+      "bytes": 10175,
+      "sha256": "c62b1a3ff7db1bdb44ceb8ac4192ac96e662346fdd7ced928aef5f231366b52a",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_034",
+      "bytes": 5306,
+      "sha256": "c92a6cb3d8b2214f1634538db8a0ecc6b9034cf7f4c78c56aabe55ca203028c8",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_035",
+      "bytes": 3875,
+      "sha256": "8690f0ecae7fea60163d2bf4269a7ee3ba6cf0fd66cc9105de5f0a86278b2b6b",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_036",
+      "bytes": 6465,
+      "sha256": "7565c700bd959d0b7cd1aa9975bc894b140e5172bd97943714166e509dee0afa",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_037",
+      "bytes": 251,
+      "sha256": "b314a12cb15da8cc2611d49279877857f88388232ba65dacd5004b68a392f078",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_038",
+      "bytes": 72877,
+      "sha256": "744cb28289e1582d0f18f0b20b888a9463fde0d144d579b0c88a76d539bef057",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_039",
+      "bytes": 16887,
+      "sha256": "e3d125ec74e8968cafc811bc1462313c5d1a24eea69db763514a014c39c43451",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_040",
+      "bytes": 6509,
+      "sha256": "a4c557debad42f2c0fe94127589b9aad93384698aece1a8857e26f441caff97c",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_041",
+      "bytes": 4509,
+      "sha256": "d13fbb70568dc3792508592d6d767aaeb2984a49924d648f134e27687402fbc8",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_042",
+      "bytes": 2263,
+      "sha256": "96d90cd5ca439ee17f8a3064a4f8aedfe6214c00e396976b3cf7bdedb2429bea",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_043",
+      "bytes": 480296,
+      "sha256": "0baf8ce3a71768b1361d4293e344577c16a802c97a7826f18c68e2c69a0c027d",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_044",
+      "bytes": 485550,
+      "sha256": "59c2271b22acb6bc05b1f690250c978a145cdb94be81c5ebd55cafd99cefdf52",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_045",
+      "bytes": 572539,
+      "sha256": "c099e7b46fb8682f01d176e289b4d10fbaa17e5ce4e03c7c341a2b071af84531",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_046",
+      "bytes": 206373,
+      "sha256": "ad9687c682b7ba6c174084d32163999c7cbb002de402b52e498e693e9ffbbdbd",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_047",
+      "bytes": 6496,
+      "sha256": "500f34e0f19e1a22d5558ecc7d5aca2dd6092c2576f24ff771de4b92a232a7a4",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_048",
+      "bytes": 206797,
+      "sha256": "6228d5b17285376064be5fff261626d6c588f3605684301c19bbbbb7345aee8e",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_049",
+      "bytes": 3074,
+      "sha256": "613a0a50525ead7b7a3de873f51a5efadcca1f64cb6a8cdc32cdd5fffa1cad01",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_050",
+      "bytes": 6254,
+      "sha256": "1c3774393500af68b7b53679ff910f0214a8e1f45fee1561662971d839f8de53",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_051",
+      "bytes": 204718,
+      "sha256": "92fdf322f0025392858e4796cf4c0ec66fc0ce28ba6d651ed215978c0f5ae36b",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_052",
+      "bytes": 16978,
+      "sha256": "ffee68aff689c8da7001c62c81b13da1e003592bf42ce0bac5f0093d7f05abfa",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_053",
+      "bytes": 1393,
+      "sha256": "68c145c4c3690c7b8e39cbfca0acdcd30ccecca4e18e24cd7e034aac8495d5b4",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_054",
+      "bytes": 3115,
+      "sha256": "2a1d5462e4ff28ff370251eed7bf34f30190385137309c16947a38fdf42d3eb9",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_055",
+      "bytes": 6830,
+      "sha256": "22a25416a8ef7f89326cc1088fd5475e4dc59f71a65a9e6f57f9c5451f5ad9ea",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_056",
+      "bytes": 17394,
+      "sha256": "47f0cd335bc93065fd5493fcf99ac391ccb20d3a7455c17e48e9c8029ff8c936",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_057",
+      "bytes": 5988,
+      "sha256": "b5a1be60e027a4f496e73d9b5fda80b96ade7cd6834602cfb43384883c8f5e67",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_058",
+      "bytes": 6022,
+      "sha256": "300b29badb6dccfb6adc981f17264e86525b83ea8069d3193ee8138ade7e2c95",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_059",
+      "bytes": 21892,
+      "sha256": "d97125e69a444ab5f845488a243d4e33a63bbc5d157c062bf661f422545a7f9d",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_060",
+      "bytes": 1486,
+      "sha256": "0f2d1112068bd15e71c699534ee5dde58c379b7963bc970581f43f186cab1290",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_061",
+      "bytes": 29829,
+      "sha256": "554ac4a95425e4824a22ac9a3e4eaedbbaa2a1289e8fb25c45c6533524c7ca74",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_062",
+      "bytes": 14384,
+      "sha256": "6eb1bf8439d43c32d2b59381d5edba4ad6d36192f86199270fde2339493ff3ff",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_063",
+      "bytes": 18091,
+      "sha256": "13ffde0fe949e3240af822a5bd0753f19e4474f19703bd7a99a13cecdd344ef0",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_064",
+      "bytes": 15365,
+      "sha256": "3af03f8108536eae275229f12765ec49c625aa3843e54283600f3bba1250a6a0",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_065",
+      "bytes": 3842,
+      "sha256": "f44a5505711f15febbf158bec270b6b2fdf032fdb4c2832ef622434c4ff23dac",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_066",
+      "bytes": 5700,
+      "sha256": "7f1bbc3f84d57b717c62f434a3810ed14fe31373bac40daa4ec7842372dc8de6",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_067",
+      "bytes": 481485,
+      "sha256": "03603a06a527a98c8710e91bc8c5734028377d01fd44c4ce0b9e3f6269f7bc57",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_068",
+      "bytes": 486695,
+      "sha256": "5063b21a076d79a5037a99dc2feece9928d95eb1dd697d07da06f9989539d8bf",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_069",
+      "bytes": 575365,
+      "sha256": "ed06f46e65d47fc34b990c802fd6e68221b9da4afd2663d579ebbf9764b17fa8",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_070",
+      "bytes": 432571,
+      "sha256": "f420b617893a57e2fc16eb71248fd23d43e0e601674b43a08a32a50b5040d9c1",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_071",
+      "bytes": 21503,
+      "sha256": "6cc15c946cb4e0874e565567b115cb6d6662c63de4546e2d04d9ace2e2126fe2",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_072",
+      "bytes": 7948,
+      "sha256": "56be4877db532e967dcf3091c041bf35c83ffd7297328b423cd6b3ee755320c9",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_073",
+      "bytes": 16290,
+      "sha256": "6176a58d441f5c13709bb14aa0abe0bf64554b696b5870538b1631a1fcb8564d",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_074",
+      "bytes": 5144,
+      "sha256": "bbc9033ac88a1c2e1c2fe93601345a6211a7968dd514dd4687109d7ad47debd8",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_075",
+      "bytes": 10926,
+      "sha256": "8a062eaa7de2f96ffbf2dc8f536b12734f481081e7f4118ed401c206b65559d0",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_076",
+      "bytes": 5990,
+      "sha256": "d579c3c44532d5f6dd180310c2162596846f4def67fdf112e8f9dc14eb583d2e",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_077",
+      "bytes": 2700,
+      "sha256": "d5eb95b193a7aef5bcd36aec4cae755dd8565696ded0e3d31bbeed61e0c69587",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_078",
+      "bytes": 13524,
+      "sha256": "d501fd9ad04e09fc6d3a93a7a40e62454e443910259ab982ccc60a99b9071706",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_079",
+      "bytes": 61161,
+      "sha256": "928566461039724f078ddf6af068e5c675841fc04f1033e2f57444178e6faffe",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_080",
+      "bytes": 207342,
+      "sha256": "775f902ef62a4556665da47d7bfe8ed8e87b6045551777078fc0cd590f67d0be",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_081",
+      "bytes": 17375,
+      "sha256": "368bef2e6b210d55277eb7681313c44a59ffb11738024ef2a86de5dec14cbef4",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_082",
+      "bytes": 6524,
+      "sha256": "eb56dc4acb9c2f12d3ec9599cb7f024e17b29a434e7952947d74063d5e5cf28e",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_083",
+      "bytes": 5104,
+      "sha256": "3fd58bac2ff06bc090f13896ee84dc0efd0796ce1c0955f7f66926deee539844",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_084",
+      "bytes": 6226,
+      "sha256": "8360592ee12a2a9f3404da55b0c91d43a002dce8cea4e1fff7d7a2f981507334",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_085",
+      "bytes": 27687,
+      "sha256": "55f172d348022562f44bcde88fbe1a26e8deba5d1ef2a8e2244ed29eff2ee707",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_086",
+      "bytes": 7531,
+      "sha256": "6da2bed79de9be8019afafdcb58bc6cc6aac84507c4129d7e833494497f2fbeb",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_087",
+      "bytes": 19222,
+      "sha256": "cc5e1d594c51b98230ecfe6ea396d0c37ae6fab200c722a7bbdd558f28b11d45",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_088",
+      "bytes": 3122,
+      "sha256": "d28b1ef5ec796d671b3b204a80eff5c6b52bbafc57243f84d898776a23d5fc09",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_089",
+      "bytes": 3529,
+      "sha256": "f5f38c018b13b41d4771c2beb05a64ac2898411c52bae4e2709bcd47f62b0e5d",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_090",
+      "bytes": 13804,
+      "sha256": "07f0b614b5b640f7d6415a95b0150437f69d8d1cb4604372293676dd3acf5a9b",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_091",
+      "bytes": 3199,
+      "sha256": "890b92fa62b52105680b30a7e452ae968272c46142393a3da31a7c87dfbc6fe5",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_092",
+      "bytes": 2030,
+      "sha256": "74a0b8618a9c3a1a4e7e2a3f5dfb0d62de0c359038285210380ff847ae1f8029",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_093",
+      "bytes": 432571,
+      "sha256": "e98a935eda8a7412096165b33bec8d4f1e3febcf41bba9f93ed7f5e196b03448",
+      "actual_file_hash": "MATCH"
+    },
+    {
+      "id": "frozen_094",
+      "bytes": 37951,
+      "sha256": "b49c156ec43998b70e5dc6482ab27e52e7723e8a52640d28d2f553ea9094d817",
+      "actual_file_hash": "MATCH"
+    }
+  ]
+}

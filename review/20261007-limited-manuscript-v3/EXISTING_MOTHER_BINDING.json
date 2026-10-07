@@ -1,0 +1,12 @@
+{
+  "source_sha256": "4f8cb6c2963c52efaf7cc1065110783ddefdc586785cce15f401d71e2787123d",
+  "bytes": 496516,
+  "fixed_commit": "c0f6fac62dd20fa5d14c94b57d53344628290b39",
+  "url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/c0f6fac62dd20fa5d14c94b57d53344628290b39/review/20261007-cumulative-manuscript-v1/predecessors/mother.docx",
+  "source_map_url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/c0f6fac62dd20fa5d14c94b57d53344628290b39/review/20261007-cumulative-manuscript-v1/SOURCE_MAP.json",
+  "existing_archive_url": "https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/c0f6fac62dd20fa5d14c94b57d53344628290b39/review/20261007-cumulative-manuscript-v1/cumulative_review_part01.zip",
+  "existing_archive_sha256": "a727e520e695f0a8b2044e3bc86ee87e6080508e9f9911c2c52da9af8e0dd035",
+  "local_mother_bytes_verified": true,
+  "remote_refetch_by_this_preparer": false,
+  "note": "固定公开地址由主管提供；本次仅核验本机母版哈希，未发起远端下载。"
+}

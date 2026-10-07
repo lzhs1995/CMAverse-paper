@@ -1,0 +1,31 @@
+{
+  "source": {
+    "source": "frozen_preflight",
+    "bytes": 413,
+    "sha256": "ab53eb0e612d2664fdbb66d16d618b7cec8e90b146b0bf3572077c2126765514"
+  },
+  "preflight": {
+    "status": "PASS_LIMITED_OFFLINE_INPUTS_NATIVE_PENDING",
+    "history_pins": 66,
+    "offline_qa": "OFFLINE_PASS_NATIVE_PENDING",
+    "all_story_count": 9,
+    "field_checks": {
+      "accepted_fields_equals_explicit_contract": true,
+      "rejected_fields_equals_restored_mother": true,
+      "field_changes_exactly_approved": true
+    },
+    "old_21_edits_rebuilt": false,
+    "native_calls": 0,
+    "statistics_executed": false
+  },
+  "frozen_manifest_source": {
+    "source": "frozen_manifest",
+    "bytes": 38471,
+    "sha256": "ea04e742f167784a91ccdde957e88371e6cbfbbcb255694d8b798f4741a21852"
+  },
+  "frozen_items": 94,
+  "historical_items": 66,
+  "actual_hash_checks": "94/94 MATCH",
+  "native_execution": false,
+  "statistics_executed": false
+}

@@ -1,3 +1,11 @@
+## 2026-10-07 v3 实际累计稿与有限改文
+
+[本次阅读入口](review/20261007-limited-manuscript-v3/START_HERE.md) · [接受态全文文字副本](review/20261007-limited-manuscript-v3/MANUSCRIPT_ACCEPTED_TEXT.md)
+
+本批ZIP 1,981,554字节，含四份实际DOCX及复核资料。统计冻结，阶段状态为REVIEW_ONLY_NOT_FINAL；最终原生Word/PDF/NLM继续执行。
+
+---
+
 ## 2026-10-07 Word 过期租约死锁已修复
 
 真实旧票已 RELEASED，旧令牌已失效；恢复工具已安装到 Codex/Claude 技能入口，41 项回归及安装位置测试通过。外方未保存文稿和模态原样保留，FIFO 不变。统计及累计改文冻结；最终 Word/PDF/NLM 仍按合法后继票继续。

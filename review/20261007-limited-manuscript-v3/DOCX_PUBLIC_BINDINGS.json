@@ -1,0 +1,85 @@
+{
+  "status": "PASS",
+  "original_bytes_retained": true,
+  "private_task_materials_included": false,
+  "manuscript_metadata": "稿件原有作者/编辑元数据依主管明确裁定保留；未改写docProps，未改动字段。",
+  "native_claim": false,
+  "files": [
+    {
+      "file": "manuscript/content_patched.docx",
+      "source": {
+        "source": "outputs_v3/content_patched.docx",
+        "bytes": 481485,
+        "sha256": "03603a06a527a98c8710e91bc8c5734028377d01fd44c4ce0b9e3f6269f7bc57"
+      },
+      "public_copy_byte_identical": true,
+      "inspection": {
+        "story_count": 9,
+        "citation_codes": 23,
+        "bibliography_codes": 1,
+        "external_relationships": 0,
+        "zip_members": 27,
+        "all_xml_parse": true,
+        "crc": "PASS"
+      },
+      "status": "OFFLINE_REFERENCE_NOT_NATIVE"
+    },
+    {
+      "file": "manuscript/tracked_patched.docx",
+      "source": {
+        "source": "outputs_v3/tracked_patched.docx",
+        "bytes": 575365,
+        "sha256": "ed06f46e65d47fc34b990c802fd6e68221b9da4afd2663d579ebbf9764b17fa8"
+      },
+      "public_copy_byte_identical": true,
+      "inspection": {
+        "story_count": 9,
+        "citation_codes": 23,
+        "bibliography_codes": 1,
+        "external_relationships": 0,
+        "zip_members": 27,
+        "all_xml_parse": true,
+        "crc": "PASS"
+      },
+      "status": "OFFLINE_REFERENCE_NOT_NATIVE"
+    },
+    {
+      "file": "manuscript/accepted_offline.docx",
+      "source": {
+        "source": "outputs_v3/accepted_offline.docx",
+        "bytes": 486695,
+        "sha256": "5063b21a076d79a5037a99dc2feece9928d95eb1dd697d07da06f9989539d8bf"
+      },
+      "public_copy_byte_identical": true,
+      "inspection": {
+        "story_count": 9,
+        "citation_codes": 23,
+        "bibliography_codes": 1,
+        "external_relationships": 0,
+        "zip_members": 27,
+        "all_xml_parse": true,
+        "crc": "PASS"
+      },
+      "status": "OFFLINE_REFERENCE_NOT_NATIVE"
+    },
+    {
+      "file": "manuscript/rejected_offline.docx",
+      "source": {
+        "source": "outputs_v3/rejected_offline.docx",
+        "bytes": 432571,
+        "sha256": "f420b617893a57e2fc16eb71248fd23d43e0e601674b43a08a32a50b5040d9c1"
+      },
+      "public_copy_byte_identical": true,
+      "inspection": {
+        "story_count": 9,
+        "citation_codes": 22,
+        "bibliography_codes": 1,
+        "external_relationships": 0,
+        "zip_members": 27,
+        "all_xml_parse": true,
+        "crc": "PASS"
+      },
+      "status": "OFFLINE_REFERENCE_NOT_NATIVE"
+    }
+  ]
+}

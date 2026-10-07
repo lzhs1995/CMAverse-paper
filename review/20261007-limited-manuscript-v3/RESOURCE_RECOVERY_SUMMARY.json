@@ -1,0 +1,23 @@
+{
+  "status": "REAL_RELEASE_VERIFIED_FROM_COMMITTED_RECORD",
+  "review_mode": "solo_self_review",
+  "tests": {
+    "status": "PASS",
+    "total_tests": 100,
+    "source_sha256": "ada55f2b4d8c688a5fc0d7d4322746cff256fbba66b7cfa3c10ff07c6c717fdc",
+    "source_bytes": 674
+  },
+  "release": {
+    "status": "RELEASED",
+    "database_status": "RELEASED",
+    "owned_documents_open": 0,
+    "global_documents": 0,
+    "pending": false,
+    "own_processes_empty": true,
+    "locks_held_through_commit": true,
+    "source_sha256": "c5af91891e11cc86c9a88ef5d1852abd5aa81c8832f6dd40ce8df8b3b433d321",
+    "source_bytes": 2242
+  },
+  "meaning": "通过真实空闲核验完成本任务票安全释放；未把 UNKNOWN 改写为零或成功。",
+  "limitation": "该记录不证明后续 Word/Zotero/PDF/NLM 已完成；这些状态由最终独立回执绑定。"
+}

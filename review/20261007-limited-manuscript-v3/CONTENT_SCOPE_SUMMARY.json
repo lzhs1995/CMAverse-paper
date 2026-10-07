@@ -1,0 +1,22 @@
+{
+  "status": "OFFLINE_PASS_NATIVE_PENDING",
+  "current_content": "outputs_v3",
+  "existing_targets": 8,
+  "appendix_paragraphs_added": 2,
+  "stories": 9,
+  "fields": 24,
+  "citation_fields": 23,
+  "bibliography_fields": 1,
+  "bibliography_entries": 25,
+  "source_sha256": "56be4877db532e967dcf3091c041bf35c83ffd7297328b423cd6b3ee755320c9",
+  "source_bytes": 7948,
+  "field_counts_basis": "v3 QA原件；公开DOCX另作逐部件解析及字段代码计数。拒绝态保留母版字段状态，不要求等于当前接受态。",
+  "preflight": "PASS_LIMITED_OFFLINE_INPUTS_NATIVE_PENDING",
+  "frozen_input_count": 94,
+  "history_input_count": 66,
+  "actual_frozen_hashes_checked": 94,
+  "native_status": "PENDING_REAL_EXECUTION",
+  "statistical_models_run": 0,
+  "new_review_mode": "solo_self_review",
+  "new_claude_review_claimed": false
+}

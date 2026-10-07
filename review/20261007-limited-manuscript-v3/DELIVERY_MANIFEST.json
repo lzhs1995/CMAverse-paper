@@ -1,0 +1,194 @@
+{
+  "archives": [
+    {
+      "bytes": 1981554,
+      "member_count": 30,
+      "path": "final_increment_part01.zip",
+      "sha256": "493ceb2f2d1c75d5d737470bb113c2884dd1d70239f7f132b282c8dedc492c59"
+    }
+  ],
+  "files": [
+    {
+      "bytes": 1626,
+      "category": "aggregate_results",
+      "path": "CANDIDATE_DEFINITIONS.csv",
+      "sha256": "6f08c1eb455885c21893a68d8960ff9eb35f28fdc9f78737efe32f45b4616cc3"
+    },
+    {
+      "bytes": 620,
+      "category": "aggregate_results",
+      "path": "CANDIDATE_LOO_SUMMARY.csv",
+      "sha256": "f643987be7e8d8ee137fa32c2e8a50b69efe25d4d31236589afacf504c441b43"
+    },
+    {
+      "bytes": 2566,
+      "category": "aggregate_results",
+      "path": "CANDIDATE_PERIOD_DIAGNOSTICS.csv",
+      "sha256": "1ebafd9cacd0ac7b2dfaf50fa6d9431c7d35385cbcc6177cde7c9f79af4639f3"
+    },
+    {
+      "bytes": 22056,
+      "category": "public_audit",
+      "path": "CHANGE_PLAN.json",
+      "sha256": "3159238b3fd724cc2a2aa9b8bbe14900365c6963873aa98bf4ebb8145e640be8"
+    },
+    {
+      "bytes": 843,
+      "category": "public_audit",
+      "path": "CONTENT_SCOPE_SUMMARY.json",
+      "sha256": "cc562e93bdb446ff4fc2d751a09e0560cae4b0205b34231ed44f9bb839ac04c5"
+    },
+    {
+      "bytes": 22074,
+      "category": "public_audit",
+      "path": "DOCX_PART_SHA256.json",
+      "sha256": "ba623e1097efab255fef7bc34cc7271ac587e0f77fd2ed5097fad8ae871765a4"
+    },
+    {
+      "bytes": 2591,
+      "category": "public_audit",
+      "path": "DOCX_PUBLIC_BINDINGS.json",
+      "sha256": "30f886274e64419c391df1ef25102cf812ef1f66036094c875ce850d6552b0f8"
+    },
+    {
+      "bytes": 1015,
+      "category": "public_audit",
+      "path": "EXISTING_MOTHER_BINDING.json",
+      "sha256": "b397bbcbd3b0e91b1659b6730322a5fd8678961e5e6fb36852b806c8d271ac42"
+    },
+    {
+      "bytes": 17265,
+      "category": "public_audit",
+      "path": "FROZEN_SOURCE_AUDIT.json",
+      "sha256": "95c1fcfc7ad460cc172739e1a947f11821daf44c2b072929f604c5b34a3fadfd"
+    },
+    {
+      "bytes": 44726,
+      "category": "public_audit",
+      "path": "IMMEDIATE_PREDECESSOR_PART_DIFF.json",
+      "sha256": "f56a7ba4e0f31d7998561fe7fd6defabefb294462034b5e104f80ff965dd730e"
+    },
+    {
+      "bytes": 1674,
+      "category": "aggregate_results",
+      "path": "N1_FOUR_WITH_FINAL_SIX_ADJUSTMENT.csv",
+      "sha256": "dc15f6841a0f1e8c8963ffd9b7d397505b3fa2399c8bd617214f251838ef5a6c"
+    },
+    {
+      "bytes": 5162,
+      "category": "public_audit",
+      "path": "OFFLINE_QA_PUBLIC.json",
+      "sha256": "4a6980115d7296567be82c62d5cf501c417f9296b046e30e313854fbd8ddb215"
+    },
+    {
+      "bytes": 452,
+      "category": "aggregate_results",
+      "path": "P3_OMNIBUS.csv",
+      "sha256": "385ce683ac9c879880e2fc4cdc4991cc062fddd53196f8bee750d611e64566e7"
+    },
+    {
+      "bytes": 990,
+      "category": "aggregate_results",
+      "path": "P3_THREE_STATE.csv",
+      "sha256": "ceaac6417f6d608fe0fe216c56c1d200af4878f2ce226626f8a73a175d4f49d8"
+    },
+    {
+      "bytes": 928,
+      "category": "public_audit",
+      "path": "PREFLIGHT_PUBLIC.json",
+      "sha256": "314cc097b3d398b5b599d0620d2e7616038d03794a1da71a9b878deb8a3e66a5"
+    },
+    {
+      "bytes": 4729,
+      "category": "public_audit",
+      "path": "PUBLIC_SCOPE_CHECK.json",
+      "sha256": "fac8ea1e39c5882c2fd5cff14885b476edd788b09a5d26daf9da4a62ce301aae"
+    },
+    {
+      "bytes": 2163,
+      "category": "public_audit",
+      "path": "README_本次阶段包.md",
+      "sha256": "f79810a07de658115c33c3692a66f656f9bfe484f6ba9f7b7837f7b834f91c4a"
+    },
+    {
+      "bytes": 855,
+      "category": "public_audit",
+      "path": "RESOURCE_RECOVERY_SUMMARY.json",
+      "sha256": "766c66a80b2c910c3e752b44e1bd5e63708f171bc92c46ea91e3b6f5ddffc9ad"
+    },
+    {
+      "bytes": 2203,
+      "category": "aggregate_results",
+      "path": "RESULT_VERSIONS.csv",
+      "sha256": "0c050a2ad8f29f0de79bb296cac11e6e19d0ddfe6080b590e8c6ec97ceb8e202"
+    },
+    {
+      "bytes": 3858,
+      "category": "public_audit",
+      "path": "RESULT_VERSIONS.md",
+      "sha256": "88d2a9a7c3fc115134b1721884d2e67df715aef9bd2eea030deba5d67e26aaed"
+    },
+    {
+      "bytes": 988,
+      "category": "aggregate_results",
+      "path": "SIX_TEST_FAMILY.csv",
+      "sha256": "deb26ff0e24f27ba04981ca27a571b5ad22a95341e1d9f81543f05812a88c4f3"
+    },
+    {
+      "bytes": 5128,
+      "category": "public_audit",
+      "path": "SOURCE_BINDINGS.json",
+      "sha256": "139bbd1a23d2ccb70b32ef1709a21b8e98df9b985b2c740f2e3a20af136e8dc5"
+    },
+    {
+      "bytes": 3529,
+      "category": "public_audit",
+      "path": "TABLE2_ORIGINAL_NOTE.txt",
+      "sha256": "f5f38c018b13b41d4771c2beb05a64ac2898411c52bae4e2709bcd47f62b0e5d"
+    },
+    {
+      "bytes": 2370,
+      "category": "public_audit",
+      "path": "WEB_REVIEW_FEEDBACK_DRAFT.md",
+      "sha256": "1cc59239b6419074e807beeb9be2f2f0d4b8a1c7352c67e0eeb271dc1ea284e0"
+    },
+    {
+      "bytes": 486695,
+      "category": "manuscript",
+      "path": "manuscript/accepted_offline.docx",
+      "sha256": "5063b21a076d79a5037a99dc2feece9928d95eb1dd697d07da06f9989539d8bf"
+    },
+    {
+      "bytes": 481485,
+      "category": "manuscript",
+      "path": "manuscript/content_patched.docx",
+      "sha256": "03603a06a527a98c8710e91bc8c5734028377d01fd44c4ce0b9e3f6269f7bc57"
+    },
+    {
+      "bytes": 432571,
+      "category": "manuscript",
+      "path": "manuscript/rejected_offline.docx",
+      "sha256": "f420b617893a57e2fc16eb71248fd23d43e0e601674b43a08a32a50b5040d9c1"
+    },
+    {
+      "bytes": 575365,
+      "category": "manuscript",
+      "path": "manuscript/tracked_patched.docx",
+      "sha256": "ed06f46e65d47fc34b990c802fd6e68221b9da4afd2663d579ebbf9764b17fa8"
+    },
+    {
+      "bytes": 355,
+      "category": "public_audit",
+      "path": "PUBLIC_ACCEPTANCE.json",
+      "sha256": "36845d941fd53f2a45b2f80870e66617c0f3c6a82e2f2c9314711bf1486a4772"
+    }
+  ],
+  "manifest_self_excluded": true,
+  "max_zip_bytes": 25000000,
+  "repository": "lzhs1995/CMAverse-paper",
+  "review_mode": "solo_self_review",
+  "schema": "CMA_INCREMENT_DELIVERY_V1",
+  "statistical_models_run": 0,
+  "status": "REVIEW_ONLY_NOT_FINAL",
+  "upload_performed_by_builder": false
+}

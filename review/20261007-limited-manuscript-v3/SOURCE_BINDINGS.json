@@ -1,0 +1,158 @@
+{
+  "schema": "CMA_STAGE_V3_SOURCE_BINDINGS",
+  "statistics_frozen": true,
+  "statistical_sources": [
+    {
+      "source": "results/RESULT_VERSION_TABLE.csv",
+      "bytes": 3268,
+      "sha256": "d5430655147c2522ab0db7ff212cafbd89b8fd0c72cb18cd09a09f3c1113c836"
+    },
+    {
+      "source": "results/CANDIDATE_DEFINITIONS.csv",
+      "bytes": 2582,
+      "sha256": "91594719bdb90408d2db2d8dc3b7d058f8010af3580ab36d1089dbf236c69713"
+    },
+    {
+      "source": "results/CANDIDATE_HISTORY_PANELS.csv",
+      "bytes": 12136,
+      "sha256": "3783cf06ca139b7d019d3a8cdecffbe734622f41e5f5d08dd01a7c673aa39c36"
+    },
+    {
+      "source": "results/CANDIDATE_LOO_SUMMARY.csv",
+      "bytes": 1127,
+      "sha256": "3b3e1fecba910204070f91e552d79848af3d9b60a62f6088521949b918f0061f"
+    },
+    {
+      "source": "results/CANDIDATE_PERIOD_DIAGNOSTICS.csv",
+      "bytes": 3583,
+      "sha256": "45ad54ecde9ff1aca7d9b125f265dffd0501237d1ce78aeb4a38426a7315d659"
+    },
+    {
+      "source": "results/N1_FOUR_WITH_FINAL_SIX_ADJUSTMENT.csv",
+      "bytes": 3786,
+      "sha256": "f4a13582042d0ddfff237ead1050c2fb0fda71fe15324d877af058c7ccf3ca9a"
+    },
+    {
+      "source": "results/P3_OMNIBUS.csv",
+      "bytes": 981,
+      "sha256": "ccffc457e5d67b0ba6f75800ce897e8ffe64fb0d838cbeec691a3d71028c23b3"
+    },
+    {
+      "source": "results/P3_THREE_STATE.csv",
+      "bytes": 1776,
+      "sha256": "1b0781887c17597ee31372357e61633563a8f2faff20bd8eb3c78202b0bfca11"
+    },
+    {
+      "source": "results/SIX_TEST_FAMILY.csv",
+      "bytes": 2587,
+      "sha256": "add3162358ec82782d17fc1a8e7001af3db338999f4de60e8e1134f7b4cbf36e"
+    }
+  ],
+  "inherited_public_files": [
+    {
+      "source": "CANDIDATE_DEFINITIONS.csv",
+      "bytes": 1626,
+      "sha256": "6f08c1eb455885c21893a68d8960ff9eb35f28fdc9f78737efe32f45b4616cc3"
+    },
+    {
+      "source": "CANDIDATE_LOO_SUMMARY.csv",
+      "bytes": 620,
+      "sha256": "f643987be7e8d8ee137fa32c2e8a50b69efe25d4d31236589afacf504c441b43"
+    },
+    {
+      "source": "CANDIDATE_PERIOD_DIAGNOSTICS.csv",
+      "bytes": 2566,
+      "sha256": "1ebafd9cacd0ac7b2dfaf50fa6d9431c7d35385cbcc6177cde7c9f79af4639f3"
+    },
+    {
+      "source": "N1_FOUR_WITH_FINAL_SIX_ADJUSTMENT.csv",
+      "bytes": 1674,
+      "sha256": "dc15f6841a0f1e8c8963ffd9b7d397505b3fa2399c8bd617214f251838ef5a6c"
+    },
+    {
+      "source": "P3_OMNIBUS.csv",
+      "bytes": 452,
+      "sha256": "385ce683ac9c879880e2fc4cdc4991cc062fddd53196f8bee750d611e64566e7"
+    },
+    {
+      "source": "P3_THREE_STATE.csv",
+      "bytes": 990,
+      "sha256": "ceaac6417f6d608fe0fe216c56c1d200af4878f2ce226626f8a73a175d4f49d8"
+    },
+    {
+      "source": "RESOURCE_RECOVERY_SUMMARY.json",
+      "bytes": 855,
+      "sha256": "766c66a80b2c910c3e752b44e1bd5e63708f171bc92c46ea91e3b6f5ddffc9ad"
+    },
+    {
+      "source": "RESULT_VERSIONS.csv",
+      "bytes": 2203,
+      "sha256": "0c050a2ad8f29f0de79bb296cac11e6e19d0ddfe6080b590e8c6ec97ceb8e202"
+    },
+    {
+      "source": "RESULT_VERSIONS.md",
+      "bytes": 3858,
+      "sha256": "88d2a9a7c3fc115134b1721884d2e67df715aef9bd2eea030deba5d67e26aaed"
+    },
+    {
+      "source": "SIX_TEST_FAMILY.csv",
+      "bytes": 988,
+      "sha256": "deb26ff0e24f27ba04981ca27a571b5ad22a95341e1d9f81543f05812a88c4f3"
+    }
+  ],
+  "current_sources": [
+    {
+      "source": "outputs_v3/content_patched.docx",
+      "bytes": 481485,
+      "sha256": "03603a06a527a98c8710e91bc8c5734028377d01fd44c4ce0b9e3f6269f7bc57"
+    },
+    {
+      "source": "outputs_v3/tracked_patched.docx",
+      "bytes": 575365,
+      "sha256": "ed06f46e65d47fc34b990c802fd6e68221b9da4afd2663d579ebbf9764b17fa8"
+    },
+    {
+      "source": "outputs_v3/accepted_offline.docx",
+      "bytes": 486695,
+      "sha256": "5063b21a076d79a5037a99dc2feece9928d95eb1dd697d07da06f9989539d8bf"
+    },
+    {
+      "source": "outputs_v3/rejected_offline.docx",
+      "bytes": 432571,
+      "sha256": "f420b617893a57e2fc16eb71248fd23d43e0e601674b43a08a32a50b5040d9c1"
+    },
+    {
+      "source": "outputs_v3/LIMITED_PLAN.json",
+      "bytes": 21503,
+      "sha256": "6cc15c946cb4e0874e565567b115cb6d6662c63de4546e2d04d9ace2e2126fe2"
+    },
+    {
+      "source": "outputs_v3/OFFLINE_QA.json",
+      "bytes": 7948,
+      "sha256": "56be4877db532e967dcf3091c041bf35c83ffd7297328b423cd6b3ee755320c9"
+    },
+    {
+      "source": "outputs_v3/INPUT_PINS.json",
+      "bytes": 3122,
+      "sha256": "d28b1ef5ec796d671b3b204a80eff5c6b52bbafc57243f84d898776a23d5fc09"
+    }
+  ],
+  "binding_sources": [
+    {
+      "source": "frozen_preflight",
+      "bytes": 413,
+      "sha256": "ab53eb0e612d2664fdbb66d16d618b7cec8e90b146b0bf3572077c2126765514"
+    },
+    {
+      "source": "frozen_manifest",
+      "bytes": 38471,
+      "sha256": "ea04e742f167784a91ccdde957e88371e6cbfbbcb255694d8b798f4741a21852"
+    },
+    {
+      "source": "root_scope_review",
+      "bytes": 6524,
+      "sha256": "eb56dc4acb9c2f12d3ec9599cb7f024e17b29a434e7952947d74063d5e5cf28e"
+    }
+  ],
+  "scope": "v3取代旧v2公开摘要。仅复制汇总数据和稿件；94项原始执行文件不发布。资源恢复来源哈希见RESOURCE_RECOVERY_SUMMARY.json。"
+}
