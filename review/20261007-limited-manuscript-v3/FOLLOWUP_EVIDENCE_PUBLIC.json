@@ -1,0 +1,117 @@
+{
+  "schema": "CMA_WEB_FEEDBACK_FOLLOWUP_EVIDENCE_V2",
+  "status": "READ_ONLY_EVIDENCE_BOUND_NATIVE_PENDING",
+  "created_at": "2026-10-07T04:22:02.851956+00:00",
+  "review": "solo_self_review",
+  "fixed_commit": "c4543a09f4832698be868ebad49315a2fba722d9",
+  "direct_public_files": {
+    "passed": 33,
+    "expected": 33,
+    "bytes": 4276744,
+    "size_sha256_match": true,
+    "finished_at": "2026-10-07T04:15:44.267173+00:00",
+    "repeated_zip_crc": false
+  },
+  "zip_internal_verification": "引用先前正式回下载回执；本次未重复。",
+  "old_resource_recovery": {
+    "test_count_in_published_record": 100,
+    "scope": "较早恢复与当次真实释放，不是后继原生验收，也不是当前全局空闲证明"
+  },
+  "successor_offline_tests": {
+    "generator": 25,
+    "inherited": 75,
+    "finalize": 65,
+    "total_in_this_successor_record": 165,
+    "errors": 0,
+    "failures": 0,
+    "live_word_ax_calls": 0,
+    "live_queue_accesses": 0,
+    "rerun_by_feedback_preparer": false,
+    "native_acceptance": false
+  },
+  "successor_final_dependency_checks": [
+    {
+      "source": "finalize_native.py",
+      "bytes": 24868,
+      "sha256": "0e8f3db94bb7b858878c2cbe0434f44a530eb73e997888dc70bc24057014ce75",
+      "matches_record": true
+    },
+    {
+      "source": "test_finalize_offline.py",
+      "bytes": 19581,
+      "sha256": "0086b798b1942aadd8654305f12dedc3b5969f2124dd2cd92024368150c00dcf",
+      "matches_record": true
+    },
+    {
+      "source": "fresh_runjs.applescript",
+      "bytes": 15852,
+      "sha256": "840be02c1b095bc0e07173a411afe9a9af97e1c5ef35879a263670a5de804ef4",
+      "matches_record": true
+    },
+    {
+      "source": "audit_actual_fields_readonly.py",
+      "bytes": 19222,
+      "sha256": "cc5e1d594c51b98230ecfe6ea396d0c37ae6fab200c722a7bbdd558f28b11d45",
+      "matches_record": true
+    },
+    {
+      "source": "word_runtime.py",
+      "bytes": 6878,
+      "sha256": "c700ef743e37532cebf3d10a0a78bb410920ddc1ca6280f10aaedf851a7b8458",
+      "matches_record": true
+    }
+  ],
+  "resource_status_update": {
+    "source": "主管于本次协作消息报告实际操作；反馈整理者未独立查询队列",
+    "observed_no_active_and_first_in_queue_at": "2026-10-07T04:20:17Z",
+    "new_lease_granted_at": "2026-10-07T04:20:28Z",
+    "native_completion_claimed": false,
+    "lease_token_included": false
+  },
+  "sources": [
+    {
+      "source": "new_direct_file_verification",
+      "bytes": 26001,
+      "sha256": "4d13f2ab937d6933aa98da0ddbdd5ffe4b661b9d94a2de227aff2255f4352cbe"
+    },
+    {
+      "source": "previous_zip_remote_verification",
+      "bytes": 657,
+      "sha256": "d930a89a3a334e9bf70d4049b336a4d76744aa000483815c2a6cb031927b53f3"
+    },
+    {
+      "source": "successor_executor_report",
+      "bytes": 6856,
+      "sha256": "81e2457c9a5cfc652e28a092ed5dc1a17b65ec352e3b48f63049f552f0e342ee"
+    },
+    {
+      "source": "successor_manifest",
+      "bytes": 11816,
+      "sha256": "8be6f12f6ebb6521832263744a411eb57e91f802eeb6e2b55855cc7ad7a1ca09"
+    },
+    {
+      "source": "successor_generator_and_inherited_tests",
+      "bytes": 192,
+      "sha256": "ba591a0edefa3240165ccec60e231f9f14fdc4a243f5afb4cb92c602dd775283"
+    },
+    {
+      "source": "successor_finalize_tests",
+      "bytes": 2435,
+      "sha256": "313c10a45be7b50e02c3898ce3afb032f0247be462e2866dea886b608aa9b216"
+    },
+    {
+      "source": "published_previous_resource_recovery",
+      "bytes": 855,
+      "sha256": "766c66a80b2c910c3e752b44e1bd5e63708f171bc92c46ea91e3b6f5ddffc9ad"
+    },
+    {
+      "source": "published_0405_utc_snapshot",
+      "bytes": 1653,
+      "sha256": "dfba55dd698a1d59d21404e931ba6f31cfabda5e57ff52802752e04b0f129a19"
+    }
+  ],
+  "statistical_models_run": 0,
+  "git_writes": 0,
+  "uploads": 0,
+  "new_claude_review": false
+}
