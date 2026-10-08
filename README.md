@@ -1,5 +1,7 @@
 ## 2026-10-08 最新：筛选显著性阶段反馈 v6
 
+[固定地址与发布说明](review/20261008-significance-progress-v6/PUBLICATION_FEEDBACK.md) · [给ChatGPT的提示词](review/20261008-significance-progress-v6/FOR_CHATGPT.md) · [给Claude的提示词](review/20261008-significance-progress-v6/FOR_CLAUDE.md) · [匿名回下载核验](review/20261008-significance-progress-v6/REMOTE_VERIFICATION.json)
+
 [网页读取入口](review/20261008-significance-progress-v6/START_HERE.md) · [详细报告](review/20261008-significance-progress-v6/REPORT.md) · [下载单包（4,861,574字节）](review/20261008-significance-progress-v6/significance_progress_part01.zip)
 
 统计冻结；031／041为探索性线索，尚未确认最佳机制。新增三处定点改文及真实Word接受全部／拒绝全部、保存重开证据。最终Refresh只有调用证据，后续保存与书目验收、Word PDF及同版两轮NLM仍待完成。本包为阶段反馈，不是最终论文交付。
