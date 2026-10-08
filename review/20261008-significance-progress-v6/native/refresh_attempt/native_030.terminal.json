@@ -1,0 +1,16 @@
+{
+  "status": "PROCESS_EXITED",
+  "at": "2026-10-07T17:20:10.133119+00:00",
+  "pid": 60982,
+  "pgid": 60982,
+  "returncode": 0,
+  "stdout": "MACRO_RETURNED_NOT_COMPLETION\n",
+  "stderr": "",
+  "timed_out": false,
+  "launch_error": null,
+  "process_group_empty": true,
+  "started": 1791393609.445971,
+  "finished": 1791393610.133139,
+  "task_id": "cmaverse-finalize-actual40-20261008-v1",
+  "ticket": "da16b334-d8d5-4c2b-807a-05ca4107f5f2"
+}

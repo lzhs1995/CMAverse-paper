@@ -1,0 +1,12 @@
+{
+  "status": "PREPARED_FOR_STATISTICAL_REVIEW_NOT_FINAL_NATIVE",
+  "package": {
+    "path": "significance_feedback_part01.zip",
+    "bytes": 2987778,
+    "sha256": "960c970daaf62f2df7b7421da9612dd7281c0f63a29d3d1147e127beed57ea93",
+    "member_count": 67
+  },
+  "max_package_bytes": 25000000,
+  "source_commit": "97ea7482b380070b3637b20ae4530e8c8520120d",
+  "members_manifest": "MANIFEST.json"
+}

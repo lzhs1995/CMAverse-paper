@@ -1,0 +1,7 @@
+{
+  "success": false,
+  "at": "2026-10-07T17:20:15.295332+00:00",
+  "task_id": "cmaverse-finalize-actual40-20261008-v1",
+  "ticket": "da16b334-d8d5-4c2b-807a-05ca4107f5f2",
+  "error": "ValueError('SCENE_CHANGED')"
+}

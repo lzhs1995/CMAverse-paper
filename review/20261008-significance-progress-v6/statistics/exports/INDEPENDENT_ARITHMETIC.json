@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "search_tests": 240,
+  "search_draws": 200,
+  "p3": [
+    {
+      "component": "original",
+      "tail_count": 263,
+      "p_raw": 0.13193403298350825,
+      "statistic": 4.058448019316557
+    },
+    {
+      "component": "capped",
+      "tail_count": 159,
+      "p_raw": 0.079960019990005,
+      "statistic": 5.155888083647372
+    }
+  ],
+  "six_family_verified": true,
+  "scope": "Independent arithmetic, not independent model refit or calibration proof"
+}

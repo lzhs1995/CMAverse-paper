@@ -1,4 +1,14 @@
-## 2026-10-07 最新：筛选显著性集中反馈包 v5
+## 2026-10-08 最新：筛选显著性阶段反馈 v6
+
+[网页读取入口](review/20261008-significance-progress-v6/START_HERE.md) · [详细报告](review/20261008-significance-progress-v6/REPORT.md) · [下载单包（4,861,574字节）](review/20261008-significance-progress-v6/significance_progress_part01.zip)
+
+统计冻结；031／041为探索性线索，尚未确认最佳机制。新增三处定点改文及真实Word接受全部／拒绝全部、保存重开证据。最终Refresh只有调用证据，后续保存与书目验收、Word PDF及同版两轮NLM仍待完成。本包为阶段反馈，不是最终论文交付。
+
+下方为历史阶段入口，执行状态只代表各自记录时点。
+
+---
+
+## 2026-10-07 历史阶段：筛选显著性集中反馈包 v5
 
 [现在能反馈什么：完整报告](review/20261007-significance-feedback-v5/REPORT.md) · [网页端读取入口](review/20261007-significance-feedback-v5/START_HERE.md) · [下载数据与当前稿件](review/20261007-significance-feedback-v5/significance_feedback_part01.zip)
 

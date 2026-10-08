@@ -1,0 +1,858 @@
+{
+  "checks": [
+    {
+      "name": "pin:build_minimal_manuscript_v1.py",
+      "pass": true,
+      "sha256": "e7535cf9f3fca1d55152e9991170e7b5c5c0327e9b09025dc0dea737851aace0"
+    },
+    {
+      "name": "pin:content_patched.docx",
+      "pass": true,
+      "sha256": "e59df3f3a24ca329df68f08488db1e472b925d110b4c51506f0b68d62b7c7f1f"
+    },
+    {
+      "name": "pin:tracked_patched.docx",
+      "pass": true,
+      "sha256": "5cfe672ebafa64a32bfaf37a8b1d8015f54bcbf285bec002e02e50d7f4658222"
+    },
+    {
+      "name": "pin:accepted_offline.docx",
+      "pass": true,
+      "sha256": "b77fa7e5612280f943c73a4a2f8f9f3b0e0897cefa1e0bcecb9b8e06aec7e148"
+    },
+    {
+      "name": "pin:rejected_offline.docx",
+      "pass": true,
+      "sha256": "51eeb527a4da11b9429f168a418c685d8a58a2eb1d64b3482566b44d9c4304fd"
+    },
+    {
+      "name": "pin:OFFLINE_QA.json",
+      "pass": true,
+      "sha256": "a4f17a13ce34030324e369ba7636c8571db5aeb3b418ac2f4312fce0dd1cd7ca"
+    },
+    {
+      "name": "pin:MINIMAL_PLAN.json",
+      "pass": true,
+      "sha256": "7245d7c946555bd68240ce915fb80936c8ab95172f008cdf20ea6c8c2c6ea7b2"
+    },
+    {
+      "name": "pin:SOURCE_BINDINGS.json",
+      "pass": true,
+      "sha256": "11dea10cb6163985c537de71d2dad50dee31e4283a9a816a72978c0796518a4b"
+    },
+    {
+      "name": "binding:content_patched.docx",
+      "pass": true,
+      "sha256": "03603a06a527a98c8710e91bc8c5734028377d01fd44c4ce0b9e3f6269f7bc57",
+      "path": "/private/tmp/cma-web-delivery-20261006/review/20261007-significance-feedback-v5/manuscript/content_patched.docx"
+    },
+    {
+      "name": "binding:accepted_offline.docx",
+      "pass": true,
+      "sha256": "5063b21a076d79a5037a99dc2feece9928d95eb1dd697d07da06f9989539d8bf",
+      "path": "/private/tmp/cma-web-delivery-20261006/review/20261007-significance-feedback-v5/manuscript/accepted_offline.docx"
+    },
+    {
+      "name": "binding:rejected_offline.docx",
+      "pass": true,
+      "sha256": "f420b617893a57e2fc16eb71248fd23d43e0e601674b43a08a32a50b5040d9c1",
+      "path": "/private/tmp/cma-web-delivery-20261006/review/20261007-significance-feedback-v5/manuscript/rejected_offline.docx"
+    },
+    {
+      "name": "binding:mother",
+      "pass": true,
+      "sha256": "4f8cb6c2963c52efaf7cc1065110783ddefdc586785cce15f401d71e2787123d",
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/delivery/current_recovered_manuscript_20261005_v1/CMAverse_基础回归与八链结果恢复后_当前整合稿.docx"
+    },
+    {
+      "name": "binding:tracked_native_ids_fixed",
+      "pass": true,
+      "sha256": "d25d18b9bc51aa71d37cbbc0521f4efc2356c900176870d6c5fee188fc30a89d",
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/private_native_successor_runner_20261007_v3_preparation/revision_id_fix_v1/tracked_revision_ids_fixed.docx"
+    },
+    {
+      "name": "binding:script",
+      "pass": true,
+      "sha256": "e7535cf9f3fca1d55152e9991170e7b5c5c0327e9b09025dc0dea737851aace0",
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/build_minimal_manuscript_v1.py"
+    },
+    {
+      "name": "binding:compiler",
+      "pass": true,
+      "sha256": "e3d125ec74e8968cafc811bc1462313c5d1a24eea69db763514a014c39c43451",
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/post_merge_narrative_pagecache_successor_v6/post_merge_narrative_v3.py"
+    },
+    {
+      "name": "parts_changed:content_vs_old_content",
+      "pass": true,
+      "changed": [
+        "word/document.xml"
+      ]
+    },
+    {
+      "name": "parts_changed:accepted_vs_old_accepted",
+      "pass": true,
+      "changed": [
+        "word/document.xml"
+      ]
+    },
+    {
+      "name": "parts_changed:tracked_vs_raw_predecessor",
+      "pass": true,
+      "changed": [
+        "word/document.xml"
+      ]
+    },
+    {
+      "name": "parts_equal:rejected_vs_mother",
+      "pass": true,
+      "differing": []
+    },
+    {
+      "name": "parts_equal:rejected_vs_old_rejected",
+      "pass": true,
+      "differing": []
+    },
+    {
+      "name": "content_patched:paragraph_count",
+      "pass": true,
+      "new": 309,
+      "old": 309
+    },
+    {
+      "name": "content_patched:changed_paragraphs_c14n",
+      "pass": true,
+      "changed": [
+        221,
+        253,
+        282
+      ]
+    },
+    {
+      "name": "content_patched:changed_paragraphs_text",
+      "pass": true,
+      "changed": [
+        221,
+        253,
+        282
+      ]
+    },
+    {
+      "name": "content_patched:P104_unchanged",
+      "pass": true
+    },
+    {
+      "name": "content_patched:tables_34_c14n_equal",
+      "pass": true,
+      "n": 34
+    },
+    {
+      "name": "content_patched:body_other_elements_equal",
+      "pass": true
+    },
+    {
+      "name": "content_patched:P221_pPr_kept",
+      "pass": true
+    },
+    {
+      "name": "content_patched:P221_first_rPr_kept",
+      "pass": true
+    },
+    {
+      "name": "content_patched:P221_no_lost_inline_objects",
+      "pass": true,
+      "new": [],
+      "old": []
+    },
+    {
+      "name": "content_patched:P253_pPr_kept",
+      "pass": true
+    },
+    {
+      "name": "content_patched:P253_first_rPr_kept",
+      "pass": true
+    },
+    {
+      "name": "content_patched:P253_no_lost_inline_objects",
+      "pass": true,
+      "new": [],
+      "old": []
+    },
+    {
+      "name": "content_patched:P282_pPr_kept",
+      "pass": true
+    },
+    {
+      "name": "content_patched:P282_first_rPr_kept",
+      "pass": true
+    },
+    {
+      "name": "content_patched:P282_no_lost_inline_objects",
+      "pass": true,
+      "new": [],
+      "old": []
+    },
+    {
+      "name": "content_patched:fields_all_stories_identical_order",
+      "pass": true,
+      "n": 24
+    },
+    {
+      "name": "content_patched:zotero_23_citations_1_bibliography",
+      "pass": true,
+      "cites": 23,
+      "bibl": 1,
+      "all_fields": 24,
+      "by_story": {
+        "word/document.xml": 20,
+        "word/footnotes.xml": 3
+      }
+    },
+    {
+      "name": "content_patched:bibliography_25_same_order",
+      "pass": true,
+      "heading_p": [
+        283
+      ],
+      "tail_paragraphs": 26
+    },
+    {
+      "name": "accepted_offline:paragraph_count",
+      "pass": true,
+      "new": 309,
+      "old": 309
+    },
+    {
+      "name": "accepted_offline:changed_paragraphs_c14n",
+      "pass": true,
+      "changed": [
+        221,
+        253,
+        282
+      ]
+    },
+    {
+      "name": "accepted_offline:changed_paragraphs_text",
+      "pass": true,
+      "changed": [
+        221,
+        253,
+        282
+      ]
+    },
+    {
+      "name": "accepted_offline:P104_unchanged",
+      "pass": true
+    },
+    {
+      "name": "accepted_offline:tables_34_c14n_equal",
+      "pass": true,
+      "n": 34
+    },
+    {
+      "name": "accepted_offline:body_other_elements_equal",
+      "pass": true
+    },
+    {
+      "name": "accepted_offline:P221_pPr_kept",
+      "pass": true
+    },
+    {
+      "name": "accepted_offline:P221_first_rPr_kept",
+      "pass": true
+    },
+    {
+      "name": "accepted_offline:P221_no_lost_inline_objects",
+      "pass": true,
+      "new": [],
+      "old": []
+    },
+    {
+      "name": "accepted_offline:P253_pPr_kept",
+      "pass": true
+    },
+    {
+      "name": "accepted_offline:P253_first_rPr_kept",
+      "pass": true
+    },
+    {
+      "name": "accepted_offline:P253_no_lost_inline_objects",
+      "pass": true,
+      "new": [],
+      "old": []
+    },
+    {
+      "name": "accepted_offline:P282_pPr_kept",
+      "pass": true
+    },
+    {
+      "name": "accepted_offline:P282_first_rPr_kept",
+      "pass": true
+    },
+    {
+      "name": "accepted_offline:P282_no_lost_inline_objects",
+      "pass": true,
+      "new": [],
+      "old": []
+    },
+    {
+      "name": "accepted_offline:fields_all_stories_identical_order",
+      "pass": true,
+      "n": 24
+    },
+    {
+      "name": "accepted_offline:zotero_23_citations_1_bibliography",
+      "pass": true,
+      "cites": 23,
+      "bibl": 1,
+      "all_fields": 24,
+      "by_story": {
+        "word/document.xml": 20,
+        "word/footnotes.xml": 3
+      }
+    },
+    {
+      "name": "accepted_offline:bibliography_25_same_order",
+      "pass": true,
+      "heading_p": [
+        283
+      ],
+      "tail_paragraphs": 26
+    },
+    {
+      "name": "D1:header_and_22_rows_cellwise_equal",
+      "pass": true,
+      "rows": 22
+    },
+    {
+      "name": "stories_9_nonbody_bytes_equal",
+      "pass": true,
+      "stories": [
+        "word/document.xml",
+        "word/endnotes.xml",
+        "word/footer1.xml",
+        "word/footer2.xml",
+        "word/footer3.xml",
+        "word/footnotes.xml",
+        "word/header1.xml",
+        "word/header2.xml",
+        "word/header3.xml"
+      ]
+    },
+    {
+      "name": "tracked:revision_ids_unique_all_stories",
+      "pass": true,
+      "count": 11655,
+      "unique": 11655,
+      "dup": []
+    },
+    {
+      "name": "tracked:diff_vs_raw_only_targets",
+      "pass": true,
+      "tracked_index": [
+        225,
+        257,
+        286
+      ],
+      "accepted_index_by_mark": [
+        221,
+        253,
+        282
+      ]
+    },
+    {
+      "name": "tracked:changed_paragraphs_accept_to_approved_targets",
+      "pass": true
+    },
+    {
+      "name": "tracked:changed_paragraphs_reject_to_old_targets",
+      "pass": true
+    },
+    {
+      "name": "tracked:tables_and_other_body_equal_raw",
+      "pass": true,
+      "n": 38
+    },
+    {
+      "name": "projection_accept_text:word/document.xml",
+      "pass": true,
+      "n": 3330
+    },
+    {
+      "name": "projection_reject_text:word/document.xml",
+      "pass": true,
+      "n": 1852
+    },
+    {
+      "name": "projection_accept_text:word/endnotes.xml",
+      "pass": true,
+      "n": 2
+    },
+    {
+      "name": "projection_reject_text:word/endnotes.xml",
+      "pass": true,
+      "n": 2
+    },
+    {
+      "name": "projection_accept_text:word/footer1.xml",
+      "pass": true,
+      "n": 1
+    },
+    {
+      "name": "projection_reject_text:word/footer1.xml",
+      "pass": true,
+      "n": 1
+    },
+    {
+      "name": "projection_accept_text:word/footer2.xml",
+      "pass": true,
+      "n": 1
+    },
+    {
+      "name": "projection_reject_text:word/footer2.xml",
+      "pass": true,
+      "n": 1
+    },
+    {
+      "name": "projection_accept_text:word/footer3.xml",
+      "pass": true,
+      "n": 1
+    },
+    {
+      "name": "projection_reject_text:word/footer3.xml",
+      "pass": true,
+      "n": 1
+    },
+    {
+      "name": "projection_accept_text:word/footnotes.xml",
+      "pass": true,
+      "n": 11
+    },
+    {
+      "name": "projection_reject_text:word/footnotes.xml",
+      "pass": true,
+      "n": 11
+    },
+    {
+      "name": "projection_accept_text:word/header1.xml",
+      "pass": true,
+      "n": 1
+    },
+    {
+      "name": "projection_reject_text:word/header1.xml",
+      "pass": true,
+      "n": 1
+    },
+    {
+      "name": "projection_accept_text:word/header2.xml",
+      "pass": true,
+      "n": 1
+    },
+    {
+      "name": "projection_reject_text:word/header2.xml",
+      "pass": true,
+      "n": 1
+    },
+    {
+      "name": "projection_accept_text:word/header3.xml",
+      "pass": true,
+      "n": 1
+    },
+    {
+      "name": "projection_reject_text:word/header3.xml",
+      "pass": true,
+      "n": 1
+    },
+    {
+      "name": "accepted_P221_equals_content_P221",
+      "pass": true
+    },
+    {
+      "name": "accepted_P253_equals_content_P253",
+      "pass": true
+    },
+    {
+      "name": "accepted_P282_equals_content_P282",
+      "pass": true
+    },
+    {
+      "name": "content_patched:no_residual_revisions",
+      "pass": true,
+      "n": 0
+    },
+    {
+      "name": "accepted_offline:no_residual_revisions",
+      "pass": true,
+      "n": 0
+    },
+    {
+      "name": "rejected_offline:no_residual_revisions",
+      "pass": true,
+      "n": 0
+    }
+  ],
+  "findings": [],
+  "input_sha256": {
+    "build_minimal_manuscript_v1.py": "e7535cf9f3fca1d55152e9991170e7b5c5c0327e9b09025dc0dea737851aace0",
+    "content_patched.docx": "e59df3f3a24ca329df68f08488db1e472b925d110b4c51506f0b68d62b7c7f1f",
+    "tracked_patched.docx": "5cfe672ebafa64a32bfaf37a8b1d8015f54bcbf285bec002e02e50d7f4658222",
+    "accepted_offline.docx": "b77fa7e5612280f943c73a4a2f8f9f3b0e0897cefa1e0bcecb9b8e06aec7e148",
+    "rejected_offline.docx": "51eeb527a4da11b9429f168a418c685d8a58a2eb1d64b3482566b44d9c4304fd",
+    "OFFLINE_QA.json": "a4f17a13ce34030324e369ba7636c8571db5aeb3b418ac2f4312fce0dd1cd7ca",
+    "MINIMAL_PLAN.json": "7245d7c946555bd68240ce915fb80936c8ab95172f008cdf20ea6c8c2c6ea7b2",
+    "SOURCE_BINDINGS.json": "11dea10cb6163985c537de71d2dad50dee31e4283a9a816a72978c0796518a4b"
+  },
+  "binding_sha256": {
+    "content_patched.docx": "03603a06a527a98c8710e91bc8c5734028377d01fd44c4ce0b9e3f6269f7bc57",
+    "accepted_offline.docx": "5063b21a076d79a5037a99dc2feece9928d95eb1dd697d07da06f9989539d8bf",
+    "rejected_offline.docx": "f420b617893a57e2fc16eb71248fd23d43e0e601674b43a08a32a50b5040d9c1",
+    "mother": "4f8cb6c2963c52efaf7cc1065110783ddefdc586785cce15f401d71e2787123d",
+    "tracked_native_ids_fixed": "d25d18b9bc51aa71d37cbbc0521f4efc2356c900176870d6c5fee188fc30a89d",
+    "script": "e7535cf9f3fca1d55152e9991170e7b5c5c0327e9b09025dc0dea737851aace0",
+    "compiler": "e3d125ec74e8968cafc811bc1462313c5d1a24eea69db763514a014c39c43451"
+  },
+  "zip_level": {
+    "rejected_offline_bytes_identical_to_old_rejected": false
+  },
+  "texts": {
+    "content_patched": {
+      "221": {
+        "before": "比值型TNIE为标准化边际OR，检验在log尺度上进行（无效应值为1）；Delta_CDE为两个标准化边际OR之差，即正文的ΔOR（无效应值为0），不能解释为百分点。support_diff_10k由实际月均支持金额差除以10000生成，保留万元/月；support_log1p_10k由两期log1p(月均金额/10000)之差生成，其效应不是元/月或百分比。这些尺度不与新两部分模型的元/月混用。所有p均为原始探索值。",
+        "after": "表D.1的效应尺度取决于各规格采用的结局模型。对支持是否增加且结局使用Logit的规格，比值型TNIE按标准化边际OR报告，在log尺度上检验无效值1；其Delta_CDE为两个边际OR之差，无效值为0。对support_diff_10k的线性结局规格，间接对比和受控直接效应差以万元／月表示；对support_log1p_10k规格，则以相应变换后的差值表示，不直接解释为元／月或百分比。各类效应不跨尺度比较大小。表内p值均为历史探索版本的未调整结果。"
+      },
+      "253": {
+        "before": "- R6：期末正值支持金额按固定第99百分位截尾。",
+        "after": "- R6：期末正值支持金额按固定第99百分位封顶（pmin，保留全部记录）。"
+      },
+      "282": {
+        "before": "注：描述总体为身份筛选通过的13,092条亲子二元组—区间记录（8,528个亲子二元组、5,318名成年子女），不是八条链的完整案例交集。连续变量为均值（标准差），分类变量为n（%）；N按变量有效观测计算，不对全表统一删除缺失。提升／升级指标的资格外记录不计入该指标分母；未提升／未升级包含其他有效转移状态。家务时长以小时/日计，保存值按工作日与休息日回答的简单平均及各期直接日均回答的跳题规则构造；与归档脚本最终采用的5/7、2/7加权公式不一致，该差异现已完成8份总体样本和48份分组样本共56组两编码配对比较，完整保留1,960行结果：固定各自样本、模型、中心化常数及实际重抽样索引，仅替换家务编码，每种编码B=200。全部编码差及配对区间完整保留为历史定义的描述性敏感性结果，不作为新的机制显著性检验或独立验证。自评健康评分下降表示改善、上升表示恶化。子女数量按已记录的子女关系人标识计数，并取2010年至对应波次的最大值；排除79、-8及缺失标识，2012年起对非77标识去重，多个77仍分别计数，未按存活或同住状态筛选；0不必然表示已确认无子女。同住指标仅在本人及对应父母均居住在样本家庭时记1，其余记0，不能识别双方在样本家庭之外同住；非二元原始回答也被并入0，不能据此确认真实不同住。职业声望采用2010年至各对应波次所观察到的SIOPS最高值，历次均缺失时记0；并非仅对当期缺失值作补填。该水平指标不能等同于当期职业声望。家庭总负债以万元计，历史底稿将缺失置0；家庭总收入沿用历史保存的平减、缩尾后ln(收入+1)。按归档CPI值以2016年价格独立重建时，宽表样本的0.1%与99.9%分位点可复现四期保存值，但归档脚本写为1%与99%；历史实际执行版本尚待确认。父辈支持按2016—2022年四波累计：任一波经济与劳务支持合计为有效正值记1，否则记0；“未检出有效支持”包含可能的缺失情形，不能等同于确认没有支持。父母婚姻变化的“其他”包括维持原状态及失婚转为在婚，“在婚变失婚”仅指该方向转换。父母婚姻沿用历史填补值：原底稿按双亲死亡线索补判丧偶，其余缺失置为在婚。当前期初有761条记录的上游婚姻码缺失或为负码，其中625条最终归为在婚、136条归为失婚；该填补不能等同于直接观测到婚姻状态，按现存四期原始个人库独立重建后，死亡线索、父母性别及填补结果与当前数据一致；历史执行记录仍未独立确认。教育为学历折算年限：文盲或半文盲0、小学6、初中9、高中或中专或技校或职高12、大专15、本科16、硕士及博士均为19；已追回的归档上游源码与恢复数据中的赋分一致，但历史实际执行版本尚未证实；该变量不能视为直接调查的实际就学年数。城乡沿用历史编码，城镇记0；乡村及源缺失值−9合并记1。表中合并组6,116条含206条源缺失，另56条现缺失源于对应波家庭ID未能连接；不能据此判断缺访原因。时期p值采用compareGroups的实际检验，未调整成年子女、亲子关系及跨期重复依赖，仅供探索性时期比较；不含p值的安全视图及资格、缺失明细另行保存。",
+        "after": "表2变量构造的完整说明如下：描述总体为身份筛选通过的13,092条亲子二元组—区间记录（8,528个亲子二元组、5,318名成年子女），不是八条链的完整案例交集。连续变量为均值（标准差），分类变量为n（%）；N按变量有效观测计算，不对全表统一删除缺失。提升／升级指标的资格外记录不计入该指标分母；未提升／未升级包含其他有效转移状态。家务时长以小时/日计，保存值按工作日与休息日回答的简单平均及各期直接日均回答的跳题规则构造；与归档脚本最终采用的5/7、2/7加权公式不一致，该差异现已完成8份总体样本和48份分组样本共56组两编码配对比较，完整保留1,960行结果：固定各自样本、模型、中心化常数及实际重抽样索引，仅替换家务编码，每种编码B=200。全部编码差及配对区间完整保留为历史定义的描述性敏感性结果，不作为新的机制显著性检验或独立验证。自评健康评分下降表示改善、上升表示恶化。子女数量按已记录的子女关系人标识计数，并取2010年至对应波次的最大值；排除79、-8及缺失标识，2012年起对非77标识去重，多个77仍分别计数，未按存活或同住状态筛选；0不必然表示已确认无子女。同住指标仅在本人及对应父母均居住在样本家庭时记1，其余记0，不能识别双方在样本家庭之外同住；非二元原始回答也被并入0，不能据此确认真实不同住。职业声望采用2010年至各对应波次所观察到的SIOPS最高值，历次均缺失时记0；并非仅对当期缺失值作补填。该水平指标不能等同于当期职业声望。家庭总负债以万元计，历史底稿将缺失置0；家庭总收入沿用历史保存的平减、缩尾后ln(收入+1)。按归档CPI值以2016年价格独立重建时，宽表样本的0.1%与99.9%分位点可复现四期保存值，但归档脚本写为1%与99%；历史实际执行版本尚待确认。父辈支持按2016—2022年四波累计：任一波经济与劳务支持合计为有效正值记1，否则记0；“未检出有效支持”包含可能的缺失情形，不能等同于确认没有支持。父母婚姻变化的“其他”包括维持原状态及失婚转为在婚，“在婚变失婚”仅指该方向转换。父母婚姻沿用历史填补值：原底稿按双亲死亡线索补判丧偶，其余缺失置为在婚。当前期初有761条记录的上游婚姻码缺失或为负码，其中625条最终归为在婚、136条归为失婚；该填补不能等同于直接观测到婚姻状态，按现存四期原始个人库独立重建后，死亡线索、父母性别及填补结果与当前数据一致；历史执行记录仍未独立确认。教育为学历折算年限：文盲或半文盲0、小学6、初中9、高中或中专或技校或职高12、大专15、本科16、硕士及博士均为19；已追回的归档上游源码与恢复数据中的赋分一致，但历史实际执行版本尚未证实；该变量不能视为直接调查的实际就学年数。城乡沿用历史编码，城镇记0；乡村及源缺失值−9合并记1。表中合并组6,116条含206条源缺失，另56条现缺失源于对应波家庭ID未能连接；不能据此判断缺访原因。时期p值采用compareGroups的实际检验，未调整成年子女、亲子关系及跨期重复依赖，仅供探索性时期比较；不含p值的安全视图及资格、缺失明细另行保存。"
+      }
+    },
+    "accepted_offline": {
+      "221": {
+        "before": "比值型TNIE为标准化边际OR，检验在log尺度上进行（无效应值为1）；Delta_CDE为两个标准化边际OR之差，即正文的ΔOR（无效应值为0），不能解释为百分点。support_diff_10k由实际月均支持金额差除以10000生成，保留万元/月；support_log1p_10k由两期log1p(月均金额/10000)之差生成，其效应不是元/月或百分比。这些尺度不与新两部分模型的元/月混用。所有p均为原始探索值。",
+        "after": "表D.1的效应尺度取决于各规格采用的结局模型。对支持是否增加且结局使用Logit的规格，比值型TNIE按标准化边际OR报告，在log尺度上检验无效值1；其Delta_CDE为两个边际OR之差，无效值为0。对support_diff_10k的线性结局规格，间接对比和受控直接效应差以万元／月表示；对support_log1p_10k规格，则以相应变换后的差值表示，不直接解释为元／月或百分比。各类效应不跨尺度比较大小。表内p值均为历史探索版本的未调整结果。"
+      },
+      "253": {
+        "before": "- R6：期末正值支持金额按固定第99百分位截尾。",
+        "after": "- R6：期末正值支持金额按固定第99百分位封顶（pmin，保留全部记录）。"
+      },
+      "282": {
+        "before": "注：描述总体为身份筛选通过的13,092条亲子二元组—区间记录（8,528个亲子二元组、5,318名成年子女），不是八条链的完整案例交集。连续变量为均值（标准差），分类变量为n（%）；N按变量有效观测计算，不对全表统一删除缺失。提升／升级指标的资格外记录不计入该指标分母；未提升／未升级包含其他有效转移状态。家务时长以小时/日计，保存值按工作日与休息日回答的简单平均及各期直接日均回答的跳题规则构造；与归档脚本最终采用的5/7、2/7加权公式不一致，该差异现已完成8份总体样本和48份分组样本共56组两编码配对比较，完整保留1,960行结果：固定各自样本、模型、中心化常数及实际重抽样索引，仅替换家务编码，每种编码B=200。全部编码差及配对区间完整保留为历史定义的描述性敏感性结果，不作为新的机制显著性检验或独立验证。自评健康评分下降表示改善、上升表示恶化。子女数量按已记录的子女关系人标识计数，并取2010年至对应波次的最大值；排除79、-8及缺失标识，2012年起对非77标识去重，多个77仍分别计数，未按存活或同住状态筛选；0不必然表示已确认无子女。同住指标仅在本人及对应父母均居住在样本家庭时记1，其余记0，不能识别双方在样本家庭之外同住；非二元原始回答也被并入0，不能据此确认真实不同住。职业声望采用2010年至各对应波次所观察到的SIOPS最高值，历次均缺失时记0；并非仅对当期缺失值作补填。该水平指标不能等同于当期职业声望。家庭总负债以万元计，历史底稿将缺失置0；家庭总收入沿用历史保存的平减、缩尾后ln(收入+1)。按归档CPI值以2016年价格独立重建时，宽表样本的0.1%与99.9%分位点可复现四期保存值，但归档脚本写为1%与99%；历史实际执行版本尚待确认。父辈支持按2016—2022年四波累计：任一波经济与劳务支持合计为有效正值记1，否则记0；“未检出有效支持”包含可能的缺失情形，不能等同于确认没有支持。父母婚姻变化的“其他”包括维持原状态及失婚转为在婚，“在婚变失婚”仅指该方向转换。父母婚姻沿用历史填补值：原底稿按双亲死亡线索补判丧偶，其余缺失置为在婚。当前期初有761条记录的上游婚姻码缺失或为负码，其中625条最终归为在婚、136条归为失婚；该填补不能等同于直接观测到婚姻状态，按现存四期原始个人库独立重建后，死亡线索、父母性别及填补结果与当前数据一致；历史执行记录仍未独立确认。教育为学历折算年限：文盲或半文盲0、小学6、初中9、高中或中专或技校或职高12、大专15、本科16、硕士及博士均为19；已追回的归档上游源码与恢复数据中的赋分一致，但历史实际执行版本尚未证实；该变量不能视为直接调查的实际就学年数。城乡沿用历史编码，城镇记0；乡村及源缺失值−9合并记1。表中合并组6,116条含206条源缺失，另56条现缺失源于对应波家庭ID未能连接；不能据此判断缺访原因。时期p值采用compareGroups的实际检验，未调整成年子女、亲子关系及跨期重复依赖，仅供探索性时期比较；不含p值的安全视图及资格、缺失明细另行保存。",
+        "after": "表2变量构造的完整说明如下：描述总体为身份筛选通过的13,092条亲子二元组—区间记录（8,528个亲子二元组、5,318名成年子女），不是八条链的完整案例交集。连续变量为均值（标准差），分类变量为n（%）；N按变量有效观测计算，不对全表统一删除缺失。提升／升级指标的资格外记录不计入该指标分母；未提升／未升级包含其他有效转移状态。家务时长以小时/日计，保存值按工作日与休息日回答的简单平均及各期直接日均回答的跳题规则构造；与归档脚本最终采用的5/7、2/7加权公式不一致，该差异现已完成8份总体样本和48份分组样本共56组两编码配对比较，完整保留1,960行结果：固定各自样本、模型、中心化常数及实际重抽样索引，仅替换家务编码，每种编码B=200。全部编码差及配对区间完整保留为历史定义的描述性敏感性结果，不作为新的机制显著性检验或独立验证。自评健康评分下降表示改善、上升表示恶化。子女数量按已记录的子女关系人标识计数，并取2010年至对应波次的最大值；排除79、-8及缺失标识，2012年起对非77标识去重，多个77仍分别计数，未按存活或同住状态筛选；0不必然表示已确认无子女。同住指标仅在本人及对应父母均居住在样本家庭时记1，其余记0，不能识别双方在样本家庭之外同住；非二元原始回答也被并入0，不能据此确认真实不同住。职业声望采用2010年至各对应波次所观察到的SIOPS最高值，历次均缺失时记0；并非仅对当期缺失值作补填。该水平指标不能等同于当期职业声望。家庭总负债以万元计，历史底稿将缺失置0；家庭总收入沿用历史保存的平减、缩尾后ln(收入+1)。按归档CPI值以2016年价格独立重建时，宽表样本的0.1%与99.9%分位点可复现四期保存值，但归档脚本写为1%与99%；历史实际执行版本尚待确认。父辈支持按2016—2022年四波累计：任一波经济与劳务支持合计为有效正值记1，否则记0；“未检出有效支持”包含可能的缺失情形，不能等同于确认没有支持。父母婚姻变化的“其他”包括维持原状态及失婚转为在婚，“在婚变失婚”仅指该方向转换。父母婚姻沿用历史填补值：原底稿按双亲死亡线索补判丧偶，其余缺失置为在婚。当前期初有761条记录的上游婚姻码缺失或为负码，其中625条最终归为在婚、136条归为失婚；该填补不能等同于直接观测到婚姻状态，按现存四期原始个人库独立重建后，死亡线索、父母性别及填补结果与当前数据一致；历史执行记录仍未独立确认。教育为学历折算年限：文盲或半文盲0、小学6、初中9、高中或中专或技校或职高12、大专15、本科16、硕士及博士均为19；已追回的归档上游源码与恢复数据中的赋分一致，但历史实际执行版本尚未证实；该变量不能视为直接调查的实际就学年数。城乡沿用历史编码，城镇记0；乡村及源缺失值−9合并记1。表中合并组6,116条含206条源缺失，另56条现缺失源于对应波家庭ID未能连接；不能据此判断缺访原因。时期p值采用compareGroups的实际检验，未调整成年子女、亲子关系及跨期重复依赖，仅供探索性时期比较；不含p值的安全视图及资格、缺失明细另行保存。"
+      }
+    }
+  },
+  "D1_units": [
+    "log1p(金额/10000)差",
+    "万元/月",
+    "边际OR",
+    "边际OR之差（ΔOR）"
+  ],
+  "D1_rows": [
+    [
+      "规格",
+      "目标量",
+      "尺度",
+      "估计",
+      "95%区间",
+      "原始探索p"
+    ],
+    [
+      "FEAS_003",
+      "TNIE",
+      "边际OR",
+      "0.998076",
+      "[0.994107, 1.00636]",
+      "0.567433"
+    ],
+    [
+      "FEAS_003",
+      "Delta_CDE",
+      "边际OR之差（ΔOR）",
+      "0.0536997",
+      "[-0.11658, 0.215119]",
+      "0.535465"
+    ],
+    [
+      "FEAS_004",
+      "TNIE",
+      "边际OR",
+      "0.98334",
+      "[0.946885, 1.01248]",
+      "0.313686"
+    ],
+    [
+      "FEAS_004",
+      "Delta_CDE",
+      "边际OR之差（ΔOR）",
+      "0.412125",
+      "[-0.146323, 1.1029]",
+      "0.194805"
+    ],
+    [
+      "FEAS_031",
+      "TNIE",
+      "边际OR",
+      "0.999271",
+      "[0.995694, 1.00513]",
+      "0.743257"
+    ],
+    [
+      "FEAS_031",
+      "Delta_CDE",
+      "边际OR之差（ΔOR）",
+      "-0.407544",
+      "[-0.646373, -0.130888]",
+      "0.002997"
+    ],
+    [
+      "FEAS_041",
+      "TNIE",
+      "边际OR",
+      "1.0004",
+      "[0.998163, 1.00323]",
+      "0.65035"
+    ],
+    [
+      "FEAS_041",
+      "Delta_CDE",
+      "边际OR之差（ΔOR）",
+      "-0.0858683",
+      "[-0.162978, -0.00834853]",
+      "0.032967"
+    ],
+    [
+      "FEAS_060",
+      "TNIE",
+      "万元/月",
+      "1.39246e-05",
+      "[-0.000145229, 0.000131508]",
+      "0.738262"
+    ],
+    [
+      "FEAS_060",
+      "Delta_CDE",
+      "万元/月",
+      "-0.00211093",
+      "[-0.00596121, 0.00105659]",
+      "0.233766"
+    ],
+    [
+      "FEAS_091",
+      "TNIE",
+      "万元/月",
+      "-8.63398e-06",
+      "[-6.47527e-05, 4.13532e-05]",
+      "0.654346"
+    ],
+    [
+      "FEAS_091",
+      "Delta_CDE",
+      "万元/月",
+      "0.00119511",
+      "[-0.00040378, 0.00281311]",
+      "0.164835"
+    ],
+    [
+      "FEAS_092",
+      "TNIE",
+      "万元/月",
+      "8.1515e-06",
+      "[-4.63596e-06, 2.4239e-05]",
+      "0.318681"
+    ],
+    [
+      "FEAS_092",
+      "Delta_CDE",
+      "万元/月",
+      "0.00163979",
+      "[-0.000739009, 0.0031963]",
+      "0.203796"
+    ],
+    [
+      "FEAS_093",
+      "TNIE",
+      "万元/月",
+      "-6.65048e-06",
+      "[-4.20956e-05, 2.78709e-05]",
+      "0.596404"
+    ],
+    [
+      "FEAS_093",
+      "Delta_CDE",
+      "万元/月",
+      "0.00106642",
+      "[-7.74499e-05, 0.00228389]",
+      "0.0879121"
+    ],
+    [
+      "FEAS_107",
+      "TNIE",
+      "log1p(金额/10000)差",
+      "8.85562e-06",
+      "[-0.000108165, 0.000147797]",
+      "0.81019"
+    ],
+    [
+      "FEAS_107",
+      "Delta_CDE",
+      "log1p(金额/10000)差",
+      "-0.00536692",
+      "[-0.0108896, 0.00156639]",
+      "0.120879"
+    ],
+    [
+      "FEAS_142",
+      "TNIE",
+      "log1p(金额/10000)差",
+      "5.59197e-06",
+      "[-4.429e-06, 1.81256e-05]",
+      "0.348651"
+    ],
+    [
+      "FEAS_142",
+      "Delta_CDE",
+      "log1p(金额/10000)差",
+      "0.00123447",
+      "[-0.000557938, 0.00238834]",
+      "0.191808"
+    ],
+    [
+      "FEAS_143",
+      "TNIE",
+      "log1p(金额/10000)差",
+      "-5.30427e-06",
+      "[-3.39242e-05, 2.11863e-05]",
+      "0.597403"
+    ],
+    [
+      "FEAS_143",
+      "Delta_CDE",
+      "log1p(金额/10000)差",
+      "0.00093197",
+      "[-7.69883e-05, 0.00193168]",
+      "0.0669331"
+    ]
+  ],
+  "revision_counts": {
+    "tracked_patched": 11655,
+    "raw_predecessor": 11655,
+    "new": 0
+  },
+  "revision_ids_overlapping_annotation_ids": 2,
+  "tracked_target_index": {
+    "221": 225,
+    "253": 257,
+    "282": 286
+  },
+  "new_revision_ids_in_targets": [
+    "1001742",
+    "1001743",
+    "1001744"
+  ],
+  "new_revision_author_date": [
+    [
+      "Codex",
+      "2026-10-07T10:50:00Z"
+    ]
+  ],
+  "p253_keyword_hits": [
+    {
+      "p": 98,
+      "kw": "封顶",
+      "ctx": "对“5分减≤3分”与“5分减4分”组成的二维向量进行整体检验。原金额与预定99%封顶金额并列报告。原金额的数值失败已在同一样本、模型和2,000份整簇抽样下修复"
+    },
+    {
+      "p": 165,
+      "kw": "封顶",
+      "ctx": "5分对4分金额差异保留为辅助结果；最终金额修饰结论见本章（四）及表13的原金额与封顶金额三状态整体检验。"
+    },
+    {
+      "p": 174,
+      "kw": "封顶",
+      "ctx": "意度为5分时，收入增加对应的支持金额对比低于4分及≤3分状态；原金额与预定99%封顶口径的整体p分别为0.132和0.080（表13）。两者各有2,000次有效"
+    },
+    {
+      "p": 176,
+      "kw": "封顶",
+      "ctx": "的标准化总体金额对比；两个差值共同构成预先登记的整体检验，不另加局部显著性星号。封顶用固定阈值pmin处理，没有删除大额记录。"
+    },
+    {
+      "p": 176,
+      "kw": "pmin",
+      "ctx": "额对比；两个差值共同构成预先登记的整体检验，不另加局部显著性星号。封顶用固定阈值pmin处理，没有删除大额记录。"
+    },
+    {
+      "p": 181,
+      "kw": "封顶",
+      "ctx": "支持关联曾在次级分析中出现差异，但调整后及分期结果不足以支持稳定的性别差异。早期封顶金额模型在5分对4分的辅助对比中得到原始p=0.036；最终原金额与封顶金额"
+    },
+    {
+      "p": 253,
+      "kw": "封顶",
+      "ctx": "- R6：期末正值支持金额按固定第99百分位封顶（pmin，保留全部记录）。"
+    },
+    {
+      "p": 253,
+      "kw": "pmin",
+      "ctx": "- R6：期末正值支持金额按固定第99百分位封顶（pmin，保留全部记录）。"
+    },
+    {
+      "p": 253,
+      "kw": "第99百分位",
+      "ctx": "- R6：期末正值支持金额按固定第99百分位封顶（pmin，保留全部记录）。"
+    },
+    {
+      "p": 253,
+      "kw": "99百分位",
+      "ctx": "- R6：期末正值支持金额按固定第99百分位封顶（pmin，保留全部记录）。"
+    },
+    {
+      "p": 263,
+      "kw": "封顶",
+      "ctx": "制整个搜索过程后的显著机制。该对比的点估计（−30.36元/月）与附录E.2预定封顶口径的“5分减4分”相同；最终判断依据预先登记的二维整体检验（封顶p=0.0"
+    },
+    {
+      "p": 273,
+      "kw": "封顶",
+      "ctx": "量减原点估计所得中心化统计量校准尾概率，采用加一修正；不将其表述为卡方分布校准。封顶采用pmin固定阈值，不删除上尾记录。"
+    },
+    {
+      "p": 273,
+      "kw": "pmin",
+      "ctx": "估计所得中心化统计量校准尾概率，采用加一修正；不将其表述为卡方分布校准。封顶采用pmin固定阈值，不删除上尾记录。"
+    },
+    {
+      "p": 274,
+      "kw": "封顶",
+      "ctx": "用原3,212簇抽样框，其中3,153簇在P3有贡献，重复抽中簇的权重完整保留。封顶阈值固定为2,664.29840142096元／月；两部分合成为mean(p"
+    },
+    {
+      "p": 276,
+      "kw": "封顶",
+      "ctx": "原金额5分对≤3分及5分对4分之差为−24.0332、−30.4177元/月；封顶金额对应差值为−25.6108、−30.3552元/月。旧49次失败（48次"
+    },
+    {
+      "p": 282,
+      "kw": "缩尾",
+      "ctx": "职业声望。家庭总负债以万元计，历史底稿将缺失置0；家庭总收入沿用历史保存的平减、缩尾后ln(收入+1)。按归档CPI值以2016年价格独立重建时，宽表样本的0."
+    },
+    {
+      "tbl": 17,
+      "kw": "封顶",
+      "ctx": "原金额38.2844.6614.24−24.03−30.420.132预定99%封顶36.6741.4111.06−25.61−30.360.080"
+    },
+    {
+      "tbl": 34,
+      "kw": "封顶",
+      "ctx": "3原金额三状态整体0.1319340.1583210.387886选择后探索P3封顶金额三状态整体0.0799600.1199400.293853选择后探索"
+    }
+  ],
+  "p281_heading": "E.4 变量构造说明",
+  "p104_pointer_has_E4": true,
+  "p221_prev_heading": "表D.1 历史11项候选的B=1000复核",
+  "n_checks": 87,
+  "n_fail": 0
+}

@@ -1,0 +1,89 @@
+{
+  "status": "BOTH_NATIVE_REVISION_BRANCHES_VERIFIED",
+  "task_id": "cmaverse-final-native-closeout-actual40-20261007-v4",
+  "ticket": "4f69d896-00a6-43d6-97b7-1b5c94341062",
+  "tracked": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/manuscript_v1/tracked_patched.docx",
+    "bytes": 575310,
+    "sha256": "5cfe672ebafa64a32bfaf37a8b1d8015f54bcbf285bec002e02e50d7f4658222"
+  },
+  "outputs": {
+    "accepted": {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/private_root_minimal_closeout_launcher_20261007_v1/execution_root_actual40_v4/phase_revisions/execution/accepted.docx",
+      "bytes": 548135,
+      "sha256": "0a70a9b791d6cbd8294a9e417270eeb897e9bed0e6a44e41f617917122d0eab9"
+    },
+    "rejected": {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/private_root_minimal_closeout_launcher_20261007_v1/execution_root_actual40_v4/phase_revisions/execution/rejected.docx",
+      "bytes": 496613,
+      "sha256": "57ae6d69189ccf0d658f12db2322c83a19181af776db67d2248d4afc3a2e0952"
+    }
+  },
+  "records": [
+    {
+      "label": "accepted",
+      "native": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/private_root_minimal_closeout_launcher_20261007_v1/execution_root_actual40_v4/phase_revisions/execution/native_011.terminal.json",
+        "bytes": 451,
+        "sha256": "046cc6331c9b11a9d44b5e533c7f280a20a7be1174e1f4b30e05cbeb3b8138b7"
+      },
+      "reopen": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/private_root_minimal_closeout_launcher_20261007_v1/execution_root_actual40_v4/phase_revisions/execution/native_018.terminal.json",
+        "bytes": 445,
+        "sha256": "74a56788ec20f9d83de46e7d64f58cda7bb55d9b31e4a033b35753f021c23227"
+      },
+      "checks": {
+        "all_nine_story_texts_fields_media": true,
+        "all_table_object_shapes": true,
+        "unchanged_geometry_matches_prior_native": true
+      },
+      "reference_type": "OFFLINE_EXPECTED_PENDING_NATIVE",
+      "expected_reference": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/manuscript_v1/accepted_offline.docx",
+        "bytes": 486488,
+        "sha256": "b77fa7e5612280f943c73a4a2f8f9f3b0e0897cefa1e0bcecb9b8e06aec7e148"
+      },
+      "geometry_reference": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/limited_v7_content_20261007_v1/native_run_v3/artifacts/accepted.docx",
+        "bytes": 548130,
+        "sha256": "79dccbc9e074c2ba9cf2b8b94b5f11c7823301fb83e6cc6316479c7186871ec3"
+      }
+    },
+    {
+      "label": "rejected",
+      "native": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/private_root_minimal_closeout_launcher_20261007_v1/execution_root_actual40_v4/phase_revisions/execution/native_025.terminal.json",
+        "bytes": 453,
+        "sha256": "54bcb935d98bc4ecdd5638de1ff84f0688b1b59ccd12317c32dcb2c0b7ed6ef3"
+      },
+      "reopen": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/private_root_minimal_closeout_launcher_20261007_v1/execution_root_actual40_v4/phase_revisions/execution/native_032.terminal.json",
+        "bytes": 446,
+        "sha256": "2285defb2bfc449becfd1af303d200f7df66e4b452d1c400cd8b81d67d39d8c5"
+      },
+      "checks": {
+        "all_nine_story_texts_fields_media": true,
+        "all_table_object_shapes": true,
+        "unchanged_geometry_matches_prior_native": true
+      },
+      "reference_type": "OFFLINE_EXPECTED_PENDING_NATIVE",
+      "expected_reference": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/manuscript_v1/rejected_offline.docx",
+        "bytes": 432571,
+        "sha256": "51eeb527a4da11b9429f168a418c685d8a58a2eb1d64b3482566b44d9c4304fd"
+      },
+      "geometry_reference": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/limited_v7_content_20261007_v1/native_run_v3/artifacts/rejected.docx",
+        "bytes": 496797,
+        "sha256": "0489752392ec4dba81d8061b864af808f71d641d941fdd8ad653ee5f987b2db1"
+      }
+    }
+  ],
+  "input_package": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/native_execution_map_20261007_v1/runner_successor_v1/INPUT_PACKAGE.json",
+    "bytes": 75945,
+    "sha256": "5ebfdcabf505fe5270446f15d74b56ea611626a09a52c51e8b1fb202b108f44c"
+  },
+  "build_or_verify_called": false,
+  "statistics_executed": false
+}

@@ -1,0 +1,19 @@
+.libPaths(c("/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/runtime/library",.libPaths()))
+source("/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/closeout_solver_v1.R",local=TRUE)
+stopifnot(readRDS("/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/VALIDATION.rds")$status=="PASS")
+q<-closeout_load()
+stopifnot(as.numeric(ps::ps_disk_usage("/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1")$available)>10e9)
+dest<-"/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/production_B2000_v1"
+dir.create(dest,showWarnings=FALSE)
+lock<-file.path(dest,"RUN.lock")
+stopifnot(dir.create(lock,showWarnings=FALSE))
+tryCatch({
+ q$e$p3_run(q$frozen,q$e,dest,through=2000L,chunk=25L,progress=function(b,B){
+  clauder_progress("bootstrap_checkpoint",paste("统一求解已保存",b,"/2000"))
+  jsonlite::write_json(list(completed=b,total=B,at=as.character(Sys.time()),pid=Sys.getpid()),
+    file.path(dest,"PROGRESS.json"),auto_unbox=TRUE)
+  stopifnot(as.numeric(ps::ps_disk_usage(dest)$available)>10e9)
+ })
+ cat("FIXED_2000_COMPLETE\n")
+},finally=unlink(lock,recursive=TRUE))
+

@@ -1,0 +1,16 @@
+{
+  "status": "PROCESS_EXITED",
+  "at": "2026-10-07T11:17:47.163035+00:00",
+  "pid": 26512,
+  "pgid": 26512,
+  "returncode": 0,
+  "stdout": "NATIVE_ACCEPTED_SAVED_CLOSED\n",
+  "stderr": "",
+  "timed_out": false,
+  "launch_error": null,
+  "process_group_empty": true,
+  "started": 1791371858.097431,
+  "finished": 1791371867.16306,
+  "task_id": "cmaverse-final-native-closeout-actual40-20261007-v4",
+  "ticket": "4f69d896-00a6-43d6-97b7-1b5c94341062"
+}

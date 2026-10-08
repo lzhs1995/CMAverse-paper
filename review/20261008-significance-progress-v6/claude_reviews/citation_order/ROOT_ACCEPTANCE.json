@@ -1,0 +1,28 @@
+{
+  "at": "2026-10-07T14:25:15.420851+00:00",
+  "reviewer": "/root",
+  "status": "OFFLINE_PATCH_ACCEPTED_NATIVE_PENDING",
+  "report": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/claude_citation_order_repair_r4/executor-report.md",
+    "bytes": 8068,
+    "sha256": "72d87111e4ba3b63c2eded9329a74358a1e69e3cfdc85ad986a6d9174e57dc07"
+  },
+  "callback": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/claude_citation_order_repair_r4/completion-callback-receipt.json",
+    "bytes": 2189,
+    "sha256": "2b79caeb7e8a93d3c3f78c183003d7024ab2c25ebd40738327db6a30054225d4"
+  },
+  "implementation": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/claude_citation_order_repair_r4/implementation/verify_post_refresh_bibliography_successor.py",
+    "bytes": 18981,
+    "sha256": "360fa653dfd130f03d494722676e713d2f74e86a5a8f6d4349c5641b5dae9620"
+  },
+  "mutation_summary": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/claude_citation_order_repair_r4/implementation/mutation_check_v1/SUMMARY.json",
+    "bytes": 771,
+    "sha256": "85c044b3997663f1234d91035fae10ff839796324c70004d1e8ad81b78523e0a"
+  },
+  "review_basis": "Read full report, source patch, real mutation evidence and unchanged shared checks; no duplicate test run.",
+  "final_candidate_check_required": true,
+  "native_finalization_complete": false
+}

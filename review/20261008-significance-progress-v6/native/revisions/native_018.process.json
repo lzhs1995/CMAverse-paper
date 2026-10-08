@@ -1,0 +1,12 @@
+{
+  "at": "2026-10-07T11:17:54.356930+00:00",
+  "argv": [
+    "/usr/bin/osascript",
+    "-e",
+    "with timeout of 30 seconds\ntell application \"Microsoft Word\"\nopen (POSIX file \"/Users/lzhs/Library/Containers/com.microsoft.Word/Data/Documents/wordrev-pdf/minimal-319835fa3be04a14b441da2c0750c4e1/minimal-319835fa3be04a14b441da2c0750c4e1-accepted-clean.docx\") add to recent files false\nset docRef to document \"minimal-319835fa3be04a14b441da2c0750c4e1-accepted-clean.docx\"\nif (posix full name of docRef) is not \"/Users/lzhs/Library/Containers/com.microsoft.Word/Data/Documents/wordrev-pdf/minimal-319835fa3be04a14b441da2c0750c4e1/minimal-319835fa3be04a14b441da2c0750c4e1-accepted-clean.docx\" then error \"OWNED_PATH_CHANGED\"\nset track revisions of docRef to false\nset print revisions of docRef to false\nset show revisions of docRef to false\nsave docRef\nif not saved of docRef then error \"SAVE_NOT_OBSERVED\"\nclose docRef saving no\nreturn \"REOPENED_SAVED_CLOSED\"\nend tell\nend timeout"
+  ],
+  "pid": 28072,
+  "pgid": 28072,
+  "task_id": "cmaverse-final-native-closeout-actual40-20261007-v4",
+  "ticket": "4f69d896-00a6-43d6-97b7-1b5c94341062"
+}

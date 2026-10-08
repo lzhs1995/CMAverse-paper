@@ -1,0 +1,13 @@
+{
+  "at": "2026-10-07T17:20:09.445975+00:00",
+  "argv": [
+    "/usr/bin/osascript",
+    "-e",
+    "with timeout of 30 seconds\ntell application \"Microsoft Word\"\nset docRef to document \"plan13-final-8c31b68f761342b5bc58b7cc6fd1b0f0.docx\"\nif (posix full name of docRef) is not \"/Users/lzhs/Library/Containers/com.microsoft.Word/Data/Documents/wordrev-pdf/plan13-final-8c31b68f761342b5bc58b7cc6fd1b0f0/plan13-final-8c31b68f761342b5bc58b7cc6fd1b0f0.docx\" then error \"OWNED_PATH_CHANGED\"\nrun VB macro macro name \"ZoteroRefresh\"\nreturn \"MACRO_RETURNED_NOT_COMPLETION\"\nend tell\nend timeout"
+  ],
+  "label": "refresh_once",
+  "task_id": "cmaverse-finalize-actual40-20261008-v1",
+  "ticket": "da16b334-d8d5-4c2b-807a-05ca4107f5f2",
+  "hid_idle_seconds": 16.334724166,
+  "budget": 35
+}

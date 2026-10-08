@@ -1,0 +1,23 @@
+{
+  "compiled_at_utc": "2026-10-08T08:50:53.144505+00:00",
+  "reviewer": "Codex root",
+  "review_mode": "solo_self_review",
+  "scope": "delivery assembly, source hashes and bounded document difference; not new statistical validation",
+  "all_copied_sources_checked": true,
+  "inherited_file_count": 47,
+  "body_paragraphs": 309,
+  "changed_body_paragraphs": [
+    221,
+    253,
+    282
+  ],
+  "tables_34_c14n_unchanged": true,
+  "native_outputs_match_original_evidence_hashes": true,
+  "refresh_completion_claimed": false,
+  "historical_claude_report_reused_without_rereview": true,
+  "statistical_execution": false,
+  "new_bootstrap": false,
+  "new_hypothesis_p_values": false,
+  "final_pdf_included": false,
+  "same_final_pdf_nlm_completed": false
+}

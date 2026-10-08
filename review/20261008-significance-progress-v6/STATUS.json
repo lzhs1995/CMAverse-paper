@@ -1,0 +1,23 @@
+{
+  "compiled_at_utc": "2026-10-08T08:50:53.144505+00:00",
+  "publication_kind": "INTERIM_RESEARCH_AND_NATIVE_PROGRESS",
+  "original_objective": "find meaningful significant mediation/moderation candidates, verify evidence, write and deliver manuscript",
+  "confirmed_best_mechanism": false,
+  "exploratory_candidates": [
+    "FEAS_031",
+    "FEAS_041"
+  ],
+  "statistics_frozen": true,
+  "new_models": 0,
+  "new_bootstrap_runs": 0,
+  "new_hypothesis_p_values": 0,
+  "minimal_content_patch": "COMPLETE_3_PARAGRAPHS",
+  "word_accept_all_save_close_reopen": "VERIFIED",
+  "word_reject_all_save_close_reopen": "VERIFIED",
+  "zotero_final_refresh": "INVOKED_ONCE_COMPLETION_NOT_VERIFIED",
+  "post_refresh_saved_candidate_bibliography": "PENDING",
+  "final_word_pdf": "NOT_DELIVERED",
+  "same_final_pdf_two_nlm_rounds": "NOT_COMPLETED",
+  "package_review_mode": "solo_self_review_with_prior_scoped_Claude_reports",
+  "next_action": "resume owned save/reopen, compare independently, native PDF, same-version NLM; do not rerun statistics"
+}

@@ -1,0 +1,16 @@
+{
+  "created_at_utc": "2026-10-08T08:50:53.144505+00:00",
+  "scope": "stage feedback, not final native delivery",
+  "max_part_bytes": 25000000,
+  "parts": [
+    {
+      "filename": "significance_progress_part01.zip",
+      "bytes": 4861574,
+      "sha256": "220a6c8ea58b96ef42c8f12dc63a3387827ce9556bd35126c29c2a419b8622e5",
+      "members": 100
+    }
+  ],
+  "statistical_files_byte_inherited": 47,
+  "new_statistical_estimation": false,
+  "publication_commit": "bind using fixed Git commit after publication; no self-referential commit inside ZIP"
+}

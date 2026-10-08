@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "draws": 2000,
+  "effect_rows": 6000,
+  "probability_max_difference": 0,
+  "old_original_valid": 1951,
+  "new_original_valid": 2000,
+  "index_exact": true,
+  "glm2_version": "1.2.1"
+}

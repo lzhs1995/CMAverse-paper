@@ -1,0 +1,29 @@
+{
+  "mutant": {
+    "rc": 2,
+    "violations": [
+      "all_fields_instruction_and_display_equal_genuine_native",
+      "old_citation_swap_detected_by_order_predicate"
+    ],
+    "order_check_value": true,
+    "swap_control_value": false,
+    "expected": "ORDER 漏报(True)；SWAP 负控因谓词不再拒绝而失败(False)"
+  },
+  "mutant_killed": true,
+  "original_on_independent_copy": {
+    "rc": 0,
+    "violations": [],
+    "checks": 29
+  },
+  "patched_on_independent_copy": {
+    "rc": 0,
+    "violations": [],
+    "checks": 31
+  },
+  "patched_checks_superset_of_original": true,
+  "added_checks": [
+    "old_citation_swap_detected_by_order_predicate",
+    "original_22_citation_ids_relative_order_and_story_exact"
+  ],
+  "shared_check_values_identical": true
+}

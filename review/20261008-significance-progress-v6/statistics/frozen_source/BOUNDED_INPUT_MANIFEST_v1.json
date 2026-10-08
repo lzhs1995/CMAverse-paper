@@ -1,0 +1,87 @@
+{
+  "source_order": [
+    "/Users/lzhs/Downloads/20261005_astra_v4_functions.R",
+    "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/pro_claude_v4_consensus_20261005_v1/inference_patch_v1.R",
+    "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/pro_claude_v4_consensus_20261005_v1/sample_gates_v1.R",
+    "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/pro_claude_v4_consensus_20261005_v1/audit_guards_v1.R",
+    "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/pro_claude_v4_consensus_20261005_v1/production_gates_v2.R",
+    "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/pro_claude_v4_consensus_20261005_v1/checkpoint_boot_v1.R"
+  ],
+  "files": [
+    {
+      "path": "/Users/lzhs/Downloads/20261005_astra_v4_functions.R",
+      "sha256": "928566461039724f078ddf6af068e5c675841fc04f1033e2f57444178e6faffe",
+      "bytes": 61161
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/pro_claude_v4_consensus_20261005_v1/inference_patch_v1.R",
+      "sha256": "bc4961d58a513611cf4e90458c114312c3907bc7621d1f3c67137b4bd80adf88",
+      "bytes": 1396
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/pro_claude_v4_consensus_20261005_v1/sample_gates_v1.R",
+      "sha256": "f43b3fdf3be84d4222d53aeaebc2579f55dee8be8609378a377fe8e35995d041",
+      "bytes": 2511
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/pro_claude_v4_consensus_20261005_v1/audit_guards_v1.R",
+      "sha256": "ae9eaebbfa7220bd56b7e7b3c7f7cad25b778062a08f0e51cf5a3fd5210fd78f",
+      "bytes": 3336
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/pro_claude_v4_consensus_20261005_v1/production_gates_v2.R",
+      "sha256": "99c1867e70f9b92c55c7b309226d1e45a0c308585071d95bda9bf6d913f625ab",
+      "bytes": 3923
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/pro_claude_v4_consensus_20261005_v1/checkpoint_boot_v1.R",
+      "sha256": "b8d4a3223d02b3eb4e4e7f118faba9e004c08798714e7f0db072ac6c989f1964",
+      "bytes": 2045
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/p3/p3_frozen_worker.R",
+      "sha256": "667796705de9637d2e466a266e8dabbf4fcb02759ebd6c33c6a2b916bd11ffbd",
+      "bytes": 18352
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/p3/p3_bounded_driver_v1.R",
+      "sha256": "9cbaa4fc84808c8e0ddb3273295a36b475137ae83826f818ef4612cf2e4ef86a",
+      "bytes": 9784
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/p3/PREPARED_DOMAIN_v2.rds",
+      "sha256": "5a9c09f694c602886d793ac9a393b969cb553678bf9e8708512624a67f2ea493",
+      "bytes": 69369071
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/p3/GLOBAL_DOMAIN_NATIVE_VALIDATION.rds",
+      "sha256": "376b841204094bd9d37b629226da4d728f936f927ea8972dec40cc68cb19431e",
+      "bytes": 960
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/pro_claude_v4_consensus_20261005_v1/production_two_stage_v1/plan2000.rds",
+      "sha256": "a1ac20612f46cb62a4408a5593fec7fd904660311343311c7b4eab8f9044bda0",
+      "bytes": 13129530
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/pro_claude_v4_consensus_20261005_v1/production_two_stage_v1/FREEZE_SHA256.rds",
+      "sha256": "bbdcdab508f9c643b9499e5ebe83ce96dfccc6ec585ae9bdc251acaebd839fcc",
+      "bytes": 2031
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/pro_claude_v4_consensus_20261005_v1/production_two_stage_v1/NLM_ADJUDICATED.json",
+      "sha256": "533432acad1f89000232e676c2085f0f5e0bb6caaa0fef70f9ef8436e9d34bb3",
+      "bytes": 102
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/delivery/Claude云端分析资料_20261005_v1/data/fixed_23_covariates.txt",
+      "sha256": "35ff2ea7e868c6bed91cb2878bdc09243bc8248f96eb4740c93396c922479ff0",
+      "bytes": 352
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/SUPERVISOR_ADJUDICATION_v3.md",
+      "sha256": "7d688a927ecf4f46279cbb0b043ae53f22ae7e3945734bcce8fe5c42f62e232c",
+      "bytes": 2478
+    }
+  ]
+}

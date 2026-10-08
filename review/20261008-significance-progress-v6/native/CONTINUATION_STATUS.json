@@ -1,0 +1,40 @@
+{
+  "compiled_at_utc": "2026-10-08T08:50:53.144505+00:00",
+  "kind": "source_bound_selected_metadata_not_live_UI_inspection",
+  "task_id": "cmaverse-finalize-actual40-20261008-v1",
+  "ticket": "da16b334-d8d5-4c2b-807a-05ca4107f5f2",
+  "last_frozen_terminal": "READ_ONLY_ZERO_SAVE / FOREIGN_STATE_CHANGED",
+  "latest_observation_at_utc": "2026-10-08T08:05:48Z",
+  "scope": "owned document save/reopen continuation; no repetition of Refresh",
+  "observed_metadata": {
+    "owned_saved": false,
+    "unrelated_document_saved": true,
+    "unrelated_content_read": false
+  },
+  "v5_replay_allowed": false,
+  "v6_successor": "offline preparation only; no native success claimed in this package",
+  "source_records": {
+    "RESULT.json": {
+      "source_path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_readonly_pending_v5/execution/RESULT.json",
+      "sha256": "809e6cd8d87dde2168f274f54fe732f88b8a00889f52bf5153ff9a64d6a43f6e",
+      "bytes": 419,
+      "selected_fields": {
+        "at": "2026-10-08T08:05:48.388275+00:00",
+        "error": "ValueError('FOREIGN_STATE_CHANGED')",
+        "success": false
+      }
+    },
+    "V5_SETTLEMENT_OUTCOME.json": {
+      "source_path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_readonly_pending_v5/execution/V5_SETTLEMENT_OUTCOME.json",
+      "sha256": "0f9a8cec6404ef96fd5b8a629c1d48d0b28fd2308bdbcf32cafa8eaa30a95a06",
+      "bytes": 1443,
+      "selected_fields": {
+        "at": "2026-10-08T08:05:48.397538+00:00",
+        "exact_pending_renamed": true,
+        "exact_pending_archive_verified": true,
+        "pending_present_now": false
+      }
+    }
+  },
+  "note": "A saved flag for another document is metadata only; its document identity/content is not published. Old historical wording requiring the user to save that document is superseded."
+}

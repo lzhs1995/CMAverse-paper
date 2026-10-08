@@ -1,0 +1,101 @@
+{
+  "baseline_failures": [],
+  "cases": [
+    {
+      "case": "D1_cell",
+      "mutated": "content_patched",
+      "predicted_failures": [
+        "D1:header_and_22_rows_cellwise_equal",
+        "content_patched:tables_34_c14n_equal"
+      ],
+      "actual_failures": [
+        "D1:header_and_22_rows_cellwise_equal",
+        "content_patched:tables_34_c14n_equal"
+      ],
+      "predicted_all_hit": true,
+      "extra_failures": []
+    },
+    {
+      "case": "P104",
+      "mutated": "content_patched",
+      "predicted_failures": [
+        "content_patched:P104_unchanged",
+        "content_patched:changed_paragraphs_c14n",
+        "content_patched:changed_paragraphs_text"
+      ],
+      "actual_failures": [
+        "content_patched:P104_unchanged",
+        "content_patched:changed_paragraphs_c14n",
+        "content_patched:changed_paragraphs_text"
+      ],
+      "predicted_all_hit": true,
+      "extra_failures": []
+    },
+    {
+      "case": "P222_extra_change",
+      "mutated": "accepted_offline",
+      "predicted_failures": [
+        "accepted_offline:changed_paragraphs_c14n",
+        "accepted_offline:changed_paragraphs_text",
+        "projection_accept_text:word/document.xml"
+      ],
+      "actual_failures": [
+        "accepted_offline:changed_paragraphs_c14n",
+        "accepted_offline:changed_paragraphs_text",
+        "projection_accept_text:word/document.xml"
+      ],
+      "predicted_all_hit": true,
+      "extra_failures": []
+    },
+    {
+      "case": "drop_citation",
+      "mutated": "accepted_offline",
+      "predicted_failures": [
+        "accepted_offline:changed_paragraphs_c14n",
+        "accepted_offline:fields_all_stories_identical_order",
+        "accepted_offline:zotero_23_citations_1_bibliography"
+      ],
+      "actual_failures": [
+        "accepted_offline:changed_paragraphs_c14n",
+        "accepted_offline:fields_all_stories_identical_order",
+        "accepted_offline:zotero_23_citations_1_bibliography"
+      ],
+      "predicted_all_hit": true,
+      "extra_failures": []
+    },
+    {
+      "case": "dup_revision_id",
+      "mutated": "tracked_patched",
+      "predicted_failures": [
+        "tracked:diff_vs_raw_only_targets",
+        "tracked:revision_ids_unique_all_stories"
+      ],
+      "actual_failures": [
+        "tracked:changed_paragraphs_accept_to_approved_targets",
+        "tracked:changed_paragraphs_reject_to_old_targets",
+        "tracked:diff_vs_raw_only_targets",
+        "tracked:revision_ids_unique_all_stories"
+      ],
+      "predicted_all_hit": true,
+      "extra_failures": [
+        "tracked:changed_paragraphs_accept_to_approved_targets",
+        "tracked:changed_paragraphs_reject_to_old_targets"
+      ]
+    },
+    {
+      "case": "drop_row_level_del",
+      "mutated": "tracked_patched",
+      "predicted_failures": [
+        "projection_accept_text:word/document.xml",
+        "tracked:tables_and_other_body_equal_raw"
+      ],
+      "actual_failures": [
+        "projection_accept_text:word/document.xml",
+        "tracked:tables_and_other_body_equal_raw"
+      ],
+      "predicted_all_hit": true,
+      "extra_failures": []
+    }
+  ],
+  "all_cases_hit": true
+}

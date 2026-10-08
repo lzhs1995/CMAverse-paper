@@ -1,0 +1,13 @@
+{
+  "at": "2026-10-07T11:18:19.153149+00:00",
+  "argv": [
+    "/usr/bin/osascript",
+    "-e",
+    "with timeout of 30 seconds\ntell application \"Microsoft Word\"\nopen (POSIX file \"/Users/lzhs/Library/Containers/com.microsoft.Word/Data/Documents/wordrev-pdf/minimal-abb4086c25144af999df7ba8ecfb8a20/minimal-abb4086c25144af999df7ba8ecfb8a20-rejected-clean.docx\") add to recent files false\nset docRef to document \"minimal-abb4086c25144af999df7ba8ecfb8a20-rejected-clean.docx\"\nif (posix full name of docRef) is not \"/Users/lzhs/Library/Containers/com.microsoft.Word/Data/Documents/wordrev-pdf/minimal-abb4086c25144af999df7ba8ecfb8a20/minimal-abb4086c25144af999df7ba8ecfb8a20-rejected-clean.docx\" then error \"OWNED_PATH_CHANGED\"\nset track revisions of docRef to false\nset print revisions of docRef to false\nset show revisions of docRef to false\nsave docRef\nif not saved of docRef then error \"SAVE_NOT_OBSERVED\"\nclose docRef saving no\nreturn \"REOPENED_SAVED_CLOSED\"\nend tell\nend timeout"
+  ],
+  "label": "rejected_clean_reopen",
+  "task_id": "cmaverse-final-native-closeout-actual40-20261007-v4",
+  "ticket": "4f69d896-00a6-43d6-97b7-1b5c94341062",
+  "hid_idle_seconds": 1610.123680833,
+  "budget": 35
+}

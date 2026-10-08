@@ -1,0 +1,12 @@
+{
+  "claim": "031相对位置跃迁中，本人评分提高约28.35%、配偶评分下降约88.01%；事件可重叠",
+  "reported_denominator": 1559,
+  "source_original": "/Users/lzhs/Downloads/00_完整实证复核结论.md",
+  "source_package": "review/00_前轮完整实证复核结论_比例来源.md",
+  "source_sha256": "4f1d94f9d28f8fc13c74024c7384970ea43d6b586bc8f4547188035a30fdfe3d",
+  "source_bytes": 13392,
+  "locator": "line 95; 三、FEAS_031/041实际编码及复拟合",
+  "verification_scope": "本轮核对原报告文件、具体叙述与共同分母；比例沿用前轮ChatGPT Pro独立复核，本轮未新增逐行计数或模型。",
+  "not_external_literature_result": true,
+  "not_independently_recounted_this_stage": true
+}
