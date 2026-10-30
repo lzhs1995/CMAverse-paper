@@ -1,0 +1,49 @@
+{
+  "at_utc": "2026-10-30T10:39:52.002560+00:00",
+  "requirements": 12,
+  "content_or_evidence_mappings": 9,
+  "pending_delivery_groups": 3,
+  "decision_count": 34,
+  "decision_status_counts": {
+    "OFFLINE_IMPLEMENTED_NATIVE_VERIFICATION_PENDING": 22,
+    "NO_CHANGE_DECISION_RECORDED": 9,
+    "NATIVE_IMPLEMENTATION_PENDING": 3
+  },
+  "exact_source_pairs_verified": 2,
+  "current_input_pins_match": true,
+  "statistical_reruns": 0,
+  "word_writes": 0,
+  "uploads": 0,
+  "artifacts": [
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-delivery-20261030/web_requirements_v1/INPUTS.json",
+      "bytes": 9615,
+      "sha256": "be22da0208cf0c63964cdd2059b6b9ec9b713aa6c41ea337c62a03edf1b84d15"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-delivery-20261030/web_requirements_v1/MANUSCRIPT_LOCATIONS.json",
+      "bytes": 18354,
+      "sha256": "c8d15350c87d38d265743fca2d1ad12c155768190bdc57aa4660326d567c2f7b"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-delivery-20261030/web_requirements_v1/REQUIREMENTS.csv",
+      "bytes": 6380,
+      "sha256": "03b5bc053c94eaa0969973d38d22d103816f41cee7a237f8ad8c92d5de12e88d"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-delivery-20261030/web_requirements_v1/REQUIREMENTS.json",
+      "bytes": 8064,
+      "sha256": "ebf4cb983dca4d2f28c1879953f063073e3b4f87828e448f200a752a4ed9b458"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-delivery-20261030/web_requirements_v1/V3H_DECISION_STATUS.json",
+      "bytes": 20336,
+      "sha256": "9d511a965323352302954df2773a209975fe027ff9e0af749c2fd1ada0a75d73"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-delivery-20261030/web_requirements_v1/WEB_REQUIREMENTS_RESPONSE.md",
+      "bytes": 9279,
+      "sha256": "1504e2164de53c97cc4e7ab7d07b0739df2b6b1b26843a5fdc672572f2b9f672"
+    }
+  ]
+}

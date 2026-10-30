@@ -1,4 +1,14 @@
-## 2026-10-08 最新：筛选显著性阶段反馈 v6
+## 2026-10-30 当前累计修订稿 V3h
+
+[当前审阅入口](review/20261030-v3h-current/README.md) · [在线阅读全文](review/20261030-v3h-current/MANUSCRIPT_READING.md) · [ChatGPT / Claude 要求逐项回应](review/20261030-v3h-current/REVIEW_RESPONSE.md) · [下载来源包](review/20261030-v3h-current/CMAverse_V3h_source_bundle.zip)
+
+本次公开当前修订候选、接受和拒绝修订的离线对照稿、9 张冻结结果表及完整来源准备包。12 组网页要求已逐项对应；34 项裁决中，22 项已离线落实、9 项保留、3 项仍需原生实施。统计复用已完成结果，未新增模型或显著性搜索。
+
+**这是当前审阅版本。正式 Word 三稿、Zotero 刷新、最终 PDF 和同版两轮 NotebookLM 终审尚未完成。** [状态明细](review/20261030-v3h-current/STATUS.json)记录各项进度；下方为历史版本。
+
+---
+
+## 2026-10-08 历史：筛选显著性阶段反馈 v6
 
 [固定地址与发布说明](review/20261008-significance-progress-v6/PUBLICATION_FEEDBACK.md) · [给ChatGPT的提示词](review/20261008-significance-progress-v6/FOR_CHATGPT.md) · [给Claude的提示词](review/20261008-significance-progress-v6/FOR_CLAUDE.md) · [匿名回下载核验](review/20261008-significance-progress-v6/REMOTE_VERIFICATION.json)
 

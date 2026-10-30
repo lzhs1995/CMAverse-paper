@@ -1,0 +1,118 @@
+{
+  "at_utc": "2026-10-30T10:39:52.002560+00:00",
+  "review_mode": "CODEX_SOLO / solo_self_review",
+  "rows": [
+    {
+      "id": "W01",
+      "requirement": "停止新增显著性搜索，保留探索及不显著结果",
+      "status": "CONTENT_LOCATED_PRIOR_EVIDENCE_REUSED",
+      "note": "原数值收尾完成；本轮未执行任何 R 或模型任务。",
+      "evidence": [
+        "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/REPORT.md",
+        "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/results/RESULT_VERSION_TABLE.csv"
+      ]
+    },
+    {
+      "id": "W02",
+      "requirement": "五种结果版本分开，去dwm结果不拼接历史p值",
+      "status": "CONTENT_LOCATED_PRIOR_EVIDENCE_REUSED",
+      "note": "现稿及来源表均保留历史B200、旧B1000、去dwm、追加RW型校正和P3/N1版本。",
+      "evidence": [
+        "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/results/RESULT_VERSION_TABLE.csv",
+        "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/results/CANDIDATE_HISTORY_PANELS.csv"
+      ]
+    },
+    {
+      "id": "W03",
+      "requirement": "031/041定义、样本与边际OR差明确",
+      "status": "CONTENT_LOCATED_PRIOR_EVIDENCE_REUSED",
+      "note": "表11及方法保留相对位置/分差操作化；不称独立复制或已确证中介。",
+      "evidence": [
+        "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/results/CANDIDATE_DEFINITIONS.csv"
+      ]
+    },
+    {
+      "id": "W04",
+      "requirement": "P3为期末金额水平量，原金额与封顶分开",
+      "status": "CONTENT_LOCATED_PRIOR_EVIDENCE_REUSED",
+      "note": "现稿表13及方法、讨论已对应；不以辅助局部p替代整体检验。",
+      "evidence": [
+        "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/results/P3_THREE_STATE.csv",
+        "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/exports/P3_OMNIBUS.csv"
+      ]
+    },
+    {
+      "id": "W05",
+      "requirement": "固定六项表使用最终P3与冻结N1",
+      "status": "CONTENT_LOCATED_PRIOR_EVIDENCE_REUSED",
+      "note": "六项最终表原件复用；未重新计算p/q。",
+      "evidence": [
+        "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/exports/SIX_TEST_FAMILY.csv",
+        "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/results/N1_FOUR_WITH_FINAL_SIX_ADJUSTMENT.csv"
+      ]
+    },
+    {
+      "id": "W06",
+      "requirement": "唯一研究问题总表覆盖全部新结果",
+      "status": "CONTENT_LOCATED_PRIOR_EVIDENCE_REUSED",
+      "note": "表10对应完整中介、修饰、PE与政策情景；表11—13补候选、历史校正、金额。",
+      "evidence": [
+        "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/manuscript/EVIDENCE_TABLES.json"
+      ]
+    },
+    {
+      "id": "W07",
+      "requirement": "理论回溯不把相对满意度当权力或婚姻改善的直接测量",
+      "status": "CONTENT_LOCATED_PRIOR_EVIDENCE_REUSED",
+      "note": "保留有限原文证据与探索后解释；28.35%/88.01%沿既有来源，不重新逐行计数。",
+      "evidence": [
+        "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/theory/THEORY_EVIDENCE_MATRIX_v1.md",
+        "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/theory/SOURCE_MANIFEST_v1.json"
+      ]
+    },
+    {
+      "id": "W08",
+      "requirement": "旧失败、当前修复和推断暂缓分别报告",
+      "status": "CONTENT_LOCATED_PRIOR_EVIDENCE_REUSED",
+      "note": "P3修复不改写其他历史失败；98%规则和原记录保持。",
+      "evidence": [
+        "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-solo-2545-20261023/source_evidence_v1/D2_SOURCE_DISPLAY_BINDING.json"
+      ]
+    },
+    {
+      "id": "W09",
+      "requirement": "补齐前驱、120项执行输入来源与精确结果",
+      "status": "PRIOR_EVIDENCE_FILES_PRESENT",
+      "note": "已存在对应来源与部件差异文件；本轮只核文件身份，未重新打开120份RDS或复跑288来源审计。",
+      "evidence": [
+        "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/bindings/EXECUTION_INPUTS_120.csv",
+        "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/bindings/SOURCE_PINS.json",
+        "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/qa/DOCX_PART_DIFF.csv"
+      ]
+    },
+    {
+      "id": "W10",
+      "requirement": "正式三稿、Zotero、页码表格、Word PDF原生验收",
+      "status": "PENDING_NATIVE",
+      "note": "当前工具已能读取Word；尚无正式三稿/最终PDF。C3、F2、F5仍待实际操作与验收。",
+      "evidence": []
+    },
+    {
+      "id": "W11",
+      "requirement": "同一最终PDF连续两轮六主题NotebookLM审查",
+      "status": "PENDING_FINAL_PDF",
+      "note": "当前0/2；旧方法问答、离线审阅或旧PDF不折算本版终审。",
+      "evidence": []
+    },
+    {
+      "id": "W12",
+      "requirement": "GitHub正式发布及公共端/百度独立回下载",
+      "status": "PENDING_FINAL_ACCEPTANCE",
+      "note": "既有准备包保留；最终发布与回下载不能由本地文件存在代替。",
+      "evidence": []
+    }
+  ],
+  "paper_complete": false,
+  "new_statistical_executions": 0,
+  "new_application_mutations": 0
+}

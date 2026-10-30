@@ -1,0 +1,50 @@
+{
+  "at_utc": "2026-10-30T10:48:17.474872+00:00",
+  "stage": "CURRENT_REVIEW_NOT_FINAL",
+  "review_mode": "CODEX_SOLO / solo_self_review",
+  "manuscripts": {
+    "tracked_candidate": {
+      "path": "manuscript/CMAverse_V3h_tracked_candidate.docx",
+      "bytes": 548683,
+      "sha256": "d0badcab1d4a784be2d2f62801457a250b79b87b4297f3fd4734d955de1be895",
+      "native_final": false
+    },
+    "offline_accepted_expected": {
+      "path": "manuscript/CMAverse_V3h_offline_accepted_expected.docx",
+      "bytes": 541280,
+      "sha256": "eab9704a7feb84b24e0a8eb4f79ebcc9847db47325b517f2a037d7e262f1b49b",
+      "native_final": false
+    },
+    "offline_rejected_expected": {
+      "path": "manuscript/CMAverse_V3h_offline_rejected_expected.docx",
+      "bytes": 539858,
+      "sha256": "5ec277a8b96ff67a311d0bf392b96c080e36703a2f776806c0df7f7d59ddb979",
+      "native_final": false
+    }
+  },
+  "v3h_decisions": {
+    "offline_implemented_native_pending": 22,
+    "retained": 9,
+    "native_pending": 3
+  },
+  "web_requirement_groups": 12,
+  "numerical_closure": "COMPLETED_PREVIOUSLY_REUSED",
+  "current_native_three_documents": "PENDING",
+  "current_native_pdf": "PENDING",
+  "zotero_c3_refresh": "PENDING",
+  "page_and_table_layout": "PENDING",
+  "same_pdf_nlm_rounds": {
+    "completed": 0,
+    "required": 2,
+    "topics_per_round": 6
+  },
+  "final_publication": "PENDING_FINAL_ACCEPTANCE",
+  "new_model_runs": 0,
+  "new_r_tasks": 0,
+  "source_bundle": {
+    "path": "CMAverse_V3h_source_bundle.zip",
+    "bytes": 5091434,
+    "sha256": "f7e097a96fffd23c276df993764b36d86bd6a3f656ee1c7c77ffd4b9532205d7",
+    "zip_members": 244
+  }
+}

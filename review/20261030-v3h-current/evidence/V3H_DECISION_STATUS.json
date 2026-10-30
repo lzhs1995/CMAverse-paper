@@ -1,0 +1,594 @@
+{
+  "counts": {
+    "OFFLINE_IMPLEMENTED_NATIVE_VERIFICATION_PENDING": 22,
+    "NO_CHANGE_DECISION_RECORDED": 9,
+    "NATIVE_IMPLEMENTATION_PENDING": 3
+  },
+  "items": [
+    {
+      "id": "TM-1",
+      "severity": "P3",
+      "decision": "采纳",
+      "rationale": "将P3明确为期末总体月均支持金额水平量；方法、表10、表13注同步。",
+      "planned_stage": "offline_text",
+      "wording_record_ids": [
+        "TM-1a",
+        "TM-1b",
+        "TM-1c"
+      ],
+      "evidence": [
+        {
+          "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-solo-2545-20261023/source_evidence_v1/FROZEN_CODE_EXCERPTS.json",
+          "bytes": 25748,
+          "sha256": "a8f7993bd463ccbc437e6d6a5d8378c8bc9a923dfc5da01ab4ce8449e6800a8e"
+        }
+      ],
+      "implementation_status": "OFFLINE_IMPLEMENTED_NATIVE_VERIFICATION_PENDING",
+      "operations": [
+        "TM-1a",
+        "TM-1c",
+        "TM-1b"
+      ]
+    },
+    {
+      "id": "TM-2",
+      "severity": "P3",
+      "decision": "采纳",
+      "rationale": "补统一亲属—家庭连通簇定义：有效正PERSON跨本人、配偶、父母与两端，并以有效正FID连接；无效标识不建边。既有审计证历史与统一簇划分同构。",
+      "planned_stage": "offline_text",
+      "wording_record_ids": [
+        "TM-2"
+      ],
+      "evidence": [
+        {
+          "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-solo-2545-20261023/source_evidence_v1/CLUSTER_DEFINITION.json",
+          "bytes": 2149,
+          "sha256": "7677129acca14a04a1100e1347f0c2ac324d46255a1bd9536ad6d2d408e9b45e"
+        },
+        {
+          "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-solo-2545-20261023/source_evidence_v1/FROZEN_CODE_EXCERPTS.json",
+          "bytes": 25748,
+          "sha256": "a8f7993bd463ccbc437e6d6a5d8378c8bc9a923dfc5da01ab4ce8449e6800a8e"
+        }
+      ],
+      "implementation_status": "OFFLINE_IMPLEMENTED_NATIVE_VERIFICATION_PENDING",
+      "operations": [
+        "TM-2"
+      ]
+    },
+    {
+      "id": "TM-3",
+      "severity": "P3",
+      "decision": "采纳",
+      "rationale": "三处统一为“模型化间接对比（TNIE）”；不将其称为已识别的自然间接效应。",
+      "planned_stage": "offline_text",
+      "wording_record_ids": [
+        "TM-3a",
+        "TM-3b",
+        "TM-3c"
+      ],
+      "evidence": [],
+      "implementation_status": "OFFLINE_IMPLEMENTED_NATIVE_VERIFICATION_PENDING",
+      "operations": [
+        "TM-3a",
+        "TM-3b",
+        "TM-3c"
+      ]
+    },
+    {
+      "id": "TM-4",
+      "severity": "P3",
+      "decision": "采纳",
+      "rationale": "源码核实N1不含收入×满意度交互，在设定句说明。",
+      "planned_stage": "offline_text",
+      "wording_record_ids": [
+        "TM-4"
+      ],
+      "evidence": [
+        {
+          "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-solo-2545-20261023/source_evidence_v1/FROZEN_CODE_EXCERPTS.json",
+          "bytes": 25748,
+          "sha256": "a8f7993bd463ccbc437e6d6a5d8378c8bc9a923dfc5da01ab4ce8449e6800a8e"
+        }
+      ],
+      "implementation_status": "OFFLINE_IMPLEMENTED_NATIVE_VERIFICATION_PENDING",
+      "operations": [
+        "TM-4"
+      ]
+    },
+    {
+      "id": "TM-5",
+      "severity": "P3",
+      "decision": "不改",
+      "rationale": "现有重叠提醒正确；不新增未列报的重叠比例或分母，也不扩展统计结果。",
+      "planned_stage": "no_change",
+      "wording_record_ids": [
+        "TM-5"
+      ],
+      "evidence": [],
+      "implementation_status": "NO_CHANGE_DECISION_RECORDED",
+      "operations": []
+    },
+    {
+      "id": "TM-6",
+      "severity": "P3",
+      "decision": "采纳并纠正建议示例",
+      "rationale": "共同资格对比不属表6八项BH家族；预设尝试1050次且全部成功，不写“失败后补抽50次”。",
+      "planned_stage": "offline_text",
+      "wording_record_ids": [
+        "TM-6"
+      ],
+      "evidence": [
+        {
+          "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-solo-2545-20261023/source_evidence_v1/TABLE6_BOOTSTRAP.json",
+          "bytes": 8634,
+          "sha256": "d946116ab1d8fb1645daf4bec277723123f32657253bddbd6661b9c229880272"
+        },
+        {
+          "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-solo-2545-20261023/source_evidence_v1/FROZEN_CODE_EXCERPTS.json",
+          "bytes": 25748,
+          "sha256": "a8f7993bd463ccbc437e6d6a5d8378c8bc9a923dfc5da01ab4ce8449e6800a8e"
+        }
+      ],
+      "implementation_status": "OFFLINE_IMPLEMENTED_NATIVE_VERIFICATION_PENDING",
+      "operations": [
+        "TM-6"
+      ]
+    },
+    {
+      "id": "DF-1",
+      "severity": "P3",
+      "decision": "采纳",
+      "rationale": "补R1_B1（486/500，表D.5）历史推断暂缓记录；不改变表内数值。",
+      "planned_stage": "offline_text",
+      "wording_record_ids": [
+        "DF-1"
+      ],
+      "evidence": [],
+      "implementation_status": "OFFLINE_IMPLEMENTED_NATIVE_VERIFICATION_PENDING",
+      "operations": [
+        "DF-1"
+      ]
+    },
+    {
+      "id": "DF-2",
+      "severity": "P3",
+      "decision": "部分采纳",
+      "rationale": "保留表2两行，并明确同一亲子二元组同住指标从本人侧、父母侧列示。基期和末期一致；不推广到858条不一致的变化指标。",
+      "planned_stage": "offline_text",
+      "wording_record_ids": [
+        "DF-2"
+      ],
+      "evidence": [
+        {
+          "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-solo-2545-20261023/source_evidence_v1/CORESIDENCE_RECORD_CHECK.json",
+          "bytes": 2072,
+          "sha256": "fabe8021f13bdb8976e809a122e823b643d6339b1f06d2024a3c8a7c2bef8591"
+        }
+      ],
+      "implementation_status": "OFFLINE_IMPLEMENTED_NATIVE_VERIFICATION_PENDING",
+      "operations": [
+        "DF-2"
+      ]
+    },
+    {
+      "id": "DF-3",
+      "severity": "P3",
+      "decision": "采纳",
+      "rationale": "表6写明预设1050次、至少成功1000次、实际1050次全部成功；八链及共同资格均取冻结记录，非新运行。",
+      "planned_stage": "offline_text",
+      "wording_record_ids": [
+        "DF-3"
+      ],
+      "evidence": [
+        {
+          "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-solo-2545-20261023/source_evidence_v1/TABLE6_BOOTSTRAP.json",
+          "bytes": 8634,
+          "sha256": "d946116ab1d8fb1645daf4bec277723123f32657253bddbd6661b9c229880272"
+        },
+        {
+          "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-solo-2545-20261023/source_evidence_v1/FROZEN_CODE_EXCERPTS.json",
+          "bytes": 25748,
+          "sha256": "a8f7993bd463ccbc437e6d6a5d8378c8bc9a923dfc5da01ab4ce8449e6800a8e"
+        }
+      ],
+      "implementation_status": "OFFLINE_IMPLEMENTED_NATIVE_VERIFICATION_PENDING",
+      "operations": [
+        "DF-3"
+      ]
+    },
+    {
+      "id": "DF-4",
+      "severity": "P3",
+      "decision": "不改",
+      "rationale": "新增表5/表8 q列属可选扩展，当前文字已给关键q且完整冻结结果可查；不新增列或重排数值表。",
+      "planned_stage": "no_change",
+      "wording_record_ids": [
+        "DF-4a",
+        "DF-4b"
+      ],
+      "evidence": [],
+      "implementation_status": "NO_CHANGE_DECISION_RECORDED",
+      "operations": []
+    },
+    {
+      "id": "DF-5",
+      "severity": "P3",
+      "decision": "采纳",
+      "rationale": "表6及表8补差值以未舍入估计计算的说明；分别对应末位0.01个百分点与0.001。",
+      "planned_stage": "offline_text",
+      "wording_record_ids": [
+        "DF-5a",
+        "DF-5b"
+      ],
+      "evidence": [],
+      "implementation_status": "OFFLINE_IMPLEMENTED_NATIVE_VERIFICATION_PENDING",
+      "operations": [
+        "DF-5a",
+        "DF-5b"
+      ]
+    },
+    {
+      "id": "DF-6",
+      "severity": "P2",
+      "decision": "采纳",
+      "rationale": "摘要、表10、结论明确区分：去dwm修订模型未调整区间不含0且未另作搜索校正；含dwm历史模型经搜索校正未显著。ΔOR保持边际OR之差。",
+      "planned_stage": "offline_text_priority_P2",
+      "wording_record_ids": [
+        "DF-6a",
+        "DF-6b"
+      ],
+      "evidence": [],
+      "implementation_status": "OFFLINE_IMPLEMENTED_NATIVE_VERIFICATION_PENDING",
+      "operations": [
+        "DF-6a",
+        "DF-6a",
+        "DF-6b"
+      ]
+    },
+    {
+      "id": "DF-7",
+      "severity": "P3",
+      "decision": "采纳",
+      "rationale": "D.7补点估计随求解修复在小数第二至四位略变，现行值指表13/E.2；历史B200记录不覆盖。",
+      "planned_stage": "offline_text",
+      "wording_record_ids": [
+        "DF-7"
+      ],
+      "evidence": [],
+      "implementation_status": "OFFLINE_IMPLEMENTED_NATIVE_VERIFICATION_PENDING",
+      "operations": [
+        "DF-7"
+      ]
+    },
+    {
+      "id": "DF-8",
+      "severity": "P3",
+      "decision": "无需改稿；保留覆盖边界",
+      "rationale": "这项记录的是离线审者未获得数值来源。复用精确匹配V3g的既有验收，本轮另有D.2定点绑定；不声称重新完成全稿统计复现。",
+      "planned_stage": "inherited_evidence_new_revision_qa_pending",
+      "wording_record_ids": [
+        "DF-8"
+      ],
+      "evidence": [
+        {
+          "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-solo-2545-20261023/source_evidence_v1/D2_SOURCE_DISPLAY_BINDING.json",
+          "bytes": 31861,
+          "sha256": "eacc8e7710509895bc74186250feab7f938197cc68cefc4c4e182c7bbae6626a"
+        }
+      ],
+      "implementation_status": "NO_CHANGE_DECISION_RECORDED",
+      "operations": []
+    },
+    {
+      "id": "ST-1",
+      "severity": "P3",
+      "decision": "不改",
+      "rationale": "当前章内标题可定位；孤立二级标题是组织偏好，本轮不重构章节。",
+      "planned_stage": "no_change",
+      "wording_record_ids": [
+        "ST-1"
+      ],
+      "evidence": [],
+      "implementation_status": "NO_CHANGE_DECISION_RECORDED",
+      "operations": []
+    },
+    {
+      "id": "ST-2",
+      "severity": "P3",
+      "decision": "采纳",
+      "rationale": "在方法首次介绍P1/P2时明确FEAS_031/FEAS_041及各自操作化。",
+      "planned_stage": "offline_text",
+      "wording_record_ids": [
+        "ST-2"
+      ],
+      "evidence": [],
+      "implementation_status": "OFFLINE_IMPLEMENTED_NATIVE_VERIFICATION_PENDING",
+      "operations": [
+        "ST-2"
+      ]
+    },
+    {
+      "id": "ST-3",
+      "severity": "P3",
+      "decision": "采纳",
+      "rationale": "PE原生记录明确指向附录A的表A.1、图A.1。",
+      "planned_stage": "offline_text",
+      "wording_record_ids": [
+        "ST-3"
+      ],
+      "evidence": [],
+      "implementation_status": "OFFLINE_IMPLEMENTED_NATIVE_VERIFICATION_PENDING",
+      "operations": [
+        "ST-3"
+      ]
+    },
+    {
+      "id": "ST-4",
+      "severity": "P3",
+      "decision": "采纳",
+      "rationale": "将失效的“见下段”改指D.8六行及E.2，并说明E.2另含D.5的R1_B1。",
+      "planned_stage": "offline_text",
+      "wording_record_ids": [
+        "ST-4"
+      ],
+      "evidence": [],
+      "implementation_status": "OFFLINE_IMPLEMENTED_NATIVE_VERIFICATION_PENDING",
+      "operations": [
+        "ST-4"
+      ]
+    },
+    {
+      "id": "ST-5",
+      "severity": "P3",
+      "decision": "不改",
+      "rationale": "新增4.1—4.4属可选层级重构；现有表11—13及E.3足以定位。",
+      "planned_stage": "no_change",
+      "wording_record_ids": [
+        "ST-5"
+      ],
+      "evidence": [],
+      "implementation_status": "NO_CHANGE_DECISION_RECORDED",
+      "operations": []
+    },
+    {
+      "id": "ST-6",
+      "severity": "P3",
+      "decision": "无需改稿；保留覆盖边界",
+      "rationale": "PDF文本层不能证明原生样式与图内正确；V3g已有对应图页验收，V3h最终PDF另作全页视觉及字符核验。",
+      "planned_stage": "native_visual_pending",
+      "wording_record_ids": [
+        "ST-6"
+      ],
+      "evidence": [],
+      "implementation_status": "NO_CHANGE_DECISION_RECORDED",
+      "operations": []
+    },
+    {
+      "id": "X-1",
+      "severity": "P3",
+      "decision": "部分采纳；纠正原建议",
+      "rationale": "保留m=14说明；删除“B1无p/记p=1”的推测。实际B1有诊断p且eligible=FALSE，源码只对eligible的p_screen调用p.adjust(...,n=14)，B1 q为NA。",
+      "planned_stage": "offline_text",
+      "wording_record_ids": [
+        "X-1"
+      ],
+      "evidence": [
+        {
+          "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-solo-2545-20261023/source_evidence_v1/D2_SOURCE_DISPLAY_BINDING.json",
+          "bytes": 31861,
+          "sha256": "eacc8e7710509895bc74186250feab7f938197cc68cefc4c4e182c7bbae6626a"
+        }
+      ],
+      "implementation_status": "OFFLINE_IMPLEMENTED_NATIVE_VERIFICATION_PENDING",
+      "operations": [
+        "X-1"
+      ]
+    },
+    {
+      "id": "X-2",
+      "severity": "P3",
+      "decision": "不改",
+      "rationale": "保留附录E.4，避免无必要的附录重编及连带交叉引用变更。",
+      "planned_stage": "no_change",
+      "wording_record_ids": [
+        "X-2a",
+        "X-2b"
+      ],
+      "evidence": [],
+      "implementation_status": "NO_CHANGE_DECISION_RECORDED",
+      "operations": []
+    },
+    {
+      "id": "X-3",
+      "severity": "P3",
+      "decision": "采纳",
+      "rationale": "补14_period_heterogeneity_effects.csv和15_period_heterogeneity_manifest.csv为补充文件；24项direct_period_difference已绑定analysis manifest，不在正文新增结果。",
+      "planned_stage": "offline_text_and_release_member_binding",
+      "wording_record_ids": [
+        "X-3"
+      ],
+      "evidence": [
+        {
+          "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-solo-2545-20261023/source_evidence_v1/PERIOD_SUPPLEMENT.json",
+          "bytes": 12604,
+          "sha256": "e834d465c5d627b1d61d30ef190ab8f2cb3b62522e68126c2f9f5e13d4bab1a4"
+        }
+      ],
+      "implementation_status": "OFFLINE_IMPLEMENTED_NATIVE_VERIFICATION_PENDING",
+      "operations": [
+        "X-3"
+      ]
+    },
+    {
+      "id": "C1",
+      "severity": "P3",
+      "decision": "采纳修正版",
+      "rationale": "实际为已有正式脚注4（w:id=6），有正文锚点；只移除第2段numPr及第4段完整重复句/引文域，保留其余字段和脚注锚点。",
+      "planned_stage": "offline_text_and_tracked_format",
+      "wording_record_ids": [
+        "C1"
+      ],
+      "evidence": [],
+      "implementation_status": "OFFLINE_IMPLEMENTED_NATIVE_VERIFICATION_PENDING",
+      "operations": [
+        "C1-numbering",
+        "C1-field"
+      ]
+    },
+    {
+      "id": "C2",
+      "severity": "P3",
+      "decision": "采纳",
+      "rationale": "取消p137年份的有效粗体，保留原Zotero引文指令；w:b val=0按false解释。",
+      "planned_stage": "offline_tracked_format",
+      "wording_record_ids": [
+        "C2"
+      ],
+      "evidence": [],
+      "implementation_status": "OFFLINE_IMPLEMENTED_NATIVE_VERIFICATION_PENDING",
+      "operations": [
+        "C2"
+      ]
+    },
+    {
+      "id": "C3",
+      "severity": "P3",
+      "decision": "采纳正式来源修正版",
+      "rationale": "Smith刊名按Crossref为Epidemiology；VanderWeele刊名按正式登记为Journal of the Royal Statistical Society Series B: Statistical Methodology。保留卷期年2017；经真实Zotero元数据更新和Word Refresh生效，不手改书目结果。",
+      "planned_stage": "zotero_native_pending",
+      "wording_record_ids": [
+        "C3"
+      ],
+      "evidence": [
+        {
+          "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-solo-2545-20261023/source_evidence_v1/C3_CROSSREF_METADATA.json",
+          "bytes": 3186,
+          "sha256": "ee5073fb7f3217e2dd96ea687bb7ce93bdb3969e9aa4174bd9c73b2c84c1fc7b"
+        }
+      ],
+      "implementation_status": "NATIVE_IMPLEMENTATION_PENDING",
+      "operations": []
+    },
+    {
+      "id": "C4",
+      "severity": "P3",
+      "decision": "部分采纳",
+      "rationale": "公报原文为73%，保持；既有正式脚注补题名、封面2024年10月、调查标准时点与印刷页码并保留URL。共同组织单位不能自动作为作者；本轮不手造新Zotero条目/书目域。",
+      "planned_stage": "offline_footnote",
+      "wording_record_ids": [
+        "C4"
+      ],
+      "evidence": [
+        {
+          "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-solo-2545-20261023/source_evidence_v1/C4_MCA_PAGE_BINDING.json",
+          "bytes": 10273,
+          "sha256": "16545aa09c855e4e000614294e1905785bef6d24bae2dbef2b13353f19af1fbf"
+        }
+      ],
+      "implementation_status": "OFFLINE_IMPLEMENTED_NATIVE_VERIFICATION_PENDING",
+      "operations": [
+        "C4"
+      ]
+    },
+    {
+      "id": "F1",
+      "severity": "P3",
+      "decision": "采纳",
+      "rationale": "表11各行设不跨页断行，并保持题注与首行相连；原生PDF核验后才确认解决。",
+      "planned_stage": "offline_format_native_visual_pending",
+      "wording_record_ids": [
+        "F1"
+      ],
+      "evidence": [],
+      "implementation_status": "OFFLINE_IMPLEMENTED_NATIVE_VERIFICATION_PENDING",
+      "operations": [
+        "F1"
+      ]
+    },
+    {
+      "id": "F2",
+      "severity": "P3",
+      "decision": "采纳；原生阶段实施",
+      "rationale": "新增页脚PAGE域；基线footer距离992大于bottom margin284，先在原生副本核页脚占位后最小调整，不能将仅加XML称为版面通过。",
+      "planned_stage": "native_layout_pending",
+      "wording_record_ids": [
+        "F2"
+      ],
+      "evidence": [],
+      "implementation_status": "NATIVE_IMPLEMENTATION_PENDING",
+      "operations": []
+    },
+    {
+      "id": "F3",
+      "severity": "P3",
+      "decision": "采纳",
+      "rationale": "表11记录/簇两格改为9,879／2,939和12,564／3,149，仅千分位，不改数值。",
+      "planned_stage": "offline_text",
+      "wording_record_ids": [
+        "F3a",
+        "F3b"
+      ],
+      "evidence": [],
+      "implementation_status": "OFFLINE_IMPLEMENTED_NATIVE_VERIFICATION_PENDING",
+      "operations": [
+        "F3a",
+        "F3b"
+      ]
+    },
+    {
+      "id": "F4",
+      "severity": "P3",
+      "decision": "不改",
+      "rationale": "负号统一仅属美观；不对全部数值及公式作全局替换。",
+      "planned_stage": "no_change",
+      "wording_record_ids": [
+        "F4"
+      ],
+      "evidence": [],
+      "implementation_status": "NO_CHANGE_DECISION_RECORDED",
+      "operations": []
+    },
+    {
+      "id": "F5",
+      "severity": "P3",
+      "decision": "采纳；原生阶段实施",
+      "rationale": "限于表10第二列、表11第一列词界；在最终Word PDF中确认后调整列宽或软换行，不假定XML宽度即为修复。",
+      "planned_stage": "native_layout_pending",
+      "wording_record_ids": [
+        "F5"
+      ],
+      "evidence": [],
+      "implementation_status": "NATIVE_IMPLEMENTATION_PENDING",
+      "operations": []
+    },
+    {
+      "id": "F6",
+      "severity": "P3",
+      "decision": "不改",
+      "rationale": "保留冻结表D.1单位与科学计数法；log1p差不能乘10000解释为元/月，不作新单位换算。",
+      "planned_stage": "no_change",
+      "wording_record_ids": [
+        "F6"
+      ],
+      "evidence": [],
+      "implementation_status": "NO_CHANGE_DECISION_RECORDED",
+      "operations": []
+    },
+    {
+      "id": "L4",
+      "severity": "P3",
+      "decision": "采纳",
+      "rationale": "中文翻译既有英文脚注，保留受控对比、共同样本、配对交互及非单独因果证明的限定。",
+      "planned_stage": "offline_footnote",
+      "wording_record_ids": [
+        "L4"
+      ],
+      "evidence": [],
+      "implementation_status": "OFFLINE_IMPLEMENTED_NATIVE_VERIFICATION_PENDING",
+      "operations": [
+        "L4"
+      ]
+    }
+  ]
+}
