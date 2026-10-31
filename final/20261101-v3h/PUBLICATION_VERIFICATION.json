@@ -1,14 +1,86 @@
 {
-  "state": "FROZEN_PAYLOAD_READY_CHANNEL_VERIFICATION_PENDING",
+  "schema": "cmaverse-final-publication-verification-v1",
+  "verified_at_utc": "2026-10-31T23:10:28.911242+00:00",
+  "state": "FINAL_MANUSCRIPT_AND_TWO_DELIVERY_CHANNELS_ACCEPTED",
+  "review_mode": "solo_self_review",
   "archive": {
-    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v4/delivery_r2/CMAverse_V3h_final_20261101.zip",
+    "filename": "CMAverse_V3h_final_20261101.zip",
     "bytes": 10299844,
-    "sha256": "cc72cdec12cf6d16ccf87de2df41bc71bf46fccc485f8e6e858373e0bdbb3095"
+    "sha256": "cc72cdec12cf6d16ccf87de2df41bc71bf46fccc485f8e6e858373e0bdbb3095",
+    "zip_members": 82,
+    "manifest_entries": 81,
+    "full_crc_and_member_sha256_pass": true
   },
-  "manifest": {
-    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v4/delivery_r2/package/MANIFEST.json",
-    "bytes": 38496,
-    "sha256": "e2254f64df48417b35077ef420625ac73047581f6ed5f78e79e2530df49dd7e2"
+  "manuscript": {
+    "pdf_pages": 47,
+    "pdf_sha256": "6bde712d3564f8116dcc13ac769881104058951a753d7eba8b38cc9206cec291",
+    "native_Word_files": 3,
+    "native_Word_and_pdf_acceptance": true,
+    "NLM_rounds": 2,
+    "topics_per_round": 6,
+    "native_answers": 12,
+    "native_references": 328,
+    "findings_adjudicated": 57,
+    "unresolved_manuscript_findings": 0,
+    "scientific_conditions_and_deferred_inference_retained": true
   },
-  "note": "发布与云回下载验收单独记录；本冻结ZIP不改变。"
+  "github": {
+    "payload_commit": "76c59aa6a6922c5a66a93390f35035508c9b0844",
+    "anonymous_HTTP_verified_files": 86,
+    "all_file_sha256_match": true,
+    "history_preserved": true,
+    "payload_archive_unchanged": true
+  },
+  "baidu": {
+    "original_job_id": "704c78d5b5ab7d73f206c55f4476c3790f6a8882a1fc9e1b2853fd519abfd7df",
+    "queue_state": "complete",
+    "receipt_state": "verified",
+    "remote_directory": "/科研备份/CMAverse_恢复工程_20260927/objects/704c78d5b5ab7d73f206c55f4476c3790f6a8882a1fc9e1b2853fd519abfd7df",
+    "objects": [
+      {
+        "remote_path": "/科研备份/CMAverse_恢复工程_20260927/objects/704c78d5b5ab7d73f206c55f4476c3790f6a8882a1fc9e1b2853fd519abfd7df/704c78d5b5ab7d73f206c55f__part00001__cc72cdec12cf6d16.bin",
+        "bytes": 10299844,
+        "sha256": "cc72cdec12cf6d16ccf87de2df41bc71bf46fccc485f8e6e858373e0bdbb3095"
+      },
+      {
+        "remote_path": "/科研备份/CMAverse_恢复工程_20260927/objects/704c78d5b5ab7d73f206c55f4476c3790f6a8882a1fc9e1b2853fd519abfd7df/704c78d5b5ab7d73f206c55f4476c3790f6a8882a1fc9e1b2853fd519abfd7df__restore_manifest.json",
+        "bytes": 1063,
+        "sha256": "c4c9ce8d7a58c309cd3711003a8d06295e971fdad6125f4f4d2d6174bae5130b"
+      }
+    ],
+    "independent_downloads_sha256_and_size_pass": true,
+    "downloaded_manifest_json_matches": true,
+    "independent_downloaded_file_identity": true,
+    "downloaded_zip_full_crc_pass": true,
+    "downloaded_zip_81_manifest_members_sha256_pass": true,
+    "old_connection_failures_retained": 6,
+    "native_client_transfer_complete": true,
+    "CDP_connection_repair_not_claimed": true,
+    "source_release": false,
+    "restore_guide": "CLOUD_RESTORE_GUIDE.md",
+    "restore_manifest": "CLOUD_RESTORE_MANIFEST.json"
+  },
+  "evidence_digests": {
+    "public_HTTP_readback": {
+      "bytes": 61518,
+      "sha256": "5018603c251672ab6ed1f42eb7c94b91dd49ec4549224e0a8670d21a5cab9fa7"
+    },
+    "final_NLM_acceptance": {
+      "bytes": 3502,
+      "sha256": "8abfe103c51d5ea1cd348770f130565a32131379c0b1fec3fa294bd1ce59001c"
+    },
+    "original_Baidu_reply": {
+      "bytes": 4880,
+      "sha256": "1ff36c870b160c51561e3a26353f7b1a44e74449b3a91d63d8545e96a1700211"
+    },
+    "independent_Baidu_readback": {
+      "bytes": 22019,
+      "sha256": "e2150d38f444d7e88a81eefa59578b9d0ec6c7a10eda293df2ba80417b5aab3d"
+    },
+    "Baidu_manifest_acceptance": {
+      "bytes": 3884,
+      "sha256": "122bd2c812320fd93f2977220078598bbfb550ae2d2584834504eba0e4c6c479"
+    }
+  },
+  "frozen_package_and_original_attempts_unchanged": true
 }
