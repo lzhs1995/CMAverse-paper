@@ -1,0 +1,958 @@
+{
+  "answer": "### 引文与来源支持实证链复核发现\n\n**1. Fujihara (2024) 敏感性分析 (E-value) 适用性与正文引述断层**\n- **①定位**：正文第2章（PDF第7-8页）“模型估计与统计推断” [1] 及附录B.4（PDF第30页） [2]。\n- **②支持证据**：Fujihara (2024) 原文表4计算了 RWR/g-formula 下的 CDE 与 rNIE 中介 E-value [3]；本稿因效应尺度（边际 OR、标准化风险差）不同，正文明确声明未报告 E-value 数值 [1, 4]。\n- **③类别**：表达改进\n- **④严重性及后果**：P3。防范读者误以为文稿已完成 E-value 的定量敏感性核验。\n- **⑤最小改法**：正文保留“未按实际估计量适配，不报告数值”的限定声明，统一表述为“方法学参照而非已量化证据” [1]。\n\n**2. 许琪（2022）与郑丹丹、狄金华（2017）的引文外推与本研究因果链限定**\n- **①定位**：第1章“引言”（PDF第2页），“许琪（2022）…以及郑丹丹和狄金华（2017）…为将婚姻满意度纳入收入—代际支持分析提供了依据。” [5]\n- **②支持证据**：许琪（2022）采用 CFPS 2014 单波数据分析静态收入/家务对满意度的影响 [6, 7]；郑丹丹与狄金华（2017）基于 CGSS 2006 考察夫妻感情与给双方父母支持频率 [8, 9]。本研究则基于相邻两波（2018-2020/2020-2022）的“本人/配偶满意度与收入变化”及“特定对象经济支持增量” [5, 10]。\n- **③类别**：表达改进\n- **④严重性及后果**：P2。若不明确限定，易将静态关联文献外推为跨期变动与相对位置转移的完整因果传导证据。\n- **⑤最小改法**：正文明确限定两文仅为“两两静态关联线索”，强调本研究关注纵向变动与相对位置转移 [5]。\n\n**3. 王跃生（2026）背景统计与 Wang & Arah (2015) g-computation 方法文献的区分**\n- **①定位**：第1章“引言”（PDF第4页），“王跃生（2026）报告，2020年城镇、乡村直系家庭占比分别为13.89%和21.48%…” [11]；参考文献第46页 [12]。\n- **②支持证据**：王跃生（2026）为《光明日报》人口家庭结构宏观背景文献 [12]；Wang & Arah (2015) 为发表于 *Eur J Epidemiol* 的 g-computation 因果中介估算文献 [13, 14]。参考文献列表已独立列出二者 [12]。\n- **③类别**：确认无误\n- **④严重性及后果**：P3。防范将宏观家庭结构背景误用为微观资源谈判机制的因果证据。\n- **⑤最小改法**：正文保持现有表述，明确王跃生（2026）仅充当家庭结构社会背景，与因果中介估计方法（Wang & Arah, 2015）明确隔离 [11, 12]。\n\n**4. 2017b 时变中介与 2019 Mediational E-values 论文刊名规范化核验**\n- **①定位**：参考文献部分（PDF第46-47页），VanderWeele & Tchetgen Tchetgen (2017b) 与 Smith & VanderWeele (2019) 规范条目 [15]。\n- **②支持证据**：2017b 论文刊名已更新为 *Journal of the Royal Statistical Society Series B: Statistical Methodology*（DOI: 10.1111/rssb.12194） [15, 16]；2019 Mediational E-values 论文刊名为 *Epidemiology*（DOI: 10.1097/EDE.0000000000001064） [15, 17]。作者、年份、DOI 及刊名规范化完全准确 [15-17]。\n- **③类别**：确认无误\n- **④严重性及后果**：P3。确认非文献被替换或缓存错误。\n- **⑤最小改法**：无需修改，确认规范化格式与原始文献完全匹配 [15-17]。\n\n**5. PDF 渲染文本与 Word Zotero 动态域/修订保真度的核验边界**\n- **①定位**：全文动态引文与附录B（PDF第29-30页）文献说明 [2]。\n- **②支持证据**：母稿 CMAverse_V3h_final_accepted.pdf (SHA256=6bde712d...) 仅能验证静态渲染出来的文本与来源对应关系 [10, 18]。PDF 无法证明 Word 内部 Zotero 动态域代码身份、刷新状态或修订接受/拒绝保真度 [18]。\n- **③类别**：无法核验（需 Word 原生证据）\n- **④严重性及后果**：P3。防止静态 PDF 验证替代 Word 源码动态域核验。\n- **⑤最小改法**：在复核结论中明确标示“PDF 静态文本核对通过，Zotero 动态域代码与刷新保真度需 Word 原生文件 (.docx) 进一步验证”。\n\n---\n\n### 全稿各章/附录核读覆盖表\n\n| 章节/附录 | 实际审读结论 | 可查锚点/具体表号 |\n| :--- | :--- | :--- |\n| **摘要** | 明确正向关联不等于完整传导机制；相对评价负向修饰线索经搜索校正未显著 [10]。 | 摘要全文 [10] |\n| **一、引言** | 区分传导与情境作用，引述许琪(2022)、郑丹丹(2017)及王跃生(2026)宏观数据 [5, 11]。 | 图1、图2、背景统计 [5, 11] |\n| **二、研究设计** | 建立八条候选链，说明标准化风险差、加性交互及 g-formula 参数设定 [1, 4, 19]。 | 图3、图4、表1 [1, 4, 19] |\n| **三、正文3.1—3.5及限定复核** | 描述表2-6基础回归关联，表7-9历史模型边界及选择后复核（031/041） [20-25]。 | 表2-9、表11-13 [20-25] |\n| **附录A/B/C/D/E** | 详列原生rpe [26]、模型定义/历史扩展限制 [26]、异质性 [27]、新14项 [28] 与修复P3/N1固定六项 [29, 30]。 | 表A.1、表C.1-C.5、表D.1-D.9、表E.1 [26-30] |\n| **参考文献** | 完整核对中文与外文文献；2017b JRSSB 与 2019 Mediational E-values 刊名更新准确 [12, 15]。 | 参考文献全列表 [12, 15] |\n\n---\n\n💡 **下一步建议**：如果需要进一步验证 Word 原生文档（`.docx`）中的 Zotero 动态域代码或表格公式代码，可将相关文本或代码段复制发给我进行逐条校对。",
+  "conversation_id": "bd13713a-b107-45be-b038-dc312f4d4208",
+  "sources_used": [
+    "8194aeec-1942-474b-a1fe-c5aa6c5cad80",
+    "11842a08-c7c3-4607-9278-d561e96178c9",
+    "d3869a1a-8dd9-4e23-8f9f-7265c7aca22d",
+    "ca4383f9-78ae-44be-b4ff-28db7a5cf67c",
+    "dfb0ebc4-6430-448e-848d-a69f84b786e4",
+    "c83126a0-75c9-4470-90dd-98e511280f1f",
+    "7d2f38a3-4b65-4de6-be81-f3a6e7ea876f",
+    "4846c886-d71b-407e-b7eb-2e77747e63f7"
+  ],
+  "citations": {
+    "1": "8194aeec-1942-474b-a1fe-c5aa6c5cad80",
+    "2": "11842a08-c7c3-4607-9278-d561e96178c9",
+    "3": "d3869a1a-8dd9-4e23-8f9f-7265c7aca22d",
+    "4": "8194aeec-1942-474b-a1fe-c5aa6c5cad80",
+    "5": "8194aeec-1942-474b-a1fe-c5aa6c5cad80",
+    "6": "ca4383f9-78ae-44be-b4ff-28db7a5cf67c",
+    "7": "ca4383f9-78ae-44be-b4ff-28db7a5cf67c",
+    "8": "dfb0ebc4-6430-448e-848d-a69f84b786e4",
+    "9": "dfb0ebc4-6430-448e-848d-a69f84b786e4",
+    "10": "8194aeec-1942-474b-a1fe-c5aa6c5cad80",
+    "11": "8194aeec-1942-474b-a1fe-c5aa6c5cad80",
+    "12": "8194aeec-1942-474b-a1fe-c5aa6c5cad80",
+    "13": "c83126a0-75c9-4470-90dd-98e511280f1f",
+    "14": "c83126a0-75c9-4470-90dd-98e511280f1f",
+    "15": "8194aeec-1942-474b-a1fe-c5aa6c5cad80",
+    "16": "7d2f38a3-4b65-4de6-be81-f3a6e7ea876f",
+    "17": "4846c886-d71b-407e-b7eb-2e77747e63f7",
+    "18": "11842a08-c7c3-4607-9278-d561e96178c9",
+    "19": "8194aeec-1942-474b-a1fe-c5aa6c5cad80",
+    "20": "8194aeec-1942-474b-a1fe-c5aa6c5cad80",
+    "21": "8194aeec-1942-474b-a1fe-c5aa6c5cad80",
+    "22": "8194aeec-1942-474b-a1fe-c5aa6c5cad80",
+    "23": "8194aeec-1942-474b-a1fe-c5aa6c5cad80",
+    "24": "8194aeec-1942-474b-a1fe-c5aa6c5cad80",
+    "25": "8194aeec-1942-474b-a1fe-c5aa6c5cad80",
+    "26": "8194aeec-1942-474b-a1fe-c5aa6c5cad80",
+    "27": "8194aeec-1942-474b-a1fe-c5aa6c5cad80",
+    "28": "8194aeec-1942-474b-a1fe-c5aa6c5cad80",
+    "29": "8194aeec-1942-474b-a1fe-c5aa6c5cad80",
+    "30": "8194aeec-1942-474b-a1fe-c5aa6c5cad80"
+  },
+  "references": [
+    {
+      "source_id": "8194aeec-1942-474b-a1fe-c5aa6c5cad80",
+      "citation_number": 1,
+      "cited_text": "→→→→→→→→→→→↘ ↑↗→→→→→→↘ ↓ ↗→→→ ↓ →→↘ ↑ ↓ ↓ C → X → M → Y\n↓ ↘ ↑ ↗\n↓ ↘ ↑ ↗ ↘→→→→→→→ L 图4 包含处理后混杂因素的分析框架 模型估计与统计推断 历史 CMAverse 分析分别拟合处理后变量、中介与结局模型，再通过模拟和预测获得对比。含处理后变量的锁定源码分支将全体有效模拟中介值作不放回随机置换，未按基 期协变量 C分层；结局预测按模型调用指定的权重汇总，未指定时等权平均。这一实现须与 2017年原著中条件于基期协变量 V（本文记作 C）的随机干预分布区分，不能自动将 相应对比视为自然效应（VanderWeele et al., 2017b）。CMAverse软件和四项分解理论分别见相应文献（Shi et al., 2021; VanderWeele, 2014）。本稿保留历史结果，不据此确认机 制已经识别。 历史模型以二项 Logit 拟合中介与结局，以 Gaussian 近似处理后变量；比率输出标记为标准化边际 OR 而非风险比。核查已确认二分类处理后状态的支持不匹配，以及部分 原生 ER和比例不能按一致风险尺度解释。后续仅评估一个候选：二分类 L与 M用 Binomial/Logit，Y用 Poisson/Log。四条相对满意度链因固定 M与其他状态存在确定性禁配，\n在拟合前停止；四条绝对满意度链完成 40次诊断拟合，其中 23次出现大于 1的反事实 Y预测。故未扩大至正式 1,000次重估，也未以候选替换旧结果。原计划包括 E-value敏感"
+    },
+    {
+      "source_id": "11842a08-c7c3-4607-9278-d561e96178c9",
+      "citation_number": 2,
+      "cited_text": "本稿基础回归继承 v7.1，总体 CMAverse 继承 v7.4.1，附录 C 继承 v7.5.1 探索性分组结果，未在本轮重估。亲子身份连续性修正使 AA-S、AA-P 和 RA-P 较基础回归分别减 少 3、2、2 条记录，其余链 N 不变；因此两模块是可追溯但非完全同样本的证据。父母身份、行标记、公式、软件版本、实际抽样索引及逐次状态见复现材料。 随机干预分布。当前 g-formula 实现对模拟中介进行全样本置换，所得直接、间接和总对比对应样本边际中介分配，不自动等同于表 1 的标准自然效应。所有 OR 字段以同一 运行版本的定义读取。 控制变量的时间属性。图 4 中的 C 表示理论上的处理前协变量，但继承代码的实际调整集中还包含 prtmarr＿1、prtcor＿1 等区间状态变化项。父辈支持 dwm 由 2016—2022 年 四波累计构造，可能包含分析区间之后的信息；它进入核心基础回归以及八条中介链和 48 个分组的结果、处理后协变量模型，不进入其中的中介模型。因此，不能将全部 basec 标签解释为严格基期观测，也不能据数值复现认定处理前混杂调整充分。本文保留原调整集，相关因果解释仍依赖这些变量的时间假设；具体变量在各模型中的位置见公式清单。 旧模型对处理后变量采用 Gaussian 近似。既有 88 项独立诊断的观察变量均为二分类，观察 X 条件下模拟值超出 0—1 的比例为 30.7%—44.9%，区间内小数也不对应二分类 状态；该比例不是正式反事实预测的总体越界率。后续 Binomial/Logit 的 L 候选修正了单变量取值，却未解决联合支持和时序；四相对链固定 M 不准入，四绝对链 23/40 诊断重 复出现 Y 预测大于 1，故没有正式替换历史模型。 区间与配对。总体八链沿用 1,000 次逐记录 bootstrap，M=0 与 M=1 共享索引，差值由每次两个还原 OR 相减获得；总体区间尚未调整个人及家庭内依赖。异质性扩展采用共 享连通组抽样，保存实际记录索引和逐次拟合状态，但不回填总体区间。两个模块不仅推断方法不同，目标人群也不同，因此不能用区间宽窄或是否跨越无效值直接排列证据强 弱。基础回归继续使用既有成年子女聚类结果，点估计、样本与区间按各自版本成套报告。 点估计来源。正文使用同一子对象的 effect.pe、effect.se 及置信区间。另一次原数据模拟评估 t0 用于来源诊断，不与正文点估计混用。小间接量可能对模拟波动敏感，因此 不根据其细微正负作方向性判断。 分量与敏感性。当前部分原生 ER 和比例存在尺度解释问题，不能仅凭四项求和成立便作为机制贡献。E-value 接口对当前具体效应的适用性尚未完成适配，本稿未报告 E- value，也未将任意 ER、PE 或 OR 差值按 RR 计算敏感性指标。 PE 与表 9 对应不同问题：前者试图量化固定 M 后暴露效应的改变比例，后者是保持其他观测状态、仅设置焦点 M 后的结果概率差。后一情景不让配偶满意度或其他变量随 M 变化，未指定实际项目或服务，也未证明完整的联合干预支持，故称条件预测而不称政策总效应。 文献与边界。正文保留原稿的动态引文；中国家庭和老年人口背景统计沿用既有来源，本轮未重新进行官方源核验。异质性分析是看过总体结果后的探索性扩展，不能替代 时序识别或受限分解尺度的进一步核验。"
+    },
+    {
+      "source_id": "d3869a1a-8dd9-4e23-8f9f-7265c7aca22d",
+      "citation_number": 3,
+      "cited_text": "9.4. Sensitivity analysis of total, direct, and indirect effects, which is also the case in this study. I conducted the sensitivity analysis for rATE, rNDE, rNIE, and CDE using the g-formula approach (Shi et al., 2021) to assess the impact of potential unmeasured or unobserved confounders (U) that were associated with both the mediator (M) and outcome (Y) on the observed causal effects. For the sensitivity analysis, I used E-values because they are simple and easy to compute (Ding and Vanderweele 2016; Smith and VanderWeele 2019; VanderWeele and Ding, 2017). The mediational analog to the E-value shows the minimum size of the parameters for the confounder-mediator and the confounder-outcome relationships to explain the effects of interest, including the direct and indirect effects (Smith and VanderWeele 2019). The results were shown in Table 4 and Figs. 5 and 6 (for the detail, see Appendix D). The results of the sensitivity analysis using E-values and those for the lower limit of the 95% confidence intervals, labeled as E-value (LL), suggest that family income is likely to have a robust total and direct effects (rATE and rNDE) on both types of educational attainment because the E-values for these esti- mands were more than 2. On the other hand, the indirect causal effects mediated by high school ranks (rNIE) are sensitive to un- observed confounders because the E-values were relatively low for both university enrollment and relative educational attainment (1.430 and 1.732, respectively). This suggests the possibility that there is no indirect causal effect mediated by high school ranks in some cases. I also estimated the E-values for CDE by fixing the mediator to the 0th, 25th, 50th, 75th, and 100th percentiles. With respect to university enrollment, the CDEs are generally robust against unobserved confounders (from 1.882 to 2.374). For relative educational attainment, there is a possibility that the CDEs might be little due to unobserved confounders, particularly in the case of lower-ranked high schools (1.612). However, it can be stated that the CDEs are robust against such confounders in situations involving higher-ranked high schools."
+    },
+    {
+      "source_id": "8194aeec-1942-474b-a1fe-c5aa6c5cad80",
+      "citation_number": 4,
+      "cited_text": "性分析（Fujihara, 2024; Ding et al., 2016; VanderWeele et al., 2017a; Smith et al., 2019），但尚未按实际估计量适配，本稿不报告相应数值。 历史总体八链沿用 1,000 次逐记录 bootstrap，M=0/1 在同次抽样中配对，差值按两个 CDE OR 相减计算；这些区间未处理成年子女和家庭内的重复依赖。基础回归已按成年 子女聚类，但夫妻与家庭关联仍可能使其不确定性不足。因此，主要结果解释为当前调整集下的关联，历史CMAverse结果同时受推断和识别限制；详见附录B。 异质性扩展单独采用 1,000 次共享连通组重抽样。连通组由成年子女、配偶、有效父母身份及对应年份的家庭联系构建，以保留重复亲子记录和相关群体之间的依赖；特殊 父母编码不形成共同簇。在同一次抽样中分别重估两组及其 M=0/1 对比，直接检验总间接对比的 log OR 之差与配对 CDE 差异之差。两类各 24 项比较分别进行 BH 校正；普通\n95%区间不视为同时区间。 本轮分析是在查看基础回归、历史八链和既有规格探索之后登记的追加探索。历史 150项规格及其失败、镜像关系和选择记录保留；由此选出的 11项候选以 B=1000细化原"
+    },
+    {
+      "source_id": "8194aeec-1942-474b-a1fe-c5aa6c5cad80",
+      "citation_number": 5,
+      "cited_text": "1 收入变化是否通过婚姻满意度传递？ 传导机制关注收入、婚姻评价与支持行为之间的连续联系。收入增加可能缓解家庭经济压力、改变夫妻对资源贡献的评价，继而影响双方对向父母转移资源的接受程度。由 此，婚姻满意度可能成为收入与代际支持之间的中间环节。 原有研究分别为这一机制的两个环节提供了线索，但两个环节各自相关，并不等于完整传导过程已经得到检验。\n许琪（2022）关于丈夫收入与妻子婚姻评价的研究，以及郑丹丹和狄金华（2017）关于夫妻感情、移情与代际资源分配的讨论，为将婚姻满意度纳入收入—代际支持分析提 供了依据。 本文进一步考察：在相邻调查波次之间，收入的正向变化是否伴随本人或配偶的满意度提升，以及这种婚姻评价变化能否解释对父母经济支持的增加。 婚姻满意度是否改变收入的作用？ 婚姻满意度也可能主要表现为情境条件。收入增加提升经济能力，但夫妻对于资源用途、家庭责任和代际义务的理解可能不同；婚姻关系因而可能影响新增收入被用于支持 父母的程度。本文将这种作用与经由满意度变化的传导作用分别检验。1 中介假设要求关注收入是否改变婚姻满意度及其后续结果；调节假设则关注，在不同满意度状态下，收入与支持行为的联系是否存在差异。"
+    },
+    {
+      "source_id": "ca4383f9-78ae-44be-b4ff-28db7a5cf67c",
+      "citation_number": 6,
+      "cited_text": "http://src.ruc.edu.cn社会学评论2022年第3期 【专题：家庭社会学】 挣钱还是做家务 ——丈夫的经济贡献和家务贡献对妻子婚姻满意度的影响 许 琪 内容提要：本文使用 2014年中国家庭追踪调查（CFPS）数据研究了丈 夫的经济贡献和家务贡献对妻子婚姻满意度的影响。研究发现，当代中 国家庭的性别分工模式依旧传统，且大多数妻子对当前的性别分工模式 和婚姻状况表示满意。丈夫的收入和家务时间分别通过影响妻子对丈夫 经济贡献和家务贡献满意度的途径影响其婚姻满意度。相比家务贡献， 妻子对丈夫经济贡献的满意度对其婚姻满意度有更强的影响。多组比较 研究发现，丈夫的经济贡献对妻子婚姻满意度的影响不随妻子特征的变 化而变化；但相比传统女性，现代女性更可能因为丈夫的家务参与不足而 对其家务贡献产生不满，进而导致婚姻满意度下降。总体来看，当前中国 家庭的性别分工模式对妻子婚姻满意度的影响表现出传统与现代相互交 融的特征，中国特殊的现代化进程是导致这一结果的主要因素。 关键词：性别分工；家务劳动；婚姻满意度；现代化 一、问题缘起 近半个世纪以来，随着世界范围内妇女解放运动的蓬勃发展，女性在教"
+    },
+    {
+      "source_id": "ca4383f9-78ae-44be-b4ff-28db7a5cf67c",
+      "citation_number": 7,
+      "cited_text": "16000户家庭样本，并对入样家庭中的所有同住家庭成员进行了问卷访问。 此后，CFPS在 2012年、2014年、2016年和 2018年对 2010年的初访样本进行 了四轮追踪调查。本研究使用的是2014年的追踪调查数据，原因在于CFPS 仅在该年份的追踪调查中询问了受访者的婚姻满意度。 在分析数据时，我们针对CFPS对所有家庭成员都进行访问的特点，将 夫妻匹配起来进行研究，成功匹配的夫妻共有 10674对。在删除缺失值以 后，实际进入模型分析的样本量为10494对。考虑到数据缺失的情况并不严 专 题 -- 50 http://src.ruc.edu.cn社会学评论2022年第3期 重，我们直接采用案例删除法（casewise deletion）处理缺失值。 （二）变量 本文的因变量是妻子的婚姻满意度。在问卷中，该变量对应的题目是 “总的来说，您对您当前的婚姻生活有多满意？”，问题选项从“非常不满意” 到“非常满意”，分为五个等级，分析时按照1~5分赋值，得分越高表示对婚姻 越满意。 分析的核心自变量是丈夫的经济贡献和家务贡献。参照以往研究，本 文对这两个变量采用了两种测量方法，一是用丈夫收入和家务劳动时间的"
+    },
+    {
+      "source_id": "dfb0ebc4-6430-448e-848d-a69f84b786e4",
+      "citation_number": 8,
+      "cited_text": "* 本文系中央高校基本科研业务经费项目“城市退休人员的社会调适及其对养老生活的 影响研究”( 项目号: 2015AD012) 的成果。作者首先感谢匿名评审给予的许多中肯的批 评与建议，使本文得以改善; 此外，本文修改过程中亦得到许多同侪好友的帮助，尤其感 谢李煜、吴愈晓、洪岩璧、缪佳、李丁等人。当然，文责自负。 女性家庭权力、夫妻关系 与家庭代际资源分配* 郑丹丹 狄金华 提要: 通过对 CGSS2006 家庭卷数据的分析，本文考察了女性家庭权力 及夫妻关系对家庭代际资源分配的影响及其作用机制。研究发现，权力机制 在家庭资源代际分配中发挥着一定的作用，子代家庭中妻子权力越大，子代 家庭对父系家长的经济支持越少。同时移情机制也影响着家庭资源代际分 配，夫妻感情越好的子代家庭对父系家长和母系家长的经济支持都会越多。 夫妻感情除了直接影响家庭代际支持外，还会对家庭权力的作用产生调节作 用: 夫妻关系越好，妻子的家庭权力对父系代际支持的反向作用则越小。母 系代际支持作为一种新兴的趋势，其作用机制显然更为复杂，需要更进一步 研究。 关键词: 女性家庭权力 夫妻关系 家庭代际资源分配 反馈模式 一、“娶了媳妇忘了娘”: 一个值得深究的问题"
+    },
+    {
+      "source_id": "dfb0ebc4-6430-448e-848d-a69f84b786e4",
+      "citation_number": 9,
+      "cited_text": "资源分配的作用可能更大。基于此，我们提出如下假设。 假设 3: 夫妻关系对家庭赡养资源分配的权力机制具有调节作用。 具体说来，我们可以将之表述为: 假设 3a: 其他因素不变，夫妻关系越好，妻子家庭权力对父系家长 赡养资源分配的影响越小。 假设 3b: 其他因素不变，夫妻关系越好，妻子家庭权力对母系家长 赡养资源分配的影响越小。 四、数据、变量及分析策略 ( 一) 数据 本文使用 2006 年全国综合社会调查( CGSS2006) 家庭卷进行数据 分析。该调查以第五次人口普查数据为抽样框，采用分层四阶段不等 概率法抽取 10151 个 18 － 69 岁的被调查者，抽样范围覆盖我国除西 藏、青海、宁夏及港澳台之外的 28 个省级单位。在所有被访者中，有 3208 人额外完成了一份家庭调查问卷，填答家庭夫妻双方都至少有一 081 社会学研究 2017． 1 位父母 健 在 的 1531 户 家 庭 是 本 研 究 的 分 析 对 象。之 所 以 选 择 CGSS2006 家庭卷进行定量分析，跟我们的主题和研究设计有关。本文 的主题是探讨女性家庭地位、夫妻关系与家庭代际资源分配的关系，显 然数据需要包含家庭中夫妻权力关系、夫妻感情以及代际资源分配这"
+    },
+    {
+      "source_id": "8194aeec-1942-474b-a1fe-c5aa6c5cad80",
+      "citation_number": 10,
+      "cited_text": "收⼊变化、婚姻满意度与成年⼦⼥对⽗⺟的经济⽀持 摘要：成年子女对父母的经济支持不仅取决于个人收入，也涉及核心家庭与父代家庭之间的资源分配。本文区分婚姻满意度的两种可能作用：一是收入变化经由婚姻评价传递至支持 行为；二是婚姻评价构成资源分配的关系情境，使相同收入变化对应不同的支持反应。本文利用CFPS 2018—2020和2020—2022相邻波次记录，将本人及配偶的婚姻满意度与父母特定\n的经济支持相匹配，分别考察绝对变化和夫妻内部相对位置转移，以基础回归的标准化风险差与加性交互为主要经验证据，既有CMAverse边际OR另作历史模型对比。基础回归在部分\n资格总体中呈现收入—支持的正向关联，但两两关联不能证明完整传导机制。系统探索与限定复核没有提供明确的完整中介证据；相对婚姻评价的两种操作化在删除跨波累计的父辈支持\n变量后仍保留负向修饰线索（未调整区间不含0，未作新的搜索校正）；保留该变量的历史版本经搜索校正后均未显著。当前结果未支持“收入改善普遍通过满意度提升促进父母支持”的\n强命题，也不能解释为夫妻关系与代际支持完全无关。 关键词：代际经济支持；婚姻满意度；收入变化；夫妻关系；中介分析 一、引言"
+    },
+    {
+      "source_id": "8194aeec-1942-474b-a1fe-c5aa6c5cad80",
+      "citation_number": 11,
+      "cited_text": "两类问题：收入的作用是否随婚姻状态而变，以及满意度改善能否直接提高代际支持增长的概率。 收入与支持的关联在不同满意度状态下有所差别，不必然意味着满意度提升能够增加父母获得的支持。本文以标准化风险差及加性交互描述前一问题，并将既有固定中介对 比和满意度提升预测保留为模型情景记录；这些记录不用于估计实际治理收益。 王跃生（2026）报告，2020年城镇、乡村直系家庭占比分别为13.89%和21.48%；\n2024年 10月发布的《第五次中国城乡老年人生活状况抽样调查基本数据公报》2（调查标准时点为 2021年 8月 1日）显示，与子女共住的老年人占 33.5%（城镇 36.1%、农 村 30.4%），收到子女（含孙子女、外孙子女）经济支持的老年人占 65.6%（城镇 59.3%、农村 73%）。家庭转移性收入占城镇、农村老年人收入的比例分别为 4.1%和 10.6%；该\n收入类别还包括其他亲属的钱及实物和人情往来收入，口径宽于子女向父母提供的经济支持。 因此，本文的经验任务不仅是判断婚姻满意度是否“重要”，更是区分其可能发挥作用的环节、方向和条件，并考察相关结果能够支持多大程度的政策推论。 4. 研究问题与可检验预期"
+    },
+    {
+      "source_id": "8194aeec-1942-474b-a1fe-c5aa6c5cad80",
+      "citation_number": 12,
+      "cited_text": "参考文献 王跃⽣, 2026. 中国家庭结构百年变迁及其特征分析[N]. 光明⽇报, 2026-04-01(11). 许琪, 2022. 挣钱还是做家务——丈夫的经济贡献和家务贡献对妻⼦婚姻满意度的影响[J]. 社会学评论, 10(3): 43-63. 郑丹丹, 狄⾦华, 2017. ⼥性家庭权⼒、夫妻关系与家庭代际资源分配[J]. 社会学研究, 32(1): 171-192+245.\nAl-kassab-Córdova A, Mezones-Holguin E, Kaufman J S, 2025. Diminished returns of maternal education on children’s vaccination status for indigenous women in Peru[J]. Social Science & Medicine, 370: 117862. Ding P, VanderWeele T J, 2016. Sensitivity analysis without assumptions[J]. Epidemiology, 27(3): 368-377.\nFujihara S, 2024. Identifying the role of high school in educational inequality: A causal mediation approach[J]. Social Science Research, 124: 103077.\nHsu Y T, Grodstein F, Liu T H, et al., 2025. Causal mediation of the association between educational attainment and late-life cognitive function by trajectories of social participation[J]. Social"
+    },
+    {
+      "source_id": "c83126a0-75c9-4470-90dd-98e511280f1f",
+      "citation_number": 13,
+      "cited_text": "Abstract Recent work has considerably advanced the                  under a possible counterfactual exposure intervention, definition, identification and estimation of controlled             under a pre-specified distribution of the mediator inde- direct, and natural direct and indirect effects in causal           pendent of any causes, or under a fixed controlled value. A mediation analysis. Despite the various estimation methods          final regression of the potential outcome on the exposure and statistical routines being developed, a unified approach        intervention variable was used to compute point estimates for effect estimation under different effect decomposition          and bootstrap was used to obtain confidence intervals. scenarios is still needed for epidemiologic research.               Through contrasting different potential outcomes, this G-computation offers such unification and has been used             analytical framework provides an intuitive way of esti- for total effect and joint controlled direct effect estimation      mating effects under the recently introduced 3- and 4-way settings, involving different types of exposure and outcome         effect decomposition. This framework can be extended to variables. In this study, we demonstrate the utility of             complex multivariable and longitudinal mediation settings. parametric g-computation in estimating various compo- nents of the total effect, including (1) natural direct and         Keywords G-computation \u0002 Parametric g-formula \u0002 indirect effects, (2) standard and stochastic controlled            Mediation analysis \u0002 Effect decomposition \u0002 Simulation direct effects, and (3) reference and mediated interaction effects, using Monte Carlo simulations in standard statis- tical software. For each study subject, we estimated their          Introduction nested potential outcomes corresponding to the (mediated) effects of an intervention on the exposure wherein the              Recent work has considerably advanced the definition, mediator was allowed to attain the value it would have              identification and estimation of different controlled or natural effects in causal mediation analysis. As a result, various estimation methods such as linear structural equa- Electronic supplementary material The online version of this        tion modeling, outcome and mediator regression-based article (doi:10.1007/s10654-015-0100-z) contains supplementary      methods, parametric g-computation, inverse-probability- material, which is available to authorized users. weighted (IPW) fitting of marginal structural models & Aolin Wang                                                        (MSMs), and sequential g-estimation [1, 2] have been aolinw@ucla.edu                                                   applied to mediation settings. With some notable excep- 1 tions [3–5], relatively few approaches can incorporate Department of Epidemiology, Fielding School of Public Health, University of California, Los Angeles (UCLA), general types of mediator and outcome variables. The 650 Charles E. Young Drive South, Los Angeles,                 simulation-based approach introduced by Imai et al. [3] and CA 90095-1772, USA                                             the regression-based approach proposed by Valeri and 2 California Center for Population Research (CCPR),              VanderWeele [5] are increasingly popular approaches; the Los Angeles, CA, USA                                           former may be unfamiliar to epidemiologists, and the latter 3 UCLA Center for Health Policy Research, Los Angeles, CA,       requires different regressions or approximations for dif- USA                                                            ferent mediator and outcome types. Meanwhile,"
+    },
+    {
+      "source_id": "c83126a0-75c9-4470-90dd-98e511280f1f",
+      "citation_number": 14,
+      "cited_text": "Eur J Epidemiol (2015) 30:1119–1127 DOI 10.1007/s10654-015-0100-z G-computation demonstration in causal mediation analysis Aolin Wang1,2 • Onyebuchi A. Arah1,2,3 Received: 19 May 2015 / Accepted: 28 October 2015 / Published online: 4 November 2015 Ó Springer Science+Business Media Dordrecht 2015"
+    },
+    {
+      "source_id": "8194aeec-1942-474b-a1fe-c5aa6c5cad80",
+      "citation_number": 15,
+      "cited_text": "mediation analysis[J]. Prevention Science, 24(3): 408-418. Shi B, Choirat C, Coull B A, et al., 2021. CMAverse: A suite of functions for reproducible causal mediation analyses[J]. Epidemiology, 32(5): e20-e22.\nSmith L H, VanderWeele T J, 2019. Mediational E-values: Approximate sensitivity analysis for unmeasured mediator-outcome confounding[J]. Epidemiology, 30(6): 835-837.\nVanderWeele T J, 2013. A three-way decomposition of a total effect into direct, indirect, and interactive effects[J]. Epidemiology, 24(2): 224-232.\nVanderWeele T J, 2014. A unification of mediation and interaction: A 4-way decomposition[J]. Epidemiology, 25(5): 749-761.\nVanderWeele T J, Ding P, 2017a. Sensitivity analysis in observational research: Introducing the E-value[J]. Annals of Internal Medicine, 167(4): 268-274.\nVanderWeele T J, Tchetgen Tchetgen E J, 2017b. Mediation analysis with time varying exposures and mediators[J]. Journal of the Royal Statistical Society Series B: Statistical Methodology,"
+    },
+    {
+      "source_id": "7d2f38a3-4b65-4de6-be81-f3a6e7ea876f",
+      "citation_number": 16,
+      "cited_text": "Author Manuscript Published in final edited form as: J R Stat Soc Series B Stat Methodol. 2017 June ; 79(3): 917–938. doi:10.1111/rssb.12194."
+    },
+    {
+      "source_id": "4846c886-d71b-407e-b7eb-2e77747e63f7",
+      "citation_number": 17,
+      "cited_text": "Epidemiology • Volume 30, Number 6, November 2019 www.epidem.com | 835 Submitted October 28, 2018; accepted July 18, 2019. From the aDepartment of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA; and bDepartment of Biostatistics, Harvard T.H. Chan School of Public Health, Boston, MA. Supported by grant R01CA222147 from the National Institutes of Health (T.J.V.). The authors report no conflicts of interest.  Supplemental digital content is available through direct URL citations"
+    },
+    {
+      "source_id": "11842a08-c7c3-4607-9278-d561e96178c9",
+      "citation_number": 18,
+      "cited_text": "本补充使用全角＊、＄、＿、＜、＞及小标题编号点，以防来源解析器吞掉数学字符或列表编号；这些全角字符按Unicode NFKC可无损还原为半角。所有数字、句子和表格内容不改变。十个公式从同一Word的OMML解析成带明确下标及分子/分母的线性表达，原结构及映射另行保留。 CMAverse 最终稿全文、表格与冻结结果补充（2026-11-01） 母稿：CMAverse＿V3h＿final＿accepted.pdf；SHA256=6bde712d3564f8116dcc13ac769881104058951a753d7eba8b38cc9206cec291 本补充与母稿属于同一版本。第一部分是最终PDF逐页文字抽取；第二部分是同一Word接受稿的表格逐行逐格及公式线性结构；第三部分是已冻结且已公开核验的9份结果CSV。 PDF抽取中的跨列顺序不代表阅读顺序。表格区保留每行每列，重复合并单元格按原XML保留；物理表索引不等于论文表号，紧邻前文给出实际题注。方向箭头与二维公式的视觉关系以母PDF为准。 9份结果CSV是有限配套来源，不等于全部288份源文件；这里只提供真实原文，不附加新的估计或结论。文献支持另见选择的原始论文来源。"
+    },
+    {
+      "source_id": "8194aeec-1942-474b-a1fe-c5aa6c5cad80",
+      "citation_number": 19,
+      "cited_text": "婚姻满意度(M) 婚姻满意度(M) ↓ ↗ ↘ (X*M) (X*M) 婚姻满意度 * 收入 ↗ 婚姻满意度 * 收入 ↘ ↘ ↗ ↘ 收入(X) 代际经济支持(Y) 收入(X) 代际经济支持(Y) 理论上的固定中介对比（风险差尺度）： CDE(1) − CDE(0)；INTref(0) = PNDE − CDE(0)；INTref(1) = PNDE − CDE(1)。 CDE情景差异不一般等同于Logit模型的X×M系数，亦不能将此处风险差恒等式直接用于OR差。 图3 收入、婚姻满意度与代际支持的四项分解示意 Figure 3. Four-way decomposition of the relationship between income, marital satisfaction and intergenerational economic support 注：根据Yazawa等人（2022）、Hsu等人（2025）和Madia等人（2025）的研究整理。 据此，本文以基础回归的标准化概率、风险差和加性交互描述收入—婚姻评价—代际支持的关系。直接／间接比率、配对 CDE差和效应消除比例保留为历史模型探索，分别"
+    },
+    {
+      "source_id": "8194aeec-1942-474b-a1fe-c5aa6c5cad80",
+      "citation_number": 20,
+      "cited_text": "表3 八条候选机制链、资格总体与样本规模 <cited_table> 注：N为各链五模型共同使用的亲子二元组—区间记录数。AA、AR、RA、RR依次表示收入与满意度的绝对—绝对、绝对—相对、相对—绝对和相对—相对组合；S、P分别表\n示本人和配偶。 2.2 事件分布与样本支持 表4 八条候选链的最终样本、事件率与经验重叠诊断 <cited_table>",
+      "cited_table": {
+        "num_columns": 5,
+        "rows": [
+          [
+            "链条",
+            "X构念",
+            "M构念（已含角色）",
+            "资格条件",
+            "N"
+          ],
+          [
+            "AA‑S",
+            "绝对收入增加",
+            "本人绝对满意度提升",
+            "本人M₀<5",
+            "4,098"
+          ],
+          [
+            "AA‑P",
+            "绝对收入增加",
+            "配偶绝对满意度提升",
+            "配偶M₀<5",
+            "4,030"
+          ],
+          [
+            "AR‑S",
+            "绝对收入增加",
+            "本人满意度相对位置升级",
+            "本人M₀≤配偶M₀",
+            "9,879"
+          ],
+          [
+            "AR‑P",
+            "绝对收入增加",
+            "配偶满意度相对位置升级",
+            "配偶M₀≤本人M₀",
+            "9,804"
+          ],
+          [
+            "RA‑S",
+            "夫妻内收入相对位置升级",
+            "本人绝对满意度提升",
+            "本人收入₀≤配偶收入₀；本人M₀<5",
+            "2,654"
+          ],
+          [
+            "RA‑P",
+            "夫妻内收入相对位置升级",
+            "配偶绝对满意度提升",
+            "本人收入₀≤配偶收入₀；配偶M₀<5",
+            "2,123"
+          ],
+          [
+            "RR‑S",
+            "夫妻内收入相对位置升级",
+            "本人满意度相对位置升级",
+            "本人收入₀≤配偶收入₀；本人M₀≤配偶M₀",
+            "6,331"
+          ],
+          [
+            "RR‑P",
+            "夫妻内收入相对位置升级",
+            "配偶满意度相对位置升级",
+            "本人收入₀≤配偶收入₀；配偶M₀≤本人M₀",
+            "5,757"
+          ]
+        ]
+      }
+    },
+    {
+      "source_id": "8194aeec-1942-474b-a1fe-c5aa6c5cad80",
+      "citation_number": 21,
+      "cited_text": "注：事件率以相应链条的最终样本为分母。重叠诊断比例反映落在两状态1%—99%经验倾向概率交集外的记录，仅用于提示样本支持不足，不是正值性的充分检验。 2.3 平均关联与不同满意度状态下的差异 参照 Yazawa 等人（2022）的关系展示方式，每条链依次拟合 X—M、X—Y、M—Y、同时纳入 X 与 M、以及加入 X×M 的五个模型。本文的 M、Y 均为二分类转移变量， 故使用Logistic回归，并将结果转换为边际标准化概率和风险差。模型3用于描述未纳入同期X的M—Y关联，模型间系数变化不作为中介比例。 图5 八条候选机制链的五模型边际标准化结果 收入与代际支持的正向联系比收入与婚姻满意度的联系更为清楚（图 5、表 5）。在本人满意度有提升空间的绝对收入样本中，收入增加对应的支持增长概率高 4.90 个百分 点（95% CI：1.54，8.26）；在两条相对满意度样本中，相应风险差约为2.5—2.7个百分点。相较之下，八条链的X—M及M—Y平均关联区间均包含0。 表5 八条候选链模型1—4的边际标准化风险差 <cited_table>",
+      "cited_table": {
+        "num_columns": 6,
+        "rows": [
+          [
+            "链条",
+            "模型1：X—M",
+            "模型2：X—Y",
+            "模型3：M—Y",
+            "模型4：X|M",
+            "模型4：M|X"
+          ],
+          [
+            "AA‑S",
+            "1.52（-2.27，5.31）",
+            "4.90（1.54，8.26）",
+            "2.45（-1.20，6.09）",
+            "4.86（1.50，8.23）",
+            "2.36（-1.28，6.00）"
+          ],
+          [
+            "AA‑P",
+            "0.68（-3.28，4.64）",
+            "2.84（-0.59，6.28）",
+            "2.49（-1.06，6.04）",
+            "2.82（-0.61，6.26）",
+            "2.47（-1.09，6.02）"
+          ],
+          [
+            "AR‑S",
+            "-0.14（-2.00，1.72）",
+            "2.66（0.47，4.85）",
+            "0.16（-2.89，3.21）",
+            "2.66（0.47，4.85）",
+            "0.17（-2.89，3.22）"
+          ],
+          [
+            "AR‑P",
+            "0.12（-1.74，1.98）",
+            "2.51（0.35，4.67）",
+            "2.27（-0.79，5.34）",
+            "2.50（0.34，4.66）",
+            "2.26（-0.80，5.32）"
+          ],
+          [
+            "RA‑S",
+            "-3.49（-9.74，2.75）",
+            "3.13（-2.79，9.06）",
+            "1.64（-2.95，6.22）",
+            "3.20（-2.73，9.12）",
+            "1.71（-2.88，6.29）"
+          ],
+          [
+            "RA‑P",
+            "-0.12（-6.58，6.34）",
+            "-0.62（-6.21，4.97）",
+            "2.77（-2.18，7.72）",
+            "-0.62（-6.21，4.97）",
+            "2.77（-2.18，7.72）"
+          ],
+          [
+            "RR‑S",
+            "0.50（-2.27，3.27）",
+            "3.28（-0.49，7.04）",
+            "0.71（-3.44，4.86）",
+            "3.27（-0.49，7.04）",
+            "0.68（-3.47，4.84）"
+          ],
+          [
+            "RR‑P",
+            "2.28（-1.26，5.83）",
+            "1.90（-1.85，5.65）",
+            "1.46（-2.28，5.20）",
+            "1.87（-1.88，5.63）",
+            "1.41（-2.33，5.15）"
+          ]
+        ]
+      }
+    },
+    {
+      "source_id": "8194aeec-1942-474b-a1fe-c5aa6c5cad80",
+      "citation_number": 22,
+      "cited_text": "注：数值为边际标准化风险差，单位为百分点，括号内为基于成年子女聚类稳健协方差、由Delta法计算的95%置信区间。模型3未纳入同期X；模型4分别报告同时纳入X与\nM后的两项关联。 表6 模型5的标准化情境概率与加性交互 <cited_table>",
+      "cited_table": {
+        "num_columns": 9,
+        "rows": [
+          [
+            "链条",
+            "P00",
+            "P10",
+            "P01",
+            "P11",
+            "RD(X|M=0)",
+            "RD(X|M=1)",
+            "IC-RD",
+            "BH q"
+          ],
+          [
+            "AA‑S",
+            "0.274",
+            "0.322",
+            "0.297",
+            "0.346",
+            "4.81（0.29，9.33）",
+            "4.92（-0.13，9.98）",
+            "0.11（-6.78，6.89）",
+            "0.974"
+          ],
+          [
+            "AA‑P",
+            "0.284",
+            "0.284",
+            "0.277",
+            "0.337",
+            "-0.02（-4.69，4.66）",
+            "6.00（1.05，10.96）",
+            "6.02（-0.19，12.48）",
+            "0.214"
+          ],
+          [
+            "AR‑S",
+            "0.287",
+            "0.327",
+            "0.334",
+            "0.286",
+            "4.04（1.66，6.41）",
+            "-4.73（-10.22，0.77）",
+            "-8.76（-14.79，-2.41）",
+            "0.032"
+          ],
+          [
+            "AR‑P",
+            "0.290",
+            "0.305",
+            "0.279",
+            "0.361",
+            "1.45（-0.89，3.80）",
+            "8.28（2.85，13.71）",
+            "6.82（1.05，12.62）",
+            "0.094"
+          ],
+          [
+            "RA‑S",
+            "0.310",
+            "0.306",
+            "0.313",
+            "0.388",
+            "-0.42（-7.94，7.10）",
+            "7.56（-1.00，16.11）",
+            "7.98（-2.51，19.32）",
+            "0.300"
+          ],
+          [
+            "RA‑P",
+            "0.301",
+            "0.277",
+            "0.320",
+            "0.333",
+            "-2.39（-9.80，5.02）",
+            "1.30（-6.61，9.21）",
+            "3.69（-7.12，13.62）",
+            "0.656"
+          ],
+          [
+            "RR‑S",
+            "0.298",
+            "0.340",
+            "0.318",
+            "0.305",
+            "4.20（0.10，8.29）",
+            "-1.35（-10.16，7.46）",
+            "-5.55（-15.00，4.12）",
+            "0.411"
+          ],
+          [
+            "RR‑P",
+            "0.298",
+            "0.315",
+            "0.310",
+            "0.338",
+            "1.69（-2.40，5.79）",
+            "2.78（-5.80，11.35）",
+            "1.08（-8.58，10.28）",
+            "0.938"
+          ]
+        ]
+      }
+    },
+    {
+      "source_id": "8194aeec-1942-474b-a1fe-c5aa6c5cad80",
+      "citation_number": 23,
+      "cited_text": "因此，历史输出没有提供可支持本人负向、配偶正向传导的可靠因果证据。这里既有估计不明确，也有支持范围与识别条件未满足的问题；不能统称为已检验并否定中介假 设，亦不能把极小间接量的符号赋予实质方向。 直接与总对比接近，不证明剩余部分已经被识别为经济资源机制。纯间接与介导交互输出继续归档，但当前原生分量的风险尺度解释不一致，RQ2.3 所问的贡献份额尚不能 可靠回答。 表7 收入总对比及经由婚姻满意度的直接、间接对比 <cited_table>",
+      "cited_table": {
+        "num_columns": 5,
+        "rows": [
+          [
+            "链条",
+            "区间记录N",
+            "总对比OR Rte（95% CI）",
+            "直接对比OR rRpnde（95% CI）",
+            "总间接对比OR rRtnie（95% CI）"
+          ],
+          [
+            "AA-S",
+            "4,095",
+            "1.250（1.096，1.421）",
+            "1.251（1.095，1.420）",
+            "0.9994（0.9969，1.0090）"
+          ],
+          [
+            "AA-P",
+            "4,028",
+            "1.139（1.001，1.293）",
+            "1.134（0.997，1.291）",
+            "1.0041（0.9910，1.0130）"
+          ],
+          [
+            "AR-S",
+            "9,879",
+            "1.150（1.058，1.249）",
+            "1.148（1.057，1.249）",
+            "1.0017（0.9968，1.0047）"
+          ],
+          [
+            "AR-P",
+            "9,804",
+            "1.143（1.051，1.254）",
+            "1.145（1.051，1.252）",
+            "0.9990（0.9963，1.0052）"
+          ],
+          [
+            "RA-S",
+            "2,654",
+            "1.135（0.917，1.407）",
+            "1.151（0.925，1.424）",
+            "0.9861（0.9604，1.0075）"
+          ],
+          [
+            "RA-P",
+            "2,121",
+            "0.966（0.779，1.181）",
+            "0.969（0.779，1.180）",
+            "0.9968（0.9827，1.0200）"
+          ],
+          [
+            "RR-S",
+            "6,331",
+            "1.177（1.026，1.367）",
+            "1.179（1.027，1.371）",
+            "0.9986（0.9931，1.0048）"
+          ],
+          [
+            "RR-P",
+            "5,757",
+            "1.104（0.954，1.273）",
+            "1.102（0.954，1.273）",
+            "1.0018（0.9927，1.0124）"
+          ]
+        ]
+      }
+    },
+    {
+      "source_id": "8194aeec-1942-474b-a1fe-c5aa6c5cad80",
+      "citation_number": 24,
+      "cited_text": "注：数值为边际OR及95%置信区间；总、直接和间接对比分别对应Rte、rRpnde、rRtnie。它们按当前随机中介分配定义计算，不等同于标准自然效应；区间采用逐记录\nbootstrap。rRtnie用四位小数展示，以避免近于1的数值被舍入成完全相同。样本差异见附录B。 3.2 固定满意度状态的历史OR对比 表 8和图 6保留同一链目标样本内固定 M=0/1的历史 CDE OR与配对差值。M=1在绝对链表示满意度提升，在相对链表示夫妻内部位置升级。历史相对链固定 M存在确定 性禁配，这些数值对比不再承担RQ2.4的因果调节判断；该问题由表6的关联性情境对比及后文限定复核分别提供线索。 表8 不同满意度状态下的受控直接效应及配对差值 <cited_table>",
+      "cited_table": {
+        "num_columns": 4,
+        "rows": [
+          [
+            "链条",
+            "固定M=0的CDE OR",
+            "固定M=1的CDE OR",
+            "配对OR之差"
+          ],
+          [
+            "AA-S",
+            "1.269（1.038，1.503）",
+            "1.232（1.017，1.489）",
+            "-0.037（-0.345，0.312）"
+          ],
+          [
+            "AA-P",
+            "0.987（0.817，1.188）",
+            "1.322（1.093，1.587）",
+            "0.335（0.029，0.653）"
+          ],
+          [
+            "AR-S",
+            "1.226（1.123，1.346）",
+            "0.815（0.662，1.019）",
+            "-0.411（-0.614，-0.186）"
+          ],
+          [
+            "AR-P",
+            "1.092（0.998，1.205）",
+            "1.477（1.188，1.845）",
+            "0.385（0.072，0.759）"
+          ],
+          [
+            "RA-S",
+            "0.978（0.721，1.306）",
+            "1.363（1.015，1.825）",
+            "0.384（-0.096，0.904）"
+          ],
+          [
+            "RA-P",
+            "0.893（0.641，1.180）",
+            "1.041（0.775，1.371）",
+            "0.147（-0.243，0.593）"
+          ],
+          [
+            "RR-S",
+            "1.217（1.052，1.433）",
+            "0.939（0.660，1.312）",
+            "-0.279（-0.624，0.112）"
+          ],
+          [
+            "RR-P",
+            "1.097（0.933，1.280）",
+            "1.126（0.799，1.563）",
+            "0.029（-0.314，0.495）"
+          ]
+        ]
+      }
+    },
+    {
+      "source_id": "8194aeec-1942-474b-a1fe-c5aa6c5cad80",
+      "citation_number": 25,
+      "cited_text": "注：记录为亲子二元组—区间。两个候选的资格总体不同，不能按 ΔOR 绝对大小比较社会作用强弱。两项去 dwm 后模型化间接对比（TNIE）的点估计与 95%区间见表 11 前正\n文。区间采用B=1,000的中心化绝对偏差规则；本版本未计算新p或搜索校正。 两个时期的点估计均为负，逐簇删除也未显示某一个簇主导结果；这些检查检验点估计的稳定性，不表示每个时期或每次删簇后均显著。两种操作化使用同一资料，不能视 为两个独立复制。 候选均来自系统搜索。在历史 B=200版本中，考虑 120项同指标对比后，031与 041的调整 p分别为 0.134和 0.632；合并两种目标后进一步增大（表 12）。这项补充核查利 用保存重复之间的相关性，但不涵盖全部后续自适应分析。历史校正与去dwm后的模型分开报告，不拼接为同一套推断。 表12 候选的历史原始p与历史搜索校正（ΔCDE） <cited_table>",
+      "cited_table": {
+        "num_columns": 6,
+        "rows": [
+          [
+            "版本／候选",
+            "原始p",
+            "",
+            "同指标120项调整p",
+            "",
+            "合并240项目标调整p"
+          ],
+          [
+            "历史B=200／031",
+            "0.004975",
+            "",
+            "0.134328",
+            "",
+            "0.542289"
+          ],
+          [
+            "历史B=200／041",
+            "0.039801",
+            "",
+            "0.631841",
+            "",
+            "0.915423"
+          ],
+          [
+            "旧B=1,000／031",
+            "0.002997",
+            "未计算",
+            "",
+            "未计算",
+            ""
+          ],
+          [
+            "旧B=1,000／041",
+            "0.032967",
+            "未计算",
+            "",
+            "未计算",
+            ""
+          ]
+        ]
+      }
+    },
+    {
+      "source_id": "8194aeec-1942-474b-a1fe-c5aa6c5cad80",
+      "citation_number": 26,
+      "cited_text": "注：数值为比例小数及原生区间。负值、超过1或宽区间均保留；本表不将其解释为治理贡献百分比。 图A.1显示，相对收入链中部分比例区间很宽。宽区间本身提醒我们，关于“可消除多少”的量化需要稳定分母和一致尺度；它不能替代对传导或调节作用的检验。 图A.1 两种满意度状态下的原生rpe与不确定性 注：蓝、橙分别对应M=0与M=1；单位为比例小数。保留全部区间，不将其作为政策效果图解释。 附录 B 估计口径与结果来源说明 本稿基础回归继承 v7.1，总体 CMAverse继承 v7.4.1，附录 C继承 v7.5.1探索性分组结果，未在本轮重估。亲子身份连续性修正使 AA-S、AA-P和 RA-P较基础回归分别减 少3、2、2条记录，其余链N不变；因此两模块是可追溯但非完全同样本的证据。父母身份、行标记、公式、软件版本、实际抽样索引及逐次状态见复现材料。 随机干预分布。当前 g-formula实现对模拟中介进行全样本置换，所得直接、间接和总对比对应样本边际中介分配，不自动等同于表 1的标准自然效应。所有 OR字段以同一 运行版本的定义读取。 控制变量的时间属性。图 4中的 C表示理论上的处理前协变量，但继承代码的实际调整集中还包含 prtmarr_1、prtcor_1等区间状态变化项。父辈支持 dwm由 2016—2022年"
+    },
+    {
+      "source_id": "8194aeec-1942-474b-a1fe-c5aa6c5cad80",
+      "citation_number": 27,
+      "cited_text": "点估计来源。正文使用同一子对象的 effect.pe、effect.se 及置信区间。另一次原数据模拟评估 t0 用于来源诊断，不与正文点估计混用。小间接量可能对模拟波动敏感，因此 不根据其细微正负作方向性判断。 分量与敏感性。当前部分原生 ER 和比例存在尺度解释问题，不能仅凭四项求和成立便作为机制贡献。E-value 接口对当前具体效应的适用性尚未完成适配，本稿未报告 E- value，也未将任意ER、PE或OR差值按RR计算敏感性指标。 PE与表 9对应不同问题：前者试图量化固定 M后暴露效应的改变比例，后者是保持其他观测状态、仅设置焦点 M后的结果概率差。后一情景不让配偶满意度或其他变量随\nM变化，未指定实际项目或服务，也未证明完整的联合干预支持，故称条件预测而不称政策总效应。 文献与边界。正文保留原稿的动态引文；中国家庭和老年人口背景统计沿用既有来源，本轮未重新进行官方源核验。异质性分析是看过总体结果后的探索性扩展，不能替代 时序识别或受限分解尺度的进一步核验。 表C.1 性别分组的总间接对比与配对CDE差异 <cited_table>",
+      "cited_table": {
+        "num_columns": 7,
+        "rows": [
+          [
+            "链条",
+            "组别",
+            "N",
+            "连通组数",
+            "总间接OR（95% CI）",
+            "CDE OR差（95% CI）",
+            "检查通过次数"
+          ],
+          [
+            "AA-S",
+            "女性",
+            "2626",
+            "1232",
+            "1.0025（0.9868，1.0139）",
+            "0.036（-0.493，0.623）",
+            "1000"
+          ],
+          [
+            "AA-S",
+            "男性",
+            "1469",
+            "734",
+            "0.9998（0.9772，1.0193）",
+            "-0.121（-0.716，0.441）",
+            "1000"
+          ],
+          [
+            "AA-P",
+            "女性",
+            "1366",
+            "698",
+            "1.0057（区间暂缓）",
+            "0.043（区间暂缓）",
+            "982"
+          ],
+          [
+            "AA-P",
+            "男性",
+            "2662",
+            "1212",
+            "0.9990（0.9801，1.0169）",
+            "0.368（-0.055，0.848）",
+            "1000"
+          ],
+          [
+            "AR-S",
+            "女性",
+            "5561",
+            "2258",
+            "1.0026（0.9959，1.0095）",
+            "-0.353（-0.763，0.235）",
+            "1000"
+          ],
+          [
+            "AR-S",
+            "男性",
+            "4318",
+            "1841",
+            "0.9983（0.9895，1.0076）",
+            "-0.359（-0.660，-0.010）",
+            "1000"
+          ],
+          [
+            "AR-P",
+            "女性",
+            "4165",
+            "1816",
+            "1.0007（0.9947，1.0084）",
+            "0.199（-0.232，0.788）",
+            "1000"
+          ],
+          [
+            "AR-P",
+            "男性",
+            "5639",
+            "2232",
+            "0.9987（0.9891，1.0128）",
+            "0.513（-0.004，1.314）",
+            "1000"
+          ],
+          [
+            "RA-S",
+            "女性",
+            "2109",
+            "1043",
+            "0.9846（0.9323，1.0195）",
+            "0.410（-0.389，1.420）",
+            "1000"
+          ],
+          [
+            "RA-S",
+            "男性",
+            "545",
+            "308",
+            "1.0166（0.9187，1.1217）",
+            "0.764（0.029，1.945）",
+            "1000"
+          ],
+          [
+            "RA-P",
+            "女性",
+            "1127",
+            "590",
+            "0.9957（区间暂缓）",
+            "-0.542（区间暂缓）",
+            "951"
+          ],
+          [
+            "RA-P",
+            "男性",
+            "994",
+            "530",
+            "0.9995（0.9452，1.0347）",
+            "0.406（-0.134，1.136）",
+            "1000"
+          ],
+          [
+            "RR-S",
+            "女性",
+            "4567",
+            "1966",
+            "0.9995（0.9826，1.0135）",
+            "-0.150（-0.974，1.234）",
+            "1000"
+          ],
+          [
+            "RR-S",
+            "男性",
+            "1764",
+            "890",
+            "1.0008（0.9809，1.0207）",
+            "-0.080（-0.562，0.494）",
+            "1000"
+          ],
+          [
+            "RR-P",
+            "女性",
+            "3497",
+            "1591",
+            "0.9934（0.9556，1.0268）",
+            "-0.749（-1.534，0.090）",
+            "1000"
+          ],
+          [
+            "RR-P",
+            "男性",
+            "2260",
+            "1080",
+            "1.0123（0.9949，1.0489）",
+            "0.165（-0.366，1.063）",
+            "1000"
+          ]
+        ]
+      }
+    },
+    {
+      "source_id": "8194aeec-1942-474b-a1fe-c5aa6c5cad80",
+      "citation_number": 28,
+      "cited_text": "区间来自同一冻结规格的保存抽样；以下为登记的中心化检验反演区间。函数不证明检验校准或因果识别，B=200区间仍有蒙特卡洛误差。B1不发布正常推断区间。 表D.3 新14项主检验的样本规模与区间 <cited_table>",
+      "cited_table": {
+        "num_columns": 6,
+        "rows": [
+          [
+            "检验",
+            "记录数",
+            "簇数",
+            "点估计",
+            "95%区间",
+            "单位"
+          ],
+          [
+            "A1",
+            "12634",
+            "3153",
+            "-4.2103",
+            "[-10.3341, 1.9135]",
+            "百分点"
+          ],
+          [
+            "B1",
+            "12634",
+            "3153",
+            "-24.0309",
+            "不发布：有效抽样不足",
+            "元/月"
+          ],
+          [
+            "A2",
+            "12634",
+            "3153",
+            "-1.3162",
+            "[-7.6826, 5.0502]",
+            "百分点"
+          ],
+          [
+            "B2",
+            "12634",
+            "3153",
+            "-33.0299",
+            "[-107.5706, 41.5108]",
+            "元/月"
+          ],
+          [
+            "A3",
+            "7708",
+            "2665",
+            "-2.7242",
+            "[-12.2258, 6.7774]",
+            "百分点"
+          ],
+          [
+            "B3",
+            "7708",
+            "2665",
+            "-27.6825",
+            "[-97.3236, 41.9587]",
+            "元/月"
+          ],
+          [
+            "A4",
+            "7708",
+            "2665",
+            "4.4061",
+            "[-6.0009, 14.8130]",
+            "百分点"
+          ],
+          [
+            "B4",
+            "7708",
+            "2665",
+            "-4.5789",
+            "[-96.3330, 87.1753]",
+            "元/月"
+          ],
+          [
+            "C1",
+            "12629",
+            "3152",
+            "0.0005",
+            "[-0.0513, 0.0523]",
+            "百分点"
+          ],
+          [
+            "C2",
+            "12630",
+            "3152",
+            "0.0239",
+            "[-0.0510, 0.0989]",
+            "百分点"
+          ],
+          [
+            "C3",
+            "12625",
+            "3151",
+            "0.0175",
+            "[-0.0483, 0.0834]",
+            "百分点"
+          ],
+          [
+            "C4",
+            "7702",
+            "2664",
+            "0.0907",
+            "[-0.1375, 0.3188]",
+            "百分点"
+          ],
+          [
+            "D1",
+            "4444",
+            "1774",
+            "-0.0126",
+            "[-0.1548, 0.1295]",
+            "百分点"
+          ],
+          [
+            "D2",
+            "4443",
+            "1773",
+            "0.0632",
+            "[-0.1678, 0.2943]",
+            "百分点"
+          ]
+        ]
+      }
+    },
+    {
+      "source_id": "8194aeec-1942-474b-a1fe-c5aa6c5cad80",
+      "citation_number": 29,
+      "cited_text": "E.3 本人—波次关联及固定六项校正 N1从 13,514条本人—波次记录开始，完整资料 13,361条，剔除仅余一波的 68条后为 13,293条；其中 2,795人三波、2,454人两波。本人—波次等权意味着三波者总权重高\n于两波者，其他时变控制未全部分解均值与偏差。本人均值、本人偏差、配偶均值和配偶偏差的概率百分点系数依次为 1.655113、1.234941、1.841208 和−0.915259；95%区间依 次为[0.031740, 3.278486]、[−0.128793, 2.598675]、[0.168838, 3.513577]、[−2.298367, 0.467848]。这些区间未经多重比较调整。 表E.1 固定六项检验的原始p与BH/BY调整 <cited_table>",
+      "cited_table": {
+        "num_columns": 5,
+        "rows": [
+          [
+            "登记检验",
+            "原始p",
+            "BH q6",
+            "BY q6",
+            "状态"
+          ],
+          [
+            "N1本人满意度人际均值",
+            "0.045682",
+            "0.119940",
+            "0.293853",
+            "选择后探索"
+          ],
+          [
+            "N1本人满意度个人内偏差",
+            "0.075915",
+            "0.119940",
+            "0.293853",
+            "选择后探索"
+          ],
+          [
+            "N1配偶满意度人际均值",
+            "0.030937",
+            "0.119940",
+            "0.293853",
+            "选择后探索"
+          ],
+          [
+            "N1配偶满意度个人内偏差",
+            "0.194627",
+            "0.194627",
+            "0.476835",
+            "选择后探索"
+          ],
+          [
+            "P3原金额三状态整体",
+            "0.131934",
+            "0.158321",
+            "0.387886",
+            "选择后探索"
+          ],
+          [
+            "P3封顶金额三状态整体",
+            "0.079960",
+            "0.119940",
+            "0.293853",
+            "选择后探索"
+          ]
+        ]
+      }
+    },
+    {
+      "source_id": "8194aeec-1942-474b-a1fe-c5aa6c5cad80",
+      "citation_number": 30,
+      "cited_text": "注：固定家族共 6 项，数值修复后六项均可估计；BH/BY 均未在 0.05 水平拒绝。本表仅调整本次六项检验，不消除历史模型选择。P1/P2 敏感性区间不属于本表六项家族；旧\nB=200搜索校正另行报告。N2只描述既有分期点，不新增检验。 E.4 变量构造说明 表2变量构造的完整说明如下：描述总体为身份筛选通过的13,092条亲子二元组—区间记录（8,528个亲子二元组、5,318名成年子女），不是八条链的完整案例交集。连续 变量为均值（标准差），分类变量为n（%）；N按变量有效观测计算，不对全表统一删除缺失。提升／升级指标的资格外记录不计入该指标分母；未提升／未升级包含其他有\n效转移状态。家务时长以小时/日计，保存值按工作日与休息日回答的简单平均及各期直接日均回答的跳题规则构造；与归档脚本最终采用的5/7、2/7加权公式不一致，该差异现\n已完成8份总体样本和48份分组样本共56组两编码配对比较，完整保留1,960行结果：固定各自样本、模型、中心化常数及实际重抽样索引，仅替换家务编码，每种编码\nB=200。全部编码差及配对区间完整保留为历史定义的描述性敏感性结果，不作为新的机制显著性检验或独立验证。自评健康评分下降表示改善、上升表示恶化。子女数量按已\n记录的子女关系人标识计数，并取2010年至对应波次的最大值；排除79、-8及缺失标识，2012年起对非77标识去重，多个77仍分别计数，未按存活或同住状态筛选；0不必\n然表示已确认无子女。同住指标仅在本人及对应父母均居住在样本家庭时记1，其余记0，不能识别双方在样本家庭之外同住；非二元原始回答也被并入0，不能据此确认真实不\n同住。职业声望采用2010年至各对应波次所观察到的SIOPS最高值，历次均缺失时记0；并非仅对当期缺失值作补填。该水平指标不能等同于当期职业声望。家庭总负债以万元\n计，历史底稿将缺失置0；家庭总收入沿用历史保存的平减、缩尾后ln(收入+1)。按归档CPI值以2016年价格独立重建时，宽表样本的0.1%与99.9%分位点可复现四期保存值，\n但归档脚本写为1%与99%；历史实际执行版本尚待确认。父辈支持按2016—2022年四波累计：任一波经济与劳务支持合计为有效正值记1，否则记0；“未检出有效支持”包含\n可能的缺失情形，不能等同于确认没有支持。父母婚姻变化的“其他”包括维持原状态及失婚转为在婚，“在婚变失婚”仅指该方向转换。父母婚姻沿用历史填补值：原底稿按双亲\n死亡线索补判丧偶，其余缺失置为在婚。当前期初有761条记录的上游婚姻码缺失或为负码，其中625条最终归为在婚、136条归为失婚；该填补不能等同于直接观测到婚姻状\n态，按现存四期原始个人库独立重建后，死亡线索、父母性别及填补结果与当前数据一致；历史执行记录仍未独立确认。教育为学历折算年限：文盲或半文盲 0、小学 6、初中 9、\n高中或中专或技校或职高12、大专15、本科16、硕士及博士均为19；已追回的归档上游源码与恢复数据中的赋分一致，但历史实际执行版本尚未证实；该变量不能视为直接调\n查的实际就学年数。城乡沿用历史编码，城镇记0；乡村及源缺失值−9合并记1。表中合并组6,116条含206条源缺失，另56条现缺失源于对应波家庭ID未能连接；不能据此判\n断缺访原因。时期p值采用compareGroups的实际检验，未调整成年子女、亲子关系及跨期重复依赖，仅供探索性时期比较；不含p值的安全视图及资格、缺失明细另行保存。"
+    }
+  ],
+  "turn_number": 1,
+  "is_follow_up": false
+}

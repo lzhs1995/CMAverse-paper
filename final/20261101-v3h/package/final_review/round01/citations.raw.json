@@ -1,0 +1,92 @@
+{
+  "answer": "### 实质发现（共5条）\n\n1. **文献引用限定与因果链外推（许琪 2022；郑丹丹与狄金华 2017）** [1-3]\n   - **定位**：一、（二）1，PDF页2，正文“许琪（2022）……以及郑丹丹和狄金华（2017）……为将婚姻满意度纳入……提供了依据” [3]。\n   - **证据**：许琪（2022）基于CFPS 2014单波横截面模型 [1]，郑丹丹与狄金华（2017）基于CGSS2006评估定序支持 [2]。两者均为静态/单波分析，未包含本研究跨期收入/满意度差值变化与金额增长 [1, 2]。\n   - **类别**：表达改进；**严重性**：P3（若误解为已验证跨期因果链可致误读）。\n   - **最小改法**：补充声明：“许琪（2022）与郑丹丹等（2017）仅提供单波静态关联与变量选择参照 [1, 2]，本研究跨期动态因果链仍须独立检验” [3]。\n\n2. **Fujihara (2024) 敏感性分析方法参照界定** [4, 5]\n   - **定位**：二、（三），PDF页7，正文“既有敏感性分析（Fujihara, 2024; Ding et al., 2016...）” [5]。\n   - **证据**：Fujihara (2024) 在日本高中追踪数据中应用CMAverse计算E-value敏感性分析 [4]，其引用仅作为E-value计算方法的经验应用参照 [4]，不自动支持本研究的时间顺序或因果识别 [4, 5]。\n   - **类别**：表达改进；**严重性**：P3（防止将方法应用参照误扩为时序识别证据）。\n   - **最小改法**：正文澄清标注：“Fujihara (2024) 仅作为CMAverse包中E-value敏感性分析计算方法的经验应用参照 [4]，不作为时序识别证据” [5]。\n\n3. **王跃生（2026）背景文献与机制证据区分** [3, 6, 7]\n   - **定位**：一、（三）3，PDF页4，正文“王跃生（2026）报告，2020年城镇、乡村直系家庭占比……” [3]；参考文献PDF页46 [7]。\n   - **证据**：王跃生（2026）为报纸文献（《光明日报》2026-04-01），引述数据为宏观家庭结构分布 [3, 7]，与Wang & Arah (2015) 的g-computation方法无关 [6]，亦不能充当微观夫妻资源谈判或代际支持机制的实证证据 [3, 6]。\n   - **类别**：表达改进；**严重性**：P3（防止将宏观人口背景误归为内部协商机制）。\n   - **最小改法**：正文明确界定王跃生（2026）仅为“宏观家庭结构分布背景数据” [3]，严禁引申为资源谈判或代际支持机制的微观因果证据。\n\n4. **工程内部比例数据（28.35%/88.01%/71.65%）归属澄清** [8, 9]\n   - **定位**：四，PDF页27，正文“约 28.35%伴随本人评分提高、88.01%伴随配偶评分下降……其余约 71.65%……” [8]。\n   - **证据**：该组比例来源于本工程CFPS数据内相对位置跃迁计算 [8, 9]，属内部实证算术分解，无外部文献挂靠，正文已正确指出其无法作为绝对满意度提升推力的直接证据 [8]。\n   - **类别**：表达改进；**严重性**：P3（防止误挂靠外部理论文献）。\n   - **最小改法**：保持当前算术分解定性，再次强调“三项比例均为本工程数据内部计算结果，不得挂靠外部文献” [8]。\n\n5. **参考文献规范化与动态域代码核验** [7, 10-12]\n   - **定位**：参考文献，PDF页46–47，条目VanderWeele & Tchetgen Tchetgen (2017b) 及 Smith & VanderWeele (2019) [7]。\n   - **证据**：2017b论文刊名为 *JRSS-B* [7, 10]，2019年Mediational E-values论文刊名为 *Epidemiology* [7, 11]。现稿刊名规范化更新无误，非文献替换 [7]。但PDF渲染无法证明Word原生Zotero动态域/域代码状态 [12]。\n   - **类别**：无法核验（仅针对Word原生域代码状态）；**严重性**：P3（文本无误，仅需技术状态核验）。\n   - **最小改法**：正文维持规范刊名 [7]，标记“Zotero动态域代码与Word修订接受/拒绝保真度需Word原生文件核验” [12]。\n\n---\n\n### 全稿各章/附录紧凑覆盖表\n\n| 章节/板块 | 实际核读结论与依据 | 锚点与来源引用 |\n| :--- | :--- | :--- |\n| **摘要** | 明确核心结论未支持“收入改善普遍通过满意度提升促进支持”，提炼准确 [3]。 | PDF页1，摘要段落 [3] |\n| **一、引言** | 区分中介与调节假设，合理引入宏观家庭结构背景与中国情境 [3]。 | PDF页1–5，图1/图3 [3, 9] |\n| **二、研究设计** | 规范设定八条候选机制链、五模型结构及加性交互IC-RD指标 [5]。 | PDF页5–10，表1/表3 [5, 9] |\n| **正文 3.1–3.5** | 表2–表8及图5–图6完整呈现场景概率、风险差、历史OR与分组对比 [13]。 | PDF页11–26，表2/表4/表6/表8 [9, 13] |\n| **限定复核** | 确认去dwm后FEAS_031与041仍保留负向修饰线索，未支持完整中介 [13]。 | PDF页24–26，表11 [9, 13] |\n| **四、讨论与结论** | 准确总结四项研究边界，澄清28.35%/88.01%/71.65%内部比例数据属性 [8]。 | PDF页26–27 [8] |\n| **附录 A / B** | 原生rPe解释暂缓，明确历史CMAverse模型混杂与Gaussian近似局限 [12]。 | PDF页27–30，表A.1 [9, 12] |\n| **附录 C / D** | 呈现48项探索性分组与新14项/登记敏感性S1–S4/R1–R11完整数值 [12]。 | PDF页30–42，表D.3/表D.5 [9, 12] |\n| **附录 E** | 详细说明家务时长、子女数量、同住及CPI平减等变量构造及修改 [12]。 | PDF页42–46，表E.1 [9, 12] |\n| **参考文献** | 规范列出2017b JRSS-B及2019 Epidemiology等引用，无正文漏项 [7]。 | PDF页46–47 [7] |\n\n💡 是否需要对某些具体变量的定义或敏感性分析（如家务时长加权算法或CPI平减扣除项）展开进一步的代码级对账？",
+  "conversation_id": "1376b5e7-421c-4770-964f-a4c1a6c803c4",
+  "sources_used": [
+    "c83126a0-75c9-4470-90dd-98e511280f1f",
+    "ef0f1fba-1d6a-4898-ad4a-1f2f6995bb85",
+    "9686a9fe-8894-4310-8c65-f7c2303fbd77"
+  ],
+  "citations": {
+    "1": "c83126a0-75c9-4470-90dd-98e511280f1f",
+    "2": "c83126a0-75c9-4470-90dd-98e511280f1f",
+    "3": "ef0f1fba-1d6a-4898-ad4a-1f2f6995bb85",
+    "4": "9686a9fe-8894-4310-8c65-f7c2303fbd77",
+    "5": "ef0f1fba-1d6a-4898-ad4a-1f2f6995bb85",
+    "6": "9686a9fe-8894-4310-8c65-f7c2303fbd77",
+    "7": "ef0f1fba-1d6a-4898-ad4a-1f2f6995bb85",
+    "8": "ef0f1fba-1d6a-4898-ad4a-1f2f6995bb85",
+    "9": "ef0f1fba-1d6a-4898-ad4a-1f2f6995bb85",
+    "10": "9686a9fe-8894-4310-8c65-f7c2303fbd77",
+    "11": "c83126a0-75c9-4470-90dd-98e511280f1f",
+    "12": "ef0f1fba-1d6a-4898-ad4a-1f2f6995bb85",
+    "13": "ef0f1fba-1d6a-4898-ad4a-1f2f6995bb85"
+  },
+  "references": [
+    {
+      "source_id": "c83126a0-75c9-4470-90dd-98e511280f1f",
+      "citation_number": 1,
+      "cited_text": "Abstract Recent work has considerably advanced the                  under a possible counterfactual exposure intervention, definition, identification and estimation of controlled             under a pre-specified distribution of the mediator inde- direct, and natural direct and indirect effects in causal           pendent of any causes, or under a fixed controlled value. A mediation analysis. Despite the various estimation methods          final regression of the potential outcome on the exposure and statistical routines being developed, a unified approach        intervention variable was used to compute point estimates for effect estimation under different effect decomposition          and bootstrap was used to obtain confidence intervals. scenarios is still needed for epidemiologic research.               Through contrasting different potential outcomes, this G-computation offers such unification and has been used             analytical framework provides an intuitive way of esti- for total effect and joint controlled direct effect estimation      mating effects under the recently introduced 3- and 4-way settings, involving different types of exposure and outcome         effect decomposition. This framework can be extended to variables. In this study, we demonstrate the utility of             complex multivariable and longitudinal mediation settings. parametric g-computation in estimating various compo- nents of the total effect, including (1) natural direct and         Keywords G-computation \u0002 Parametric g-formula \u0002 indirect effects, (2) standard and stochastic controlled            Mediation analysis \u0002 Effect decomposition \u0002 Simulation direct effects, and (3) reference and mediated interaction effects, using Monte Carlo simulations in standard statis- tical software. For each study subject, we estimated their          Introduction nested potential outcomes corresponding to the (mediated) effects of an intervention on the exposure wherein the              Recent work has considerably advanced the definition, mediator was allowed to attain the value it would have              identification and estimation of different controlled or natural effects in causal mediation analysis. As a result, various estimation methods such as linear structural equa- Electronic supplementary material The online version of this        tion modeling, outcome and mediator regression-based article (doi:10.1007/s10654-015-0100-z) contains supplementary      methods, parametric g-computation, inverse-probability- material, which is available to authorized users. weighted (IPW) fitting of marginal structural models & Aolin Wang                                                        (MSMs), and sequential g-estimation [1, 2] have been aolinw@ucla.edu                                                   applied to mediation settings. With some notable excep- 1 tions [3–5], relatively few approaches can incorporate Department of Epidemiology, Fielding School of Public Health, University of California, Los Angeles (UCLA), general types of mediator and outcome variables. The 650 Charles E. Young Drive South, Los Angeles,                 simulation-based approach introduced by Imai et al. [3] and CA 90095-1772, USA                                             the regression-based approach proposed by Valeri and 2 California Center for Population Research (CCPR),              VanderWeele [5] are increasingly popular approaches; the Los Angeles, CA, USA                                           former may be unfamiliar to epidemiologists, and the latter 3 UCLA Center for Health Policy Research, Los Angeles, CA,       requires different regressions or approximations for dif- USA                                                            ferent mediator and outcome types. Meanwhile,"
+    },
+    {
+      "source_id": "c83126a0-75c9-4470-90dd-98e511280f1f",
+      "citation_number": 2,
+      "cited_text": "123 G-computation demonstration in causal mediation analysis                                                                                   1127 VanderWeele TJ. Bias formulas for sensitivity analysis for direct     34. Pearl J. Causal diagrams for empirical research. Biometrika. and indirect effects. Epidemiology. 2010;21:540–51.                       1995;82(4):669–88. Richardson TS, Robins JM. Single world intervention graphs            35. World Health Organization. World Health Survey: guide to (SWIGs): a unification of the counterfactual and graphical                administration and question by question specifications. Geneva. approaches to causality. 2013. https://www.csss.washington.edu/           2002. http://www.who.int/healthinfo/survey/whsshortversionguide. Papers/wp128.pdf.                                                         pdf. Accessed 22 Oct 2015. Naimi AI, Kaufman JS, MacLehose RF. Mediation misgivings:             36. Simpson EH. The interpretation of interaction in contingency ambiguous clinical and public health interpretations of natural           tables. J R Stat Soc Ser B. 1951;13:238–41. direct and indirect effects. Int J Epidemiol. 2014;43(5):1656–61.     37. Vansteelandt S, Bekaert M, Lange T. Imputation strategies for the Tchetgen Tchetgen EJ. Vanderweele TJ. Identification of natural           estimation of natural direct and indirect effects. Epidemiol direct effects when a confounder of the mediator is directly              Method. 2012;1(1):131–58. affected by exposure. Epidemiology. 2014;25(2):282–91.                38. Tchetgen EJT, Shpitser I. Semiparametric theory for causal Daniel RM, De Stavola BL, Cousens SN, Vansteelandt S. Causal              mediation analysis: efficiency bounds, multiple robustness and mediation analysis with multiple mediators. Biometrics.                   sensitivity analysis. Ann Stat. 2012;40(3):1816–45. 2015;71:1–14.                                                         39. Tchetgen Tchetgen E, Shpitser I. Semiparametric estimation of Daniel RM, Cousens SN, De Stavola BL, Kenward MG, Sterne                  models for natural direct and indirect effects. Harvard Univ JAC. Methods for dealing with time-dependent confounding. Stat            Biostat Work Pap Ser. 2011. Med. 2013;32:1584–618.                                                40. Van der Laan MJ, Petersen ML. Direct effect models. Int J Keil AP, Edwards JK, Richardson DB, Naimi AI, Cole SR. The                Biostat. 2008;4(1):1–27. parametric G-formula for time-to-event data: intuition and a          41. VanderWeele TJ. Marginal structural models for the estimation worked example. Epidemiology. 2014;25:889–97.                             of direct and indirect effects. Epidemiology. 2009;20(1):18–26. Young JG, Cain LE, Robins JM, O’Reilly EJ, Hernán MA. Com-           42. Imai K, Keele L, Yamamoto T. Identification, inference and parative effectiveness of dynamic treatment regimes: an application       sensitivity analysis for causal mediation effects. Stat Sci. of the parametric g-formula. Stat Biosci. 2011;3:119–43.                  2010;25(1):51–71. Westreich D, Cole SR, Young JG, Palella F, Tien PC, Kingsley L,       43. Albert JM. Distribution-free mediation analysis for nonlinear et al. The parametric g-formula to estimate the effect of highly          models with confounding. Epidemiology. 2012;23(6):879–88. active antiretroviral therapy on incident AIDS or death. Stat Med.    44. Zhang YT, Laraia BA, Mujahid MS, et al. Does food vendor 2012;31:2000–9.                                                           density mediate the association between neighborhood depriva-"
+    },
+    {
+      "source_id": "ef0f1fba-1d6a-4898-ad4a-1f2f6995bb85",
+      "citation_number": 3,
+      "cited_text": "NIH-PA Author Manuscript Epidemiology. 2014 September ; 25(5): 749–761. doi:10.1097/EDE.0000000000000121."
+    },
+    {
+      "source_id": "9686a9fe-8894-4310-8c65-f7c2303fbd77",
+      "citation_number": 4,
+      "cited_text": "Review of all 32 articles using quantitative data in the 2018 American Sociological Review A) Is there a unit-specific quantity (e.g. Eq 3.1)?                                  Details in Appendix Table 3 3 types of articles with distinct issues"
+    },
+    {
+      "source_id": "ef0f1fba-1d6a-4898-ad4a-1f2f6995bb85",
+      "citation_number": 5,
+      "cited_text": "VanderWeele                                                                                              Page 9"
+    },
+    {
+      "source_id": "9686a9fe-8894-4310-8c65-f7c2303fbd77",
+      "citation_number": 6
+    },
+    {
+      "source_id": "ef0f1fba-1d6a-4898-ad4a-1f2f6995bb85",
+      "citation_number": 7,
+      "cited_text": "Epidemiology. Author manuscript; available in PMC 2015 September 01. NIH-PA Author Manuscript                                       NIH-PA Author Manuscript                          NIH-PA Author Manuscript"
+    },
+    {
+      "source_id": "ef0f1fba-1d6a-4898-ad4a-1f2f6995bb85",
+      "citation_number": 8,
+      "cited_text": "VanderWeele                                                                                                           Page 14"
+    },
+    {
+      "source_id": "ef0f1fba-1d6a-4898-ad4a-1f2f6995bb85",
+      "citation_number": 9,
+      "cited_text": "Epidemiology. Author manuscript; available in PMC 2015 September 01."
+    },
+    {
+      "source_id": "9686a9fe-8894-4310-8c65-f7c2303fbd77",
+      "citation_number": 10,
+      "cited_text": "Table 4. Review of target populations. Systematic coding of individual papers from ASR 2018. Table 11–14 justify the coding of each paper. Authors               Title                                                  Underspecified mediation claim Liu                   Social and genetic pathways in multigenerational       Targets mediation estimands such as “the effect of parents’ genotypes on children’s education transmission of educational attainment                 net of children’s genotype” (p. 283) or how the relationship between parent and child education is mediated by child genotype. Focusing on the latter, this could be a mediation claim about the effect of parents’ education on children’s education that would persist in a counterfactual world where children’s genotype took a particular value. While the authors use Sobel’s test to make claims about the “strength” of this mediation—for instance, “The parent-child association in education is reduced by...7.2 percent when child’s PGS is controlled”(p. 288), the direct effect might be different at different mediator values. To what value is the mediator counterfactually set? Wedow et al.          Education, smoking, and cohort change: Forwarding      “Mediated pleiotropy exists when a genetic variant has a direct effect on only one of the phe- a multidimensional theory of the environmental mod-    notypes under consideration; its association with the second phenotype is mediated by the first. eration of genetic effects                             For example, mediated pleiotropic effects will arise if genes affect educational attainment, and education affects smoking,” (p. 803). The direct effect of genes on smoking may be different in counterfactual worlds in which education is set to different values. To which value is education counterfactually set? Barber et al.         The dynamics of intimate partner violence and the      “Panel B in Table 6 presents a summary of the results of formal tests of mediation (using the"
+    },
+    {
+      "source_id": "c83126a0-75c9-4470-90dd-98e511280f1f",
+      "citation_number": 11,
+      "cited_text": "Eur J Epidemiol (2015) 30:1119–1127 DOI 10.1007/s10654-015-0100-z G-computation demonstration in causal mediation analysis Aolin Wang1,2 • Onyebuchi A. Arah1,2,3 Received: 19 May 2015 / Accepted: 28 October 2015 / Published online: 4 November 2015 Ó Springer Science+Business Media Dordrecht 2015"
+    },
+    {
+      "source_id": "ef0f1fba-1d6a-4898-ad4a-1f2f6995bb85",
+      "citation_number": 12,
+      "cited_text": "NIH-PA Author Manuscript In the Appendix we will no longer restrict attention to binary exposure and mediator and will consider an arbitrary exposure and mediator. We will assume we are comparing two exposure levels a and a*. We give the general four-way decomposition result in Proposition 1."
+    },
+    {
+      "source_id": "ef0f1fba-1d6a-4898-ad4a-1f2f6995bb85",
+      "citation_number": 13,
+      "cited_text": "VanderWeele                                                                                           Page 13 NIH-PA Author Manuscript In the more general setting, when A affects M, it is possible to estimate the portion due to interaction on the average level using the three-way decomposition in (7). But there is no need to use only a three-way decomposition; we can instead use the four-way decomposition in (1) and the empirical expressions in (1b) to further divide the portion due to interaction into that which is due to interaction but not mediation (the reference interaction, E[INTref ]) and the portion due to interaction and mediation (the mediated interaction E[INTmed]). Such a four-way decomposition, in which the portion attributed to interaction is itself further divided, may shed additional insight."
+    }
+  ],
+  "turn_number": 1,
+  "is_follow_up": false
+}

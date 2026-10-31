@@ -1,0 +1,51 @@
+{
+  "status": "DERIVED_READING_FIXED",
+  "source_markdown_sha256": "8bc763b033f89065a20ad14b6cd88c982ca118106450766e74612d1652835edc",
+  "fixed_markdown_sha256": "cd11875f8bb98165fc6f4b9929d7bcc225beb4cadb75a30db33544a76975cf73",
+  "standalone_html_sha256": "98a24cbade271c4a4a53e67e0f3b4b93b70666398211fb9cbb21d8d28581590f",
+  "title_abstract_keywords_exact_docx_paragraphs": [
+    0,
+    1,
+    2
+  ],
+  "inline_formulas": 10,
+  "mathml_formulas": 10,
+  "html_tables": 34,
+  "images": [
+    "media/media/image1.png",
+    "media/media/image2.png",
+    "media/media/image3.png"
+  ],
+  "formula_tex_bodies_unchanged": [
+    "E\\lbrack Y_{1,M_{1}}\\  - \\ Y_{0,M_{0}}\\rbrack",
+    "E\\lbrack Y_{1,M_{0}}\\  - \\ Y_{0,M_{0}}\\rbrack",
+    "E\\lbrack Y_{1,M_{1}}\\  - \\ Y_{1,M_{0}}\\rbrack",
+    "E\\lbrack Y_{1,0}\\  - \\ Y_{0,0}\\rbrack",
+    "E\\lbrack J\\ M_{0}\\rbrack",
+    "E\\lbrack J\\ (M_{1}\\  - \\ M_{0})\\rbrack",
+    "E\\lbrack Y_{0,M_{1}}\\  - \\ Y_{0,M_{0}}\\rbrack",
+    "\\frac{TNIE}{TE}",
+    "\\frac{INTref\\  + \\ INTmed}{TE}",
+    "\\frac{TE\\  - \\ CDE(0)}{TE}"
+  ],
+  "native_sources_unchanged": [
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v2/delivery_stage_v1/manuscript/CMAverse_V3h_final_accepted.docx",
+      "sha256": "4eec9f0ccf4c510aa2aad5d7415006f937a292c2a23ddf201d291f1ec5fce650"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v2/delivery_stage_v1/manuscript/CMAverse_V3h_final_accepted.pdf",
+      "sha256": "6bde712d3564f8116dcc13ac769881104058951a753d7eba8b38cc9206cec291"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v2/delivery_stage_v1/manuscript/CMAverse_V3h_final_rejected.docx",
+      "sha256": "7cc695d598de91a0305f5fd278fdfdeffc7be761501bfe228e59bc10e871cd92"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v2/delivery_stage_v1/manuscript/CMAverse_V3h_final_tracked.docx",
+      "sha256": "f0fc0b6c0af67352bfbc79dc26eb23948f4c0df9a6c49e2a210ad16ab72402a9"
+    }
+  ],
+  "pandoc_stderr": "",
+  "nlm_document_identity_changed": false
+}

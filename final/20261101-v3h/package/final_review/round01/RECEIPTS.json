@@ -1,0 +1,28 @@
+{
+  "receipts": [
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/nlm_current_actor_v1/final6bde712d_compact_v3/unsent_connection_continuation/2f47422a6267e1322a155bdf539531b66158b6397b66ae1f14601cf83788ca71/RECOVERED_RECEIPT.json",
+      "sha256": "9badf9272f0a6aa262d9d41bce488d6dac69d89e26bebf323f2df39f09c28c6b"
+    },
+    {
+      "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/2934ad2e42a59286680f20b86e79406264f3baffb266b516bcd04296b50e6c05/receipt.json",
+      "sha256": "eab10b53da27f85d026f73ad0ecd9ba34bc3aab0e7cb55fd1853932d7e0f616a"
+    },
+    {
+      "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/8791dc278c7d0b1a4f656910c0af80a5dff474101c270d5946148ce90e6f0c3a/receipt.json",
+      "sha256": "eb78540b6142d5bc43147b28fd4599546c5c4e4fc8ee45753aa84c8a79cd7d66"
+    },
+    {
+      "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/546cf1fb733447da8f96b863c1528a67d360ae2f042b9c9f3da8937faad37f70/receipt.json",
+      "sha256": "fbcba40272f97df1c3b8ba7da6ebaa1d3974e9ade0b60c3f11d18e37ea9b6966"
+    },
+    {
+      "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/a1e6abc0cbf6f305baa645151fcb39fb7267a19e981208351c4d60c77cac1c9e/receipt.json",
+      "sha256": "edd4652c3eb4e731a2ea27bbeb9d498ec05e18c17bff402b9e0603adb24c9827"
+    },
+    {
+      "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/be529a93e82442d0eada60f4965552afd17d639f6d1ef87a3b61e1351112e8a2/receipt.json",
+      "sha256": "aeb54d79f811e3189a0ad9719f49c976eff7eb76962b76d871c1b6f3e6b3dca1"
+    }
+  ]
+}

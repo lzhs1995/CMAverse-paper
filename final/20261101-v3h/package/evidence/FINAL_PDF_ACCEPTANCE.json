@@ -1,0 +1,273 @@
+{
+  "schema": "cma19133-final-five-gates-evidence-v1",
+  "at_utc": "2026-10-31T18:26:12.221090+00:00",
+  "task_id": "CMAverse-PLAN13-full-review-20260929",
+  "pdf": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_pdf_structure_v1/CMAverse_V3h_final_accepted.pdf",
+    "bytes": 1498172,
+    "sha256": "6bde712d3564f8116dcc13ac769881104058951a753d7eba8b38cc9206cec291"
+  },
+  "documents": {
+    "accepted": {
+      "path": "/Users/lzhs/Library/Containers/com.microsoft.Word/Data/Documents/wordrev-pdf/cma19133_final_native_20261101_v1/CMAverse_V3h_final_accepted.docx",
+      "bytes": 485438,
+      "sha256": "4eec9f0ccf4c510aa2aad5d7415006f937a292c2a23ddf201d291f1ec5fce650"
+    },
+    "rejected": {
+      "path": "/Users/lzhs/Library/Containers/com.microsoft.Word/Data/Documents/wordrev-pdf/cma19133_final_native_20261101_v1/CMAverse_V3h_final_rejected.docx",
+      "bytes": 483897,
+      "sha256": "7cc695d598de91a0305f5fd278fdfdeffc7be761501bfe228e59bc10e871cd92"
+    },
+    "tracked": {
+      "path": "/Users/lzhs/Library/Containers/com.microsoft.Word/Data/Documents/wordrev-pdf/cma19133_final_native_20261101_v1/CMAverse_V3h_final_tracked.docx",
+      "bytes": 492857,
+      "sha256": "f0fc0b6c0af67352bfbc79dc26eb23948f4c0df9a6c49e2a210ad16ab72402a9"
+    }
+  },
+  "native_validation": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_native_v1/FINAL_NATIVE_VERIFIED.json",
+    "bytes": 13909,
+    "sha256": "1a0421407424a76321c93a29be6f447fbe04f555e1119dee8ec077dee8e66494"
+  },
+  "native_receipts": [
+    {
+      "script": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_native_v1/10_accepted_save_close.applescript",
+        "bytes": 1198,
+        "sha256": "5a36ecd4a70b8c6dbd59bbad64154f8841dbb77c7d13dbf79e5a87314431406e"
+      },
+      "intent": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_native_v1/10_accepted_save_close.INTENT.json",
+        "bytes": 2789,
+        "sha256": "0e45253a9ca056fcc6528ea7c99cd8de837b2c3c947f745966d2673d4d15a842"
+      },
+      "result": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_native_v1/10_accepted_save_close.RESULT.json",
+        "bytes": 167,
+        "sha256": "8ddedb253d234eca18c90b08494ccd3730db275c2f9c179abe05a2ccc898b729"
+      }
+    },
+    {
+      "script": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_native_v1/11_accepted_reopen_export_close.applescript",
+        "bytes": 1821,
+        "sha256": "e17f58665f5f850761330fd204aee22a78eca4ae77d8ee0328a4c4ecba44eabb"
+      },
+      "intent": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_native_v1/11_accepted_reopen_export_close.INTENT.json",
+        "bytes": 2798,
+        "sha256": "1acee0727676c7cadbb67ae1b57d5ee4625f0948cda12a7d76b98043e9bee323"
+      },
+      "result": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_native_v1/11_accepted_reopen_export_close.RESULT.json",
+        "bytes": 172,
+        "sha256": "b8e66af85b90103693496a3fbd9cf6a5813bfc205e13b8567cc82ce1f261a434"
+      }
+    },
+    {
+      "script": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_native_v1/20_rejected_save_close.applescript",
+        "bytes": 1198,
+        "sha256": "fe00fef3996c9abcb1db7b4389a9a60842c9e419f15e8d431290082b1c778983"
+      },
+      "intent": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_native_v1/20_rejected_save_close.INTENT.json",
+        "bytes": 2789,
+        "sha256": "b93c2b0e3a06c9bc45376e10a9db249002fd23b2c9fd2764ca7f47411cb2e205"
+      },
+      "result": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_native_v1/20_rejected_save_close.RESULT.json",
+        "bytes": 167,
+        "sha256": "5992045f08a7a1ae47d242581524b3c347e0e0eacb21922d2bb9aa57c2de1e4d"
+      }
+    },
+    {
+      "script": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_native_v1/21_rejected_reopen_close.applescript",
+        "bytes": 1198,
+        "sha256": "fe320423352fa391c774593213936f441842919615b6cde5e573928a11c126d0"
+      },
+      "intent": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_native_v1/21_rejected_reopen_close.INTENT.json",
+        "bytes": 2791,
+        "sha256": "aefde26a166f84af0d0adec8a4de66704b4b5fd6bd5292b7ed6d68891855f9ba"
+      },
+      "result": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_native_v1/21_rejected_reopen_close.RESULT.json",
+        "bytes": 172,
+        "sha256": "e28264019a052ed021d46190894a06f434ac648612f80b34c7f110c74fe199b0"
+      }
+    },
+    {
+      "script": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_native_v1/30_tracked_save_close.applescript",
+        "bytes": 1196,
+        "sha256": "161fd9cb51aa228cd89c321d92d51221281677bad30524beff5368135caa6ac0"
+      },
+      "intent": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_native_v1/30_tracked_save_close.INTENT.json",
+        "bytes": 2788,
+        "sha256": "5fa7e3794558ec08d7b019dac28a83142e8960a360bdbeb12f6b9ddb7d5f78a4"
+      },
+      "result": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_native_v1/30_tracked_save_close.RESULT.json",
+        "bytes": 166,
+        "sha256": "372369207484ce1d27f12fc629096af3909e379449cec3dd31398e77de4024df"
+      }
+    },
+    {
+      "script": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_native_v1/31_tracked_reopen_close.applescript",
+        "bytes": 1196,
+        "sha256": "2d8877844ea5ad57521f2ce2d9113715e181e63346aea0ccf6467af894184a53"
+      },
+      "intent": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_native_v1/31_tracked_reopen_close.INTENT.json",
+        "bytes": 2790,
+        "sha256": "caa63642d7ad861e035eda9f4c852a125d692ef35070c6be2a15bd7808fc1948"
+      },
+      "result": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_native_v1/31_tracked_reopen_close.RESULT.json",
+        "bytes": 171,
+        "sha256": "0cf6209d90c6e5c21907b631aa361907cced5979f1a61ecfb385b9285222a28d"
+      }
+    }
+  ],
+  "technical_review": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_pdf_review_v1/RESULT.json",
+    "bytes": 46724,
+    "sha256": "98258f1a06893eccb1997f43aaef9b2011654b944bfd1af68081fe5b7b534f97"
+  },
+  "structure_repair": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_pdf_structure_v1/RESULT.json",
+    "bytes": 11775,
+    "sha256": "3de84d0262606c67aa073d30801d286b83bc6bab2c9f4d4e9e079a9361b202ec"
+  },
+  "empirical_continuity": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/EMPIRICAL_CONTENT_CONTINUITY_PRE_NATIVE.json",
+    "bytes": 6402,
+    "sha256": "e302eeb51b604a87764d5b5c5a84d857633105efa55f857a7b9b964f46d182a8"
+  },
+  "visual_review": {
+    "status": "PASS",
+    "review_mode": "solo_self_review",
+    "reviewer": "Codex / 01a19133",
+    "method": "实际 view_image(original) 审看八张联系表，覆盖 47 页；最终修复 PDF 与这些原生页面逐页像素一致。",
+    "pages_reviewed": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47
+    ],
+    "contact_sheets": [
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_pdf_review_v1/sheet-01-06.png",
+        "bytes": 1513932,
+        "sha256": "d8d55383df14aab38be32aa6b0add04903abefdd7e8c9d7b07a775dd10f63fc7"
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_pdf_review_v1/sheet-07-12.png",
+        "bytes": 1304674,
+        "sha256": "03ac56383fbf55a5ca79f0365eaaacd4807099bb1bd61df0a79a11f1280405a5"
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_pdf_review_v1/sheet-13-18.png",
+        "bytes": 1047318,
+        "sha256": "dade4dae901fa8c005431f15c4c73d055377083c1fbbf3f5ed4f739819aa7a6a"
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_pdf_review_v1/sheet-19-24.png",
+        "bytes": 1311260,
+        "sha256": "a45322527e62712c696a98bd55c22fe5499c30ab0f09f4dbf99d9f600e373860"
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_pdf_review_v1/sheet-25-30.png",
+        "bytes": 1120990,
+        "sha256": "133c5782b814d14e5d3b044a73869cacbd1ee5bc6d8b2d46693b291740cd8291"
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_pdf_review_v1/sheet-31-36.png",
+        "bytes": 774163,
+        "sha256": "59722e8a1185117c1cbce6d1b4ec2b57653a27f2352d041a91d02aacb47ac412"
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_pdf_review_v1/sheet-37-42.png",
+        "bytes": 1278606,
+        "sha256": "d16403fb69178626e086f5b191439940115822d0ee4e3ec8549a99ef5207b1fc"
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_pdf_review_v1/sheet-43-47.png",
+        "bytes": 1319328,
+        "sha256": "edd1f941b61a6fedb7dbc436043088fe020bfe39564e81f5b9e92ce21733fdd5"
+      }
+    ],
+    "checks": {
+      "visible_text_or_table_clipping": false,
+      "missing_or_overlapped_figure": false,
+      "unreadable_glyphs_observed": false,
+      "page_numbers_1_to_47_continuous": true,
+      "table10_and_table11_columns_readable": true,
+      "appendices_A_to_E_and_references_present": true
+    },
+    "observations": [
+      "第 26 页保留原版两行尾段和留白；内容连续，无裁切或空白缺页。",
+      "第 24—25 页表 10、11 的列内容清楚；第 46—47 页书目及两处刊名可读。"
+    ],
+    "limits": "这是实际页面视觉验收，不将其冒称为新增统计重估或远端 NLM 审读。"
+  },
+  "gate_basis": {
+    "native_word_zotero": "三稿六次真实保存/重开回执，双视图和引文合同通过；原 C3 刷新已完成。",
+    "format": "九个 story、34 表、3 媒体、10 公式及完整语义/有效格式投影通过，页码连续。",
+    "pdf_fonts": "27 个 PDF 字体项全部嵌入，未见替代字体；索引修复未改变资源和页面。",
+    "pdf_visual": "本轮实际审看全部 47 页，并核对应最终 PDF 的像素等价证据。",
+    "empirical_adjudication": "复用已完成实证审计；三稿各 2956 表格单元不变，仅两条书目刊名修正。历史数值/识别限制保留。"
+  },
+  "all_five_gates_pass": true,
+  "new_Word_calls": 0,
+  "new_model_runs": 0,
+  "NLM_rounds_credited": 0,
+  "review_mode": "solo_self_review"
+}

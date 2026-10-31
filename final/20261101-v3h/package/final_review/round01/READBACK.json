@@ -1,0 +1,195 @@
+{
+  "schema": "cma-complete-original-review-evidence-v1",
+  "at": "2026-10-31T20:30:36.838663+00:00",
+  "status": "SIX_COMPLETE_RESPONSES_COLLECTED_NOT_LOCAL_ADJUDICATION",
+  "round": 1,
+  "manifest": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/nlm_current_actor_v1/final6bde712d_compact_v3/FINAL_QUERY_MANIFEST.json",
+    "sha256": "27e7c50ca1d3b7aab5e28be6b9797fec347958bc8a7e96d901dc20d33de4ce14"
+  },
+  "document_sha256": "6bde712d3564f8116dcc13ac769881104058951a753d7eba8b38cc9206cec291",
+  "responses": [
+    {
+      "topic": "theory_method",
+      "round_id": "cma19133_20261101_final6bde712d_compact_native_v3-r01-theory_method",
+      "request": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/nlm_current_actor_v1/final6bde712d_compact_v3/round01/theory_method.json",
+        "sha256": "6ee4546cff01c5a06193d3f901452ced098264d28d25172140e6657d07fff471"
+      },
+      "receipt": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/nlm_current_actor_v1/final6bde712d_compact_v3/unsent_connection_continuation/2f47422a6267e1322a155bdf539531b66158b6397b66ae1f14601cf83788ca71/RECOVERED_RECEIPT.json",
+        "sha256": "9badf9272f0a6aa262d9d41bce488d6dac69d89e26bebf323f2df39f09c28c6b"
+      },
+      "request_id": "2f47422a6267e1322a155bdf539531b66158b6397b66ae1f14601cf83788ca71",
+      "conversation_id": "1cfac9d0-ec9a-44fd-9272-f7a58be84232",
+      "raw_answer": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/nlm_current_actor_v1/final6bde712d_compact_v3/unsent_connection_continuation/2f47422a6267e1322a155bdf539531b66158b6397b66ae1f14601cf83788ca71/transport/2f47422a6267e1322a155bdf539531b66158b6397b66ae1f14601cf83788ca71/raw.json",
+        "sha256": "f0dc52e46550f3484a860f28315ab6ea51aa6e5f21d1afd19b4aa5298bf0d813"
+      },
+      "raw_byte_identical_copy": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v3/round01_evidence/theory_method.raw.json",
+        "sha256": "f0dc52e46550f3484a860f28315ab6ea51aa6e5f21d1afd19b4aa5298bf0d813"
+      },
+      "answer_text": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v3/round01_evidence/theory_method.md",
+        "sha256": "d8b34e3d6213f171a43f4a71844f34877a5a81cd71e26728d0ef3def0c68b6e9"
+      },
+      "native_citations": 45,
+      "started_at": 1793476841.588632,
+      "ended_at": 1793477560.337433
+    },
+    {
+      "topic": "data_figures",
+      "round_id": "cma19133_20261101_final6bde712d_compact_native_v3-r01-data_figures",
+      "request": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/nlm_current_actor_v1/final6bde712d_compact_v3/round01/data_figures.json",
+        "sha256": "71b13212c509a45b0013409161d6ab6233b7a9462227ce66e296b6d7017d8cab"
+      },
+      "receipt": {
+        "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/2934ad2e42a59286680f20b86e79406264f3baffb266b516bcd04296b50e6c05/receipt.json",
+        "sha256": "eab10b53da27f85d026f73ad0ecd9ba34bc3aab0e7cb55fd1853932d7e0f616a"
+      },
+      "request_id": "2934ad2e42a59286680f20b86e79406264f3baffb266b516bcd04296b50e6c05",
+      "conversation_id": "6dc904f3-b452-44b9-bc92-10c5a4c69ee3",
+      "raw_answer": {
+        "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/2934ad2e42a59286680f20b86e79406264f3baffb266b516bcd04296b50e6c05/raw.json",
+        "sha256": "3d145704196901435a7d8e50ad40775a80c4568f6de7dbe882c463611c3a816f"
+      },
+      "raw_byte_identical_copy": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v3/round01_evidence/data_figures.raw.json",
+        "sha256": "3d145704196901435a7d8e50ad40775a80c4568f6de7dbe882c463611c3a816f"
+      },
+      "answer_text": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v3/round01_evidence/data_figures.md",
+        "sha256": "625e7dae0a7860638f1b99382152ea2b3df7463a85e27a113f089442c08f41ba"
+      },
+      "native_citations": 17,
+      "started_at": 1793477672.608577,
+      "ended_at": 1793477793.353673
+    },
+    {
+      "topic": "structure",
+      "round_id": "cma19133_20261101_final6bde712d_compact_native_v3-r01-structure",
+      "request": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/nlm_current_actor_v1/final6bde712d_compact_v3/round01/structure.json",
+        "sha256": "775ca1ea191e3a0197a2c985ef9bb5f52ddb962b7c21bb6076e79f6c35828cf2"
+      },
+      "receipt": {
+        "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/8791dc278c7d0b1a4f656910c0af80a5dff474101c270d5946148ce90e6f0c3a/receipt.json",
+        "sha256": "eb78540b6142d5bc43147b28fd4599546c5c4e4fc8ee45753aa84c8a79cd7d66"
+      },
+      "request_id": "8791dc278c7d0b1a4f656910c0af80a5dff474101c270d5946148ce90e6f0c3a",
+      "conversation_id": "7290ba61-35b4-4f78-b18f-8e35d9869c4d",
+      "raw_answer": {
+        "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/8791dc278c7d0b1a4f656910c0af80a5dff474101c270d5946148ce90e6f0c3a/raw.json",
+        "sha256": "01a05d01b1971edafba9842235ad1879e0447fc70025b953a82b4ff4a0f89ab0"
+      },
+      "raw_byte_identical_copy": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v3/round01_evidence/structure.raw.json",
+        "sha256": "01a05d01b1971edafba9842235ad1879e0447fc70025b953a82b4ff4a0f89ab0"
+      },
+      "answer_text": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v3/round01_evidence/structure.md",
+        "sha256": "5606662d16c6cefa99ba29db470a2ed15a52f5629a6bb644654669c030c32352"
+      },
+      "native_citations": 21,
+      "started_at": 1793477910.3885498,
+      "ended_at": 1793477995.504431
+    },
+    {
+      "topic": "language",
+      "round_id": "cma19133_20261101_final6bde712d_compact_native_v3-r01-language",
+      "request": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/nlm_current_actor_v1/final6bde712d_compact_v3/round01/language.json",
+        "sha256": "90f4b4be692949ed7cefdf8fdc682f5808ccae0886e5cee8c151948a6ad165c3"
+      },
+      "receipt": {
+        "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/546cf1fb733447da8f96b863c1528a67d360ae2f042b9c9f3da8937faad37f70/receipt.json",
+        "sha256": "fbcba40272f97df1c3b8ba7da6ebaa1d3974e9ade0b60c3f11d18e37ea9b6966"
+      },
+      "request_id": "546cf1fb733447da8f96b863c1528a67d360ae2f042b9c9f3da8937faad37f70",
+      "conversation_id": "1e35bdf7-a477-4eed-ae6c-ade3bf6e269e",
+      "raw_answer": {
+        "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/546cf1fb733447da8f96b863c1528a67d360ae2f042b9c9f3da8937faad37f70/raw.json",
+        "sha256": "3e8e6a9adc833b89dfd37875b407048e0807a564bb255384eeb7aab62b5b9fa9"
+      },
+      "raw_byte_identical_copy": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v3/round01_evidence/language.raw.json",
+        "sha256": "3e8e6a9adc833b89dfd37875b407048e0807a564bb255384eeb7aab62b5b9fa9"
+      },
+      "answer_text": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v3/round01_evidence/language.md",
+        "sha256": "fa457a212c2ba776f22b4a93750a98cd2f9f6cb64b9311d59a2532facfdcccaf"
+      },
+      "native_citations": 21,
+      "started_at": 1793478098.558869,
+      "ended_at": 1793478200.624631
+    },
+    {
+      "topic": "citations",
+      "round_id": "cma19133_20261101_final6bde712d_compact_native_v3-r01-citations",
+      "request": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/nlm_current_actor_v1/final6bde712d_compact_v3/round01/citations.json",
+        "sha256": "36635659784f7646274db61cb701b0f9d2e522a0cb2a3dbdb97225ab821f24e9"
+      },
+      "receipt": {
+        "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/a1e6abc0cbf6f305baa645151fcb39fb7267a19e981208351c4d60c77cac1c9e/receipt.json",
+        "sha256": "edd4652c3eb4e731a2ea27bbeb9d498ec05e18c17bff402b9e0603adb24c9827"
+      },
+      "request_id": "a1e6abc0cbf6f305baa645151fcb39fb7267a19e981208351c4d60c77cac1c9e",
+      "conversation_id": "1376b5e7-421c-4770-964f-a4c1a6c803c4",
+      "raw_answer": {
+        "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/a1e6abc0cbf6f305baa645151fcb39fb7267a19e981208351c4d60c77cac1c9e/raw.json",
+        "sha256": "25d81c3ec65874c85af6dc782b6f09e656d7b9b4bd1fb2aaa236869a7e9dfc82"
+      },
+      "raw_byte_identical_copy": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v3/round01_evidence/citations.raw.json",
+        "sha256": "25d81c3ec65874c85af6dc782b6f09e656d7b9b4bd1fb2aaa236869a7e9dfc82"
+      },
+      "answer_text": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v3/round01_evidence/citations.md",
+        "sha256": "40bb8e14b34a551b74d8033475c94ec22e3eef17e2300678500d5005f863176c"
+      },
+      "native_citations": 13,
+      "started_at": 1793478215.462782,
+      "ended_at": 1793478345.72183
+    },
+    {
+      "topic": "formatting",
+      "round_id": "cma19133_20261101_final6bde712d_compact_native_v3-r01-formatting",
+      "request": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/nlm_current_actor_v1/final6bde712d_compact_v3/round01/formatting.json",
+        "sha256": "56310354c742b7bc046c7b7ee31c82515c4f1726e94c2ed6fcce8738b8fb5aca"
+      },
+      "receipt": {
+        "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/be529a93e82442d0eada60f4965552afd17d639f6d1ef87a3b61e1351112e8a2/receipt.json",
+        "sha256": "aeb54d79f811e3189a0ad9719f49c976eff7eb76962b76d871c1b6f3e6b3dca1"
+      },
+      "request_id": "be529a93e82442d0eada60f4965552afd17d639f6d1ef87a3b61e1351112e8a2",
+      "conversation_id": "12001244-5556-4966-9d76-53fb75d7b059",
+      "raw_answer": {
+        "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/be529a93e82442d0eada60f4965552afd17d639f6d1ef87a3b61e1351112e8a2/raw.json",
+        "sha256": "8f4668d2a5b0229c92cb6699ee9826ae40795b3ef0b322a39147cb67fb32685d"
+      },
+      "raw_byte_identical_copy": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v3/round01_evidence/formatting.raw.json",
+        "sha256": "8f4668d2a5b0229c92cb6699ee9826ae40795b3ef0b322a39147cb67fb32685d"
+      },
+      "answer_text": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v3/round01_evidence/formatting.md",
+        "sha256": "770488f500dc4b4ad04505e6965f39472e1dafca5eaa55c26bebff8d94ccfe23"
+      },
+      "native_citations": 20,
+      "started_at": 1793478399.131818,
+      "ended_at": 1793478495.8248231
+    }
+  ],
+  "receipts": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v3/round01_evidence/RECEIPTS.json",
+    "sha256": "d791afe7cb4880f7df026ab307b3cf17fd0201cf2950cb325a17ea2622d10920"
+  },
+  "independent_conversations": 6,
+  "original_files_changed": false,
+  "network_requests": 0,
+  "review_mode": "solo_self_review"
+}

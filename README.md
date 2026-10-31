@@ -1,3 +1,13 @@
+## 2026-11-01 CMAverse V3h 最终交付
+
+[最终稿入口](final/20261101-v3h/README.md) · [47页论文PDF](final/20261101-v3h/package/manuscript/CMAverse_V3h_final_accepted.pdf) · [Word接受稿](final/20261101-v3h/package/manuscript/CMAverse_V3h_final_accepted.docx) · [修订对照稿](final/20261101-v3h/package/manuscript/CMAverse_V3h_final_tracked.docx) · [完整ZIP](final/20261101-v3h/CMAverse_V3h_final_20261101.zip)
+
+三份原生Word、最终PDF及同稿两轮六主题NotebookLM终审已完成。12个独立会话、328条原生引用和57条意见均已逐项核实，未发现需继续修改母稿的新问题。当前证据未明确支持完整中介，历史识别条件与推断暂缓说明保留。发布和百度回下载的实际核验记录见[包外验收](final/20261101-v3h/PUBLICATION_VERIFICATION.json)。
+
+下方保留各历史版本的原记录；其待办状态仅代表当时。
+
+---
+
 ## 2026-10-30 当前累计修订稿 V3h
 
 [当前审阅入口](review/20261030-v3h-current/README.md) · [在线阅读全文](review/20261030-v3h-current/MANUSCRIPT_READING.md) · [ChatGPT / Claude 要求逐项回应](review/20261030-v3h-current/REVIEW_RESPONSE.md) · [下载来源包](review/20261030-v3h-current/CMAverse_V3h_source_bundle.zip)

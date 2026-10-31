@@ -1,0 +1,75 @@
+{
+  "task_id": "CMAverse-PLAN13-full-review-20260929",
+  "state": "FINAL_PDF_FROZEN_BY_ROOT",
+  "review_id": "cma19133_20261101_final6bde712d",
+  "pdf": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_pdf_structure_v1/CMAverse_V3h_final_accepted.pdf",
+    "bytes": 1498172,
+    "sha256": "6bde712d3564f8116dcc13ac769881104058951a753d7eba8b38cc9206cec291"
+  },
+  "docx": {
+    "path": "/Users/lzhs/Library/Containers/com.microsoft.Word/Data/Documents/wordrev-pdf/cma19133_final_native_20261101_v1/CMAverse_V3h_final_accepted.docx",
+    "bytes": 485438,
+    "sha256": "4eec9f0ccf4c510aa2aad5d7415006f937a292c2a23ddf201d291f1ec5fce650"
+  },
+  "other_docx": {
+    "rejected": {
+      "path": "/Users/lzhs/Library/Containers/com.microsoft.Word/Data/Documents/wordrev-pdf/cma19133_final_native_20261101_v1/CMAverse_V3h_final_rejected.docx",
+      "bytes": 483897,
+      "sha256": "7cc695d598de91a0305f5fd278fdfdeffc7be761501bfe228e59bc10e871cd92"
+    },
+    "tracked": {
+      "path": "/Users/lzhs/Library/Containers/com.microsoft.Word/Data/Documents/wordrev-pdf/cma19133_final_native_20261101_v1/CMAverse_V3h_final_tracked.docx",
+      "bytes": 492857,
+      "sha256": "f0fc0b6c0af67352bfbc79dc26eb23948f4c0df9a6c49e2a210ad16ab72402a9"
+    }
+  },
+  "checks": {
+    "native_word_zotero": {
+      "status": "PASS",
+      "pdf_sha256": "6bde712d3564f8116dcc13ac769881104058951a753d7eba8b38cc9206cec291",
+      "evidence": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_pdf_acceptance_v1/EVIDENCE.json",
+        "bytes": 13089,
+        "sha256": "9d84bac1ddd471dc6af9a61750a380e11121434d372622eeb96b14c71a14cb9f"
+      }
+    },
+    "format": {
+      "status": "PASS",
+      "pdf_sha256": "6bde712d3564f8116dcc13ac769881104058951a753d7eba8b38cc9206cec291",
+      "evidence": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_pdf_acceptance_v1/EVIDENCE.json",
+        "bytes": 13089,
+        "sha256": "9d84bac1ddd471dc6af9a61750a380e11121434d372622eeb96b14c71a14cb9f"
+      }
+    },
+    "pdf_fonts": {
+      "status": "PASS",
+      "pdf_sha256": "6bde712d3564f8116dcc13ac769881104058951a753d7eba8b38cc9206cec291",
+      "evidence": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_pdf_acceptance_v1/EVIDENCE.json",
+        "bytes": 13089,
+        "sha256": "9d84bac1ddd471dc6af9a61750a380e11121434d372622eeb96b14c71a14cb9f"
+      }
+    },
+    "pdf_visual": {
+      "status": "PASS",
+      "pdf_sha256": "6bde712d3564f8116dcc13ac769881104058951a753d7eba8b38cc9206cec291",
+      "evidence": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_pdf_acceptance_v1/EVIDENCE.json",
+        "bytes": 13089,
+        "sha256": "9d84bac1ddd471dc6af9a61750a380e11121434d372622eeb96b14c71a14cb9f"
+      }
+    },
+    "empirical_adjudication": {
+      "status": "PASS",
+      "pdf_sha256": "6bde712d3564f8116dcc13ac769881104058951a753d7eba8b38cc9206cec291",
+      "evidence": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_pdf_acceptance_v1/EVIDENCE.json",
+        "bytes": 13089,
+        "sha256": "9d84bac1ddd471dc6af9a61750a380e11121434d372622eeb96b14c71a14cb9f"
+      }
+    }
+  },
+  "review_mode": "solo_self_review"
+}

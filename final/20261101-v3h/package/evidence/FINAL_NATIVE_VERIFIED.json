@@ -1,0 +1,324 @@
+{
+  "schema": "cma19133-final-native-validation-v1",
+  "at_utc": "2026-10-31T17:47:50.500351+00:00",
+  "role": "all",
+  "plan": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_native_v1/PLAN.json",
+    "bytes": 5724,
+    "sha256": "bda4e990d9f0da9b7263dbdb5ccfebb95afeaefe044c235658c6c0967f1fb2e8"
+  },
+  "actual": {
+    "accepted": {
+      "path": "/Users/lzhs/Library/Containers/com.microsoft.Word/Data/Documents/wordrev-pdf/cma19133_final_native_20261101_v1/CMAverse_V3h_final_accepted.docx",
+      "bytes": 485438,
+      "sha256": "4eec9f0ccf4c510aa2aad5d7415006f937a292c2a23ddf201d291f1ec5fce650"
+    },
+    "rejected": {
+      "path": "/Users/lzhs/Library/Containers/com.microsoft.Word/Data/Documents/wordrev-pdf/cma19133_final_native_20261101_v1/CMAverse_V3h_final_rejected.docx",
+      "bytes": 483897,
+      "sha256": "7cc695d598de91a0305f5fd278fdfdeffc7be761501bfe228e59bc10e871cd92"
+    },
+    "tracked": {
+      "path": "/Users/lzhs/Library/Containers/com.microsoft.Word/Data/Documents/wordrev-pdf/cma19133_final_native_20261101_v1/CMAverse_V3h_final_tracked.docx",
+      "bytes": 492857,
+      "sha256": "f0fc0b6c0af67352bfbc79dc26eb23948f4c0df9a6c49e2a210ad16ab72402a9"
+    }
+  },
+  "checks": {
+    "accepted:accepted": {
+      "all_pass": true,
+      "mode": "DUAL_VIEW_SEMANTIC_V1",
+      "changed": [],
+      "expected_snapshot_sha256": "9a2da7cc31b5b423247f8cbdba90579cba2cb4a750fcfbb3044a6414881d289b",
+      "actual_snapshot_sha256": "9a2da7cc31b5b423247f8cbdba90579cba2cb4a750fcfbb3044a6414881d289b",
+      "expected_page_cache": [
+        {
+          "story": "word/footer2.xml",
+          "ordinal": 0,
+          "instruction_sha256": "8a7ec6820565d7b1ae43fc384b3f497291bbc6090871629370bd43609f26f2cd",
+          "cache": "3"
+        }
+      ],
+      "actual_page_cache": [
+        {
+          "story": "word/footer2.xml",
+          "ordinal": 0,
+          "instruction_sha256": "8a7ec6820565d7b1ae43fc384b3f497291bbc6090871629370bd43609f26f2cd",
+          "cache": "3"
+        }
+      ],
+      "actual_page_cache_required": true,
+      "scope": "ALL_STORIES_EFFECTIVE_FORMAT_FIELDS_ANCHORS_MEDIA_AND_FULL_TABLE_STRUCTURE",
+      "native_rendering_proven": false,
+      "scientific_acceptance": false
+    },
+    "rejected:rejected": {
+      "all_pass": true,
+      "mode": "DUAL_VIEW_SEMANTIC_V1",
+      "changed": [],
+      "expected_snapshot_sha256": "9abcb1319aca13f0c4301a5bdfc65e85350b14a5eee9f28b6e557df8026067ff",
+      "actual_snapshot_sha256": "9abcb1319aca13f0c4301a5bdfc65e85350b14a5eee9f28b6e557df8026067ff",
+      "expected_page_cache": [],
+      "actual_page_cache": [],
+      "actual_page_cache_required": false,
+      "scope": "ALL_STORIES_EFFECTIVE_FORMAT_FIELDS_ANCHORS_MEDIA_AND_FULL_TABLE_STRUCTURE",
+      "native_rendering_proven": false,
+      "scientific_acceptance": false
+    },
+    "tracked:accepted": {
+      "all_pass": true,
+      "mode": "DUAL_VIEW_SEMANTIC_V1",
+      "changed": [],
+      "expected_snapshot_sha256": "9a2da7cc31b5b423247f8cbdba90579cba2cb4a750fcfbb3044a6414881d289b",
+      "actual_snapshot_sha256": "9a2da7cc31b5b423247f8cbdba90579cba2cb4a750fcfbb3044a6414881d289b",
+      "expected_page_cache": [
+        {
+          "story": "word/footer2.xml",
+          "ordinal": 0,
+          "instruction_sha256": "8a7ec6820565d7b1ae43fc384b3f497291bbc6090871629370bd43609f26f2cd",
+          "cache": "3"
+        }
+      ],
+      "actual_page_cache": [
+        {
+          "story": "word/footer2.xml",
+          "ordinal": 0,
+          "instruction_sha256": "8a7ec6820565d7b1ae43fc384b3f497291bbc6090871629370bd43609f26f2cd",
+          "cache": "3"
+        }
+      ],
+      "actual_page_cache_required": true,
+      "scope": "ALL_STORIES_EFFECTIVE_FORMAT_FIELDS_ANCHORS_MEDIA_AND_FULL_TABLE_STRUCTURE",
+      "native_rendering_proven": false,
+      "scientific_acceptance": false
+    },
+    "tracked:rejected": {
+      "all_pass": true,
+      "mode": "DUAL_VIEW_SEMANTIC_V1",
+      "changed": [],
+      "expected_snapshot_sha256": "9abcb1319aca13f0c4301a5bdfc65e85350b14a5eee9f28b6e557df8026067ff",
+      "actual_snapshot_sha256": "9abcb1319aca13f0c4301a5bdfc65e85350b14a5eee9f28b6e557df8026067ff",
+      "expected_page_cache": [],
+      "actual_page_cache": [],
+      "actual_page_cache_required": false,
+      "scope": "ALL_STORIES_EFFECTIVE_FORMAT_FIELDS_ANCHORS_MEDIA_AND_FULL_TABLE_STRUCTURE",
+      "native_rendering_proven": false,
+      "scientific_acceptance": false
+    }
+  },
+  "docx_writes": 0,
+  "Word_calls": 0,
+  "scientific_reanalysis": false,
+  "review_mode": "solo_self_review",
+  "inventories": {
+    "accepted": {
+      "stories": 9,
+      "tables": 34,
+      "media": 3,
+      "formulas": 10
+    },
+    "rejected": {
+      "stories": 9,
+      "tables": 34,
+      "media": 3,
+      "formulas": 10
+    },
+    "tracked": {
+      "stories": 9,
+      "tables": 34,
+      "media": 3,
+      "formulas": 10
+    }
+  },
+  "dual_views": {
+    "accepted": {
+      "all_pass": true,
+      "mode": "DUAL_VIEW_SEMANTIC_V1",
+      "changed": [],
+      "expected_snapshot_sha256": "9a2da7cc31b5b423247f8cbdba90579cba2cb4a750fcfbb3044a6414881d289b",
+      "actual_snapshot_sha256": "9a2da7cc31b5b423247f8cbdba90579cba2cb4a750fcfbb3044a6414881d289b",
+      "expected_page_cache": [
+        {
+          "story": "word/footer2.xml",
+          "ordinal": 0,
+          "instruction_sha256": "8a7ec6820565d7b1ae43fc384b3f497291bbc6090871629370bd43609f26f2cd",
+          "cache": "3"
+        }
+      ],
+      "actual_page_cache": [
+        {
+          "story": "word/footer2.xml",
+          "ordinal": 0,
+          "instruction_sha256": "8a7ec6820565d7b1ae43fc384b3f497291bbc6090871629370bd43609f26f2cd",
+          "cache": "3"
+        }
+      ],
+      "actual_page_cache_required": true,
+      "scope": "ALL_STORIES_EFFECTIVE_FORMAT_FIELDS_ANCHORS_MEDIA_AND_FULL_TABLE_STRUCTURE",
+      "native_rendering_proven": false,
+      "scientific_acceptance": false
+    },
+    "rejected": {
+      "all_pass": true,
+      "mode": "DUAL_VIEW_SEMANTIC_V1",
+      "changed": [],
+      "expected_snapshot_sha256": "9abcb1319aca13f0c4301a5bdfc65e85350b14a5eee9f28b6e557df8026067ff",
+      "actual_snapshot_sha256": "9abcb1319aca13f0c4301a5bdfc65e85350b14a5eee9f28b6e557df8026067ff",
+      "expected_page_cache": [],
+      "actual_page_cache": [],
+      "actual_page_cache_required": false,
+      "scope": "ALL_STORIES_EFFECTIVE_FORMAT_FIELDS_ANCHORS_MEDIA_AND_FULL_TABLE_STRUCTURE",
+      "native_rendering_proven": false,
+      "scientific_acceptance": false
+    }
+  },
+  "reference_check": {
+    "phase": "after",
+    "passed": true,
+    "issues": [],
+    "views": {
+      "tracked:accepted": {
+        "citation_count": 22,
+        "bibliography_count": 1,
+        "bibliography_rows": [
+          25
+        ],
+        "snapshot_sha256": "bbca10821dec5160c526cbe104c6124fd3e06231525f779b4d3880c84b453cd6"
+      },
+      "tracked:rejected": {
+        "citation_count": 23,
+        "bibliography_count": 1,
+        "bibliography_rows": [
+          25
+        ],
+        "snapshot_sha256": "cdb361f5ae7aff5136ece872c73140f04b4f74d6f0bc750b5b4885cb95bcf132"
+      },
+      "accepted:stored": {
+        "citation_count": 22,
+        "bibliography_count": 1,
+        "bibliography_rows": [
+          25
+        ],
+        "snapshot_sha256": "bbca10821dec5160c526cbe104c6124fd3e06231525f779b4d3880c84b453cd6"
+      },
+      "rejected:stored": {
+        "citation_count": 23,
+        "bibliography_count": 1,
+        "bibliography_rows": [
+          25
+        ],
+        "snapshot_sha256": "cdb361f5ae7aff5136ece872c73140f04b4f74d6f0bc750b5b4885cb95bcf132"
+      }
+    }
+  },
+  "native_receipts": [
+    {
+      "script": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_native_v1/10_accepted_save_close.applescript",
+        "bytes": 1198,
+        "sha256": "5a36ecd4a70b8c6dbd59bbad64154f8841dbb77c7d13dbf79e5a87314431406e"
+      },
+      "intent": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_native_v1/10_accepted_save_close.INTENT.json",
+        "bytes": 2789,
+        "sha256": "0e45253a9ca056fcc6528ea7c99cd8de837b2c3c947f745966d2673d4d15a842"
+      },
+      "result": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_native_v1/10_accepted_save_close.RESULT.json",
+        "bytes": 167,
+        "sha256": "8ddedb253d234eca18c90b08494ccd3730db275c2f9c179abe05a2ccc898b729"
+      }
+    },
+    {
+      "script": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_native_v1/11_accepted_reopen_export_close.applescript",
+        "bytes": 1821,
+        "sha256": "e17f58665f5f850761330fd204aee22a78eca4ae77d8ee0328a4c4ecba44eabb"
+      },
+      "intent": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_native_v1/11_accepted_reopen_export_close.INTENT.json",
+        "bytes": 2798,
+        "sha256": "1acee0727676c7cadbb67ae1b57d5ee4625f0948cda12a7d76b98043e9bee323"
+      },
+      "result": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_native_v1/11_accepted_reopen_export_close.RESULT.json",
+        "bytes": 172,
+        "sha256": "b8e66af85b90103693496a3fbd9cf6a5813bfc205e13b8567cc82ce1f261a434"
+      }
+    },
+    {
+      "script": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_native_v1/20_rejected_save_close.applescript",
+        "bytes": 1198,
+        "sha256": "fe00fef3996c9abcb1db7b4389a9a60842c9e419f15e8d431290082b1c778983"
+      },
+      "intent": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_native_v1/20_rejected_save_close.INTENT.json",
+        "bytes": 2789,
+        "sha256": "b93c2b0e3a06c9bc45376e10a9db249002fd23b2c9fd2764ca7f47411cb2e205"
+      },
+      "result": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_native_v1/20_rejected_save_close.RESULT.json",
+        "bytes": 167,
+        "sha256": "5992045f08a7a1ae47d242581524b3c347e0e0eacb21922d2bb9aa57c2de1e4d"
+      }
+    },
+    {
+      "script": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_native_v1/21_rejected_reopen_close.applescript",
+        "bytes": 1198,
+        "sha256": "fe320423352fa391c774593213936f441842919615b6cde5e573928a11c126d0"
+      },
+      "intent": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_native_v1/21_rejected_reopen_close.INTENT.json",
+        "bytes": 2791,
+        "sha256": "aefde26a166f84af0d0adec8a4de66704b4b5fd6bd5292b7ed6d68891855f9ba"
+      },
+      "result": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_native_v1/21_rejected_reopen_close.RESULT.json",
+        "bytes": 172,
+        "sha256": "e28264019a052ed021d46190894a06f434ac648612f80b34c7f110c74fe199b0"
+      }
+    },
+    {
+      "script": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_native_v1/30_tracked_save_close.applescript",
+        "bytes": 1196,
+        "sha256": "161fd9cb51aa228cd89c321d92d51221281677bad30524beff5368135caa6ac0"
+      },
+      "intent": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_native_v1/30_tracked_save_close.INTENT.json",
+        "bytes": 2788,
+        "sha256": "5fa7e3794558ec08d7b019dac28a83142e8960a360bdbeb12f6b9ddb7d5f78a4"
+      },
+      "result": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_native_v1/30_tracked_save_close.RESULT.json",
+        "bytes": 166,
+        "sha256": "372369207484ce1d27f12fc629096af3909e379449cec3dd31398e77de4024df"
+      }
+    },
+    {
+      "script": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_native_v1/31_tracked_reopen_close.applescript",
+        "bytes": 1196,
+        "sha256": "2d8877844ea5ad57521f2ce2d9113715e181e63346aea0ccf6467af894184a53"
+      },
+      "intent": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_native_v1/31_tracked_reopen_close.INTENT.json",
+        "bytes": 2790,
+        "sha256": "caa63642d7ad861e035eda9f4c852a125d692ef35070c6be2a15bd7808fc1948"
+      },
+      "result": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_native_v1/31_tracked_reopen_close.RESULT.json",
+        "bytes": 171,
+        "sha256": "0cf6209d90c6e5c21907b631aa361907cced5979f1a61ecfb385b9285222a28d"
+      }
+    }
+  ],
+  "pdf": {
+    "path": "/Users/lzhs/Library/Containers/com.microsoft.Word/Data/Documents/wordrev-pdf/cma19133_final_native_20261101_v1/CMAverse_V3h_final_accepted.pdf",
+    "bytes": 1498302,
+    "sha256": "83351ef19b513e3c7cace52c2c7ef853800dd5a58802f76f03bd5f0c015b2a53"
+  },
+  "all_pass": true
+}

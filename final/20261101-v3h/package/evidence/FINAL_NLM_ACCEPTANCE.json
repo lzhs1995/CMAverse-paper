@@ -1,0 +1,70 @@
+{
+  "schema": "cma-final-two-round-local-acceptance-v1",
+  "at": "2026-10-31T21:35:37.956612+00:00",
+  "state": "TWO_ROUNDS_ON_SAME_FINAL_PDF_ACCEPTED",
+  "review_mode": "solo_self_review",
+  "document_sha256": "6bde712d3564f8116dcc13ac769881104058951a753d7eba8b38cc9206cec291",
+  "rounds": [
+    {
+      "round": 1,
+      "adjudication": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v3/ROUND1_ADJUDICATION.json",
+        "bytes": 2450,
+        "sha256": "5438424d36456e20d7ade34aad2581e4c1ca5d50eaf34c33b716d423a9cb0b13"
+      },
+      "evidence": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v3/round01_evidence/LOCAL_ADJUDICATION_EVIDENCE.json",
+        "sha256": "e011881727351401c2a3247245d10b368f3d406fee77ab9cd7d255ed880f9a8a"
+      },
+      "findings": 28
+    },
+    {
+      "round": 2,
+      "adjudication": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v3/ROUND2_ADJUDICATION.json",
+        "bytes": 2377,
+        "sha256": "dcfe12aae63542e200178c0ef48926afab587718b409902bb2eef696d5989415"
+      },
+      "evidence": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v3/round02_evidence/LOCAL_ADJUDICATION_EVIDENCE.json",
+        "sha256": "3e911064b557fb0a176c7bf809f87347e99f9a667f30b302bfe1b0daaf6c9550"
+      },
+      "findings": 29
+    }
+  ],
+  "topics_per_round": 6,
+  "independent_conversations": 12,
+  "native_reference_count": 328,
+  "findings_adjudicated": 57,
+  "confirmed_new_manuscript_errors": 0,
+  "unresolved_manuscript_findings": [],
+  "mother_document_changed": false,
+  "new_queries": 0,
+  "new_models": 0,
+  "transport_audit": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v4/FINAL_TRANSPORT_AUDIT.json",
+    "bytes": 12058,
+    "sha256": "cd50afaa6998f07ac5775108fad83cfaa32004fe00c103e8dffadbe628ed8307"
+  },
+  "native_word_acceptance": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_native_v1/FINAL_NATIVE_VERIFIED.json",
+    "bytes": 13909,
+    "sha256": "1a0421407424a76321c93a29be6f447fbe04f555e1119dee8ec077dee8e66494"
+  },
+  "pdf_acceptance": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_pdf_acceptance_v1/EVIDENCE.json",
+    "bytes": 13089,
+    "sha256": "9d84bac1ddd471dc6af9a61750a380e11121434d372622eeb96b14c71a14cb9f"
+  },
+  "frozen_native_sources": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_pdf_acceptance_v1/NATIVE_FREEZE.json",
+    "bytes": 3647,
+    "sha256": "fb0dee5b30ea25512d6ace8ccfc5018a42d36004a6034b326d0b0ecc932881f8"
+  },
+  "limits": [
+    "NLM基于已验收的27项选定来源及9份配套CSV；不代表重估或重新导入全部历史科研来源。",
+    "NLM原答的页码误标、文字抽取误报与检验家族误判已有逐条本地裁决。",
+    "Word域、字体及视觉验收采用真实原生证据；不以NLM文字回答替代。",
+    "历史推断暂缓、因果识别与背景统计来源限定继续保留。"
+  ]
+}

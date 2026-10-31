@@ -1,0 +1,42 @@
+{
+  "status": "ROUND2_LOCALLY_ADJUDICATED",
+  "manifest": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/nlm_current_actor_v1/final6bde712d_compact_v3/FINAL_QUERY_MANIFEST.json",
+    "sha256": "27e7c50ca1d3b7aab5e28be6b9797fec347958bc8a7e96d901dc20d33de4ce14"
+  },
+  "document_sha256": "6bde712d3564f8116dcc13ac769881104058951a753d7eba8b38cc9206cec291",
+  "requires_document_change": false,
+  "receipts": [
+    {
+      "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/965c6a494213cc75164fd46ecb8e2e70864a2aa6f47ad8aecd954f408ff40d15/receipt.json",
+      "sha256": "955a402b96e9aacaee7592bb6d22ac97facd112520d15366c9a69757f453a64f"
+    },
+    {
+      "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/60b6991b05d99bdfee42fd403085c390462ccc0ee997c19cfe0925fda75f7c06/receipt.json",
+      "sha256": "11e80a9e3b5d48a3ea10f7c40456cd153d92709c014841bc195e11a4fa77c1bf"
+    },
+    {
+      "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/ce5d371d4deb466ec351e174d7907d527078838b5723fc5b648ba77592e84f62/receipt.json",
+      "sha256": "de6fc2a9cea206079096ed912d64d6189d8e90a942f381add7a95a58a25936e9"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v3/round2_language_original_stream_recovery_v2/RECOVERED_RECEIPT.json",
+      "sha256": "0d84c5dfefd916b040456182b23d8bc5ea61a783c4470fe8a1994cfb3de72664"
+    },
+    {
+      "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/90e182de7e06ecefa7a4dfd4dce3def0b0e7ee0fbfa3eff655bb975dbb2e18be/receipt.json",
+      "sha256": "e70033c9506ba324bd4b21d0a4ee4277ea2b21869bc285f3a8124b6dab6c6e06"
+    },
+    {
+      "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/f9a1438d7415c60b2c715bb9ee7f1276c56b7b21dcbde12c61e3fa9efcc9002f/receipt.json",
+      "sha256": "f50ac335f800b679291305d76eab662a6fecaad73f7c0e7ddae32c335bce468e"
+    }
+  ],
+  "evidence": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v3/round02_evidence/LOCAL_ADJUDICATION_EVIDENCE.json",
+    "sha256": "3e911064b557fb0a176c7bf809f87347e99f9a667f30b302bfe1b0daaf6c9550"
+  },
+  "confirmed_new_manuscript_errors": 0,
+  "findings_adjudicated": 29,
+  "review_mode": "solo_self_review"
+}

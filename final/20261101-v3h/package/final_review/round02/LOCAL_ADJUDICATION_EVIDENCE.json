@@ -1,0 +1,1165 @@
+{
+  "schema": "cma-round2-manual-adjudication-v1",
+  "at": "2026-10-31T21:20:31.774895+00:00",
+  "reviewer": "Codex original session 01a19133 / solo_self_review",
+  "document_sha256": "6bde712d3564f8116dcc13ac769881104058951a753d7eba8b38cc9206cec291",
+  "raw_responses": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v3/round02_evidence/READBACK.json",
+    "sha256": "1ea3782ad20aff460460b2cbbd8f8023d5e76510061f1616f1596183ff2755e2"
+  },
+  "findings": [
+    {
+      "id": "TM1",
+      "topic": "theory_method",
+      "native_reference_numbers": [
+        1,
+        2,
+        3
+      ],
+      "decision": "ALREADY_SATISFIED",
+      "reason": "原答以原稿已有的否定限定作为风险证据。讨论明确两种相对评价构念不是绝对改善，71.65%的换序不能作为本人满意度改善的推力证据；保留实际定义。",
+      "source_matches": [
+        {
+          "anchor": "不能将这一候选作为本人婚姻评价改善所产生“推力”的直接证据",
+          "docx_paragraphs": [
+            {
+              "paragraph_index": 1357,
+              "text": "相对婚姻评价与婚姻质量改善是不同构念。相对位置跃迁记录中，约28.35%伴随本人评分提高、88.01%伴随配偶评分下降，两类可以重叠。其余约71.65%的记录中本人评分持平或亦下降；按表11的定义，这部分记录的换序只能由配偶评分下降实现，因此不能将这一候选作为本人婚姻评价改善所产生“推力”的直接证据。负向修饰也不能直接写成“婚姻越幸福越不支持父母”。根据探索结果形成的一种待检验解释是，夫妻关系评价的不对称变化与核心家庭、父代家庭之间的资源配置取向有关。本研究没有直接测量资源协商与控制过程，不能由相对评分差确认权力或谈判机制。关联、收入联系的修饰和完整中介回答不同问题，也不要求同时出现。"
+            }
+          ],
+          "pdf_file_pages": [
+            27
+          ]
+        }
+      ],
+      "requires_manuscript_change": false
+    },
+    {
+      "id": "TM2",
+      "topic": "theory_method",
+      "native_reference_numbers": [
+        1,
+        2
+      ],
+      "decision": "FALSE_POSITIVE_HYPOTHETICAL",
+      "reason": "未发现确认权力或议价机制的原句。原答引用的句子恰好明示未直接测量协商过程；不删除必要的识别限定。",
+      "source_matches": [
+        {
+          "anchor": "本研究没有直接测量资源协商与控制过程",
+          "docx_paragraphs": [
+            {
+              "paragraph_index": 1357,
+              "text": "相对婚姻评价与婚姻质量改善是不同构念。相对位置跃迁记录中，约28.35%伴随本人评分提高、88.01%伴随配偶评分下降，两类可以重叠。其余约71.65%的记录中本人评分持平或亦下降；按表11的定义，这部分记录的换序只能由配偶评分下降实现，因此不能将这一候选作为本人婚姻评价改善所产生“推力”的直接证据。负向修饰也不能直接写成“婚姻越幸福越不支持父母”。根据探索结果形成的一种待检验解释是，夫妻关系评价的不对称变化与核心家庭、父代家庭之间的资源配置取向有关。本研究没有直接测量资源协商与控制过程，不能由相对评分差确认权力或谈判机制。关联、收入联系的修饰和完整中介回答不同问题，也不要求同时出现。"
+            }
+          ],
+          "pdf_file_pages": [
+            27
+          ]
+        }
+      ],
+      "requires_manuscript_change": false
+    },
+    {
+      "id": "TM3",
+      "topic": "theory_method",
+      "native_reference_numbers": [
+        4,
+        5,
+        6
+      ],
+      "decision": "ALREADY_SATISFIED",
+      "reason": "N1已限定为本人—波次面板的均值与个人内偏差关联，无收入×满意度交互，非中介、非本人固定效应模型。将其缩为截面分析不够精确。",
+      "source_matches": [
+        {
+          "anchor": "不是亲子二元组中介模型，也不是本人固定效应模型",
+          "docx_paragraphs": [
+            {
+              "paragraph_index": 212,
+              "text": "N1在本人—波次资料上拟合线性概率模型，将本人及配偶满意度、本人收入分别分解为个人观察期均值与个人内偏差，并控制波次、性别、年龄及其平方、教育、户口和已观测合格父母槽数；模型不含收入与满意度的交互项；标准误按统一亲属—家庭簇进行HC1调整。该模型描述已观测合格父母槽的支持发生关联，不是亲子二元组中介模型，也不是本人固定效应模型。N2仅复用既有分期点估计。N1四项满意度检验与P3两项整体检验组成固定六项家族，报告BH与BY调整；本次数值修复后六项均可估计，调整分母固定为6，批内调整不覆盖此前全部自适应搜索（见附录E.3表E.1）。"
+            }
+          ],
+          "pdf_file_pages": [
+            11
+          ]
+        },
+        {
+          "anchor": "模型不含收入与满意度的交互项",
+          "docx_paragraphs": [
+            {
+              "paragraph_index": 212,
+              "text": "N1在本人—波次资料上拟合线性概率模型，将本人及配偶满意度、本人收入分别分解为个人观察期均值与个人内偏差，并控制波次、性别、年龄及其平方、教育、户口和已观测合格父母槽数；模型不含收入与满意度的交互项；标准误按统一亲属—家庭簇进行HC1调整。该模型描述已观测合格父母槽的支持发生关联，不是亲子二元组中介模型，也不是本人固定效应模型。N2仅复用既有分期点估计。N1四项满意度检验与P3两项整体检验组成固定六项家族，报告BH与BY调整；本次数值修复后六项均可估计，调整分母固定为6，批内调整不覆盖此前全部自适应搜索（见附录E.3表E.1）。"
+            }
+          ],
+          "pdf_file_pages": [
+            11
+          ]
+        }
+      ],
+      "requires_manuscript_change": false
+    },
+    {
+      "id": "TM4",
+      "topic": "theory_method",
+      "native_reference_numbers": [
+        4,
+        5,
+        7,
+        8
+      ],
+      "decision": "ALREADY_SATISFIED_WITH_ANSWER_CORRECTION",
+      "reason": "结局是期末总体月均金额水平；表13的38.28、44.66、14.24是各满意度状态下收入增加与未增加的标准化金额对比，不是各状态的原始均值。原答的截面水平量措辞不完整，按表注和本轮数表题第2项核清，原稿无需变更。",
+      "source_matches": [
+        {
+          "anchor": "各状态的数值为收入增加与未增加的标准化总体金额对比",
+          "docx_paragraphs": [
+            {
+              "paragraph_index": 1351,
+              "text": "注：金额单位为元/月。结局为期末总体月均支持金额（水平量）。各状态的数值为收入增加与未增加的标准化总体金额对比；两个差值共同构成预先登记的整体检验，不另加局部显著性星号。封顶用固定阈值pmin处理，没有删除大额记录。差值由未舍入的估计值计算，可能与表列两位小数直接相减的结果相差0.01元/月。"
+            }
+          ],
+          "pdf_file_pages": [
+            25
+          ]
+        },
+        {
+          "anchor": "不能解读为提高满意度使支持金额减少",
+          "docx_paragraphs": [
+            {
+              "paragraph_index": 1328,
+              "text": "三状态金额复核恢复了原金额的可估计性，但没有提供预设5%水平下的整体修饰证据。基期本人满意度为5分时，收入增加对应的支持金额对比低于4分及≤3分状态；原金额与预定99%封顶口径的整体p分别为0.132和0.080（表13）。两者各有2,000次有效重复，固定六项家族调整后亦未显著。该结果描述不同满意度状态下的收入联系，不能解读为提高满意度使支持金额减少。"
+            }
+          ],
+          "pdf_file_pages": [
+            25
+          ]
+        }
+      ],
+      "requires_manuscript_change": false
+    },
+    {
+      "id": "TM5",
+      "topic": "theory_method",
+      "native_reference_numbers": [
+        1,
+        9,
+        10,
+        11
+      ],
+      "decision": "ALREADY_SATISFIED",
+      "reason": "稿件已使用模型化间接对比并限定自然效应识别；理论估计量或文献原题中的自然效应不应机械全局改名。",
+      "source_matches": [
+        {
+          "anchor": "不自动解释为已识别的自然间接效应",
+          "docx_paragraphs": [
+            {
+              "paragraph_index": 207,
+              "text": "B类将是否提供支持与正值支持金额联合构成总体均值，不能用正值金额方程的单个系数代替总体金额对比。未提供支持与提供支持但金额缺失分别处理，不把后者赋零。C/D按登记的中介分布和结果模型计算完整间接对比，不以收入—满意度一段路径的显著性作为执行门槛；鉴于时序重叠及识别限制，使用“模型化间接对比”，不自动解释为已识别的自然间接效应。"
+            }
+          ],
+          "pdf_file_pages": [
+            10
+          ]
+        },
+        {
+          "anchor": "两者95%区间均包含无效值1",
+          "docx_paragraphs": [
+            {
+              "paragraph_index": 1280,
+              "text": "限定复核保留了两条与夫妻相对婚姻评价有关的探索性线索。删除跨波累计的父辈支持变量后，相对位置跃迁候选与分差变化候选的固定状态CDE差分别为−0.409和−0.085，未调整95%区间均不含零（表11）。这些差值处于边际OR尺度，不能解释为支持概率下降的百分点。两项模型化间接对比（TNIE）以标准化边际OR表示，031为0.999 [0.994, 1.004]，041为1.000 [0.998, 1.003]；两者95%区间均包含无效值1，未提供明确的完整中介证据。"
+            }
+          ],
+          "pdf_file_pages": [
+            24
+          ]
+        }
+      ],
+      "requires_manuscript_change": false
+    },
+    {
+      "id": "DF1",
+      "topic": "data_figures",
+      "native_reference_numbers": [
+        1,
+        2,
+        3
+      ],
+      "decision": "FALSE_POSITIVE_CURRENT_VERSION_SEPARATED",
+      "reason": "原答标确认错误，但其引文明确证明新旧版本已隔离。表12说明历史p不适用于表11；没有将旧搜索校正嫁接到去dwm结果。",
+      "source_matches": [
+        {
+          "anchor": "其p值不适用于表11的修订模型",
+          "docx_paragraphs": [
+            {
+              "paragraph_index": 1327,
+              "text": "注：历史B=200对应150个登记规格中的120个可估规格，每项有间接效应和ΔCDE两个目标；240个目标不等于240个独立检验。旧B=1,000来自筛选后精化，未另作搜索校正。此表所有模型均保留原dwm调整；其p值不适用于表11的修订模型。"
+            }
+          ],
+          "pdf_file_pages": [
+            25
+          ]
+        },
+        {
+          "anchor": "历史校正与去dwm后的模型分开报告",
+          "docx_paragraphs": [
+            {
+              "paragraph_index": 1305,
+              "text": "候选均来自系统搜索。在历史B=200版本中，考虑120项同指标对比后，031与041的调整p分别为0.134和0.632；合并两种目标后进一步增大（表12）。这项补充核查利用保存重复之间的相关性，但不涵盖全部后续自适应分析。历史校正与去dwm后的模型分开报告，不拼接为同一套推断。"
+            }
+          ],
+          "pdf_file_pages": [
+            25
+          ]
+        }
+      ],
+      "requires_manuscript_change": false
+    },
+    {
+      "id": "DF2",
+      "topic": "data_figures",
+      "native_reference_numbers": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "decision": "CORRECTLY_RETAINED",
+      "reason": "表13金额对比、两项整体p、2000有效重复和pmin封顶均准确。保留结局水平量与收入对比的区分，不引申为满意度干预效应。",
+      "source_matches": [
+        {
+          "anchor": "各状态的数值为收入增加与未增加的标准化总体金额对比",
+          "docx_paragraphs": [
+            {
+              "paragraph_index": 1351,
+              "text": "注：金额单位为元/月。结局为期末总体月均支持金额（水平量）。各状态的数值为收入增加与未增加的标准化总体金额对比；两个差值共同构成预先登记的整体检验，不另加局部显著性星号。封顶用固定阈值pmin处理，没有删除大额记录。差值由未舍入的估计值计算，可能与表列两位小数直接相减的结果相差0.01元/月。"
+            }
+          ],
+          "pdf_file_pages": [
+            25
+          ]
+        },
+        {
+          "anchor": "封顶用固定阈值pmin处理，没有删除大额记录",
+          "docx_paragraphs": [
+            {
+              "paragraph_index": 1351,
+              "text": "注：金额单位为元/月。结局为期末总体月均支持金额（水平量）。各状态的数值为收入增加与未增加的标准化总体金额对比；两个差值共同构成预先登记的整体检验，不另加局部显著性星号。封顶用固定阈值pmin处理，没有删除大额记录。差值由未舍入的估计值计算，可能与表列两位小数直接相减的结果相差0.01元/月。"
+            }
+          ],
+          "pdf_file_pages": [
+            25
+          ]
+        }
+      ],
+      "requires_manuscript_change": false
+    },
+    {
+      "id": "DF3",
+      "topic": "data_figures",
+      "native_reference_numbers": [
+        8,
+        9,
+        10
+      ],
+      "decision": "CORRECTLY_RETAINED",
+      "reason": "原答要求维持现有1050次全部成功与共同资格比较不属八项BH族的说明。没有需要修复的稿件错误。",
+      "source_matches": [
+        {
+          "anchor": "实际1,050次全部成功",
+          "docx_paragraphs": [
+            {
+              "paragraph_index": 1099,
+              "text": "注：Pₓₘ为同一链协变量分布上、设定X=x和M=m时的预测概率。两列条件风险差的区间基于成年子女聚类稳健协方差、由Delta法计算。IC-RD=RD(X|M=1)−RD(X|M=0)，单位为百分点；其区间来自成年子女聚类bootstrap（预设尝试1,050次，至少需成功1,000次；实际1,050次全部成功）。q值为八个加性交互检验的BH校正结果，来源为Delta法p值，并非同时置信区间。差值由未舍入估计计算，可能与表列数值直接相减相差0.01个百分点。"
+            }
+          ],
+          "pdf_file_pages": [
+            18
+          ]
+        },
+        {
+          "anchor": "该对比未纳入表6的八项BH校正家族",
+          "docx_paragraphs": [
+            {
+              "paragraph_index": 1102,
+              "text": "在基期夫妻满意度相等的共同资格样本中，两种二分类操作化的加性交互差为−16.40个百分点（95% CI：−26.96，−5.85；7,058条记录，1,050次bootstrap；该对比未纳入表6的八项BH校正家族）。这一结果与两种位置转移方向不同的模式一致。不过，两种指标的“未升级”组分别包含不同的另一种转移，因而它不是采用同一参照状态的普遍角色效应比较。在该共同资格样本中，两种升级事件互斥而不互补；若双方持续同分，则两者均未升级。"
+            }
+          ],
+          "pdf_file_pages": [
+            19
+          ]
+        }
+      ],
+      "requires_manuscript_change": false
+    },
+    {
+      "id": "DF4",
+      "topic": "data_figures",
+      "native_reference_numbers": [
+        11,
+        12
+      ],
+      "decision": "CORRECTLY_RETAINED",
+      "reason": "B1为195/200，诊断p不作主推断，q记NA，分母固定14；维持原规定。",
+      "source_matches": [
+        {
+          "anchor": "诊断p=0.214286不作正常主推断",
+          "docx_paragraphs": [
+            {
+              "paragraph_index": 2203,
+              "text": "B1的195/200有效抽样未达到98%门槛，诊断p=0.214286不作正常主推断。全14项BH/BY校正的分母固定为m=14，仅对合格规格的初筛p值进行调整；B1不合格，其BH/BY q值记为NA。原金额模型失败与概率部分分开处理：只恢复原抽样计划中被连带丢弃的概率结果，未新增抽样、未按结果更换模型。"
+            }
+          ],
+          "pdf_file_pages": [
+            38
+          ]
+        },
+        {
+          "anchor": "全14项BH/BY校正的分母固定为m=14",
+          "docx_paragraphs": [
+            {
+              "paragraph_index": 2203,
+              "text": "B1的195/200有效抽样未达到98%门槛，诊断p=0.214286不作正常主推断。全14项BH/BY校正的分母固定为m=14，仅对合格规格的初筛p值进行调整；B1不合格，其BH/BY q值记为NA。原金额模型失败与概率部分分开处理：只恢复原抽样计划中被连带丢弃的概率结果，未新增抽样、未按结果更换模型。"
+            }
+          ],
+          "pdf_file_pages": [
+            38
+          ]
+        }
+      ],
+      "requires_manuscript_change": false
+    },
+    {
+      "id": "DF5",
+      "topic": "data_figures",
+      "native_reference_numbers": [
+        13
+      ],
+      "decision": "REVIEW_SCOPE_BOUNDARY",
+      "reason": "NLM未逐一读取全部288项科研来源；这是远端审读范围，不能等同于279个研究文件丢失。既有288来源追溯与37/37验收另有证据，本次不冒称由NLM全部复现。",
+      "source_matches": [],
+      "requires_manuscript_change": false
+    },
+    {
+      "id": "ST1",
+      "topic": "structure",
+      "native_reference_numbers": [
+        1,
+        2
+      ],
+      "decision": "OPTIONAL_NOT_NEEDED",
+      "reason": "已有本章（四）的前向导航，表11—13紧随。补列所有表号是编辑偏好，现行证据导航可用且不存在错引。",
+      "source_matches": [
+        {
+          "anchor": "其中选择后复核的完整结果见本章（四）",
+          "docx_paragraphs": [
+            {
+              "paragraph_index": 1244,
+              "text": "表10汇总基础回归、历史八链、系统探索及选择后限定复核，分别回答收入关联、完整中介、收入联系的修饰、效应消除比例和政策情景问题。未获明确证据、仍属探索性线索与目前无法可靠量化，代表不同的证据状态。其中选择后复核的完整结果见本章（四）。"
+            }
+          ],
+          "pdf_file_pages": [
+            23
+          ]
+        }
+      ],
+      "requires_manuscript_change": false
+    },
+    {
+      "id": "ST2",
+      "topic": "structure",
+      "native_reference_numbers": [
+        3,
+        4,
+        5
+      ],
+      "decision": "ALREADY_SATISFIED",
+      "reason": "D.7下注已经区分旧B=200的R2_B1与新B=2000整体检验、未重算的5对4单项p及表13/E.2的现行值。原答将R2_B1泛化到D.9不准确，无需逐格重复长注。",
+      "source_matches": [
+        {
+          "anchor": "本表R2_B1仍为修复前的B=200记录，其5分对4分单项推断未重新计算",
+          "docx_paragraphs": [
+            {
+              "paragraph_index": 2772,
+              "text": "R2_B1金额抽样195/200有效，主推断缺失；不采用其百分位区间绕过稳定性门槛。组件T_P/T_Y并非调节对比，不能把其显著性作为满意度机制的证据。所有p为本行原始值，未据此声称全探索校正后的发现。同一原金额目标量已在附录E.2以原2,000份整簇抽样修复，三状态点值与预先登记整体检验见表13；本表R2_B1仍为修复前的B=200记录，其5分对4分单项推断未重新计算。修复后的求解规则使点估计在小数第二至四位略有变化，现行值见表13与附录E.2。"
+            }
+          ],
+          "pdf_file_pages": [
+            41
+          ]
+        },
+        {
+          "anchor": "现行值见表13与附录E.2",
+          "docx_paragraphs": [
+            {
+              "paragraph_index": 2772,
+              "text": "R2_B1金额抽样195/200有效，主推断缺失；不采用其百分位区间绕过稳定性门槛。组件T_P/T_Y并非调节对比，不能把其显著性作为满意度机制的证据。所有p为本行原始值，未据此声称全探索校正后的发现。同一原金额目标量已在附录E.2以原2,000份整簇抽样修复，三状态点值与预先登记整体检验见表13；本表R2_B1仍为修复前的B=200记录，其5分对4分单项推断未重新计算。修复后的求解规则使点估计在小数第二至四位略有变化，现行值见表13与附录E.2。"
+            }
+          ],
+          "pdf_file_pages": [
+            41
+          ]
+        }
+      ],
+      "requires_manuscript_change": false
+    },
+    {
+      "id": "ST3",
+      "topic": "structure",
+      "native_reference_numbers": [
+        3,
+        6
+      ],
+      "decision": "ALREADY_SATISFIED",
+      "reason": "D.9与讨论已明确R6_B1仅是未调整辅助单项，最终依据表13二维整体检验。表E.1为六项家族汇总，不能笼统称其所有行都是二维整体检验。",
+      "source_matches": [
+        {
+          "anchor": "最终判断依据预先登记的二维整体检验",
+          "docx_paragraphs": [
+            {
+              "paragraph_index": 3251,
+              "text": "R6_B1的辅助金额对比原始p<0.05；此结果属于多次探索中的辅助发现，尚不能称为控制整个搜索过程后的显著机制。该对比的点估计（−30.36元/月）与附录E.2预定封顶口径的“5分减4分”相同；最终判断依据预先登记的二维整体检验（封顶p=0.080，原金额p=0.132，表13），而非此单项对比。两者抽样计划不同，本轮未重新计算单项p。不能将“主要对比未发现原始显著结果”扩写为“所有调节对比均不显著”。有效比例不足98%的结果继续暂缓推断。"
+            }
+          ],
+          "pdf_file_pages": [
+            44
+          ]
+        },
+        {
+          "anchor": "辅助局部结果不能替代整体结论",
+          "docx_paragraphs": [
+            {
+              "paragraph_index": 1356,
+              "text": "收入关联、满意度关联和机制检验应分别回答。女儿与儿子的收入—支持关联曾在次级分析中出现差异，但调整后及分期结果不足以支持稳定的性别差异。早期封顶金额模型在5分对4分的辅助对比中得到原始p=0.036；最终原金额与封顶金额的三状态整体p分别为0.132和0.080，均未达到预设5%水平。因此，辅助局部结果不能替代整体结论，也不能作为搜索校正后的确认性发现。各历史对比及其区间保留于附录D。"
+            }
+          ],
+          "pdf_file_pages": [
+            27
+          ]
+        }
+      ],
+      "requires_manuscript_change": false
+    },
+    {
+      "id": "ST4",
+      "topic": "structure",
+      "native_reference_numbers": [
+        7,
+        8,
+        9
+      ],
+      "decision": "ALREADY_SATISFIED",
+      "reason": "表D.8明确无执行失败及6项因有效率低于98%暂缓，E.2另列D.5的R1_B1。文本已区分运行错误与有效抽样不足。",
+      "source_matches": [
+        {
+          "anchor": "无执行失败的规格",
+          "docx_paragraphs": [
+            {
+              "paragraph_index": 3043,
+              "text": "无执行失败的规格；有效重复低于98%的6项暂缓主推断，即表中标“推断暂缓”的6行，另见附录E.2（E.2另含表D.5的R1_B1）。"
+            }
+          ],
+          "pdf_file_pages": [
+            42
+          ]
+        },
+        {
+          "anchor": "有效重复低于98%的6项暂缓主推断",
+          "docx_paragraphs": [
+            {
+              "paragraph_index": 3043,
+              "text": "无执行失败的规格；有效重复低于98%的6项暂缓主推断，即表中标“推断暂缓”的6行，另见附录E.2（E.2另含表D.5的R1_B1）。"
+            }
+          ],
+          "pdf_file_pages": [
+            42
+          ]
+        }
+      ],
+      "requires_manuscript_change": false
+    },
+    {
+      "id": "L1",
+      "topic": "language",
+      "native_reference_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "decision": "CORRECTLY_RETAINED",
+      "reason": "原答确认ΔOR、TNIE和新旧版本的区分已经准确，保留现有OR尺度与无完整中介证据限定。",
+      "source_matches": [
+        {
+          "anchor": "这些差值处于边际OR尺度，不能解释为支持概率下降的百分点",
+          "docx_paragraphs": [
+            {
+              "paragraph_index": 1280,
+              "text": "限定复核保留了两条与夫妻相对婚姻评价有关的探索性线索。删除跨波累计的父辈支持变量后，相对位置跃迁候选与分差变化候选的固定状态CDE差分别为−0.409和−0.085，未调整95%区间均不含零（表11）。这些差值处于边际OR尺度，不能解释为支持概率下降的百分点。两项模型化间接对比（TNIE）以标准化边际OR表示，031为0.999 [0.994, 1.004]，041为1.000 [0.998, 1.003]；两者95%区间均包含无效值1，未提供明确的完整中介证据。"
+            }
+          ],
+          "pdf_file_pages": [
+            24
+          ]
+        }
+      ],
+      "requires_manuscript_change": false
+    },
+    {
+      "id": "L2",
+      "topic": "language",
+      "native_reference_numbers": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "decision": "CORRECTLY_RETAINED",
+      "reason": "原答确认人际关联非个人内效应，六项校正均未显著；不采用简化为组间截面的替换句。",
+      "source_matches": [
+        {
+          "anchor": "人际均值差异不表示同一个人满意度提高后的作用",
+          "docx_paragraphs": [
+            {
+              "paragraph_index": 1352,
+              "text": "本人—波次辅助分析使用13,293条记录，涉及5,249名成年子女和3,186簇。本人及配偶满意度的人际均值每高1分，支持发生概率分别高1.66和1.84个百分点，原始p分别为0.046和0.031；两项个人内偏差未达到5%水平。固定六项家族调整后，四项满意度关联均未显著（附录E.3表E.1）。人际均值差异不表示同一个人满意度提高后的作用，也不能替代中介或修饰检验。"
+            }
+          ],
+          "pdf_file_pages": [
+            25
+          ]
+        }
+      ],
+      "requires_manuscript_change": false
+    },
+    {
+      "id": "L3",
+      "topic": "language",
+      "native_reference_numbers": [
+        8,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "decision": "CORRECTLY_RETAINED",
+      "reason": "P3只修复自身同似然数值路径，未覆盖的历史低有效率规格仍暂缓。原答确认本稿已如实说明。",
+      "source_matches": [
+        {
+          "anchor": "P3修复没有覆盖这些历史规格，不能将其计作已证实不显著",
+          "docx_paragraphs": [
+            {
+              "paragraph_index": 3263,
+              "text": "历史推断缺失另行保留：新14项B1仅195/200次有效，敏感性R1_B1（486/500，表D.5）、R4_B1、R3_B1、R9_C1、R9_C3、R9_D1、R9_D2未达98%有效比例而暂缓正式p与区间；三波金额中介仅373/500与311/500。P3修复没有覆盖这些历史规格，不能将其计作已证实不显著。"
+            }
+          ],
+          "pdf_file_pages": [
+            45
+          ]
+        }
+      ],
+      "requires_manuscript_change": false
+    },
+    {
+      "id": "L4",
+      "topic": "language",
+      "native_reference_numbers": [
+        25,
+        26,
+        27
+      ],
+      "decision": "ALREADY_SATISFIED",
+      "reason": "讨论已有完整相对结构与绝对改善的概念界限及三比例解释，不必重复相同限定。",
+      "source_matches": [
+        {
+          "anchor": "相对婚姻评价与婚姻质量改善是不同构念",
+          "docx_paragraphs": [
+            {
+              "paragraph_index": 1357,
+              "text": "相对婚姻评价与婚姻质量改善是不同构念。相对位置跃迁记录中，约28.35%伴随本人评分提高、88.01%伴随配偶评分下降，两类可以重叠。其余约71.65%的记录中本人评分持平或亦下降；按表11的定义，这部分记录的换序只能由配偶评分下降实现，因此不能将这一候选作为本人婚姻评价改善所产生“推力”的直接证据。负向修饰也不能直接写成“婚姻越幸福越不支持父母”。根据探索结果形成的一种待检验解释是，夫妻关系评价的不对称变化与核心家庭、父代家庭之间的资源配置取向有关。本研究没有直接测量资源协商与控制过程，不能由相对评分差确认权力或谈判机制。关联、收入联系的修饰和完整中介回答不同问题，也不要求同时出现。"
+            }
+          ],
+          "pdf_file_pages": [
+            27
+          ]
+        }
+      ],
+      "requires_manuscript_change": false
+    },
+    {
+      "id": "L5",
+      "topic": "language",
+      "native_reference_numbers": [
+        30,
+        31
+      ],
+      "decision": "KNOWN_SCIENTIFIC_BOUNDARY",
+      "reason": "沿用背景统计且本轮未全面重新核官方源的范围声明保留。原生收尾对具体公报的页码核查不能扩大为全部背景数据重验。",
+      "source_matches": [
+        {
+          "anchor": "本轮未重新进行官方源核验",
+          "docx_paragraphs": [
+            {
+              "paragraph_index": 1414,
+              "text": "文献与边界。正文保留原稿的动态引文；中国家庭和老年人口背景统计沿用既有来源，本轮未重新进行官方源核验。异质性分析是看过总体结果后的探索性扩展，不能替代时序识别或受限分解尺度的进一步核验。"
+            }
+          ],
+          "pdf_file_pages": [
+            30
+          ]
+        }
+      ],
+      "requires_manuscript_change": false
+    },
+    {
+      "id": "C1",
+      "topic": "citations",
+      "native_reference_numbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "decision": "ALREADY_SATISFIED",
+      "reason": "已明确E-value尚未适配实际估计量且不报告数值；Fujihara同时提供固定M对比的方法思路，保留准确用途，不缩成已量化敏感性结果。",
+      "source_matches": [
+        {
+          "anchor": "但尚未按实际估计量适配，本稿不报告相应数值",
+          "docx_paragraphs": [
+            {
+              "paragraph_index": 202,
+              "text": "历史模型以二项Logit拟合中介与结局，以Gaussian近似处理后变量；比率输出标记为标准化边际OR而非风险比。核查已确认二分类处理后状态的支持不匹配，以及部分原生ER和比例不能按一致风险尺度解释。后续仅评估一个候选：二分类L与M用Binomial/Logit，Y用Poisson/Log。四条相对满意度链因固定M与其他状态存在确定性禁配，在拟合前停止；四条绝对满意度链完成40次诊断拟合，其中23次出现大于1的反事实Y预测。故未扩大至正式1,000次重估，也未以候选替换旧结果。原计划包括E-value敏感性分析（Fujihara, 2024; Ding et al., 2016; VanderWeele et al., 2017a; Smith et al., 2019），但尚未按实际估计量适配，本稿不报告相应数值。"
+            }
+          ],
+          "pdf_file_pages": [
+            9
+          ]
+        }
+      ],
+      "requires_manuscript_change": false
+    },
+    {
+      "id": "C2",
+      "topic": "citations",
+      "native_reference_numbers": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "decision": "ALREADY_SATISFIED",
+      "reason": "两篇文献引入前已经说明两个环节各自相关不等于完整传导检验，本研究纵向与相对操作化亦已明确。没有将静态研究当作本研究完整因果链证据。",
+      "source_matches": [
+        {
+          "anchor": "两个环节各自相关，并不等于完整传导过程已经得到检验",
+          "docx_paragraphs": [
+            {
+              "paragraph_index": 12,
+              "text": "原有研究分别为这一机制的两个环节提供了线索，但两个环节各自相关，并不等于完整传导过程已经得到检验。"
+            }
+          ],
+          "pdf_file_pages": [
+            2
+          ]
+        }
+      ],
+      "requires_manuscript_change": false
+    },
+    {
+      "id": "C3",
+      "topic": "citations",
+      "native_reference_numbers": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "decision": "CORRECTLY_RETAINED",
+      "reason": "王跃生用于家庭结构背景，Wang与Arah用于g-computation，原答确认两文独立列示且无混淆。",
+      "source_matches": [
+        {
+          "anchor": "王跃生（2026）报告，2020年城镇、乡村直系家庭占比分别为13.89%和21.48%",
+          "docx_paragraphs": [
+            {
+              "paragraph_index": 74,
+              "text": "王跃生（2026）报告，2020年城镇、乡村直系家庭占比分别为13.89%和21.48%；"
+            }
+          ],
+          "pdf_file_pages": [
+            4
+          ]
+        }
+      ],
+      "requires_manuscript_change": false
+    },
+    {
+      "id": "C4",
+      "topic": "citations",
+      "native_reference_numbers": [
+        15,
+        16,
+        17
+      ],
+      "decision": "CORRECTLY_RETAINED",
+      "reason": "两条2017b/2019文献的作者、年份、DOI及实际规范刊名已获原生引用支持，和最终Word/Zotero验收一致。",
+      "source_matches": [
+        {
+          "anchor": "Journal of the Royal Statistical Society Series B: Statistical Methodology",
+          "docx_paragraphs": [
+            {
+              "paragraph_index": 3328,
+              "text": "VanderWeele T J, Tchetgen Tchetgen E J, 2017b. Mediation analysis with time varying exposures and mediators[J]. Journal of the Royal Statistical Society Series B: Statistical Methodology, 79(3): 917-938."
+            }
+          ],
+          "pdf_file_pages": [
+            47
+          ]
+        },
+        {
+          "anchor": "Mediational E-values: Approximate sensitivity analysis",
+          "docx_paragraphs": [
+            {
+              "paragraph_index": 3324,
+              "text": "Smith L H, VanderWeele T J, 2019. Mediational E-values: Approximate sensitivity analysis for unmeasured mediator-outcome confounding[J]. Epidemiology, 30(6): 835-837."
+            }
+          ],
+          "pdf_file_pages": [
+            47
+          ]
+        }
+      ],
+      "requires_manuscript_change": false
+    },
+    {
+      "id": "C5",
+      "topic": "citations",
+      "native_reference_numbers": [
+        2,
+        10,
+        18
+      ],
+      "decision": "NATIVE_EVIDENCE_SEPARATE",
+      "reason": "NLM只核静态文字，不能证明Word动态域与修订视图。采用已绑定同稿的真实Word原生验收，保留NLM能力界限。",
+      "source_matches": [],
+      "requires_manuscript_change": false
+    },
+    {
+      "id": "F1",
+      "topic": "formatting",
+      "native_reference_numbers": [
+        1,
+        2,
+        3
+      ],
+      "decision": "TEXT_EXTRACTION_LIMIT",
+      "reason": "实际第9页图4节点、箭头与题注可读，图前已提供结构化说明。文本抽取重排不证明图像错误；SVG/PNG重绘属可选美化。",
+      "source_matches": [
+        {
+          "anchor": "图4 包含处理后混杂因素的分析框架",
+          "docx_paragraphs": [
+            {
+              "paragraph_index": 199,
+              "text": "图4 包含处理后混杂因素的分析框架"
+            }
+          ],
+          "pdf_file_pages": [
+            9
+          ]
+        },
+        {
+          "anchor": "在图4中，C表示基期协变量",
+          "docx_paragraphs": [
+            {
+              "paragraph_index": 189,
+              "text": "在图4中，C表示基期协变量，L表示可能受收入变化影响、又关联满意度与支持的处理后变量。收入既可能经由M影响Y，也可能经由L绕过M。g-formula对这些过程分别建模，避免把“是否在普通回归中控制L”当作识别中介作用的充分条件（VanderWeele et al., 2017b）。"
+            }
+          ],
+          "pdf_file_pages": [
+            9
+          ]
+        }
+      ],
+      "requires_manuscript_change": false
+    },
+    {
+      "id": "F2",
+      "topic": "formatting",
+      "native_reference_numbers": [
+        4
+      ],
+      "decision": "FALSE_POSITIVE_VERIFIED_VISUALLY",
+      "reason": "重新从冻结PDF渲染第42页，9列清楚分离，无数字粘连；Word第32物理表前5行逐格亦独立。原答的确认错误来自PDF文本抽取连打，不能据此加边框或重新导出。",
+      "source_matches": [
+        {
+          "anchor": "表D.8 剩余敏感性规格的主对比及有效重复",
+          "docx_paragraphs": [
+            {
+              "paragraph_index": 2781,
+              "text": "表D.8 剩余敏感性规格的主对比及有效重复"
+            }
+          ],
+          "pdf_file_pages": [
+            42
+          ]
+        }
+      ],
+      "requires_manuscript_change": false
+    },
+    {
+      "id": "F3",
+      "topic": "formatting",
+      "native_reference_numbers": [
+        5,
+        6
+      ],
+      "decision": "OPTIONAL_LAYOUT_PREFERENCE",
+      "reason": "重新观察实际第24页，表10已有自动换行、列界和完整结论；无裁切或串列。原生F5已处理词界，进一步分点属于排版偏好。",
+      "source_matches": [
+        {
+          "anchor": "表10 研究问题、现有证据与结论范围",
+          "docx_paragraphs": [
+            {
+              "paragraph_index": 1245,
+              "text": "表10 研究问题、现有证据与结论范围"
+            }
+          ],
+          "pdf_file_pages": [
+            24
+          ]
+        }
+      ],
+      "requires_manuscript_change": false
+    },
+    {
+      "id": "F4",
+      "topic": "formatting",
+      "native_reference_numbers": [
+        7,
+        8,
+        9
+      ],
+      "decision": "REJECT_FAMILY_MISCLASSIFICATION",
+      "reason": "N1四项与P3两项有明确行名前缀，合为同一固定六项BH/BY家族；原答所谓不同检验家族不成立。新增“N1关联家族”等标题会误导为分家族校正。第45页实际表与表注均清晰。",
+      "source_matches": [
+        {
+          "anchor": "固定家族共6项",
+          "docx_paragraphs": [
+            {
+              "paragraph_index": 3303,
+              "text": "注：固定家族共6项，数值修复后六项均可估计；BH/BY均未在0.05水平拒绝。本表仅调整本次六项检验，不消除历史模型选择。P1/P2敏感性区间不属于本表六项家族；旧B=200搜索校正另行报告。N2只描述既有分期点，不新增检验。"
+            }
+          ],
+          "pdf_file_pages": [
+            45
+          ]
+        },
+        {
+          "anchor": "P1/P2敏感性区间不属于本表六项家族",
+          "docx_paragraphs": [
+            {
+              "paragraph_index": 3303,
+              "text": "注：固定家族共6项，数值修复后六项均可估计；BH/BY均未在0.05水平拒绝。本表仅调整本次六项检验，不消除历史模型选择。P1/P2敏感性区间不属于本表六项家族；旧B=200搜索校正另行报告。N2只描述既有分期点，不新增检验。"
+            }
+          ],
+          "pdf_file_pages": [
+            45
+          ]
+        }
+      ],
+      "requires_manuscript_change": false
+    },
+    {
+      "id": "F5",
+      "topic": "formatting",
+      "native_reference_numbers": [
+        3,
+        10,
+        11
+      ],
+      "decision": "NATIVE_EVIDENCE_SEPARATE",
+      "reason": "NLM不能核Word样式、域及嵌入字体，能力边界如实保留；实际三稿、字体和全47页原生验收另列，不把NLM文字结论当技术验收。",
+      "source_matches": [],
+      "requires_manuscript_change": false
+    }
+  ],
+  "actual_same_round_joint_coverage_references": {
+    "摘要/引言": {
+      "language": [
+        25,
+        27,
+        32,
+        33
+      ],
+      "citations": [
+        5,
+        10,
+        11
+      ],
+      "theory_method": [
+        12
+      ]
+    },
+    "研究设计/识别/估计量": {
+      "theory_method": [
+        9,
+        10,
+        13
+      ],
+      "language": [
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "citations": [
+        1,
+        4,
+        19
+      ]
+    },
+    "基础回归/历史八链/综合判断": {
+      "language": [
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58
+      ],
+      "data_figures": [
+        8,
+        10,
+        15,
+        16
+      ],
+      "theory_method": [
+        3,
+        6,
+        14,
+        15
+      ]
+    },
+    "031/041/P3/N1限定复核": {
+      "language": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "data_figures": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        19
+      ]
+    },
+    "讨论与结论": {
+      "language": [
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "theory_method": [
+        2
+      ],
+      "structure": [
+        3,
+        6
+      ]
+    },
+    "附录A": {
+      "language": [
+        60,
+        61,
+        62
+      ],
+      "data_figures": [
+        17
+      ],
+      "formatting": [
+        13,
+        15
+      ]
+    },
+    "附录B": {
+      "language": [
+        30,
+        31,
+        60
+      ],
+      "citations": [
+        2
+      ],
+      "theory_method": [
+        16
+      ]
+    },
+    "附录C": {
+      "language": [
+        31,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69
+      ],
+      "data_figures": [
+        18
+      ]
+    },
+    "附录D": {
+      "language": [
+        23,
+        24,
+        63,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75
+      ],
+      "data_figures": [
+        11,
+        12
+      ],
+      "structure": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    "附录E含E.4": {
+      "language": [
+        9,
+        11,
+        16,
+        17,
+        19,
+        76,
+        77,
+        78
+      ],
+      "data_figures": [
+        6,
+        7,
+        19
+      ],
+      "formatting": [
+        7,
+        8,
+        9
+      ]
+    },
+    "参考文献": {
+      "language": [
+        79,
+        80
+      ],
+      "citations": [
+        12,
+        15,
+        16,
+        17
+      ],
+      "structure": [
+        25,
+        26,
+        27
+      ]
+    }
+  },
+  "confirmed_new_manuscript_errors": 0,
+  "unresolved_manuscript_findings": [],
+  "requires_document_change": false,
+  "targeted_visual_followup": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v3/round2_visual_followup/DECISION.json",
+    "sha256": "0f1cec3c2513d8f3111a937ce5d47b673b4638509ddc1b78230b4e58f8852385"
+  },
+  "native_evidence_reused_same_frozen_files": [
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_native_v1/FINAL_NATIVE_VERIFIED.json",
+      "sha256": "1a0421407424a76321c93a29be6f447fbe04f555e1119dee8ec077dee8e66494"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_pdf_acceptance_v1/EVIDENCE.json",
+      "sha256": "9d84bac1ddd471dc6af9a61750a380e11121434d372622eeb96b14c71a14cb9f"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v1/final_pdf_acceptance_v1/NATIVE_FREEZE.json",
+      "sha256": "fb0dee5b30ea25512d6ace8ccfc5018a42d36004a6034b326d0b0ecc932881f8"
+    }
+  ],
+  "answer_corrections": [
+    "所有NLM页码和章节号按实际47页PDF与原稿锚点解释；不存在第48—52页。",
+    "表13是各基期满意度状态下X=1与X=0的标准化金额对比；结局为期末金额水平，不是状态均值或金额变化。",
+    "引文题覆盖表对搜索校正的概括不够精确，依本轮数表题1与语言题1及原稿区分新去dwm区间和旧含dwm搜索校正。",
+    "表D.8的文本连打不属于PDF排版错误；表E.1不是两个独立校正家族。"
+  ],
+  "limits": [
+    "NLM审读所选27来源及9份配套CSV，非全部288来源的独立重估或重新上传。",
+    "NLM不验图像像素、Word域或字体；实际原生技术证据独立保留。",
+    "历史推断暂缓、未识别因果机制和背景统计核验边界保留。",
+    "本轮使用原HTTP流恢复语言题，原失败不改写，未重POST、未新增预算。"
+  ]
+}

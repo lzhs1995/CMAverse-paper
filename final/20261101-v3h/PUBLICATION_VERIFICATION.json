@@ -1,0 +1,14 @@
+{
+  "state": "FROZEN_PAYLOAD_READY_CHANNEL_VERIFICATION_PENDING",
+  "archive": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v4/delivery_r2/CMAverse_V3h_final_20261101.zip",
+    "bytes": 10299844,
+    "sha256": "cc72cdec12cf6d16ccf87de2df41bc71bf46fccc485f8e6e858373e0bdbb3095"
+  },
+  "manifest": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v4/delivery_r2/package/MANIFEST.json",
+    "bytes": 38496,
+    "sha256": "e2254f64df48417b35077ef420625ac73047581f6ed5f78e79e2530df49dd7e2"
+  },
+  "note": "发布与云回下载验收单独记录；本冻结ZIP不改变。"
+}

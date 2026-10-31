@@ -1,0 +1,32 @@
+{
+  "at": "2026-10-31T21:20:31.767142+00:00",
+  "document_sha256": "6bde712d3564f8116dcc13ac769881104058951a753d7eba8b38cc9206cec291",
+  "reviewer": "Codex original session 01a19133 / solo_self_review",
+  "rendered_pages": {
+    "D8": {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v3/round2_visual_followup/D8.png",
+      "sha256": "a5fccf4793b948a5dec15a081aca10546a1febf4afecbb22dc12dc55b960dbe7"
+    },
+    "DAG": {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v3/round2_visual_followup/DAG.png",
+      "sha256": "531b0d577c616b68f9b93c26ab23e3569b653c9a3ef1bfdc413fe0e76a52f47d"
+    },
+    "E1": {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v3/round2_visual_followup/E1.png",
+      "sha256": "27480bb7adda6188afb303c445a0ff7b5236fc0f5b4ae2516c9f74e80cdd09b4"
+    },
+    "T10": {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v3/round2_visual_followup/T10.png",
+      "sha256": "03695c7826137706d0e369c1028416ed3e588ab6320c3a35f2d6b2411d99eeec"
+    }
+  },
+  "actual_page_map_and_word_cells": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v3/round2_visual_followup/ACTUAL_SOURCE_TABLES.json",
+    "sha256": "95efedd5c85147774c53389b243e1e7906b0394c1209fc8f83bf86ccbe090c45"
+  },
+  "D8_nine_columns_separated_no_visual_concatenation": true,
+  "DAG_nodes_arrows_caption_readable": true,
+  "T10_wrapping_readable_no_clipping": true,
+  "E1_six_rows_one_explicit_adjustment_family": true,
+  "mother_document_changed": false
+}

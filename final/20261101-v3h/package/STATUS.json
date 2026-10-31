@@ -1,0 +1,15 @@
+{
+  "schema": "cma-final-content-status-v1",
+  "status": "FINAL_MANUSCRIPT_ACCEPTED",
+  "pdf_sha256": "6bde712d3564f8116dcc13ac769881104058951a753d7eba8b38cc9206cec291",
+  "pdf_pages": 47,
+  "native_word_documents": 3,
+  "native_word_and_pdf_checks": "PASS",
+  "final_nlm_rounds": 2,
+  "final_nlm_topics_per_round": 6,
+  "final_nlm_findings_adjudicated": 57,
+  "unresolved_manuscript_findings": 0,
+  "new_models": 0,
+  "publication_receipts": "包外 PUBLICATION_VERIFICATION.json，独立于本冻结内容清单",
+  "review_mode": "solo_self_review"
+}

@@ -1,0 +1,217 @@
+{
+  "status": "TRANSPORT_COMPLETE_PENDING_LOCAL_ADJUDICATION",
+  "manifest": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/nlm_current_actor_v1/final6bde712d_compact_v3/FINAL_QUERY_MANIFEST.json",
+    "sha256": "27e7c50ca1d3b7aab5e28be6b9797fec347958bc8a7e96d901dc20d33de4ce14"
+  },
+  "verified": [
+    {
+      "round_id": "cma19133_20261101_final6bde712d_compact_native_v3-r01-theory_method",
+      "conversation_id": "1cfac9d0-ec9a-44fd-9272-f7a58be84232",
+      "receipt": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/nlm_current_actor_v1/final6bde712d_compact_v3/unsent_connection_continuation/2f47422a6267e1322a155bdf539531b66158b6397b66ae1f14601cf83788ca71/RECOVERED_RECEIPT.json",
+        "sha256": "9badf9272f0a6aa262d9d41bce488d6dac69d89e26bebf323f2df39f09c28c6b"
+      },
+      "raw_answer": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/nlm_current_actor_v1/final6bde712d_compact_v3/unsent_connection_continuation/2f47422a6267e1322a155bdf539531b66158b6397b66ae1f14601cf83788ca71/transport/2f47422a6267e1322a155bdf539531b66158b6397b66ae1f14601cf83788ca71/raw.json",
+        "sha256": "f0dc52e46550f3484a860f28315ab6ea51aa6e5f21d1afd19b4aa5298bf0d813"
+      },
+      "answer_characters": 2726,
+      "citations": 45,
+      "native_reference_count": 45,
+      "native_cited_table_count": 17,
+      "native_references_sha256": "2e7e0bf8bda2bf8f5cd6290a9c4a76b20381e3c41d061d69f4538e91672f5f5f"
+    },
+    {
+      "round_id": "cma19133_20261101_final6bde712d_compact_native_v3-r01-data_figures",
+      "conversation_id": "6dc904f3-b452-44b9-bc92-10c5a4c69ee3",
+      "receipt": {
+        "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/2934ad2e42a59286680f20b86e79406264f3baffb266b516bcd04296b50e6c05/receipt.json",
+        "sha256": "eab10b53da27f85d026f73ad0ecd9ba34bc3aab0e7cb55fd1853932d7e0f616a"
+      },
+      "raw_answer": {
+        "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/2934ad2e42a59286680f20b86e79406264f3baffb266b516bcd04296b50e6c05/raw.json",
+        "sha256": "3d145704196901435a7d8e50ad40775a80c4568f6de7dbe882c463611c3a816f"
+      },
+      "answer_characters": 3142,
+      "citations": 17,
+      "native_reference_count": 17,
+      "native_cited_table_count": 6,
+      "native_references_sha256": "451ee1cc6e9f39585641e3eeb248d294f04ebfb07c3e0f539786a7a0f8fa0c64"
+    },
+    {
+      "round_id": "cma19133_20261101_final6bde712d_compact_native_v3-r01-structure",
+      "conversation_id": "7290ba61-35b4-4f78-b18f-8e35d9869c4d",
+      "receipt": {
+        "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/8791dc278c7d0b1a4f656910c0af80a5dff474101c270d5946148ce90e6f0c3a/receipt.json",
+        "sha256": "eb78540b6142d5bc43147b28fd4599546c5c4e4fc8ee45753aa84c8a79cd7d66"
+      },
+      "raw_answer": {
+        "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/8791dc278c7d0b1a4f656910c0af80a5dff474101c270d5946148ce90e6f0c3a/raw.json",
+        "sha256": "01a05d01b1971edafba9842235ad1879e0447fc70025b953a82b4ff4a0f89ab0"
+      },
+      "answer_characters": 2380,
+      "citations": 21,
+      "native_reference_count": 21,
+      "native_cited_table_count": 9,
+      "native_references_sha256": "907952f0091c207e9a8bcaadaf22c86ca0750e602417a57f3102ea8e63959bdd"
+    },
+    {
+      "round_id": "cma19133_20261101_final6bde712d_compact_native_v3-r01-language",
+      "conversation_id": "1e35bdf7-a477-4eed-ae6c-ade3bf6e269e",
+      "receipt": {
+        "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/546cf1fb733447da8f96b863c1528a67d360ae2f042b9c9f3da8937faad37f70/receipt.json",
+        "sha256": "fbcba40272f97df1c3b8ba7da6ebaa1d3974e9ade0b60c3f11d18e37ea9b6966"
+      },
+      "raw_answer": {
+        "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/546cf1fb733447da8f96b863c1528a67d360ae2f042b9c9f3da8937faad37f70/raw.json",
+        "sha256": "3e8e6a9adc833b89dfd37875b407048e0807a564bb255384eeb7aab62b5b9fa9"
+      },
+      "answer_characters": 3540,
+      "citations": 21,
+      "native_reference_count": 21,
+      "native_cited_table_count": 14,
+      "native_references_sha256": "368b515b93c22373ec7b175bbcf369bf18deb9b4c79a2815f9d4782e6ed82938"
+    },
+    {
+      "round_id": "cma19133_20261101_final6bde712d_compact_native_v3-r01-citations",
+      "conversation_id": "1376b5e7-421c-4770-964f-a4c1a6c803c4",
+      "receipt": {
+        "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/a1e6abc0cbf6f305baa645151fcb39fb7267a19e981208351c4d60c77cac1c9e/receipt.json",
+        "sha256": "edd4652c3eb4e731a2ea27bbeb9d498ec05e18c17bff402b9e0603adb24c9827"
+      },
+      "raw_answer": {
+        "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/a1e6abc0cbf6f305baa645151fcb39fb7267a19e981208351c4d60c77cac1c9e/raw.json",
+        "sha256": "25d81c3ec65874c85af6dc782b6f09e656d7b9b4bd1fb2aaa236869a7e9dfc82"
+      },
+      "answer_characters": 2869,
+      "citations": 13,
+      "native_reference_count": 13,
+      "native_cited_table_count": 0,
+      "native_references_sha256": "72ea1e9cc3463fce0a00d43395ad8e10b9eec906a53b488b4b9eab5f3969391b"
+    },
+    {
+      "round_id": "cma19133_20261101_final6bde712d_compact_native_v3-r01-formatting",
+      "conversation_id": "12001244-5556-4966-9d76-53fb75d7b059",
+      "receipt": {
+        "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/be529a93e82442d0eada60f4965552afd17d639f6d1ef87a3b61e1351112e8a2/receipt.json",
+        "sha256": "aeb54d79f811e3189a0ad9719f49c976eff7eb76962b76d871c1b6f3e6b3dca1"
+      },
+      "raw_answer": {
+        "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/be529a93e82442d0eada60f4965552afd17d639f6d1ef87a3b61e1351112e8a2/raw.json",
+        "sha256": "8f4668d2a5b0229c92cb6699ee9826ae40795b3ef0b322a39147cb67fb32685d"
+      },
+      "answer_characters": 2361,
+      "citations": 20,
+      "native_reference_count": 20,
+      "native_cited_table_count": 2,
+      "native_references_sha256": "15c0dff829240d052ccd004f689fd7d19a3f36ea7ce8ef1e29e562e5127e246b"
+    },
+    {
+      "round_id": "cma19133_20261101_final6bde712d_compact_native_v3-r02-theory_method",
+      "conversation_id": "3a4cb0f4-9651-42b8-890e-7d74f02ae291",
+      "receipt": {
+        "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/965c6a494213cc75164fd46ecb8e2e70864a2aa6f47ad8aecd954f408ff40d15/receipt.json",
+        "sha256": "955a402b96e9aacaee7592bb6d22ac97facd112520d15366c9a69757f453a64f"
+      },
+      "raw_answer": {
+        "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/965c6a494213cc75164fd46ecb8e2e70864a2aa6f47ad8aecd954f408ff40d15/raw.json",
+        "sha256": "ee0af330fd4f97d8379db371b256a14bc5354cc4ad522721b13b550753516a03"
+      },
+      "answer_characters": 2773,
+      "citations": 17,
+      "native_reference_count": 17,
+      "native_cited_table_count": 8,
+      "native_references_sha256": "ee5499e951923629e1200d54d9be526c947abcbe0ef9fea0438d78d15ed398d3"
+    },
+    {
+      "round_id": "cma19133_20261101_final6bde712d_compact_native_v3-r02-data_figures",
+      "conversation_id": "8dfaa3da-82f6-4205-8160-19da982ebcef",
+      "receipt": {
+        "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/60b6991b05d99bdfee42fd403085c390462ccc0ee997c19cfe0925fda75f7c06/receipt.json",
+        "sha256": "11e80a9e3b5d48a3ea10f7c40456cd153d92709c014841bc195e11a4fa77c1bf"
+      },
+      "raw_answer": {
+        "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/60b6991b05d99bdfee42fd403085c390462ccc0ee997c19cfe0925fda75f7c06/raw.json",
+        "sha256": "ffdf142f36b2fad92a41a186f5d23defd70c969e7a9cb28e6473d5fd4fe65f83"
+      },
+      "answer_characters": 2410,
+      "citations": 20,
+      "native_reference_count": 20,
+      "native_cited_table_count": 9,
+      "native_references_sha256": "f68ea08f48be4e4bcee392386c09014cb6ba222bd35b4db1497e082588d60ca6"
+    },
+    {
+      "round_id": "cma19133_20261101_final6bde712d_compact_native_v3-r02-structure",
+      "conversation_id": "bd1cfbe1-e724-45f8-940b-40acd73b1a79",
+      "receipt": {
+        "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/ce5d371d4deb466ec351e174d7907d527078838b5723fc5b648ba77592e84f62/receipt.json",
+        "sha256": "de6fc2a9cea206079096ed912d64d6189d8e90a942f381add7a95a58a25936e9"
+      },
+      "raw_answer": {
+        "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/ce5d371d4deb466ec351e174d7907d527078838b5723fc5b648ba77592e84f62/raw.json",
+        "sha256": "1ad3ba1f09985a03e4c270d66bd0451b3358b20fc90e62a86dd71241994914c4"
+      },
+      "answer_characters": 2583,
+      "citations": 27,
+      "native_reference_count": 27,
+      "native_cited_table_count": 11,
+      "native_references_sha256": "28d4caf84560bf247169416fbc54d0abf1609605e6b6e8bd0f28526cb5a660e2"
+    },
+    {
+      "round_id": "cma19133_20261101_final6bde712d_compact_native_v3-r02-language",
+      "conversation_id": "2038bd9e-85fa-4374-91fc-ea8146296daf",
+      "receipt": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v3/round2_language_original_stream_recovery_v2/RECOVERED_RECEIPT.json",
+        "sha256": "0d84c5dfefd916b040456182b23d8bc5ea61a783c4470fe8a1994cfb3de72664"
+      },
+      "raw_answer": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v3/round2_language_original_stream_recovery_v2/raw.json",
+        "sha256": "fed1928a4ba1bc108979a2f0bfe48d5c923e5a1fbe034cca616017ac8b332860"
+      },
+      "answer_characters": 3428,
+      "citations": 80,
+      "native_reference_count": 80,
+      "native_cited_table_count": 19,
+      "native_references_sha256": "f87f4d029195eaa4893bc791b0573bd8caf75583b0b446362e0f0a444f468588"
+    },
+    {
+      "round_id": "cma19133_20261101_final6bde712d_compact_native_v3-r02-citations",
+      "conversation_id": "bd13713a-b107-45be-b038-dc312f4d4208",
+      "receipt": {
+        "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/90e182de7e06ecefa7a4dfd4dce3def0b0e7ee0fbfa3eff655bb975dbb2e18be/receipt.json",
+        "sha256": "e70033c9506ba324bd4b21d0a4ee4277ea2b21869bc285f3a8124b6dab6c6e06"
+      },
+      "raw_answer": {
+        "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/90e182de7e06ecefa7a4dfd4dce3def0b0e7ee0fbfa3eff655bb975dbb2e18be/raw.json",
+        "sha256": "6033cc88ffcb09585c37759f5b56c57deddc43f2604499a8c6179141bba618f8"
+      },
+      "answer_characters": 2930,
+      "citations": 30,
+      "native_reference_count": 30,
+      "native_cited_table_count": 9,
+      "native_references_sha256": "80fcfec9d9c8d2f0367b212573912c6f608f2aa96d3bcf7373b39114349ba2d9"
+    },
+    {
+      "round_id": "cma19133_20261101_final6bde712d_compact_native_v3-r02-formatting",
+      "conversation_id": "ddbdf7cc-a9ea-465a-8037-84205c7a46b1",
+      "receipt": {
+        "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/f9a1438d7415c60b2c715bb9ee7f1276c56b7b21dcbde12c61e3fa9efcc9002f/receipt.json",
+        "sha256": "f50ac335f800b679291305d76eab662a6fecaad73f7c0e7ddae32c335bce468e"
+      },
+      "raw_answer": {
+        "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/f9a1438d7415c60b2c715bb9ee7f1276c56b7b21dcbde12c61e3fa9efcc9002f/raw.json",
+        "sha256": "c18c6e7714e44bea1493cfabd11ee94b2d9ada6ca610cbbe6ea524b6c1d2c8db"
+      },
+      "answer_characters": 2341,
+      "citations": 17,
+      "native_reference_count": 17,
+      "native_cited_table_count": 1,
+      "native_references_sha256": "2c15817de9585896cd39104b911643b5fdb79d403706fc9eab05fc0a8379a500"
+    }
+  ],
+  "missing_round_ids": [],
+  "network_requests_made": 0,
+  "A5_credit": false,
+  "meaning": "Preserves original native cited_text/cited_table; transport, source-set and conversation checks do not prove semantic coverage or resolve manuscript issues"
+}
