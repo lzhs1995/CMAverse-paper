@@ -1,6 +1,6 @@
 # CMAverse 因果中介论文 · 最终交付
 
-磁盘40 GiB曾达标；11月1日09:07复测为28.47 GiB，距离目标差11.53 GiB。[容量补记](CAPACITY_FOLLOWUP_20261101.json)。
+磁盘40 GiB已重新达标；11月1日09:30—09:31三次复测最低42.76 GiB、最新43.72 GiB。[容量补记](CAPACITY_FOLLOWUP_20261101.json)。
 
 [系统报告与原始任务清单](TASK_REPORT_20261101.md) · [12项收尾台账](TASK_CHECKLIST_20261101.csv) · [网页原件与后继执行修订](report_sources/) · [本轮公共下载核验](REPORT_EVIDENCE_20261101.json)
 

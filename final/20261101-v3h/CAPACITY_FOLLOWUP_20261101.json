@@ -1,34 +1,25 @@
 {
   "schema": "cma-capacity-post-publication-followup-v1",
-  "at_utc": "2026-11-01T01:10:13.791457+00:00",
+  "at_utc": "2026-11-01T01:32:43.809471+00:00",
   "sample": {
-    "at_utc": "2026-11-01T01:07:14.742323+00:00",
+    "at_utc": "2026-11-01T01:31:12.102131+00:00",
     "mountpoint": "/System/Volumes/Data",
-    "device": "disk3s5",
-    "statvfs_available_bytes": 30567653376,
-    "APFSContainerFree": 30665351168,
-    "effective_available_bytes": 30567653376,
-    "effective_GiB": 28.468345642089844,
+    "statvfs_available_bytes": 46949322752,
+    "APFSContainerFree": 46949216256,
+    "effective_available_bytes": 46949216256,
+    "effective_GiB": 43.7248649597168,
     "target_bytes": 42949672960,
-    "target_met": false,
-    "shortfall_bytes": 12382019584,
-    "shortfall_GiB": 11.531654357910156,
+    "target_met": true,
     "source_mutations": 0
   },
-  "shortfall_bytes": 12382019584,
-  "shortfall_GiB": 11.531654357910156,
+  "shortfall_bytes": 0,
+  "shortfall_GiB": 0,
   "prior_40GiB_acceptance_preserved": true,
   "manuscript_and_cloud_delivery_complete": true,
   "systematic_report_and_sources_published_commit": "c182e1de8b01f029dd0c5d144108f302ed4b34c7",
   "new_cleanup_actions": 0,
-  "decline_cause": "NOT_YET_ATTRIBUTED",
-  "next_steps": [
-    "只读对比本次新占用，按APFS实际独占空间核定可回收来源。",
-    "只处理新确认终态缓存及已有完整云回验的具名归档；不删除研究原始资料、不重放旧STOP。",
-    "逐项保留SHA、属性与恢复依据，实际可用量下降时停止扩大。",
-    "按min(statvfs可用,APFSContainerFree)两次复测至少40GiB后才报重新达标。"
-  ],
-  "current_all_requirements_met": false,
+  "decline_cause": "High agy memory and swap growth observed; original process later disappeared without this agent signalling it; full volume attribution is not claimed.",
+  "current_all_requirements_met": true,
   "previous_samples": [
     {
       "at_utc": "2026-11-01T00:57:35.094009+00:00",
@@ -40,6 +31,20 @@
       "target_bytes": 42949672960,
       "target_met": false,
       "source_mutations": 0
+    },
+    {
+      "at_utc": "2026-11-01T01:07:14.742323+00:00",
+      "mountpoint": "/System/Volumes/Data",
+      "device": "disk3s5",
+      "statvfs_available_bytes": 30567653376,
+      "APFSContainerFree": 30665351168,
+      "effective_available_bytes": 30567653376,
+      "effective_GiB": 28.468345642089844,
+      "target_bytes": 42949672960,
+      "target_met": false,
+      "shortfall_bytes": 12382019584,
+      "shortfall_GiB": 11.531654357910156,
+      "source_mutations": 0
     }
   ],
   "system_swap_observation": {
@@ -47,5 +52,68 @@
     "command": "sysctl vm.swapusage",
     "output": "vm.swapusage: total = 24576.00M  used = 24061.69M  free = 514.31M  (encrypted)",
     "meaning": "Observed system usage; not claimed reclaimable space or complete attribution of the capacity decline."
+  },
+  "stability_samples": [
+    {
+      "sample": 1,
+      "at_utc": "2026-11-01T01:30:31.375071+00:00",
+      "statvfs_available_bytes": 46928617472,
+      "APFSContainerFree": 46928650240,
+      "effective_bytes": 46928617472,
+      "effective_GiB": 43.70568084716797,
+      "target_bytes": 42949672960,
+      "target_met": true,
+      "original_agy_pid_present": false,
+      "process_readback": "",
+      "swap": "vm.swapusage: total = 16384.00M  used = 15598.31M  free = 785.69M  (encrypted)"
+    },
+    {
+      "sample": 2,
+      "at_utc": "2026-11-01T01:30:51.821777+00:00",
+      "statvfs_available_bytes": 45909454848,
+      "APFSContainerFree": 45993353216,
+      "effective_bytes": 45909454848,
+      "effective_GiB": 42.75651168823242,
+      "target_bytes": 42949672960,
+      "target_met": true,
+      "original_agy_pid_present": false,
+      "process_readback": "",
+      "swap": "vm.swapusage: total = 16384.00M  used = 15286.25M  free = 1097.75M  (encrypted)"
+    },
+    {
+      "sample": 3,
+      "at_utc": "2026-11-01T01:31:12.102131+00:00",
+      "statvfs_available_bytes": 46949322752,
+      "APFSContainerFree": 46949216256,
+      "effective_bytes": 46949216256,
+      "effective_GiB": 43.7248649597168,
+      "target_bytes": 42949672960,
+      "target_met": true,
+      "original_agy_pid_present": false,
+      "process_readback": "",
+      "swap": "vm.swapusage: total = 16384.00M  used = 15238.25M  free = 1145.75M  (encrypted)"
+    }
+  ],
+  "three_samples_target_met": true,
+  "minimum_effective_bytes": 45909454848,
+  "process_signals_sent": 0,
+  "mole_preview": {
+    "items": 23,
+    "display_size": "53.8MB",
+    "actual_removals": 0
+  },
+  "prior_remaining_plan": [
+    "只读对比本次新占用，按APFS实际独占空间核定可回收来源。",
+    "只处理新确认终态缓存及已有完整云回验的具名归档；不删除研究原始资料、不重放旧STOP。",
+    "逐项保留SHA、属性与恢复依据，实际可用量下降时停止扩大。",
+    "按min(statvfs可用,APFSContainerFree)两次复测至少40GiB后才报重新达标。"
+  ],
+  "next_steps": [
+    "本轮目标已达，停止扩大清理。",
+    "如重新告警，先检查top的MEM/CMPRS和系统swap，再检查可回收缓存；不按RSS低值排除进程高内存。"
+  ],
+  "latest_system_swap_observation": {
+    "at_utc": "2026-11-01T01:31:12.102131+00:00",
+    "output": "vm.swapusage: total = 16384.00M  used = 15238.25M  free = 1145.75M  (encrypted)"
   }
 }
