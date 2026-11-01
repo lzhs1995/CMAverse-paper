@@ -1,0 +1,57 @@
+{
+  "schema": "thesis-refiner.v3i.bounded_dual_loop_review.v1",
+  "generated_at_utc": "2026-11-01T08:17:59.249462+00:00",
+  "inherited_v3h_nlm_acceptance": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v4/delivery_r2/package/evidence/FINAL_NLM_ACCEPTANCE.json",
+    "bytes": 3502,
+    "sha256": "8abfe103c51d5ea1cd348770f130565a32131379c0b1fec3fa294bd1ce59001c"
+  },
+  "v3h_nlm_baseline_stats": {
+    "rounds_completed": 2,
+    "topics_per_round": 6,
+    "independent_conversations": 12,
+    "native_reference_count": 328,
+    "findings_adjudicated": 57,
+    "confirmed_new_manuscript_errors": 0
+  },
+  "v3i_delta_scope": {
+    "tables_modified": 0,
+    "citations_modified": 0,
+    "footnotes_modified": 0,
+    "paragraphs_refined": 28,
+    "new_models_or_p_values_estimated": 0,
+    "three_statistical_anchors_bound_to_csv_and_stata": true
+  },
+  "six_topic_v3i_verification": [
+    {
+      "topic_id": "T1_Abstract_And_Introduction_Coherence",
+      "status": "PASS",
+      "verification": "P002, P006, P009, P010, P013, P015, P021, P023 integrate the Three Statistical Anchors and deepen dialogue with Xu (2022) and Zheng & Di (2017) without touching P014/P017 Zotero/footnote runs."
+    },
+    {
+      "topic_id": "T2_Methods_And_PostSelection_DeBureaucratization",
+      "status": "PASS",
+      "verification": "P100 and P101 replace audit-list phrasing with publication-grade methodological prose while preserving W03, W04, W08, and TM-2."
+    },
+    {
+      "topic_id": "T3_Anchor1_MainEffect_And_AdditiveInteraction",
+      "status": "PASS",
+      "verification": "P123, P129, P133 clearly contrast AA-S (+4.90 pp) and AR-S (-8.76 pp, q=0.032) / AR-P (+6.82 pp, q=0.094) against null pairwise X-M and M-Y paths."
+    },
+    {
+      "topic_id": "T4_Anchor2_Tightly_Bounded_Null_Mediation",
+      "status": "PASS",
+      "verification": "P138, P168, P170 establish the tightly bounded null across historical 8 chains (AR-S CI half-width 0.0040), post-selection no-dwm TNIE (031: 0.999 [0.994, 1.004]; 041: 1.000 [0.998, 1.003]), and New 14 probability mediation chains (95% CIs within [-0.168, +0.319] pp)."
+    },
+    {
+      "topic_id": "T5_Anchor3_FEAS031_Relational_Asymmetry_And_P3_N1",
+      "status": "PASS",
+      "verification": "P174, P177, P180, P185 integrate the exact FEAS_031 transition decomposition (28.35% self up, 88.01% spouse down, 16.36% overlap, 71.65% pure spouse down, 11.99% pure self up) with P3 (p=0.132/0.080) and N1 (+1.66/+1.84 pp between vs null within)."
+    },
+    {
+      "topic_id": "T6_Appendix_D_DeBureaucratization_And_Zero_Table_Drift",
+      "status": "PASS",
+      "verification": "P224, P233, P239 replace '按冻结复核脚本' and '函数不证明/函数完成不等于' with rigorous statistical prose; all 34 tables and 22+1 Zotero fields remain 100% byte-equivalent in normalized XML."
+    }
+  ]
+}

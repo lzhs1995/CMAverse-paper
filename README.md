@@ -1,3 +1,13 @@
+## 2026-11-01 CMAverse V3i 推进稿（三大统计锚点 + 文稿去审计日志化 + 理论升华与发表定位 · Word修订版）
+
+[V3i 推进稿总览](final/20261101-v3i/README.md) · [28处逐段修订对照表(V3h→V3i)](final/20261101-v3i/REVISION_COMPARISON_V3H_TO_V3I.md) · [五轮审校报告](final/20261101-v3i/WRITING_QUALITY_AUDIT_V3I.md) · [发表策略与博士论文定位方案(三大方案模板)](final/20261101-v3i/PUBLICATION_AND_THESIS_POSITIONING_V3I.md) · [V3i 在线全文阅读](final/20261101-v3i/MANUSCRIPT_READING_V3I.md) · [五大技能经验沉淀(Agent公用 vs AGY CLI)](final/20261101-v3i/SKILL_EXPERIENCE_AND_AGY_OPTIMIZATION_20261101.md)
+
+[Word修订痕迹版(Tracked DOCX)](final/20261101-v3i/package/manuscript/CMAverse_V3i_progressed_tracked.docx) · [Word接受清洁版(Accepted DOCX)](final/20261101-v3i/package/manuscript/CMAverse_V3i_progressed_accepted.docx) · [Word拒绝回退版(Rejected DOCX)](final/20261101-v3i/package/manuscript/CMAverse_V3i_progressed_rejected.docx) · [接受版PDF(52页)](final/20261101-v3i/package/manuscript/CMAverse_V3i_progressed_accepted.pdf) · [修订痕迹版PDF(52页)](final/20261101-v3i/package/manuscript/CMAverse_V3i_progressed_tracked.pdf) · [三大统计锚点CSV](final/20261101-v3i/package/results/THREE_STATISTICAL_ANCHORS_V3I.csv) · [FEAS_031非对称解构CSV](final/20261101-v3i/package/results/FEAS031_ASYMMETRY_DECOMPOSITION_V3I.csv) · [V3i完整单包ZIP(4.26 MB, <25 MB)](final/20261101-v3i/CMAverse_V3i_progressed_20261101.zip)
+
+基于 `CMAverse_V3h_final_accepted.docx` 冻结母稿（34张表格、22个Zotero引用域、1个Zotero书目域、9条脚注及全部`W01–W08`裁决锚点100%零改动保全），调用五大本地技能链完成28处正文段落精修（`w:ins=274`，`w:del=144`），植入经 R 与 Stata 19.5 MP 交叉核验的三大统计锚点（确认性主效应与加性交互、中介窄区间零效应界 `[-0.168, 0.319]` 个百分点、`FEAS_031` 配偶满意度下滑占 `88.01%`/纯配偶下滑换序占 `71.65%` 的非对称结构解构），消除脚本审计日志化语言，并深化“代际赡养规范刚性 vs. 夫妻相对评价非对称”理论框架。
+
+---
+
 ## 2026-11-01 CMAverse V3h 最终交付
 
 磁盘40 GiB已重新达标；11月1日09:30—09:31三次复测最低42.76 GiB、最新43.72 GiB。[容量补记](final/20261101-v3h/CAPACITY_FOLLOWUP_20261101.json)。

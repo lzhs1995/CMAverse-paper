@@ -1,0 +1,70 @@
+{
+  "schema": "clauder-rstudio-workbench.v3i.r_anchors_receipt.v1",
+  "generated_at_utc": "2026-11-01T08:05:59.057043+00:00",
+  "clauder_workbench_doctor_evidence": "/Users/lzhs/.clauder_workbench/evidence/20261101T075739Z_doctor_18a874bf-ca7d-4f73-9ae1-4a2530646845.json",
+  "clauder_workbench_doctor_decision": "PASS",
+  "script": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3i-progression-20261101/scripts/extract_three_statistical_anchors_v3i.R",
+    "sha256": "33812850aa79595ccff6ab108a4f444dc90cbd0216af4d7525b4e07c2155acaf"
+  },
+  "outputs": {
+    "THREE_STATISTICAL_ANCHORS_V3I.csv": {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3i-progression-20261101/results/THREE_STATISTICAL_ANCHORS_V3I.csv",
+      "sha256": "30ff318012aba8627eaf9b17aede5d0af2d17b5dc8fd4a4d9a91bf7859c9a185",
+      "rows": 27
+    },
+    "FEAS031_ASYMMETRY_DECOMPOSITION_V3I.csv": {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3i-progression-20261101/results/FEAS031_ASYMMETRY_DECOMPOSITION_V3I.csv",
+      "sha256": "42bc8a2dac0b1367c48e2b0ee5c3c9a38ee930d9d9cd108d467800401e2b55ec",
+      "rows": 5
+    }
+  },
+  "three_anchors_summary": {
+    "anchor_1_confirmative_main_and_additive_interaction": {
+      "AA_S_main_RD_pp": 4.9,
+      "AR_S_additive_IC_RD_pp": -8.76,
+      "AR_S_BH_q8": 0.032,
+      "AR_P_additive_IC_RD_pp": 6.82,
+      "AR_P_BH_q8": 0.094,
+      "common_sample_equal_baseline_N": 7058,
+      "common_sample_delta_IC_RD_pp": -16.4,
+      "common_sample_ci95_pp": [
+        -26.96,
+        -5.85
+      ]
+    },
+    "anchor_2_tightly_bounded_null_mediation": {
+      "historical_8_chains_rRtnie_OR_bounds": [
+        0.9604,
+        1.02
+      ],
+      "post_selection_031_no_dwm_TNIE_OR": [
+        0.999,
+        0.994,
+        1.004
+      ],
+      "post_selection_041_no_dwm_TNIE_OR": [
+        1.0,
+        0.998,
+        1.003
+      ],
+      "new14_prob_mediation_max_abs_bound_pp": 0.3188,
+      "new14_prob_mediation_ci95_envelope_pp": [
+        -0.1678,
+        0.3188
+      ]
+    },
+    "anchor_3_relational_asymmetry_and_boundary": {
+      "FEAS_031_self_up_any_pct": 28.35,
+      "FEAS_031_spouse_down_any_pct": 88.01,
+      "FEAS_031_overlap_pct": 16.36,
+      "FEAS_031_pure_spouse_down_pct": 71.65,
+      "FEAS_031_pure_self_up_pct": 11.99,
+      "P3_raw_omnibus_p": 0.131934,
+      "P3_capped_omnibus_p": 0.07996,
+      "N1_between_self_pp": 1.6551,
+      "N1_between_spouse_pp": 1.8412,
+      "N1_between_BH_q6": 0.11994
+    }
+  }
+}

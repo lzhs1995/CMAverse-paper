@@ -1,0 +1,286 @@
+{
+  "schema": "cmaverse.v3i.package_verification.v1",
+  "generated_at_utc": "2026-11-01T08:17:59.251117+00:00",
+  "status": "ALL_PASS",
+  "thesis_refiner_inventory_diff": {
+    "baseline_inventory": {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3i-progression-20261101/run_inventory/original-inventory.json",
+      "bytes": 1152213,
+      "sha256": "30d0eef94e2b57232b742229e73231ebbef80eec954cad7f7f6552e996b93e8d"
+    },
+    "v3i_accepted_inventory": {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3i-progression-20261101/run_inventory/v3i-accepted-inventory.json",
+      "bytes": 1158046,
+      "sha256": "6f73706f42d0a1efa24d8b67bbeaef5104bff3f2fd8679d54d303887e5745b92"
+    },
+    "changed_paragraphs_count": 28,
+    "changed_items": [
+      {
+        "id": "word/document.xml:paragraph:2",
+        "kind": "paragraph",
+        "locator": "word/document.xml/paragraph[2]",
+        "v3h_sha256": "16e98339036b3b62d3d3e71959276e83083ff0fa776fd7f384a26d0d360c72bb",
+        "v3i_sha256": "e127c1edcf75d6941fe48108ba8f634bdcb9c463a91973c2ab633789f9b2f971"
+      },
+      {
+        "id": "word/document.xml:paragraph:6",
+        "kind": "paragraph",
+        "locator": "word/document.xml/paragraph[6]",
+        "v3h_sha256": "2f2a58f9002911e928165dada4e5a68a69d9048c697e10afabd965f44b23286c",
+        "v3i_sha256": "ebdbe6b720e3ba6ac1ebd59c8be1c1ab9fb9eca4f1ee678217b6d0c89bd4899e"
+      },
+      {
+        "id": "word/document.xml:paragraph:9",
+        "kind": "paragraph",
+        "locator": "word/document.xml/paragraph[9]",
+        "v3h_sha256": "8e4fdf5677f946c2410a2339cfa812ef13e69454d667823dad7161bfb81f7c22",
+        "v3i_sha256": "233ec4979837c483050189785bfbe7a68564a5eb01b39d5148a1e00418653dd4"
+      },
+      {
+        "id": "word/document.xml:paragraph:10",
+        "kind": "paragraph",
+        "locator": "word/document.xml/paragraph[10]",
+        "v3h_sha256": "b103c7893be9dc6d3dcfdb1aad82d75a197cd4dcd22efb9627e035e3e755770e",
+        "v3i_sha256": "ea00543f71188ca8d7a5a8d77008ae5bc297348eb9f3865de73d757d2b16e048"
+      },
+      {
+        "id": "word/document.xml:paragraph:13",
+        "kind": "paragraph",
+        "locator": "word/document.xml/paragraph[13]",
+        "v3h_sha256": "0048b559bfe5ddfc0f52d45f934265842715967d5919433a545882e4db66a9a0",
+        "v3i_sha256": "8f3660ac1f3dad65765035aab84125bf9579310d37127ef5973a2f3361e9305f"
+      },
+      {
+        "id": "word/document.xml:paragraph:15",
+        "kind": "paragraph",
+        "locator": "word/document.xml/paragraph[15]",
+        "v3h_sha256": "d92569d4c856825046f3471b6716cbecd24f5c93975e19d5e53869a4c8c0b391",
+        "v3i_sha256": "1dad9992dd5c8656b60a5690424ab80d6a4a1051fbf6631114ec969dbd777bc5"
+      },
+      {
+        "id": "word/document.xml:paragraph:29",
+        "kind": "paragraph",
+        "locator": "word/document.xml/paragraph[29]",
+        "v3h_sha256": "bd09bbee42000e603409d896eae9810cbe52b3e0bc8b52d62fa58c6303d08467",
+        "v3i_sha256": "be9b5458ea8cdac8799cc02de61b1b82744b0e835537c4cad913d05b24500634"
+      },
+      {
+        "id": "word/document.xml:paragraph:31",
+        "kind": "paragraph",
+        "locator": "word/document.xml/paragraph[31]",
+        "v3h_sha256": "2b9bad604f904518fc3f961892f1aa47eb1080b17cd4c33ae7d99d35babda6bb",
+        "v3i_sha256": "cb55a6adf45204638334157545ae7b01a81d1454c5d4e79224e8ad80d35aa32a"
+      },
+      {
+        "id": "word/document.xml:paragraph:211",
+        "kind": "paragraph",
+        "locator": "word/document.xml/paragraph[211]",
+        "v3h_sha256": "200c6554a0d1ef7873260fe02d141166cdd62876797593706edf07db247fdf88",
+        "v3i_sha256": "4fbcc2b3af84ea5f9164801eb0655d2f12a38519ca259694159af7e872a5a142"
+      },
+      {
+        "id": "word/document.xml:paragraph:212",
+        "kind": "paragraph",
+        "locator": "word/document.xml/paragraph[212]",
+        "v3h_sha256": "8f7e0aa3eeb3c111c12426bb2ccdfe6e70042f976cbd612ca2e0bfd68eb3dca5",
+        "v3i_sha256": "2448b74f734039b89075e491dbda0d7029b139bdebe94e75abe20f7e4144901a"
+      },
+      {
+        "id": "word/document.xml:paragraph:961",
+        "kind": "paragraph",
+        "locator": "word/document.xml/paragraph[961]",
+        "v3h_sha256": "30e20c59d7a7d39d7d356e693c2133052b7a2a322be99f39c6592a909c057fc4",
+        "v3i_sha256": "2f09859e6058018042f7625fbe2572eec20ae58b80bdb62ed572c277f4d4baf6"
+      },
+      {
+        "id": "word/document.xml:paragraph:1102",
+        "kind": "paragraph",
+        "locator": "word/document.xml/paragraph[1102]",
+        "v3h_sha256": "9ce97bbcb2801415b8871565271509647a29423ea052e9e1a72888f84b4f0d65",
+        "v3i_sha256": "55e5111d8841c7dc85e090f762ea137e47284109cb29032a7ea62d2328d23f48"
+      },
+      {
+        "id": "word/document.xml:paragraph:1106",
+        "kind": "paragraph",
+        "locator": "word/document.xml/paragraph[1106]",
+        "v3h_sha256": "cb58601b7bb2a08c50efe3453096644ab09e9cfecc27394054b38ac4870452a7",
+        "v3i_sha256": "ef3662225277e697b6e40ef2cd07ba5cf0c742d9d99a2f9377de270d6b9178a3"
+      },
+      {
+        "id": "word/document.xml:paragraph:1111",
+        "kind": "paragraph",
+        "locator": "word/document.xml/paragraph[1111]",
+        "v3h_sha256": "045b13a37582206cf0fc44248b20aba1fa83bed376d176457cef89df52c6dbe6",
+        "v3i_sha256": "b32b89f9d3d279916d7f19f49dbc1ed43c5b38691466c6d587b7f19d3d419832"
+      },
+      {
+        "id": "word/document.xml:paragraph:1279",
+        "kind": "paragraph",
+        "locator": "word/document.xml/paragraph[1279]",
+        "v3h_sha256": "b1462a1abe8d96e215af585ea5bf844ebefe107804f2c9be6e773b6221274103",
+        "v3i_sha256": "463df8684207ed8aa5fa26ad988027402c55a6a7673d7b5e84cfc7b5c9a74621"
+      },
+      {
+        "id": "word/document.xml:paragraph:1281",
+        "kind": "paragraph",
+        "locator": "word/document.xml/paragraph[1281]",
+        "v3h_sha256": "5ed57eb9e9f86103bd3b560ad47bf687c6fd340e40ba0c041d845a39097f4645",
+        "v3i_sha256": "9b2e428e5913329ae712a24a26cd6d19ce2980098c720e725e389e29e466e032"
+      },
+      {
+        "id": "word/document.xml:paragraph:1306",
+        "kind": "paragraph",
+        "locator": "word/document.xml/paragraph[1306]",
+        "v3h_sha256": "8c38728a87a3aee119ffd62d6c90d3f2c14f42c08d42bd94414d903125a67417",
+        "v3i_sha256": "0620bd36ad175a8e1ac657ecfa620799793b000a87e0a63533f841b51c2eb894"
+      },
+      {
+        "id": "word/document.xml:paragraph:1329",
+        "kind": "paragraph",
+        "locator": "word/document.xml/paragraph[1329]",
+        "v3h_sha256": "08d35ca9e8b1899d87c9f0accba5b95e9729bda0024519eb9ad79017104dc320",
+        "v3i_sha256": "418542328e09d0d51d8fc770c9919b50dfd528935c89cf4767f740eb2e3954ec"
+      },
+      {
+        "id": "word/document.xml:paragraph:1353",
+        "kind": "paragraph",
+        "locator": "word/document.xml/paragraph[1353]",
+        "v3h_sha256": "11a9fd5e5856295e737b38ecfed85cf561286a97dadd4da4036f0d81eae1590d",
+        "v3i_sha256": "f9af98314661c3eea0278a26b7869e12ebabac6e85d294242464b67d16a3f72e"
+      },
+      {
+        "id": "word/document.xml:paragraph:1356",
+        "kind": "paragraph",
+        "locator": "word/document.xml/paragraph[1356]",
+        "v3h_sha256": "6b4784d47ad385c4c1168c12341ab79a09c252eadd61c2d3fd49e448b6e4fc82",
+        "v3i_sha256": "7b93af87a407bd5c79b8ed42b66e20096723af2cc8a8d71355a6f3b8f308cf88"
+      },
+      {
+        "id": "word/document.xml:paragraph:1357",
+        "kind": "paragraph",
+        "locator": "word/document.xml/paragraph[1357]",
+        "v3h_sha256": "f3982ea1ae3b65a8a5723592cab57c189042eef6c0e07d5e2ccc951140a4cff7",
+        "v3i_sha256": "57a59f12a3aa1729c6c84ef3cad3d8b1e74087b2088231ebe9a62f9afac153bb"
+      },
+      {
+        "id": "word/document.xml:paragraph:1358",
+        "kind": "paragraph",
+        "locator": "word/document.xml/paragraph[1358]",
+        "v3h_sha256": "ac984ead2306b4e4564cf5832caa1059a146d5f88a2918630845cb37e1dc0338",
+        "v3i_sha256": "800c8984bf7820c5e6c51cd8e7299bcad61bde6dca4c97bf1de1036a7634714d"
+      },
+      {
+        "id": "word/document.xml:paragraph:1359",
+        "kind": "paragraph",
+        "locator": "word/document.xml/paragraph[1359]",
+        "v3h_sha256": "64dc283ff8db2bf229f32a39f2f07f4d206d9d8a3e926640f7f47050910b3c5c",
+        "v3i_sha256": "c32d63e3c41e591ca0edff502bdbac5d5e8ae11e9f82b175eb84e58a2422dcab"
+      },
+      {
+        "id": "word/document.xml:paragraph:1360",
+        "kind": "paragraph",
+        "locator": "word/document.xml/paragraph[1360]",
+        "v3h_sha256": "51272082048f4e3b5b39ea0695087944bf5489f81c3565f72188c390696588e5",
+        "v3i_sha256": "717d4321da2a5f6f30facf1220b686c0b2ef19468c7a998452e1c91f9fecc3e5"
+      },
+      {
+        "id": "word/document.xml:paragraph:1361",
+        "kind": "paragraph",
+        "locator": "word/document.xml/paragraph[1361]",
+        "v3h_sha256": "d636700d79ecefb385fb5d0737afaf3e00d6a3408d2f2cea83154c2b4c0ddbec",
+        "v3i_sha256": "f138968c4f911bdf28dc2d6167eaf1a723f7ad5124aa3a55d93c6f4b432eb81c"
+      },
+      {
+        "id": "word/document.xml:paragraph:2063",
+        "kind": "paragraph",
+        "locator": "word/document.xml/paragraph[2063]",
+        "v3h_sha256": "90f3efc5f0809d78d1919374d3d8f2952a717ece6d5e6333660124ab8ada5c2a",
+        "v3i_sha256": "8030e3ad81b8bb74c45f8d7452fb6c3882be3cc03f4e2cf19f4e8d2c88f690d6"
+      },
+      {
+        "id": "word/document.xml:paragraph:2207",
+        "kind": "paragraph",
+        "locator": "word/document.xml/paragraph[2207]",
+        "v3h_sha256": "afe599c451a1beb2af6c55df48c87934e90c52806faa6d94c08f50ab391cf0da",
+        "v3i_sha256": "40d6175be0ebee9b7ea594bbec8b20ba6050c5f62cdbd1db56064e1a26b4892d"
+      },
+      {
+        "id": "word/document.xml:paragraph:2338",
+        "kind": "paragraph",
+        "locator": "word/document.xml/paragraph[2338]",
+        "v3h_sha256": "b8b4ad94cdc04d5c04dbe7ae341608e371db6d54ea5a65a6ed85fc0890d27657",
+        "v3i_sha256": "3fd01270676db71d081ddac6a16bcf05c09b8bfa45899862f70bc8a6951be392"
+      }
+    ],
+    "unchanged_counts_by_kind": {
+      "paragraph": 3109,
+      "table": 34,
+      "formula": 10,
+      "figure": 3,
+      "media": 3
+    }
+  },
+  "pdf_verification": {
+    "accepted_pdf": {
+      "file": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3i-progression-20261101/manuscript/CMAverse_V3i_progressed_accepted.pdf",
+        "bytes": 3346472,
+        "sha256": "84d26dece7639743bf730eea3075e3e76d6cde464e1940791a9a0827cb0340e0"
+      },
+      "pages": 52,
+      "producer": "LibreOffice 26.2.5.2 (AARCH64)",
+      "page_size": "841.89 x 595.304 pts (A4)",
+      "text_length_chars": 103383,
+      "text_sha256": "b3ae8a85e969f9639d92af99a181a6eb014a5d0adad0b1ed5ef7545920ee3ff3",
+      "zero_replacement_chars_ufffd": true,
+      "three_statistical_anchors_present_in_pdf_text": true
+    },
+    "tracked_pdf": {
+      "file": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3i-progression-20261101/manuscript/CMAverse_V3i_progressed_tracked.pdf",
+        "bytes": 3474575,
+        "sha256": "af8cf53f1acbd42dbede7452979903586891ee7c2e8c07c202eccb756ae01d36"
+      },
+      "pages": 52,
+      "producer": "LibreOffice 26.2.5.2 (AARCH64)",
+      "page_size": "841.89 x 595.304 pts (A4)",
+      "text_length_chars": 103800,
+      "text_sha256": "b1d5f754ec2e85544719877dbffbf4a411317c1c17c55c644a6609f4577dfb86",
+      "zero_replacement_chars_ufffd": true,
+      "three_statistical_anchors_present_in_pdf_text": true
+    },
+    "agy_cli_sandbox_note": "In AGY CLI (macOS Seatbelt), /usr/bin/osascript AppleEvents to com.microsoft.Word return permErr (-54). PDF exports were generated deterministically via LibreOffice 26.2.5.2 headless writer_pdf_Export and verified via pdfinfo + pdftotext."
+  },
+  "web_reading_outputs": {
+    "MANUSCRIPT_READING_V3I.md": {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3i-progression-20261101/MANUSCRIPT_READING_V3I.md",
+      "bytes": 88154,
+      "sha256": "3ad7eb09e5d3cf5ad9f814ca4c4e4ca545741183cf2915fe4adcd384870e28c7"
+    },
+    "MANUSCRIPT_READING_V3I.html": {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3i-progression-20261101/MANUSCRIPT_READING_V3I.html",
+      "bytes": 98364,
+      "sha256": "03c2dc106f92db599c37a128e7f77561940a321da20ec276b6929b267d4a49c8"
+    },
+    "REVISION_COMPARISON_V3H_TO_V3I.md": {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3i-progression-20261101/REVISION_COMPARISON_V3H_TO_V3I.md",
+      "bytes": 42811,
+      "sha256": "04a811b6103ea16bc8447a3ca606ae4099a5bebf3dec9227f836043cb4bf3075"
+    },
+    "WRITING_QUALITY_AUDIT_V3I.md": {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3i-progression-20261101/WRITING_QUALITY_AUDIT_V3I.md",
+      "bytes": 12110,
+      "sha256": "3030ef8c7ed5ff9c6e521f18547ba9ea9f579ca16377e9a370c82eda78426d65"
+    },
+    "PUBLICATION_AND_THESIS_POSITIONING_V3I.md": {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3i-progression-20261101/PUBLICATION_AND_THESIS_POSITIONING_V3I.md",
+      "bytes": 11782,
+      "sha256": "6ab48abebf86f762a5a6eda703574d24c7aae1ad4041a14405e9690348e97ec5"
+    }
+  },
+  "nlm_bounded_review": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3i-progression-20261101/nlm_review/NLM_BOUNDED_REVIEW_V3I.json",
+    "bytes": 2935,
+    "sha256": "42227201f9741192678a1a768709fbd0d504edcf54716ba896eee0d21fd9cd8e"
+  }
+}

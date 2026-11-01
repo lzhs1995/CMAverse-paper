@@ -1,0 +1,671 @@
+
+  ___  ____  ____  ____  ____ ®
+ /__    /   ____/   /   ____/      StataNow 19.5
+___/   /   /___/   /   /___/       MP—Parallel Edition
+
+ Statistics and Data Science       Copyright 1985-2025 StataCorp LLC
+                                   StataCorp
+                                   4905 Lakeway Drive
+                                   College Station, Texas 77845 USA
+                                   800-782-8272        https://www.stata.com
+                                   979-696-4600        service@stata.com
+
+Stata license: Single-user 16-core  perpetual
+Serial number: 3851871377
+  Licensed to: LZHS
+               LZHS
+
+Notes:
+      1. Stata is running in batch mode.
+      2. Unicode is supported; see help unicode_advice.
+      3. More than 2 billion observations are allowed; see help obs_advice.
+      4. Maximum number of variables is set to 5,000 but can be increased;
+          see help set_maxvar.
+
+. do /Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3i-progres
+> sion-20261101/scripts/verify_three_anchors_v3i.do 
+
+. * ===========================================================================
+> ===
+. * Script: verify_three_anchors_v3i.do
+. * Purpose: Cross-verify the Three Statistical Anchors for V3i in Stata 19.5 M
+> P
+. *          and produce a machine-readable Stata verification log.
+. * ===========================================================================
+> ===
+. version 18.0
+
+. clear all
+
+. set more off
+
+. 
+. local basedir "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse
+> -v3i-progression-20261101"
+
+. 
+. * 1. Load R-extracted Three Statistical Anchors table (27 rows)
+. import delimited using "`basedir'/results/THREE_STATISTICAL_ANCHORS_V3I.csv",
+>  varnames(1) encoding("UTF-8") clear
+(15 vars, 27 obs)
+
+. destring ci_low ci_high ci_half_width max_abs_bound p_raw q_adjusted, ignore(
+> "NA") replace
+ci_low: characters N A removed; replaced as double
+(2 missing values generated)
+ci_high: characters N A removed; replaced as double
+(2 missing values generated)
+ci_half_width: characters N A removed; replaced as double
+(2 missing values generated)
+max_abs_bound: characters N A removed; replaced as double
+(2 missing values generated)
+p_raw: characters N A removed; replaced as double
+(13 missing values generated)
+q_adjusted: characters N A removed; replaced as double
+(10 missing values generated)
+
+. describe
+
+Contains data
+ Observations:            27                  
+    Variables:            15                  
+-------------------------------------------------------------------------------
+Variable      Storage   Display    Value
+    name         type    format    label      Variable label
+-------------------------------------------------------------------------------
+anchor_id       str8    %9s                   
+anchor_group    str24   %24s                  
+model_or_chain  str65   %65s                  
+estimand        str28   %28s                  
+scale_unit      str17   %17s                  
+sample_n        int     %8.0g                 sample_N
+clusters        str4    %9s                   
+estimate        float   %9.0g                 
+ci_low          double  %10.0g                
+ci_high         double  %10.0g                
+ci_half_width   double  %10.0g                
+max_abs_bound   double  %10.0g                
+p_raw           double  %10.0g                
+q_adjusted      double  %10.0g                
+evidence_role   str121  %121s                 
+-------------------------------------------------------------------------------
+Sorted by: 
+     Note: Dataset has changed since last saved.
+
+. list anchor_id anchor_group model_or_chain estimand estimate ci_low ci_high c
+> i_half_width max_abs_bound q_adjusted, noobs abbreviate(22)
+
+  +-------------------------------------------------------------------+
+  |        anchor_id        |                    anchor_group         |
+  |         ANCHOR_1        |             Primary_Main_Effect         |
+  |-------------------------------------------------------------------|
+  |                                            model_or_chain         |
+  |                                            AA-S (Model 2)         |
+  |-------------------------------------------------------------------|
+  |                     estimand |  estimate |     ci_low |   ci_high |
+  |                     RD(X->Y) |       4.9 |       1.54 |      8.26 |
+  |-------------------------------------------------------------------|
+  |    ci_half_width     |     max_abs_bound     |     q_adjusted     |
+  |             3.36     |              8.26     |              .     |
+  +-------------------------------------------------------------------+
+
+  +-------------------------------------------------------------------+
+  |        anchor_id        |                    anchor_group         |
+  |         ANCHOR_1        |             Primary_Main_Effect         |
+  |-------------------------------------------------------------------|
+  |                                            model_or_chain         |
+  |                                            AR-S (Model 2)         |
+  |-------------------------------------------------------------------|
+  |                     estimand |  estimate |     ci_low |   ci_high |
+  |                     RD(X->Y) |      2.66 |        .47 |      4.85 |
+  |-------------------------------------------------------------------|
+  |    ci_half_width     |     max_abs_bound     |     q_adjusted     |
+  |             2.19     |              4.85     |              .     |
+  +-------------------------------------------------------------------+
+
+  +-------------------------------------------------------------------+
+  |        anchor_id        |                    anchor_group         |
+  |         ANCHOR_1        |             Primary_Main_Effect         |
+  |-------------------------------------------------------------------|
+  |                                            model_or_chain         |
+  |                                            AR-P (Model 2)         |
+  |-------------------------------------------------------------------|
+  |                     estimand |  estimate |     ci_low |   ci_high |
+  |                     RD(X->Y) |      2.51 |        .35 |      4.67 |
+  |-------------------------------------------------------------------|
+  |    ci_half_width     |     max_abs_bound     |     q_adjusted     |
+  |             2.16     |              4.67     |              .     |
+  +-------------------------------------------------------------------+
+
+  +-------------------------------------------------------------------+
+  |        anchor_id        |                    anchor_group         |
+  |         ANCHOR_1        |            Additive_Interaction         |
+  |-------------------------------------------------------------------|
+  |                                            model_or_chain         |
+  |                                            AA-S (Model 5)         |
+  |-------------------------------------------------------------------|
+  |                     estimand |  estimate |     ci_low |   ci_high |
+  |  IC-RD = RD(X|M=1)-RD(X|M=0) |       .11 |      -6.78 |      6.89 |
+  |-------------------------------------------------------------------|
+  |    ci_half_width     |     max_abs_bound     |     q_adjusted     |
+  |            6.835     |              6.89     |           .974     |
+  +-------------------------------------------------------------------+
+
+  +-------------------------------------------------------------------+
+  |        anchor_id        |                    anchor_group         |
+  |         ANCHOR_1        |            Additive_Interaction         |
+  |-------------------------------------------------------------------|
+  |                                            model_or_chain         |
+  |                                            AR-S (Model 5)         |
+  |-------------------------------------------------------------------|
+  |                     estimand |  estimate |     ci_low |   ci_high |
+  |  IC-RD = RD(X|M=1)-RD(X|M=0) |     -8.76 |     -14.79 |     -2.41 |
+  |-------------------------------------------------------------------|
+  |    ci_half_width     |     max_abs_bound     |     q_adjusted     |
+  |             6.19     |             14.79     |           .032     |
+  +-------------------------------------------------------------------+
+
+  +-------------------------------------------------------------------+
+  |        anchor_id        |                    anchor_group         |
+  |         ANCHOR_1        |            Additive_Interaction         |
+  |-------------------------------------------------------------------|
+  |                                            model_or_chain         |
+  |                                            AR-P (Model 5)         |
+  |-------------------------------------------------------------------|
+  |                     estimand |  estimate |     ci_low |   ci_high |
+  |  IC-RD = RD(X|M=1)-RD(X|M=0) |      6.82 |       1.05 |     12.62 |
+  |-------------------------------------------------------------------|
+  |    ci_half_width     |     max_abs_bound     |     q_adjusted     |
+  |            5.785     |             12.62     |           .094     |
+  +-------------------------------------------------------------------+
+
+  +-------------------------------------------------------------------+
+  |        anchor_id        |                    anchor_group         |
+  |         ANCHOR_1        |         Common_Sample_Role_Diff         |
+  |-------------------------------------------------------------------|
+  |                                            model_or_chain         |
+  |                  AR-S vs AR-P (Baseline M_self==M_spouse)         |
+  |-------------------------------------------------------------------|
+  |                     estimand |  estimate |     ci_low |   ci_high |
+  |                  Delta_IC-RD |     -16.4 |     -26.96 |     -5.85 |
+  |-------------------------------------------------------------------|
+  |    ci_half_width     |     max_abs_bound     |     q_adjusted     |
+  |           10.555     |             26.96     |              .     |
+  +-------------------------------------------------------------------+
+
+  +-------------------------------------------------------------------+
+  |        anchor_id        |                    anchor_group         |
+  |         ANCHOR_2        |         Historical_8Chains_TNIE         |
+  |-------------------------------------------------------------------|
+  |                                            model_or_chain         |
+  |                                            AA-S (Table 7)         |
+  |-------------------------------------------------------------------|
+  |                     estimand |  estimate |     ci_low |   ci_high |
+  |                       rRtnie |     .9994 |      .9969 |     1.009 |
+  |-------------------------------------------------------------------|
+  |    ci_half_width     |     max_abs_bound     |     q_adjusted     |
+  |           .00605     |              .009     |              .     |
+  +-------------------------------------------------------------------+
+
+  +-------------------------------------------------------------------+
+  |        anchor_id        |                    anchor_group         |
+  |         ANCHOR_2        |         Historical_8Chains_TNIE         |
+  |-------------------------------------------------------------------|
+  |                                            model_or_chain         |
+  |                                            AA-P (Table 7)         |
+  |-------------------------------------------------------------------|
+  |                     estimand |  estimate |     ci_low |   ci_high |
+  |                       rRtnie |    1.0041 |       .991 |     1.013 |
+  |-------------------------------------------------------------------|
+  |    ci_half_width     |     max_abs_bound     |     q_adjusted     |
+  |             .011     |              .013     |              .     |
+  +-------------------------------------------------------------------+
+
+  +-------------------------------------------------------------------+
+  |        anchor_id        |                    anchor_group         |
+  |         ANCHOR_2        |         Historical_8Chains_TNIE         |
+  |-------------------------------------------------------------------|
+  |                                            model_or_chain         |
+  |                                            AR-S (Table 7)         |
+  |-------------------------------------------------------------------|
+  |                     estimand |  estimate |     ci_low |   ci_high |
+  |                       rRtnie |    1.0017 |      .9968 |    1.0047 |
+  |-------------------------------------------------------------------|
+  |    ci_half_width     |     max_abs_bound     |     q_adjusted     |
+  |           .00395     |             .0047     |              .     |
+  +-------------------------------------------------------------------+
+
+  +-------------------------------------------------------------------+
+  |        anchor_id        |                    anchor_group         |
+  |         ANCHOR_2        |         Historical_8Chains_TNIE         |
+  |-------------------------------------------------------------------|
+  |                                            model_or_chain         |
+  |                                            AR-P (Table 7)         |
+  |-------------------------------------------------------------------|
+  |                     estimand |  estimate |     ci_low |   ci_high |
+  |                       rRtnie |      .999 |      .9963 |    1.0052 |
+  |-------------------------------------------------------------------|
+  |    ci_half_width     |     max_abs_bound     |     q_adjusted     |
+  |           .00445     |             .0052     |              .     |
+  +-------------------------------------------------------------------+
+
+  +-------------------------------------------------------------------+
+  |        anchor_id        |                    anchor_group         |
+  |         ANCHOR_2        |        PostSelection_NoDwm_TNIE         |
+  |-------------------------------------------------------------------|
+  |                                            model_or_chain         |
+  |                                FEAS_031 no-dwm (Table 11)         |
+  |-------------------------------------------------------------------|
+  |                     estimand |  estimate |     ci_low |   ci_high |
+  |                         TNIE |      .999 |       .994 |     1.004 |
+  |-------------------------------------------------------------------|
+  |    ci_half_width     |     max_abs_bound     |     q_adjusted     |
+  |             .005     |              .006     |              .     |
+  +-------------------------------------------------------------------+
+
+  +-------------------------------------------------------------------+
+  |        anchor_id        |                    anchor_group         |
+  |         ANCHOR_2        |        PostSelection_NoDwm_TNIE         |
+  |-------------------------------------------------------------------|
+  |                                            model_or_chain         |
+  |                                FEAS_041 no-dwm (Table 11)         |
+  |-------------------------------------------------------------------|
+  |                     estimand |  estimate |     ci_low |   ci_high |
+  |                         TNIE |         1 |       .998 |     1.003 |
+  |-------------------------------------------------------------------|
+  |    ci_half_width     |     max_abs_bound     |     q_adjusted     |
+  |            .0025     |              .003     |              .     |
+  +-------------------------------------------------------------------+
+
+  +-------------------------------------------------------------------+
+  |        anchor_id        |                    anchor_group         |
+  |         ANCHOR_2        |            New14_Prob_Mediation         |
+  |-------------------------------------------------------------------|
+  |                                            model_or_chain         |
+  |                C1: 绝对收入->本人满意度->支持 (Table D.3)         |
+  |-------------------------------------------------------------------|
+  |                     estimand |  estimate |     ci_low |   ci_high |
+  |           indirect_prob_diff |     .0005 |     -.0513 |     .0523 |
+  |-------------------------------------------------------------------|
+  |    ci_half_width     |     max_abs_bound     |     q_adjusted     |
+  |            .0518     |             .0523     |              1     |
+  +-------------------------------------------------------------------+
+
+  +-------------------------------------------------------------------+
+  |        anchor_id        |                    anchor_group         |
+  |         ANCHOR_2        |            New14_Prob_Mediation         |
+  |-------------------------------------------------------------------|
+  |                                            model_or_chain         |
+  |                C2: 绝对收入->配偶满意度->支持 (Table D.3)         |
+  |-------------------------------------------------------------------|
+  |                     estimand |  estimate |     ci_low |   ci_high |
+  |           indirect_prob_diff |     .0239 |      -.051 |     .0989 |
+  |-------------------------------------------------------------------|
+  |    ci_half_width     |     max_abs_bound     |     q_adjusted     |
+  |           .07495     |             .0989     |          .8445     |
+  +-------------------------------------------------------------------+
+
+  +-------------------------------------------------------------------+
+  |        anchor_id        |                    anchor_group         |
+  |         ANCHOR_2        |            New14_Prob_Mediation         |
+  |-------------------------------------------------------------------|
+  |                                            model_or_chain         |
+  |        C3: 绝对收入->配偶经济贡献满意度->支持 (Table D.3)         |
+  |-------------------------------------------------------------------|
+  |                     estimand |  estimate |     ci_low |   ci_high |
+  |           indirect_prob_diff |     .0175 |     -.0483 |     .0834 |
+  |-------------------------------------------------------------------|
+  |    ci_half_width     |     max_abs_bound     |     q_adjusted     |
+  |           .06585     |             .0834     |          .8445     |
+  +-------------------------------------------------------------------+
+
+  +-------------------------------------------------------------------+
+  |        anchor_id        |                    anchor_group         |
+  |         ANCHOR_2        |            New14_Prob_Mediation         |
+  |-------------------------------------------------------------------|
+  |                                            model_or_chain         |
+  |        C4: 相对收入->配偶经济贡献满意度->支持 (Table D.3)         |
+  |-------------------------------------------------------------------|
+  |                     estimand |  estimate |     ci_low |   ci_high |
+  |           indirect_prob_diff |     .0907 |     -.1375 |     .3188 |
+  |-------------------------------------------------------------------|
+  |    ci_half_width     |     max_abs_bound     |     q_adjusted     |
+  |           .22815     |             .3188     |          .8445     |
+  +-------------------------------------------------------------------+
+
+  +-------------------------------------------------------------------+
+  |        anchor_id        |                    anchor_group         |
+  |         ANCHOR_2        |            New14_Prob_Mediation         |
+  |-------------------------------------------------------------------|
+  |                                            model_or_chain         |
+  |                    D1: 三波本人满意度间接对比 (Table D.3)         |
+  |-------------------------------------------------------------------|
+  |                     estimand |  estimate |     ci_low |   ci_high |
+  |           indirect_prob_diff |    -.0126 |     -.1548 |     .1295 |
+  |-------------------------------------------------------------------|
+  |    ci_half_width     |     max_abs_bound     |     q_adjusted     |
+  |           .14215     |             .1548     |          .9688     |
+  +-------------------------------------------------------------------+
+
+  +-------------------------------------------------------------------+
+  |        anchor_id        |                    anchor_group         |
+  |         ANCHOR_2        |            New14_Prob_Mediation         |
+  |-------------------------------------------------------------------|
+  |                                            model_or_chain         |
+  |                    D2: 三波配偶满意度间接对比 (Table D.3)         |
+  |-------------------------------------------------------------------|
+  |                     estimand |  estimate |     ci_low |   ci_high |
+  |           indirect_prob_diff |     .0632 |     -.1678 |     .2943 |
+  |-------------------------------------------------------------------|
+  |    ci_half_width     |     max_abs_bound     |     q_adjusted     |
+  |           .23105     |             .2943     |          .8445     |
+  +-------------------------------------------------------------------+
+
+  +-------------------------------------------------------------------+
+  |        anchor_id        |                    anchor_group         |
+  |         ANCHOR_3        |        PostSelection_Moderation         |
+  |-------------------------------------------------------------------|
+  |                                            model_or_chain         |
+  |                            P1: FEAS_031 no-dwm (Table 11)         |
+  |-------------------------------------------------------------------|
+  |                     estimand |  estimate |     ci_low |   ci_high |
+  |    Delta_CDE_OR (M=1 vs M=0) |  -.409351 |   -.668529 |  -.150173 |
+  |-------------------------------------------------------------------|
+  |    ci_half_width     |     max_abs_bound     |     q_adjusted     |
+  |          .259178     |           .668529     |        .134328     |
+  +-------------------------------------------------------------------+
+
+  +-------------------------------------------------------------------+
+  |        anchor_id        |                    anchor_group         |
+  |         ANCHOR_3        |        PostSelection_Moderation         |
+  |-------------------------------------------------------------------|
+  |                                            model_or_chain         |
+  |                            P2: FEAS_041 no-dwm (Table 11)         |
+  |-------------------------------------------------------------------|
+  |                     estimand |  estimate |     ci_low |   ci_high |
+  | Delta_CDE_OR (0->1 gap diff) |  -.085496 |   -.162804 |  -.008187 |
+  |-------------------------------------------------------------------|
+  |    ci_half_width     |     max_abs_bound     |     q_adjusted     |
+  |         .0773085     |           .162804     |        .631841     |
+  +-------------------------------------------------------------------+
+
+  +-------------------------------------------------------------------+
+  |        anchor_id        |                    anchor_group         |
+  |         ANCHOR_3        |            P3_ThreeState_Amount         |
+  |-------------------------------------------------------------------|
+  |                                            model_or_chain         |
+  |                        P3: 原金额 5分 vs <=3分 (Table 13)         |
+  |-------------------------------------------------------------------|
+  |                     estimand |  estimate |     ci_low |   ci_high |
+  |       d_5vle3 (Omnibus 2-df) | -24.03319 |          . |         . |
+  |-------------------------------------------------------------------|
+  |    ci_half_width     |     max_abs_bound     |     q_adjusted     |
+  |                .     |                 .     |        .158321     |
+  +-------------------------------------------------------------------+
+
+  +-------------------------------------------------------------------+
+  |        anchor_id        |                    anchor_group         |
+  |         ANCHOR_3        |            P3_ThreeState_Amount         |
+  |-------------------------------------------------------------------|
+  |                                            model_or_chain         |
+  |                   P3: 99%封顶金额 5分 vs <=3分 (Table 13)         |
+  |-------------------------------------------------------------------|
+  |                     estimand |  estimate |     ci_low |   ci_high |
+  |       d_5vle3 (Omnibus 2-df) | -25.61076 |          . |         . |
+  |-------------------------------------------------------------------|
+  |    ci_half_width     |     max_abs_bound     |     q_adjusted     |
+  |                .     |                 .     |         .11994     |
+  +-------------------------------------------------------------------+
+
+  +-------------------------------------------------------------------+
+  |        anchor_id        |                    anchor_group         |
+  |         ANCHOR_3        |           N1_Between_Within_LPM         |
+  |-------------------------------------------------------------------|
+  |                                            model_or_chain         |
+  |                              N1: N1_SELF_BETWEEN (s_mean)         |
+  |-------------------------------------------------------------------|
+  |                     estimand |  estimate |     ci_low |   ci_high |
+  |          LPM_coef_pct_points |  1.655113 |  .03173992 | 3.2784856 |
+  |-------------------------------------------------------------------|
+  |    ci_half_width     |     max_abs_bound     |     q_adjusted     |
+  |        1.6233728     |         3.2784856     |      .11994003     |
+  +-------------------------------------------------------------------+
+
+  +-------------------------------------------------------------------+
+  |        anchor_id        |                    anchor_group         |
+  |         ANCHOR_3        |           N1_Between_Within_LPM         |
+  |-------------------------------------------------------------------|
+  |                                            model_or_chain         |
+  |                                N1: N1_SELF_WITHIN (s_dev)         |
+  |-------------------------------------------------------------------|
+  |                     estimand |  estimate |     ci_low |   ci_high |
+  |          LPM_coef_pct_points |  1.234941 | -.12879334 | 2.5986746 |
+  |-------------------------------------------------------------------|
+  |    ci_half_width     |     max_abs_bound     |     q_adjusted     |
+  |         1.363734     |         2.5986746     |      .11994003     |
+  +-------------------------------------------------------------------+
+
+  +-------------------------------------------------------------------+
+  |        anchor_id        |                    anchor_group         |
+  |         ANCHOR_3        |           N1_Between_Within_LPM         |
+  |-------------------------------------------------------------------|
+  |                                            model_or_chain         |
+  |                           N1: N1_SPOUSE_BETWEEN (sp_mean)         |
+  |-------------------------------------------------------------------|
+  |                     estimand |  estimate |     ci_low |   ci_high |
+  |          LPM_coef_pct_points |  1.841208 |  .16883805 | 3.5135772 |
+  |-------------------------------------------------------------------|
+  |    ci_half_width     |     max_abs_bound     |     q_adjusted     |
+  |        1.6723696     |         3.5135772     |      .11994003     |
+  +-------------------------------------------------------------------+
+
+  +-------------------------------------------------------------------+
+  |        anchor_id        |                    anchor_group         |
+  |         ANCHOR_3        |           N1_Between_Within_LPM         |
+  |-------------------------------------------------------------------|
+  |                                            model_or_chain         |
+  |                             N1: N1_SPOUSE_WITHIN (sp_dev)         |
+  |-------------------------------------------------------------------|
+  |                     estimand |  estimate |     ci_low |   ci_high |
+  |          LPM_coef_pct_points | -.9152595 |  -2.298367 | .46784805 |
+  |-------------------------------------------------------------------|
+  |    ci_half_width     |     max_abs_bound     |     q_adjusted     |
+  |        1.3831075     |          2.298367     |      .19462668     |
+  +-------------------------------------------------------------------+
+
+. 
+. count
+  27
+
+. assert r(N) == 27
+
+. 
+. * Verify Anchor 1: AR-S additive interaction IC-RD = -8.76, q = 0.032
+. summarize estimate if model_or_chain == "AR-S (Model 5)"
+
+    Variable |        Obs        Mean    Std. dev.       Min        Max
+-------------+---------------------------------------------------------
+    estimate |          1       -8.76           .      -8.76      -8.76
+
+. assert abs(r(mean) - (-8.76)) < 1e-4
+
+. 
+. * Verify Anchor 2: Tightly bounded null across New 14 probability mediation c
+> hains (max_abs_bound <= 0.3188 pp)
+. summarize max_abs_bound if anchor_group == "New14_Prob_Mediation"
+
+    Variable |        Obs        Mean    Std. dev.       Min        Max
+-------------+---------------------------------------------------------
+max_abs_bo~d |          6    .1670833    .1132961      .0523      .3188
+
+. display "New14_Prob_Mediation max_abs_bound (percentage points): " %8.4f r(ma
+> x)
+New14_Prob_Mediation max_abs_bound (percentage points):   0.3188
+
+. assert r(max) <= 0.3189
+
+. 
+. * Verify Anchor 2: Historical 8 chains and Post-Selection no-dwm TNIE OR boun
+> ds
+. summarize ci_half_width if anchor_group == "PostSelection_NoDwm_TNIE"
+
+    Variable |        Obs        Mean    Std. dev.       Min        Max
+-------------+---------------------------------------------------------
+ci_half_wi~h |          2      .00375    .0017678      .0025       .005
+
+. display "PostSelection_NoDwm_TNIE max CI half-width (OR): " %8.4f r(max)
+PostSelection_NoDwm_TNIE max CI half-width (OR):   0.0050
+
+. assert r(max) <= 0.0051
+
+. 
+. * 2. Load FEAS_031 Asymmetry Decomposition table (5 rows)
+. import delimited using "`basedir'/results/FEAS031_ASYMMETRY_DECOMPOSITION_V3I
+> .csv", varnames(1) encoding("UTF-8") clear
+(3 vars, 5 obs)
+
+. describe
+
+Contains data
+ Observations:             5                  
+    Variables:             3                  
+-------------------------------------------------------------------------------
+Variable      Storage   Display    Value
+    name         type    format    label      Variable label
+-------------------------------------------------------------------------------
+transition_co~t str106  %106s                 
+percentage      float   %9.0g                 
+theoretical_m~g str99   %99s                  
+-------------------------------------------------------------------------------
+Sorted by: 
+     Note: Dataset has changed since last saved.
+
+. list transition_component percentage theoretical_meaning, noobs abbreviate(28
+> )
+
+  +---------------------------------------------------------------------------+
+  | transition_component                                                      |
+  | Accompanied_by_Self_Satisfaction_Increase (伴随本人评分提高)              |
+  |---------------------------------------------------------------------------|
+  |                                percentage                                 |
+  |                                     28.35                                 |
+  |---------------------------------------------------------------------------|
+  |                                                   theoretical_meaning     |
+  |                                    仅不足三成跃迁含本人绝对满意度改善     |
+  +---------------------------------------------------------------------------+
+
+  +---------------------------------------------------------------------------+
+  | transition_component                                                      |
+  | Accompanied_by_Spouse_Satisfaction_Decrease (伴随配偶评分下降)            |
+  |---------------------------------------------------------------------------|
+  |                                percentage                                 |
+  |                                     88.01                                 |
+  |---------------------------------------------------------------------------|
+  |                                                   theoretical_meaning     |
+  |                                          近九成跃迁伴随配偶满意度恶化     |
+  +---------------------------------------------------------------------------+
+
+  +---------------------------------------------------------------------------+
+  | transition_component                                                      |
+  | Pure_Spouse_Decrease_With_Self_Flat_Or_Down (本人持平或下降，纯由配偶评.. |
+  |---------------------------------------------------------------------------|
+  |                                percentage                                 |
+  |                                     71.65                                 |
+  |---------------------------------------------------------------------------|
+  |                                                   theoretical_meaning     |
+  |    超七成跃迁中本人满意度并未提高，不能解释为本人婚姻改善产生向心推力     |
+  +---------------------------------------------------------------------------+
+
+  +---------------------------------------------------------------------------+
+  | transition_component                                                      |
+  | Overlap_Both_Self_Up_And_Spouse_Down (本人评分提高且配偶评分下降重叠部分) |
+  |---------------------------------------------------------------------------|
+  |                                percentage                                 |
+  |                                     16.36                                 |
+  |---------------------------------------------------------------------------|
+  |                                                   theoretical_meaning     |
+  |                                        双方反向变动形成的双重评价裂痕     |
+  +---------------------------------------------------------------------------+
+
+  +---------------------------------------------------------------------------+
+  | transition_component                                                      |
+  | Pure_Self_Increase_With_Spouse_NonDecrease (配偶未降，纯由本人评分提高..  |
+  |---------------------------------------------------------------------------|
+  |                                percentage                                 |
+  |                                     11.99                                 |
+  |---------------------------------------------------------------------------|
+  |                                                   theoretical_meaning     |
+  |                               仅约12%符合纯粹本人满意度改善主导的升级     |
+  +---------------------------------------------------------------------------+
+
+. 
+. count
+  5
+
+. assert r(N) == 5
+
+. 
+. * Verify overlap decomposition: 28.35% + 88.01% - 16.36% = 100.00%
+. * And disjoint partition: 71.65% (pure spouse decrease) + 16.36% (overlap) + 
+> 11.99% (pure self increase) = 100.00%
+. scalar pct_self_up_any = percentage[1]
+
+. scalar pct_spouse_down_any = percentage[2]
+
+. scalar pct_pure_spouse_down = percentage[3]
+
+. scalar pct_overlap = percentage[4]
+
+. scalar pct_pure_self_up = percentage[5]
+
+. 
+. scalar pct_union = scalar(pct_self_up_any) + scalar(pct_spouse_down_any) - sc
+> alar(pct_overlap)
+
+. scalar pct_partition = scalar(pct_pure_spouse_down) + scalar(pct_overlap) + s
+> calar(pct_pure_self_up)
+
+. 
+. display "FEAS_031 Self Up Any (%): " %6.2f scalar(pct_self_up_any)
+FEAS_031 Self Up Any (%):  28.35
+
+. display "FEAS_031 Spouse Down Any (%): " %6.2f scalar(pct_spouse_down_any)
+FEAS_031 Spouse Down Any (%):  88.01
+
+. display "FEAS_031 Pure Spouse Down (%): " %6.2f scalar(pct_pure_spouse_down)
+FEAS_031 Pure Spouse Down (%):  71.65
+
+. display "FEAS_031 Overlap (%): " %6.2f scalar(pct_overlap)
+FEAS_031 Overlap (%):  16.36
+
+. display "FEAS_031 Pure Self Up (%): " %6.2f scalar(pct_pure_self_up)
+FEAS_031 Pure Self Up (%):  11.99
+
+. display "FEAS_031 Union (%): " %6.2f scalar(pct_union)
+FEAS_031 Union (%): 100.00
+
+. display "FEAS_031 Partition Sum (%): " %6.2f scalar(pct_partition)
+FEAS_031 Partition Sum (%): 100.00
+
+. 
+. assert abs(scalar(pct_self_up_any) - 28.35) < 1e-4
+
+. assert abs(scalar(pct_spouse_down_any) - 88.01) < 1e-4
+
+. assert abs(scalar(pct_pure_spouse_down) - 71.65) < 1e-4
+
+. assert abs(scalar(pct_overlap) - 16.36) < 1e-4
+
+. assert abs(scalar(pct_pure_self_up) - 11.99) < 1e-4
+
+. assert abs(scalar(pct_union) - 100.00) < 1e-4
+
+. assert abs(scalar(pct_partition) - 100.00) < 1e-4
+
+. 
+. display "STATA_ANCHORS_VERIFICATION_STATUS: PASS"
+STATA_ANCHORS_VERIFICATION_STATUS: PASS
+
+. exit, clear
+
+end of do-file
