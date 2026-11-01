@@ -1,0 +1,124 @@
+{
+  "sources": [
+    {
+      "path": "report_sources/01_探索方案审阅与修订建议.md",
+      "bytes": 13861,
+      "sha256": "2b7f1bcb9f4e222dd7e25f181ba5dd44ef353c735d99494c68a5fb719debba67",
+      "source_name": "01_探索方案审阅与修订建议.md",
+      "heading": "# 收入—婚姻满意度—代际支持：有界探索、检出能力与筛选后复核",
+      "copy_mode": "exact_original_bytes"
+    },
+    {
+      "path": "report_sources/20261005_显著性筛选方案评估与改进.md",
+      "bytes": 8061,
+      "sha256": "0bc5ab49bb98ea6e962c6e1bba06337a6cef4299b0078763d4888c90f3f92686",
+      "source_name": "20261005_显著性筛选方案评估与改进.md",
+      "heading": "# astra“显著性筛选”方案评估与改进建议（2026-10-05）",
+      "copy_mode": "exact_original_bytes"
+    },
+    {
+      "path": "report_sources/20261005_ChatGPT-Pro建议对照与融合方案_v2.md",
+      "bytes": 6503,
+      "sha256": "1f961aa17e665e2b41fab78da7ee421e176cfc05545b553fe6ffe3046491beb6",
+      "source_name": "20261005_ChatGPT-Pro建议对照与融合方案_v2.md",
+      "heading": "# ChatGPT Pro 建议审阅与三方共识方案（v2，2026-10-05）",
+      "copy_mode": "exact_original_bytes"
+    },
+    {
+      "path": "report_sources/融合方案v2_审阅与定点优化_v3.md",
+      "bytes": 15117,
+      "sha256": "c583ed709078c85c59a9cc871da9f9b27ee8198cd0436420146edbb820aa67e9",
+      "source_name": "融合方案v2_审阅与定点优化_v3.md",
+      "heading": "# Claude融合方案v2审阅与定点优化建议",
+      "copy_mode": "exact_original_bytes"
+    },
+    {
+      "path": "report_sources/20261005_astra本地执行方案_v4.md",
+      "bytes": 19509,
+      "sha256": "a681e9be61eb6238f4adb11a8f9fe4920294ebbfd31e809074d6141c2d6bbe9e",
+      "source_name": "20261005_astra本地执行方案_v4.md",
+      "heading": "# astra 本地执行方案 v4（2026-10-05，取代 v3）",
+      "copy_mode": "exact_original_bytes"
+    },
+    {
+      "path": "report_sources/01_筛选阶段复核与限定后续方案.md",
+      "bytes": 8196,
+      "sha256": "046657ef297d29c1ef7762f4602a68e6e5826ed535b8f4040e091871c5232859",
+      "source_name": "01_筛选阶段复核与限定后续方案.md",
+      "heading": "# 20261006筛选阶段：书面复核与限定后续方案",
+      "copy_mode": "exact_original_bytes"
+    },
+    {
+      "path": "report_sources/00_数值收尾独立复核报告.md",
+      "bytes": 11899,
+      "sha256": "a4032744fb185fec462c20669a69e3bbb26b0bf337d6cceba246762478abc9e1",
+      "source_name": "00_数值收尾独立复核报告.md",
+      "heading": "# CMAverse数值收尾独立复核：从显著性筛选转入论文定稿",
+      "copy_mode": "exact_original_bytes"
+    },
+    {
+      "path": "report_sources/01_Astra_Mac_论文收尾执行方案.md",
+      "bytes": 10403,
+      "sha256": "b4dd50da44d97409957daf2f6fa352958a22b49bb05830dcae6a530a1a35e450",
+      "source_name": "01_Astra_Mac_论文收尾执行方案.md",
+      "heading": "# 给Astra的Mac执行单：数值收尾之后只做论文与证据交付",
+      "copy_mode": "exact_original_bytes"
+    },
+    {
+      "path": "report_sources/00_累计稿与接续状态_独立复核报告.md",
+      "bytes": 10157,
+      "sha256": "d45816062d208eea3ec58a567587c389e6630666bbbc9bc23b92553959ecba99",
+      "source_name": "00_累计稿与接续状态_独立复核报告.md",
+      "heading": "# CMAverse累计稿与接续状态：独立复核报告",
+      "copy_mode": "exact_original_bytes"
+    },
+    {
+      "path": "report_sources/01_Astra_Mac_安全接续与论文定稿执行单.md",
+      "bytes": 16191,
+      "sha256": "7473827e485e96368c551297e61886a852d669aa5446c0c76bd3866596b41695",
+      "source_name": "01_Astra_Mac_安全接续与论文定稿执行单.md",
+      "heading": "# 给Astra：CMAverse累计稿安全接续与论文定稿执行单",
+      "copy_mode": "exact_original_bytes"
+    },
+    {
+      "path": "report_sources/00_v5集中包_独立复核与任务裁定.md",
+      "bytes": 8208,
+      "sha256": "2cf35d5749a191d7b9aaa26e41976423670c5c04eb8d38590249a5a87257da64",
+      "source_name": "00_v5集中包_独立复核与任务裁定.md",
+      "heading": "# CMAverse v5集中反馈包：独立复核与任务裁定",
+      "copy_mode": "exact_original_bytes"
+    },
+    {
+      "path": "report_sources/01_Astra_Mac_最小差异核验与原生定稿执行单.md",
+      "bytes": 10449,
+      "sha256": "2bd7e18a458ca8b8b112901cd22746dc53abb59cc421d94cd5bbbc1262ee6420",
+      "source_name": "01_Astra_Mac_最小差异核验与原生定稿执行单.md",
+      "heading": "# Astra Mac执行单：一次有界改文与原生交付",
+      "copy_mode": "exact_original_bytes"
+    },
+    {
+      "path": "report_sources/00_v6实质复核与分项裁定.md",
+      "bytes": 11051,
+      "sha256": "d80c04aabfed79058df1e068895b084d737ede79c62f75febaf20f33c704b188",
+      "source_name": "00_v6实质复核与分项裁定.md",
+      "heading": "# CMAverse v6：实质复核与分项裁定",
+      "copy_mode": "exact_original_bytes"
+    },
+    {
+      "path": "report_sources/01_给Astra的Mac有限接续执行单.md",
+      "bytes": 5886,
+      "sha256": "c0192e9ee811b661be6e2ad12ed6680867d5371f28caa179469fbefa7a711116",
+      "source_name": "01_给Astra的Mac有限接续执行单.md",
+      "heading": "# 给Astra/Codex：v6发布后的有限接续执行单",
+      "copy_mode": "exact_original_bytes"
+    },
+    {
+      "path": "report_sources/TWO_STAGE_COMPUTE_AMENDMENT_v1.md",
+      "bytes": 2361,
+      "sha256": "de9c18c727edb7056e597cf26866661406baa913339c866a47899fc0516d5abd",
+      "source_name": "TWO_STAGE_COMPUTE_AMENDMENT_v1.md",
+      "role": "本机按用户效率要求固定的两阶段修订"
+    }
+  ],
+  "note": "历史原件按字节保留；早期方案由后续明确修订接续，不能把过时待办重新视为执行指令。网页来源按文件内容及本机既有归档识别，不声称本轮重新访问原网页会话。"
+}

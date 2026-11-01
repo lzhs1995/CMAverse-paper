@@ -1,0 +1,13 @@
+﻿id,original_requirement,current_status,substantive_result,public_evidence_path,limits
+W01,停止新增显著性搜索，保留探索及不显著结果,已完成并按停止规则结项,统计执行已冻结；本轮报告未运行R、模型或bootstrap。,report_sources/01_Astra_Mac_论文收尾执行方案.md,本批停止搜索不等于证明所有未来机制为零。
+W02,五种结果版本分开，去dwm结果不拼接历史p,已完成,历史B200、旧B1000、去dwm候选、历史RW型校正、P3/N1各有独立来源。,package/results/RESULT_VERSION_TABLE.csv,历史校正不能移植到去dwm后估计。
+W03,031/041构念、样本、边际OR差和选择历史明确,已完成,正文表11列候选，表12单列历史校正；031为9879条/2939簇，041为12564条/3149簇。,package/results/CANDIDATE_DEFINITIONS.csv,相对评价修饰；041不是独立复制；ΔOR不是百分点。
+W04,P3期末金额、原金额与固定封顶口径分开,已完成,表13/E.2报告三状态总体金额；两口径均2000/2000有效，整体p为0.131934和0.079960。,package/results/P3_OMNIBUS.csv,数值修复通过，整体检验未在5%拒绝。
+W05,最终P3与冻结N1构成固定六项校正家族,已完成,六项原始p、BH6、BY6齐全，无5%拒绝。,package/results/SIX_TEST_FAMILY.csv,N1是探索性关联，不是中介或调节成功。
+W06,唯一研究问题总表覆盖全部新旧结果,已完成,表10覆盖完整中介、修饰、PE与政策情景，表11—13补候选、历史校正和P3。,package/MANUSCRIPT_READING.md,保留新14项零晋级及历史不可解释分量。
+W07,有限理论回溯，区分相对位置与绝对改善,已完成,理论矩阵有原文锚点，正文保留探索后解释及28.35%/88.01%可重叠说明。,package/THEORY_EVIDENCE_MATRIX.md,不把相对满意度当权力或谈判能力的直接测量。
+W08,旧失败、当前修复与推断暂缓分别报告,已完成；历史限制保留,P3原49次失败的同目标修复已关闭；B1及其他历史低于98%的规格仍暂缓推断。,package/MANUSCRIPT_READING.md,历史失败未自动被P3修复覆盖，暂缓不等于不显著。
+W09,补前驱、120项执行输入绑定和精确结果,已完成既定来源交付,前驱/部件差异与120输入日志已归档，公开代码结果包、来源索引保持；本轮核包内81项SHA。,package/provenance/SOURCE_INDEX.json,本轮未重新打开全部历史RDS；索引继续标明未重验与缺口。
+W10,正式三稿、Zotero、页码表格和Word PDF原生验收,已完成,三稿保存/重开和双视图通过；C3真实刷新、PAGE、F5完成；47页PDF五项检查通过。,package/FINAL_NATIVE_CLOSEOUT.md,当前V3h合同与历史母版关系以冻结输入为准。
+W11,同一最终PDF两轮六主题NLM审读与逐条裁决,已完成,12个独立会话、328条原生引用、57项裁决；未决稿件问题0，母稿无需再改。,package/FINAL_NLM_REVIEW.md,NLM读取27项选定来源和9份CSV，不是全历史模型重验。
+W12,指定GitHub发布、公共回下载和百度独立回验,已完成,GitHub原包提交76c59aa6，云验收提交3ae3311；原704云队列complete/verified。本轮公共ZIP重新下载通过。,PUBLICATION_VERIFICATION.json,公开内容不含原始微观数据或完整受限模型对象。

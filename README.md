@@ -1,5 +1,9 @@
 ## 2026-11-01 CMAverse V3h 最终交付
 
+[系统报告：原始任务、研究结果、完成状态及GitHub证据](final/20261101-v3h/TASK_REPORT_20261101.md) · [12项收尾台账](final/20261101-v3h/TASK_CHECKLIST_20261101.csv) · [ChatGPT/Claude网页原件](final/20261101-v3h/report_sources/)
+
+本次论文工作稿与交付已完成；031/041保留探索性线索，经搜索校正确认的中介或最佳机制仍未确立。统计计算按原批准停止规则结项，具体限制和原始要求见系统报告。
+
 [最终稿入口](final/20261101-v3h/README.md) · [47页论文PDF](final/20261101-v3h/package/manuscript/CMAverse_V3h_final_accepted.pdf) · [Word接受稿](final/20261101-v3h/package/manuscript/CMAverse_V3h_final_accepted.docx) · [修订对照稿](final/20261101-v3h/package/manuscript/CMAverse_V3h_final_tracked.docx) · [完整ZIP](final/20261101-v3h/CMAverse_V3h_final_20261101.zip)
 
 三份原生Word、最终PDF及同稿两轮六主题NotebookLM终审已完成。12个独立会话、328条原生引用和57条意见均已逐项核实，未发现需继续修改母稿的新问题。当前证据未明确支持完整中介，历史识别条件与推断暂缓说明保留。发布和百度回下载的实际核验记录见[包外验收](final/20261101-v3h/PUBLICATION_VERIFICATION.json)。

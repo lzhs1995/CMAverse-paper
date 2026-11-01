@@ -1,5 +1,9 @@
 # CMAverse 因果中介论文 · 最终交付
 
+[系统报告与原始任务清单](TASK_REPORT_20261101.md) · [12项收尾台账](TASK_CHECKLIST_20261101.csv) · [网页原件与后继执行修订](report_sources/) · [本轮公共下载核验](REPORT_EVIDENCE_20261101.json)
+
+本次交付已完成，研究结果仍为中介未获明确支持、少量探索性修饰线索。包内历史审阅文件中的待办按其原日期保留；当前状态以系统报告和最终验收为准。
+
 [47页论文PDF](package/manuscript/CMAverse_V3h_final_accepted.pdf) · [Word接受稿](package/manuscript/CMAverse_V3h_final_accepted.docx) · [Word修订对照稿](package/manuscript/CMAverse_V3h_final_tracked.docx) · [完整ZIP](CMAverse_V3h_final_20261101.zip)
 
 [全文与文件目录](package/README.md) · [两轮终审及57条裁决](package/FINAL_NLM_REVIEW.md) · [发布与云恢复验收](PUBLICATION_VERIFICATION.json) · [百度恢复说明](CLOUD_RESTORE_GUIDE.md)

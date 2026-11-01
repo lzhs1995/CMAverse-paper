@@ -1,0 +1,6 @@
+{
+  "status": "SCREENING_PROCESS_COMPLETED",
+  "pid": 7775,
+  "completed_groups": ["A1_B1", "A2_B2", "A3_B3", "A4_B4", "C1", "C2", "C3", "C4", "D1", "D2"],
+  "at": "2026-10-05 18:37:40.479386"
+}
