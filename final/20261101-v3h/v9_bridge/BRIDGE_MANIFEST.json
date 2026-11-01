@@ -1,0 +1,177 @@
+{
+  "schema": "cma-v9-to-v3h-bridge-manifest-v1",
+  "generated_at_utc": "2026-11-01T07:17:27.352769+00:00",
+  "bridge_zip": {
+    "name": "CMAverse_v9_to_V3h_bridge_20261101.zip",
+    "relative_path": "final/20261101-v3h/CMAverse_v9_to_V3h_bridge_20261101.zip",
+    "bytes": 1134717,
+    "sha256": "7154a51ce4aa0fb3b934e994f70348a4f97889474cf7a3b81b5dc237dffc4600",
+    "under_25mb_limit": true,
+    "member_count": 31
+  },
+  "frozen_main_zip_preserved": {
+    "name": "CMAverse_V3h_final_20261101.zip",
+    "relative_path": "final/20261101-v3h/CMAverse_V3h_final_20261101.zip",
+    "bytes": 10299844,
+    "sha256": "cc72cdec12cf6d16ccf87de2df41bc71bf46fccc485f8e6e858373e0bdbb3095",
+    "expected_sha256": "cc72cdec12cf6d16ccf87de2df41bc71bf46fccc485f8e6e858373e0bdbb3095",
+    "byte_identical": true
+  },
+  "members": [
+    {
+      "relative_path": "v9_bridge/02_XML差异裁定模板.csv",
+      "bytes": 13690,
+      "sha256": "984d9762b03a8d5bcb3410afa747a38466d59e44a6d82010c5d51da727543b3c"
+    },
+    {
+      "relative_path": "v9_bridge/BIB_31_RESULT.json",
+      "bytes": 45369,
+      "sha256": "31583a39a101d3e70d040daf7b4b8e0b842f54bf45e64b478df77f93634e7ae8"
+    },
+    {
+      "relative_path": "v9_bridge/BRIDGE_MANIFEST.json",
+      "bytes": 6790,
+      "sha256": "22f2d7b34085346ba45a7aa90df305873344416341f8c95dd8f2e6ecd6651513"
+    },
+    {
+      "relative_path": "v9_bridge/FOR_WEB_REVIEWERS_V9_TO_V3H.md",
+      "bytes": 5779,
+      "sha256": "35b9f03d9adb5042d3a7cfe114c0713dedaea710d852f7a599dccd02ac1fd84e"
+    },
+    {
+      "relative_path": "v9_bridge/PDF_QA.csv",
+      "bytes": 9262,
+      "sha256": "2902094bbe6fafbbceb60e144521e1c03b5e7f688bd5e072e8ade07ddb3aa164"
+    },
+    {
+      "relative_path": "v9_bridge/POST_V6_BINDING.json",
+      "bytes": 33319,
+      "sha256": "87cdab9b136b9faded71c4ec6a7419edb2efaaa0452f29cd570773d81e0a5cf8"
+    },
+    {
+      "relative_path": "v9_bridge/REFRESH_THREE_LAYER_CLOSURE.json",
+      "bytes": 63717,
+      "sha256": "08de4327f64f6ae50135eea121f7fb942276683e5718acbac4d69fe99153c2dd"
+    },
+    {
+      "relative_path": "v9_bridge/STRATEGIC_CLOSEOUT_AND_PUBLICATION_GUIDE.md",
+      "bytes": 9225,
+      "sha256": "17c910bf1ba618c2d920db145dd37d98d8ef9de5fb4c0a740cb2354751169cbe"
+    },
+    {
+      "relative_path": "v9_bridge/XML_ADJUDICATION_DETAIL.json",
+      "bytes": 79043,
+      "sha256": "6f18bf4c91212b3a13b537deace4ab4d7cd555300b813c0146716734993034b5"
+    },
+    {
+      "relative_path": "v9_bridge/artifacts/final_refreshed_0941.docx",
+      "bytes": 549074,
+      "sha256": "f3d8870937e818f55dbe5b73f178ce031d512fb2b063b94fca907fd4e666542f"
+    },
+    {
+      "relative_path": "v9_bridge/artifacts/native_saved_year_fixed.docx",
+      "bytes": 545513,
+      "sha256": "f2582b306d164858d79e3441b5d7bb4dbd4bb776a54820c9c64d4dc1ce60831b"
+    },
+    {
+      "relative_path": "report_sources/00_v5集中包_独立复核与任务裁定.md",
+      "bytes": 8208,
+      "sha256": "2cf35d5749a191d7b9aaa26e41976423670c5c04eb8d38590249a5a87257da64"
+    },
+    {
+      "relative_path": "report_sources/00_v6实质复核与分项裁定.md",
+      "bytes": 11051,
+      "sha256": "d80c04aabfed79058df1e068895b084d737ede79c62f75febaf20f33c704b188"
+    },
+    {
+      "relative_path": "report_sources/00_数值收尾独立复核报告.md",
+      "bytes": 11899,
+      "sha256": "a4032744fb185fec462c20669a69e3bbb26b0bf337d6cceba246762478abc9e1"
+    },
+    {
+      "relative_path": "report_sources/00_累计稿与接续状态_独立复核报告.md",
+      "bytes": 10157,
+      "sha256": "d45816062d208eea3ec58a567587c389e6630666bbbc9bc23b92553959ecba99"
+    },
+    {
+      "relative_path": "report_sources/01_Astra_Mac_安全接续与论文定稿执行单.md",
+      "bytes": 16191,
+      "sha256": "7473827e485e96368c551297e61886a852d669aa5446c0c76bd3866596b41695"
+    },
+    {
+      "relative_path": "report_sources/01_Astra_Mac_最小差异核验与原生定稿执行单.md",
+      "bytes": 10449,
+      "sha256": "2bd7e18a458ca8b8b112901cd22746dc53abb59cc421d94cd5bbbc1262ee6420"
+    },
+    {
+      "relative_path": "report_sources/01_Astra_Mac_论文收尾执行方案.md",
+      "bytes": 10403,
+      "sha256": "b4dd50da44d97409957daf2f6fa352958a22b49bb05830dcae6a530a1a35e450"
+    },
+    {
+      "relative_path": "report_sources/01_探索方案审阅与修订建议.md",
+      "bytes": 13861,
+      "sha256": "2b7f1bcb9f4e222dd7e25f181ba5dd44ef353c735d99494c68a5fb719debba67"
+    },
+    {
+      "relative_path": "report_sources/01_筛选阶段复核与限定后续方案.md",
+      "bytes": 8196,
+      "sha256": "046657ef297d29c1ef7762f4602a68e6e5826ed535b8f4040e091871c5232859"
+    },
+    {
+      "relative_path": "report_sources/01_给Astra的Mac有限接续执行单.md",
+      "bytes": 5886,
+      "sha256": "c0192e9ee811b661be6e2ad12ed6680867d5371f28caa179469fbefa7a711116"
+    },
+    {
+      "relative_path": "report_sources/20261005_ChatGPT-Pro建议对照与融合方案_v2.md",
+      "bytes": 6503,
+      "sha256": "1f961aa17e665e2b41fab78da7ee421e176cfc05545b553fe6ffe3046491beb6"
+    },
+    {
+      "relative_path": "report_sources/20261005_astra本地执行方案_v4.md",
+      "bytes": 19509,
+      "sha256": "a681e9be61eb6238f4adb11a8f9fe4920294ebbfd31e809074d6141c2d6bbe9e"
+    },
+    {
+      "relative_path": "report_sources/20261005_显著性筛选方案评估与改进.md",
+      "bytes": 8061,
+      "sha256": "0bc5ab49bb98ea6e962c6e1bba06337a6cef4299b0078763d4888c90f3f92686"
+    },
+    {
+      "relative_path": "report_sources/20261008_第五轮复核与v9执行方案_仅2018-2022.md",
+      "bytes": 18254,
+      "sha256": "8dfda09a82c2effd5c945f9770b0976a4ad4fb6969cb8121f10da3f1d83e96fa"
+    },
+    {
+      "relative_path": "report_sources/SOURCE_MANIFEST.json",
+      "bytes": 6536,
+      "sha256": "fe1c74e2d924090f2499d3b4c2c668c39af8dca66871dfc0060b2c495c174f3d"
+    },
+    {
+      "relative_path": "report_sources/TWO_STAGE_COMPUTE_AMENDMENT_v1.md",
+      "bytes": 2361,
+      "sha256": "de9c18c727edb7056e597cf26866661406baa913339c866a47899fc0516d5abd"
+    },
+    {
+      "relative_path": "report_sources/融合方案v2_审阅与定点优化_v3.md",
+      "bytes": 15117,
+      "sha256": "c583ed709078c85c59a9cc871da9f9b27ee8198cd0436420146edbb820aa67e9"
+    },
+    {
+      "relative_path": "TASK_REPORT_20261101.md",
+      "bytes": 22630,
+      "sha256": "a5e4f83b6c24937f9df830d6dd9ab3e0f6e33ed587a803aa249bebb05a107b04"
+    },
+    {
+      "relative_path": "TASK_CHECKLIST_20261101.csv",
+      "bytes": 3313,
+      "sha256": "283322b0b6b89aa0323f202018f58d9d22bcd64312b135b162d07ed416a6f1cc"
+    },
+    {
+      "relative_path": "CAPACITY_FOLLOWUP_20261101.json",
+      "bytes": 4662,
+      "sha256": "0b868ae564038b355d4784121f81ab3267285a2a6f39331bd6a1bb4eb72386db"
+    }
+  ]
+}

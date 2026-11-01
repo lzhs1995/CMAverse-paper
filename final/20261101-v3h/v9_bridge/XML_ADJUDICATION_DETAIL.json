@@ -1,0 +1,1295 @@
+{
+  "schema": "cma-v9-step-B-xml-adjudication-detail-v1",
+  "generated_at_utc": "2026-11-01T07:17:25.627724+00:00",
+  "step_B0_comparison_scope_and_method": {
+    "file_A_reference": {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/native_readiness/native_citation_after_release_v5/native_saved_year_fixed.docx",
+      "bytes": 545513,
+      "sha256": "f2582b306d164858d79e3441b5d7bb4dbd4bb776a54820c9c64d4dc1ce60831b"
+    },
+    "file_B_candidate": {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/final_refreshed.docx",
+      "bytes": 549074,
+      "sha256": "f3d8870937e818f55dbe5b73f178ce031d512fb2b063b94fca907fd4e666542f"
+    },
+    "zip_member_count": 27,
+    "byte_changed_parts_count": 13,
+    "byte_changed_story_parts_count": 9,
+    "byte_changed_non_story_parts_count": 4,
+    "unchanged_non_story_parts_count": 14,
+    "why_only_four_non_story_parts": "两份 DOCX 均含 27 个 ZIP 成员。其中 14 个非 story 部件（含 styles.xml、fontTable.xml、numbering.xml、theme1.xml、webSettings.xml、document.xml.rels 及 3 张图片等）逐字节完全相同；9 个 story 部件虽因 Word 重存产生 w:rsid 属性与分页缓存字节重排，但其段落文本、表格单元、23 个引文域与 25 条书目经 31/31 检查确认语义完全一致；因此除正文 story 外的非正文差异精确限定在 docProps/app.xml、docProps/core.xml、docProps/custom.xml、word/settings.xml 四个部件（共 30 个 XML 元素变化）。"
+  },
+  "root_adjudication": {
+    "schema": "cmaverse-root-limited-native-adjudication-v1",
+    "at": "2026-10-08T11:36:08.535457+00:00",
+    "reviewer": "Codex ROOT",
+    "status": "ROOT_ACCEPTED_SAVED_REOPENED_AND_FILE_SEMANTICS",
+    "review_mode": "root_review_of_independent_codex_evidence_and_original_artifacts",
+    "candidate": {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/final_refreshed.docx",
+      "bytes": 549074,
+      "sha256": "f3d8870937e818f55dbe5b73f178ce031d512fb2b063b94fca907fd4e666542f"
+    },
+    "native_reference": {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/native_readiness/native_citation_after_release_v5/native_saved_year_fixed.docx",
+      "bytes": 545513,
+      "sha256": "f2582b306d164858d79e3441b5d7bb4dbd4bb776a54820c9c64d4dc1ce60831b"
+    },
+    "independent_result": {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/final_native_xml_adjudication_v1/RESULT.json",
+      "bytes": 62315,
+      "sha256": "bde8d6e044ccb6fb612109fddea2c613c87d9f8a4cce786f59b5b072908feef4"
+    },
+    "current_source_bindings_rechecked": [
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/native_readiness/native_citation_after_release_v5/native_saved_year_fixed.docx",
+        "bytes": 545513,
+        "sha256": "f2582b306d164858d79e3441b5d7bb4dbd4bb776a54820c9c64d4dc1ce60831b"
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/final_refreshed.docx",
+        "bytes": 549074,
+        "sha256": "f3d8870937e818f55dbe5b73f178ce031d512fb2b063b94fca907fd4e666542f"
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/claude_citation_order_repair_r4/implementation/final_saved_20261008_root_v1/RESULT.json",
+        "bytes": 45369,
+        "sha256": "31583a39a101d3e70d040daf7b4b8e0b842f54bf45e64b478df77f93634e7ae8"
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/RESULT.json",
+        "bytes": 1687,
+        "sha256": "d55fa7beb0366dca755778856851ab23d96e0f50ff5ea3ca31a83e3ea8570010"
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/OWNED_CHECKPOINT.json",
+        "bytes": 6062,
+        "sha256": "9f6afaaf5a3ce3483c631c316ee712223c3fac16e7c813cc832f6470d6ef773f"
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/native_013.terminal.json",
+        "bytes": 1189,
+        "sha256": "82423edb7d163b381bcc4e94f94ab025d6a4fd264c5b054af5d05017487d3cae"
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/native_013.intent.json",
+        "bytes": 1044,
+        "sha256": "eecceaeea475c22dbf832321ea3d44d62ff1bfc1390b30f30dc1b9a4b98e61b6"
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/native_020.terminal.json",
+        "bytes": 1189,
+        "sha256": "e74d01e73f8f48ee0c98ac48c6f8b0c3b016ed9ad17e8ad0cb072b1c405ea7a3"
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/native_020.intent.json",
+        "bytes": 1044,
+        "sha256": "18c5b0ced0b1152544e51c218a24ccba3847ae38f0de7cb9a5ae4718c45e449e"
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/native_027.terminal.json",
+        "bytes": 425,
+        "sha256": "c7271b0a06e4457476494749cdd9e5510711c310b0b54b6461721cec9585886d"
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/native_027.intent.json",
+        "bytes": 825,
+        "sha256": "f553899885bc77356ef53ba036abdab27fd196124c6c4c6f636edb8137ae4bf9"
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/native_034.terminal.json",
+        "bytes": 433,
+        "sha256": "de74aba04022c54d2368d3704682c2236c1fb65b69bc6fdeddce087badddc7be"
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/native_034.intent.json",
+        "bytes": 1122,
+        "sha256": "6a871aea397dd21c4edc654aba953581dd980ef7995191660fe7ac652bc466a2"
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/native_execution_map_20261007_v1/finalize_successor_v1/root_execution_20261008_v1/phase_finalize/execution/native_030.terminal.json",
+        "bytes": 440,
+        "sha256": "fcdbd8853d915fa1cf82b6633f1d861fbf69b11b85acacfb9ccf4bf00db7ac38"
+      },
+      {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/native_execution_map_20261007_v1/finalize_successor_v1/root_execution_20261008_v1/phase_finalize/execution/native_030.intent.json",
+        "bytes": 793,
+        "sha256": "333ff8521cd97bcf35ddc34fc49263c5cd242d6563b63eb4ad16a368a184de6a"
+      }
+    ],
+    "accepted": {
+      "native_save_close_reopen_save_close": true,
+      "file_semantics_31_of_31": true,
+      "citation_fields": 23,
+      "bibliography_fields": 1,
+      "bibliography_entries": 25,
+      "old_22_citations_and_24_entries_complete_and_ordered": true,
+      "all_nine_story_parts_preserved": true,
+      "four_non_story_parts_explained": true
+    },
+    "four_part_decisions": [
+      {
+        "part": "docProps/app.xml",
+        "element_change_count": 7,
+        "accepted": true,
+        "reason": "Word统计/修改时间、Zotero会话ID、视图/校对状态和编辑来源标识；未改变正文、引用或书目。"
+      },
+      {
+        "part": "docProps/core.xml",
+        "element_change_count": 1,
+        "accepted": true,
+        "reason": "Word统计/修改时间、Zotero会话ID、视图/校对状态和编辑来源标识；未改变正文、引用或书目。"
+      },
+      {
+        "part": "docProps/custom.xml",
+        "element_change_count": 1,
+        "accepted": true,
+        "reason": "Word统计/修改时间、Zotero会话ID、视图/校对状态和编辑来源标识；未改变正文、引用或书目。"
+      },
+      {
+        "part": "word/settings.xml",
+        "element_change_count": 21,
+        "accepted": true,
+        "reason": "Word统计/修改时间、Zotero会话ID、视图/校对状态和编辑来源标识；未改变正文、引用或书目。"
+      }
+    ],
+    "not_proved": {
+      "old_zotero_refresh_success": true,
+      "global_resource_release": true,
+      "final_word_pdf": true,
+      "same_pdf_two_round_nlm": true
+    },
+    "limitations": [
+      "revisionView markup=0仅隐藏显示，不构成接受修订证明；无残余修订依据独立语义检查。",
+      "13个ZIP部件字节改变包括9个story与4个非story，不能说全包仅4处变化。",
+      "旧Refresh宏返回与后续idle未证明成功；不据此追认成功，也未证明失败。",
+      "本裁定只接受本哈希稿件的保存及语义保全，不签发最终PDF/完整原生验收。"
+    ],
+    "native_actions_in_this_review": 0,
+    "model_runs_in_this_review": 0
+  },
+  "independent_element_diff": {
+    "schema": "LIMITED_NATIVE_XML_AND_SAVED_EVENT_ADJUDICATION_V1",
+    "at": "2026-10-08T10:30:57.634041+00:00",
+    "status": "LIMITED_OFFLINE_BINDING_PASS_REQUIRES_ROOT_FINAL_ADJUDICATION",
+    "not_an_approval": true,
+    "root_final_adjudication_required": true,
+    "inputs": {
+      "native_reference": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/native_readiness/native_citation_after_release_v5/native_saved_year_fixed.docx",
+        "bytes": 545513,
+        "sha256": "f2582b306d164858d79e3441b5d7bb4dbd4bb776a54820c9c64d4dc1ce60831b"
+      },
+      "candidate": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/final_refreshed.docx",
+        "bytes": 549074,
+        "sha256": "f3d8870937e818f55dbe5b73f178ce031d512fb2b063b94fca907fd4e666542f"
+      }
+    },
+    "comparison_scope": {
+      "this_pair": "native_saved_year_fixed.docx -> v6 execution/final_refreshed.docx",
+      "explicit_four_part_scope": [
+        "docProps/app.xml",
+        "docProps/core.xml",
+        "docProps/custom.xml",
+        "word/settings.xml"
+      ],
+      "mother_20261005_comparison_not_adjudicated": true,
+      "mother_comparison_pending_parts_as_reported_by_prior_checker": [
+        "docProps/app.xml",
+        "docProps/core.xml",
+        "docProps/custom.xml",
+        "word/fontTable.xml",
+        "word/settings.xml",
+        "word/styles.xml"
+      ],
+      "note": "word/fontTable.xml和word/styles.xml相对10/5母稿的差异不属于此次四部件比较；相对当前native两者逐字节相同。"
+    },
+    "prior_citation_audit": {
+      "result_ref": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/claude_citation_order_repair_r4/implementation/final_saved_20261008_root_v1/RESULT.json",
+        "bytes": 45369,
+        "sha256": "31583a39a101d3e70d040daf7b4b8e0b842f54bf45e64b478df77f93634e7ae8"
+      },
+      "status": "FINAL_FILE_SEMANTICS_PASS_REQUIRES_ROOT_NATIVE_EVENT_BINDING",
+      "checks_passed": 31,
+      "checks_total": 31,
+      "fail_closed_checks": {
+        "before_has_citations": true,
+        "before_has_bibliography_entries": true,
+        "old_uri_occurrences_preserved": true,
+        "only_wang_uri_added_once": true,
+        "wang_not_preexisting": true,
+        "old_complete_csl_members_preserved_exactly": true,
+        "citation_field_count_increased_by_one": true,
+        "old_citation_ids_preserved": true,
+        "citation_ids_present_and_unique": true,
+        "bibliography_field_count_unchanged": true,
+        "old_bibliography_entries_preserved_normalized": true,
+        "wang_unique_and_metadata_correct": true,
+        "wang_bibliography_unique": true,
+        "only_wang_bibliography_added": true,
+        "no_members_without_uri": true,
+        "after_has_no_tracked_elements": true,
+        "source_mother_has_24_full_bibliography_entries": true,
+        "genuine_native_has_25_full_bibliography_entries": true,
+        "candidate_has_25_full_bibliography_entries": true,
+        "original_24_entries_exact_and_ordered": true,
+        "candidate_full_25_entries_exactly_equal_native": true,
+        "original_22_full_citation_fields_exact": true,
+        "candidate_23_citation_fields": true,
+        "all_fields_instruction_and_display_equal_genuine_native": true,
+        "all_nine_story_parts_retained": true,
+        "original_22_citation_ids_relative_order_and_story_exact": true,
+        "old_citation_swap_detected_by_order_predicate": true,
+        "real_old_entry_deletion_detected_while_citations_unchanged": true,
+        "pure_reorder_detected_while_entry_counter_and_citations_unchanged": true,
+        "final_mode_uses_distinct_file_identity": true,
+        "all_inputs_byte_identical_after_read_and_negative_test": true
+      },
+      "blocking_violations": [],
+      "candidate_and_native_refs_match_this_pair": true,
+      "native_non_story_part_hashes_all_rebound": true,
+      "rerun_performed": false,
+      "scope": "读取已有31项结论并核来源与部件哈希；没有重跑反例、检查框架或统计。",
+      "citation_field_count_after": 23,
+      "bibliography_field_count_after": 1,
+      "bibliography_entry_count_after": 25,
+      "native_refresh_evidence_verified_by_prior_checker": false
+    },
+    "package_comparison": {
+      "member_counts": {
+        "native": 27,
+        "candidate": 27
+      },
+      "added": [],
+      "removed": [],
+      "byte_changed_parts": [
+        "docProps/app.xml",
+        "docProps/core.xml",
+        "docProps/custom.xml",
+        "word/document.xml",
+        "word/endnotes.xml",
+        "word/footer1.xml",
+        "word/footer2.xml",
+        "word/footer3.xml",
+        "word/footnotes.xml",
+        "word/header1.xml",
+        "word/header2.xml",
+        "word/header3.xml",
+        "word/settings.xml"
+      ],
+      "byte_changed_story_parts": [
+        "word/document.xml",
+        "word/endnotes.xml",
+        "word/footer1.xml",
+        "word/footer2.xml",
+        "word/footer3.xml",
+        "word/footnotes.xml",
+        "word/header1.xml",
+        "word/header2.xml",
+        "word/header3.xml"
+      ],
+      "story_scope_note": "九个story原始字节不同。本次不重跑或扩展正文审查；引文/书目语义结论绑定既有31项检查，不宣称整个DOCX内容或版式完全一致。",
+      "non_story_changed_parts": [
+        "docProps/app.xml",
+        "docProps/core.xml",
+        "docProps/custom.xml",
+        "word/settings.xml"
+      ],
+      "unchanged_non_story_parts": [
+        "[Content_Types].xml",
+        "_rels/.rels",
+        "customXml/_rels/item1.xml.rels",
+        "customXml/item1.xml",
+        "customXml/itemProps1.xml",
+        "word/_rels/document.xml.rels",
+        "word/fontTable.xml",
+        "word/media/image1.png",
+        "word/media/image2.png",
+        "word/media/image3.png",
+        "word/numbering.xml",
+        "word/styles.xml",
+        "word/theme/theme1.xml",
+        "word/webSettings.xml"
+      ]
+    },
+    "four_part_element_adjudication": [
+      {
+        "part": "docProps/app.xml",
+        "native_sha256": "26b47c59eec8a09495acabea94017b64dbc51711d151b526206f809d4312822c",
+        "candidate_sha256": "fc41d258363c440ee48973d786c3473e4b9307d3316d636d8040ef247963f117",
+        "native_bytes": 730,
+        "candidate_bytes": 731,
+        "element_changes": [
+          {
+            "xpath": "/app:Properties/app:TotalTime",
+            "before": {
+              "element": "app:TotalTime",
+              "attributes": {},
+              "text": "358"
+            },
+            "after": {
+              "element": "app:TotalTime",
+              "attributes": {},
+              "text": "1302"
+            },
+            "classification": "document_statistics",
+            "interpretation_zh": "Word保存的统计/编辑时长属性；不是正文内容，也不能据此证明最终PDF页数。"
+          },
+          {
+            "xpath": "/app:Properties/app:Pages",
+            "before": {
+              "element": "app:Pages",
+              "attributes": {},
+              "text": "45"
+            },
+            "after": {
+              "element": "app:Pages",
+              "attributes": {},
+              "text": "46"
+            },
+            "classification": "document_statistics",
+            "interpretation_zh": "Word保存的统计/编辑时长属性；不是正文内容，也不能据此证明最终PDF页数。"
+          },
+          {
+            "xpath": "/app:Properties/app:Words",
+            "before": {
+              "element": "app:Words",
+              "attributes": {},
+              "text": "18199"
+            },
+            "after": {
+              "element": "app:Words",
+              "attributes": {},
+              "text": "18345"
+            },
+            "classification": "document_statistics",
+            "interpretation_zh": "Word保存的统计/编辑时长属性；不是正文内容，也不能据此证明最终PDF页数。"
+          },
+          {
+            "xpath": "/app:Properties/app:Characters",
+            "before": {
+              "element": "app:Characters",
+              "attributes": {},
+              "text": "103737"
+            },
+            "after": {
+              "element": "app:Characters",
+              "attributes": {},
+              "text": "104572"
+            },
+            "classification": "document_statistics",
+            "interpretation_zh": "Word保存的统计/编辑时长属性；不是正文内容，也不能据此证明最终PDF页数。"
+          },
+          {
+            "xpath": "/app:Properties/app:Lines",
+            "before": {
+              "element": "app:Lines",
+              "attributes": {},
+              "text": "864"
+            },
+            "after": {
+              "element": "app:Lines",
+              "attributes": {},
+              "text": "871"
+            },
+            "classification": "document_statistics",
+            "interpretation_zh": "Word保存的统计/编辑时长属性；不是正文内容，也不能据此证明最终PDF页数。"
+          },
+          {
+            "xpath": "/app:Properties/app:Paragraphs",
+            "before": {
+              "element": "app:Paragraphs",
+              "attributes": {},
+              "text": "243"
+            },
+            "after": {
+              "element": "app:Paragraphs",
+              "attributes": {},
+              "text": "245"
+            },
+            "classification": "document_statistics",
+            "interpretation_zh": "Word保存的统计/编辑时长属性；不是正文内容，也不能据此证明最终PDF页数。"
+          },
+          {
+            "xpath": "/app:Properties/app:CharactersWithSpaces",
+            "before": {
+              "element": "app:CharactersWithSpaces",
+              "attributes": {},
+              "text": "121693"
+            },
+            "after": {
+              "element": "app:CharactersWithSpaces",
+              "attributes": {},
+              "text": "122672"
+            },
+            "classification": "document_statistics",
+            "interpretation_zh": "Word保存的统计/编辑时长属性；不是正文内容，也不能据此证明最终PDF页数。"
+          }
+        ],
+        "unclassified_element_differences": [],
+        "remaining_xml_tree_identical_after_exact_changes_accounted_for": true
+      },
+      {
+        "part": "docProps/core.xml",
+        "native_sha256": "8130fec021e5e894b20490f1566744a3c9a493615c387121ec242a32b4a24387",
+        "candidate_sha256": "f67c75a35fd6ed81c481fab2056aa7b667f2d05b1e9071175b97ab41dba9b10d",
+        "native_bytes": 744,
+        "candidate_bytes": 744,
+        "element_changes": [
+          {
+            "xpath": "/cp:coreProperties/dcterms:modified",
+            "before": {
+              "element": "dcterms:modified",
+              "attributes": {
+                "{http://www.w3.org/2001/XMLSchema-instance}:type": "dcterms:W3CDTF"
+              },
+              "text": "2026-10-06T19:40:00Z"
+            },
+            "after": {
+              "element": "dcterms:modified",
+              "attributes": {
+                "{http://www.w3.org/2001/XMLSchema-instance}:type": "dcterms:W3CDTF"
+              },
+              "text": "2026-10-08T09:40:00Z"
+            },
+            "classification": "save_timestamp",
+            "interpretation_zh": "最后修改时间；不改变正文、引文或书目。"
+          }
+        ],
+        "unclassified_element_differences": [],
+        "remaining_xml_tree_identical_after_exact_changes_accounted_for": true
+      },
+      {
+        "part": "docProps/custom.xml",
+        "native_sha256": "16e0cccd2e0e77b015beb2209cf40e494be651ca947a2449a76c9fa1112e12b1",
+        "candidate_sha256": "6fa6da6e2c2a8d87205c5761c495e568c95cc20eb34641e1b824c2cb240565eb",
+        "native_bytes": 1113,
+        "candidate_bytes": 1113,
+        "element_changes": [
+          {
+            "xpath": "/custom:Properties/custom:property[@name=\"ZOTERO_PREF_1\"]/vt:lpwstr",
+            "before": {
+              "element": "vt:lpwstr",
+              "attributes": {},
+              "text": "<data data-version=\"3\" zotero-version=\"10.0.5\"><session id=\"LSSeUiCE\"/><style id=\"http://www.zotero.org/styles/gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses\" hasBibliography=\"1\" bibliographyStyleHasBeenSet=\"1\"/><prefs"
+            },
+            "after": {
+              "element": "vt:lpwstr",
+              "attributes": {},
+              "text": "<data data-version=\"3\" zotero-version=\"10.0.5\"><session id=\"Qzapb7xr\"/><style id=\"http://www.zotero.org/styles/gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses\" hasBibliography=\"1\" bibliographyStyleHasBeenSet=\"1\"/><prefs"
+            },
+            "classification": "zotero_runtime_session",
+            "interpretation_zh": "只有Zotero会话ID变化；引用样式、fieldType和其余偏好完全保留。",
+            "embedded_xml_change": {
+              "xpath": "/data/session/@id",
+              "before": "LSSeUiCE",
+              "after": "Qzapb7xr"
+            },
+            "reconstructed_preferences": {
+              "before": "<data data-version=\"3\" zotero-version=\"10.0.5\"><session id=\"LSSeUiCE\"/><style id=\"http://www.zotero.org/styles/gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses\" hasBibliography=\"1\" bibliographyStyleHasBeenSet=\"1\"/><prefs><pref name=\"fieldType\" value=\"Field\"/></prefs></data>",
+              "after": "<data data-version=\"3\" zotero-version=\"10.0.5\"><session id=\"Qzapb7xr\"/><style id=\"http://www.zotero.org/styles/gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses\" hasBibliography=\"1\" bibliographyStyleHasBeenSet=\"1\"/><prefs><pref name=\"fieldType\" value=\"Field\"/></prefs></data>"
+            },
+            "all_other_preferences_equal": true
+          }
+        ],
+        "unclassified_element_differences": [],
+        "remaining_xml_tree_identical_after_exact_changes_accounted_for": true
+      },
+      {
+        "part": "word/settings.xml",
+        "native_sha256": "6a0f08c94903e3d5817b80d0bf126a537fc7f0fbafa8f6d3280a7eaaac533017",
+        "candidate_sha256": "35ab5e487c069fc9d2771a5a52dba884dc4722d441334a2c09a25aaf0059558e",
+        "native_bytes": 42423,
+        "candidate_bytes": 42503,
+        "element_changes": [
+          {
+            "xpath": "/w:settings/w:view",
+            "before": null,
+            "after": {
+              "element": "w:view",
+              "attributes": {
+                "w:val": "normal"
+              },
+              "text": null
+            },
+            "classification": "view_or_proofing_state",
+            "interpretation_zh": "Word重新打开时的视图模式；影响屏幕呈现，未修改正文。"
+          },
+          {
+            "xpath": "/w:settings/w:proofState",
+            "before": null,
+            "after": {
+              "element": "w:proofState",
+              "attributes": {
+                "w:grammar": "clean",
+                "w:spelling": "clean"
+              },
+              "text": null
+            },
+            "classification": "view_or_proofing_state",
+            "interpretation_zh": "已保存的拼写与语法校对状态；不等于内容质量验收。"
+          },
+          {
+            "xpath": "/w:settings/w:revisionView",
+            "before": null,
+            "after": {
+              "element": "w:revisionView",
+              "attributes": {
+                "w:markup": "0"
+              },
+              "text": null
+            },
+            "classification": "view_or_proofing_state",
+            "interpretation_zh": "markup=0为隐藏修订标记的显示设置，不是接受或删除修订的证据；无残余修订另依据既有31项检查。"
+          },
+          {
+            "xpath": "/w:settings/w:rsids/w:rsid[@w:val=\"00076C98\"]",
+            "before": {
+              "element": "w:rsid",
+              "attributes": {
+                "w:val": "00076C98"
+              },
+              "text": null
+            },
+            "after": null,
+            "classification": "edit_session_identifier",
+            "interpretation_zh": "编辑会话/保存来源标识；无正文或引文语义。"
+          },
+          {
+            "xpath": "/w:settings/w:rsids/w:rsid[@w:val=\"00107537\"]",
+            "before": {
+              "element": "w:rsid",
+              "attributes": {
+                "w:val": "00107537"
+              },
+              "text": null
+            },
+            "after": null,
+            "classification": "edit_session_identifier",
+            "interpretation_zh": "编辑会话/保存来源标识；无正文或引文语义。"
+          },
+          {
+            "xpath": "/w:settings/w:rsids/w:rsid[@w:val=\"001654B7\"]",
+            "before": {
+              "element": "w:rsid",
+              "attributes": {
+                "w:val": "001654B7"
+              },
+              "text": null
+            },
+            "after": null,
+            "classification": "edit_session_identifier",
+            "interpretation_zh": "编辑会话/保存来源标识；无正文或引文语义。"
+          },
+          {
+            "xpath": "/w:settings/w:rsids/w:rsid[@w:val=\"001F52D5\"]",
+            "before": {
+              "element": "w:rsid",
+              "attributes": {
+                "w:val": "001F52D5"
+              },
+              "text": null
+            },
+            "after": null,
+            "classification": "edit_session_identifier",
+            "interpretation_zh": "编辑会话/保存来源标识；无正文或引文语义。"
+          },
+          {
+            "xpath": "/w:settings/w:rsids/w:rsid[@w:val=\"003B22D5\"]",
+            "before": {
+              "element": "w:rsid",
+              "attributes": {
+                "w:val": "003B22D5"
+              },
+              "text": null
+            },
+            "after": null,
+            "classification": "edit_session_identifier",
+            "interpretation_zh": "编辑会话/保存来源标识；无正文或引文语义。"
+          },
+          {
+            "xpath": "/w:settings/w:rsids/w:rsid[@w:val=\"003C461A\"]",
+            "before": {
+              "element": "w:rsid",
+              "attributes": {
+                "w:val": "003C461A"
+              },
+              "text": null
+            },
+            "after": null,
+            "classification": "edit_session_identifier",
+            "interpretation_zh": "编辑会话/保存来源标识；无正文或引文语义。"
+          },
+          {
+            "xpath": "/w:settings/w:rsids/w:rsid[@w:val=\"006B7537\"]",
+            "before": {
+              "element": "w:rsid",
+              "attributes": {
+                "w:val": "006B7537"
+              },
+              "text": null
+            },
+            "after": null,
+            "classification": "edit_session_identifier",
+            "interpretation_zh": "编辑会话/保存来源标识；无正文或引文语义。"
+          },
+          {
+            "xpath": "/w:settings/w:rsids/w:rsid[@w:val=\"00B51BCD\"]",
+            "before": {
+              "element": "w:rsid",
+              "attributes": {
+                "w:val": "00B51BCD"
+              },
+              "text": null
+            },
+            "after": null,
+            "classification": "edit_session_identifier",
+            "interpretation_zh": "编辑会话/保存来源标识；无正文或引文语义。"
+          },
+          {
+            "xpath": "/w:settings/w:rsids/w:rsid[@w:val=\"00B76844\"]",
+            "before": {
+              "element": "w:rsid",
+              "attributes": {
+                "w:val": "00B76844"
+              },
+              "text": null
+            },
+            "after": null,
+            "classification": "edit_session_identifier",
+            "interpretation_zh": "编辑会话/保存来源标识；无正文或引文语义。"
+          },
+          {
+            "xpath": "/w:settings/w:rsids/w:rsid[@w:val=\"0029157F\"]",
+            "before": null,
+            "after": {
+              "element": "w:rsid",
+              "attributes": {
+                "w:val": "0029157F"
+              },
+              "text": null
+            },
+            "classification": "edit_session_identifier",
+            "interpretation_zh": "编辑会话/保存来源标识；无正文或引文语义。"
+          },
+          {
+            "xpath": "/w:settings/w:rsids/w:rsid[@w:val=\"00377827\"]",
+            "before": null,
+            "after": {
+              "element": "w:rsid",
+              "attributes": {
+                "w:val": "00377827"
+              },
+              "text": null
+            },
+            "classification": "edit_session_identifier",
+            "interpretation_zh": "编辑会话/保存来源标识；无正文或引文语义。"
+          },
+          {
+            "xpath": "/w:settings/w:rsids/w:rsid[@w:val=\"00697348\"]",
+            "before": null,
+            "after": {
+              "element": "w:rsid",
+              "attributes": {
+                "w:val": "00697348"
+              },
+              "text": null
+            },
+            "classification": "edit_session_identifier",
+            "interpretation_zh": "编辑会话/保存来源标识；无正文或引文语义。"
+          },
+          {
+            "xpath": "/w:settings/w:rsids/w:rsid[@w:val=\"006A7DCD\"]",
+            "before": null,
+            "after": {
+              "element": "w:rsid",
+              "attributes": {
+                "w:val": "006A7DCD"
+              },
+              "text": null
+            },
+            "classification": "edit_session_identifier",
+            "interpretation_zh": "编辑会话/保存来源标识；无正文或引文语义。"
+          },
+          {
+            "xpath": "/w:settings/w:rsids/w:rsid[@w:val=\"009906FB\"]",
+            "before": null,
+            "after": {
+              "element": "w:rsid",
+              "attributes": {
+                "w:val": "009906FB"
+              },
+              "text": null
+            },
+            "classification": "edit_session_identifier",
+            "interpretation_zh": "编辑会话/保存来源标识；无正文或引文语义。"
+          },
+          {
+            "xpath": "/w:settings/w:rsids/w:rsid[@w:val=\"00F95948\"]",
+            "before": null,
+            "after": {
+              "element": "w:rsid",
+              "attributes": {
+                "w:val": "00F95948"
+              },
+              "text": null
+            },
+            "classification": "edit_session_identifier",
+            "interpretation_zh": "编辑会话/保存来源标识；无正文或引文语义。"
+          },
+          {
+            "xpath": "/w:settings/w:rsids/w:rsid[@w:val=\"00FC51ED\"]",
+            "before": null,
+            "after": {
+              "element": "w:rsid",
+              "attributes": {
+                "w:val": "00FC51ED"
+              },
+              "text": null
+            },
+            "classification": "edit_session_identifier",
+            "interpretation_zh": "编辑会话/保存来源标识；无正文或引文语义。"
+          },
+          {
+            "xpath": "/w:settings/w:rsids/w:rsid[@w:val=\"00FD286C\"]",
+            "before": null,
+            "after": {
+              "element": "w:rsid",
+              "attributes": {
+                "w:val": "00FD286C"
+              },
+              "text": null
+            },
+            "classification": "edit_session_identifier",
+            "interpretation_zh": "编辑会话/保存来源标识；无正文或引文语义。"
+          },
+          {
+            "xpath": "/w:settings/w14:docId",
+            "before": {
+              "element": "w14:docId",
+              "attributes": {
+                "w14:val": "52B4B367"
+              },
+              "text": null
+            },
+            "after": {
+              "element": "w14:docId",
+              "attributes": {
+                "w14:val": "558120A8"
+              },
+              "text": null
+            },
+            "classification": "document_identifier",
+            "interpretation_zh": "Word内部文档标识变化；无正文、引文、书目或版式指令变化。"
+          }
+        ],
+        "unclassified_element_differences": [],
+        "remaining_xml_tree_identical_after_exact_changes_accounted_for": true,
+        "rsid_summary": {
+          "before_count": 1493,
+          "after_count": 1492,
+          "removed": [
+            "00076C98",
+            "00107537",
+            "001654B7",
+            "001F52D5",
+            "003B22D5",
+            "003C461A",
+            "006B7537",
+            "00B51BCD",
+            "00B76844"
+          ],
+          "added": [
+            "0029157F",
+            "00377827",
+            "00697348",
+            "006A7DCD",
+            "009906FB",
+            "00F95948",
+            "00FC51ED",
+            "00FD286C"
+          ]
+        }
+      }
+    ],
+    "limited_content_assessment": {
+      "these_four_parts_introduce_direct_body_citation_bibliography_content_changes": false,
+      "strictly_save_metadata_only": false,
+      "classification": "统计/保存与身份元数据、Zotero运行时会话，以及Word视图/校对显示状态；四部件无未解释的元素差异。",
+      "not_claimed": "整个DOCX字节或全文完全一致、最终页数/视觉一致、修订处理原生全过程、完整Refresh完成、最终PDF/NLM验收。",
+      "revision_view_note": "markup=0隐藏显示；无tracked元素来自绑定的既有检查，不能由此显示开关推出。"
+    },
+    "native_event_bindings": {
+      "execution_result_ref": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/RESULT.json",
+        "bytes": 1687,
+        "sha256": "d55fa7beb0366dca755778856851ab23d96e0f50ff5ea3ca31a83e3ea8570010"
+      },
+      "execution_status": "OWNED_SAVED_REOPENED_FOREIGN_PRESERVED_RELEASE_BLOCKED",
+      "execution_success": true,
+      "checkpoint_binding": {
+        "recorded": {
+          "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/OWNED_CHECKPOINT.json",
+          "bytes": 6062,
+          "sha256": "9f6afaaf5a3ce3483c631c316ee712223c3fac16e7c813cc832f6470d6ef773f"
+        },
+        "actual": {
+          "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/OWNED_CHECKPOINT.json",
+          "bytes": 6062,
+          "sha256": "9f6afaaf5a3ce3483c631c316ee712223c3fac16e7c813cc832f6470d6ef773f"
+        },
+        "matched": true
+      },
+      "final_candidate_binding": {
+        "recorded": {
+          "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/final_refreshed.docx",
+          "bytes": 549074,
+          "sha256": "f3d8870937e818f55dbe5b73f178ce031d512fb2b063b94fca907fd4e666542f"
+        },
+        "actual": {
+          "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/final_refreshed.docx",
+          "bytes": 549074,
+          "sha256": "f3d8870937e818f55dbe5b73f178ce031d512fb2b063b94fca907fd4e666542f"
+        },
+        "matched": true
+      },
+      "owned_identity_from_checkpoint": {
+        "path": "/Users/lzhs/Library/Containers/com.microsoft.Word/Data/Documents/wordrev-pdf/plan13-final-8c31b68f761342b5bc58b7cc6fd1b0f0/plan13-final-8c31b68f761342b5bc58b7cc6fd1b0f0.docx",
+        "bytes": 549074,
+        "sha256": "f3d8870937e818f55dbe5b73f178ce031d512fb2b063b94fca907fd4e666542f"
+      },
+      "owned_live_file_rehashed": false,
+      "task_id": "cmaverse-finalize-actual40-20261008-v1",
+      "ticket": "da16b334-d8d5-4c2b-807a-05ca4107f5f2",
+      "events": [
+        {
+          "native_id": "013",
+          "role": "refresh_idle_observation_1",
+          "checkpoint_reference_binding": {
+            "recorded": {
+              "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/native_013.terminal.json",
+              "bytes": 1189,
+              "sha256": "82423edb7d163b381bcc4e94f94ab025d6a4fd264c5b054af5d05017487d3cae"
+            },
+            "actual": {
+              "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/native_013.terminal.json",
+              "bytes": 1189,
+              "sha256": "82423edb7d163b381bcc4e94f94ab025d6a4fd264c5b054af5d05017487d3cae"
+            },
+            "matched": true
+          },
+          "intent_ref": {
+            "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/native_013.intent.json",
+            "bytes": 1044,
+            "sha256": "eecceaeea475c22dbf832321ea3d44d62ff1bfc1390b30f30dc1b9a4b98e61b6"
+          },
+          "terminal_ref": {
+            "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/native_013.terminal.json",
+            "bytes": 1189,
+            "sha256": "82423edb7d163b381bcc4e94f94ab025d6a4fd264c5b054af5d05017487d3cae"
+          },
+          "intent": {
+            "at": "2026-10-08T09:39:38.965909+00:00",
+            "argv": [
+              "/usr/bin/osascript",
+              "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/private_native_successor_runner_20261007_v3_preparation/fresh_runjs.applescript",
+              "16764",
+              "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/after_refresh_1.js"
+            ],
+            "label": "after_refresh_1",
+            "task_id": "cmaverse-finalize-actual40-20261008-v1",
+            "ticket": "da16b334-d8d5-4c2b-807a-05ca4107f5f2",
+            "hid_idle_seconds": 19.590692083,
+            "budget": 35
+          },
+          "terminal": {
+            "status": "PROCESS_EXITED",
+            "at": "2026-10-08T09:39:43.736322+00:00",
+            "pid": 84284,
+            "pgid": 84284,
+            "returncode": 0,
+            "stdout": "{\"nonce\":\"41ae384fc996481b9c3b2a00ea975104\",\"at\":\"2026-10-08T09:39:43.056Z\",\"pid\":16764,\"initialized\":true,\"profile\":\"/Users/lzhs/Library/Application Support/Zotero/Profiles/9dmqlyaz.default\",\"docType\":\"boolean\",\"currentDoc\":false,\"currentWindow\":false,\"windows\":[{\"uri\":\"chrome://zotero/content/zoteroPane.xhtml\",\"closed\":false},{\"uri\":\"chrome://zotero/content/runJS.html\",\"closed\":false}]}\n",
+            "stderr": "MAIN_AX_FOCUSED_OBSERVED, false\nMAIN_FOCUS_AND_TOOLS_MENU_OBSERVED\nOWNED_RUNJS_OPENED_OBSERVED\nFOCUSED_CODE_CANDIDATE, AXTextArea, missing value, \nEXACT_OWNED_CODE_FOCUS_OBSERVED\nCODE_EDITOR_BLANK_OBSERVED\nREAD_ONLY_CODE_PASTE_ONCE\nEDITOR_COPY_MATCHES_FROZEN_JS\nCLIPBOARD_ALL_ITEMS_RESTORED\nRUNJS_AXPRESS_ONCE\nOWNED_RUNJS_CLOSED_OBSERVED\n",
+            "timed_out": false,
+            "launch_error": null,
+            "process_group_empty": true,
+            "started": 1791452378.965903,
+            "finished": 1791452383.736352,
+            "task_id": "cmaverse-finalize-actual40-20261008-v1",
+            "ticket": "da16b334-d8d5-4c2b-807a-05ca4107f5f2"
+          },
+          "identity_and_success_fields_matched": true,
+          "observed": {
+            "nonce": "41ae384fc996481b9c3b2a00ea975104",
+            "at": "2026-10-08T09:39:43.056Z",
+            "pid": 16764,
+            "initialized": true,
+            "profile": "/Users/lzhs/Library/Application Support/Zotero/Profiles/9dmqlyaz.default",
+            "docType": "boolean",
+            "currentDoc": false,
+            "currentWindow": false,
+            "windows": [
+              {
+                "uri": "chrome://zotero/content/zoteroPane.xhtml",
+                "closed": false
+              },
+              {
+                "uri": "chrome://zotero/content/runJS.html",
+                "closed": false
+              }
+            ]
+          },
+          "supported_claim": "该时点Zotero运行时currentDoc=false/currentWindow=false；不单独证明此前Refresh全过程完成。"
+        },
+        {
+          "native_id": "020",
+          "role": "refresh_idle_observation_2",
+          "checkpoint_reference_binding": {
+            "recorded": {
+              "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/native_020.terminal.json",
+              "bytes": 1189,
+              "sha256": "e74d01e73f8f48ee0c98ac48c6f8b0c3b016ed9ad17e8ad0cb072b1c405ea7a3"
+            },
+            "actual": {
+              "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/native_020.terminal.json",
+              "bytes": 1189,
+              "sha256": "e74d01e73f8f48ee0c98ac48c6f8b0c3b016ed9ad17e8ad0cb072b1c405ea7a3"
+            },
+            "matched": true
+          },
+          "intent_ref": {
+            "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/native_020.intent.json",
+            "bytes": 1044,
+            "sha256": "18c5b0ced0b1152544e51c218a24ccba3847ae38f0de7cb9a5ae4718c45e449e"
+          },
+          "terminal_ref": {
+            "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/native_020.terminal.json",
+            "bytes": 1189,
+            "sha256": "e74d01e73f8f48ee0c98ac48c6f8b0c3b016ed9ad17e8ad0cb072b1c405ea7a3"
+          },
+          "intent": {
+            "at": "2026-10-08T09:39:59.891692+00:00",
+            "argv": [
+              "/usr/bin/osascript",
+              "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/private_native_successor_runner_20261007_v3_preparation/fresh_runjs.applescript",
+              "16764",
+              "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/after_refresh_2.js"
+            ],
+            "label": "after_refresh_2",
+            "task_id": "cmaverse-finalize-actual40-20261008-v1",
+            "ticket": "da16b334-d8d5-4c2b-807a-05ca4107f5f2",
+            "hid_idle_seconds": 16.907236458,
+            "budget": 35
+          },
+          "terminal": {
+            "status": "PROCESS_EXITED",
+            "at": "2026-10-08T09:40:03.928358+00:00",
+            "pid": 86797,
+            "pgid": 86797,
+            "returncode": 0,
+            "stdout": "{\"nonce\":\"e837b3a151bf4f0e9d8ddaf81b06f908\",\"at\":\"2026-10-08T09:40:03.268Z\",\"pid\":16764,\"initialized\":true,\"profile\":\"/Users/lzhs/Library/Application Support/Zotero/Profiles/9dmqlyaz.default\",\"docType\":\"boolean\",\"currentDoc\":false,\"currentWindow\":false,\"windows\":[{\"uri\":\"chrome://zotero/content/zoteroPane.xhtml\",\"closed\":false},{\"uri\":\"chrome://zotero/content/runJS.html\",\"closed\":false}]}\n",
+            "stderr": "MAIN_AX_FOCUSED_OBSERVED, false\nMAIN_FOCUS_AND_TOOLS_MENU_OBSERVED\nOWNED_RUNJS_OPENED_OBSERVED\nFOCUSED_CODE_CANDIDATE, AXTextArea, missing value, \nEXACT_OWNED_CODE_FOCUS_OBSERVED\nCODE_EDITOR_BLANK_OBSERVED\nREAD_ONLY_CODE_PASTE_ONCE\nEDITOR_COPY_MATCHES_FROZEN_JS\nCLIPBOARD_ALL_ITEMS_RESTORED\nRUNJS_AXPRESS_ONCE\nOWNED_RUNJS_CLOSED_OBSERVED\n",
+            "timed_out": false,
+            "launch_error": null,
+            "process_group_empty": true,
+            "started": 1791452399.891687,
+            "finished": 1791452403.928382,
+            "task_id": "cmaverse-finalize-actual40-20261008-v1",
+            "ticket": "da16b334-d8d5-4c2b-807a-05ca4107f5f2"
+          },
+          "identity_and_success_fields_matched": true,
+          "observed": {
+            "nonce": "e837b3a151bf4f0e9d8ddaf81b06f908",
+            "at": "2026-10-08T09:40:03.268Z",
+            "pid": 16764,
+            "initialized": true,
+            "profile": "/Users/lzhs/Library/Application Support/Zotero/Profiles/9dmqlyaz.default",
+            "docType": "boolean",
+            "currentDoc": false,
+            "currentWindow": false,
+            "windows": [
+              {
+                "uri": "chrome://zotero/content/zoteroPane.xhtml",
+                "closed": false
+              },
+              {
+                "uri": "chrome://zotero/content/runJS.html",
+                "closed": false
+              }
+            ]
+          },
+          "supported_claim": "该时点Zotero运行时currentDoc=false/currentWindow=false；不单独证明此前Refresh全过程完成。"
+        },
+        {
+          "native_id": "027",
+          "role": "native_save",
+          "checkpoint_reference_binding": {
+            "recorded": {
+              "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/native_027.terminal.json",
+              "bytes": 425,
+              "sha256": "c7271b0a06e4457476494749cdd9e5510711c310b0b54b6461721cec9585886d"
+            },
+            "actual": {
+              "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/native_027.terminal.json",
+              "bytes": 425,
+              "sha256": "c7271b0a06e4457476494749cdd9e5510711c310b0b54b6461721cec9585886d"
+            },
+            "matched": true
+          },
+          "intent_ref": {
+            "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/native_027.intent.json",
+            "bytes": 825,
+            "sha256": "f553899885bc77356ef53ba036abdab27fd196124c6c4c6f636edb8137ae4bf9"
+          },
+          "terminal_ref": {
+            "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/native_027.terminal.json",
+            "bytes": 425,
+            "sha256": "c7271b0a06e4457476494749cdd9e5510711c310b0b54b6461721cec9585886d"
+          },
+          "intent": {
+            "at": "2026-10-08T09:40:21.222794+00:00",
+            "argv": [
+              "/usr/bin/osascript",
+              "-e",
+              "with timeout of 30 seconds\ntell application \"Microsoft Word\"\nset docRef to document \"plan13-final-8c31b68f761342b5bc58b7cc6fd1b0f0.docx\"\nif (posix full name of docRef) is not \"/Users/lzhs/Library/Containers/com.microsoft.Word/Data/Documents/wordrev-pdf/plan13-final-8c31b68f761342b5bc58b7cc6fd1b0f0/plan13-final-8c31b68f761342b5bc58b7cc6fd1b0f0.docx\" then error \"OWNED_PATH_CHANGED\"\nsave docRef\nif not saved of docRef then error \"SAVE_NOT_OBSERVED\"\nclose docRef saving no\nreturn \"SAVED_CLOSED\"\nend tell\nend timeout"
+            ],
+            "label": "save_close",
+            "task_id": "cmaverse-finalize-actual40-20261008-v1",
+            "ticket": "da16b334-d8d5-4c2b-807a-05ca4107f5f2",
+            "hid_idle_seconds": 18.022361083,
+            "budget": 35
+          },
+          "terminal": {
+            "status": "PROCESS_EXITED",
+            "at": "2026-10-08T09:40:48.918295+00:00",
+            "pid": 89923,
+            "pgid": 89923,
+            "returncode": 0,
+            "stdout": "SAVED_CLOSED\n",
+            "stderr": "",
+            "timed_out": false,
+            "launch_error": null,
+            "process_group_empty": true,
+            "started": 1791452421.2227871,
+            "finished": 1791452448.9183428,
+            "task_id": "cmaverse-finalize-actual40-20261008-v1",
+            "ticket": "da16b334-d8d5-4c2b-807a-05ca4107f5f2"
+          },
+          "identity_and_success_fields_matched": true,
+          "owned_path": "/Users/lzhs/Library/Containers/com.microsoft.Word/Data/Documents/wordrev-pdf/plan13-final-8c31b68f761342b5bc58b7cc6fd1b0f0/plan13-final-8c31b68f761342b5bc58b7cc6fd1b0f0.docx",
+          "supported_claim": "有owned路径守卫及保存状态断言的保存关闭终态"
+        },
+        {
+          "native_id": "034",
+          "role": "native_reopen_save",
+          "checkpoint_reference_binding": {
+            "recorded": {
+              "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/native_034.terminal.json",
+              "bytes": 433,
+              "sha256": "de74aba04022c54d2368d3704682c2236c1fb65b69bc6fdeddce087badddc7be"
+            },
+            "actual": {
+              "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/native_034.terminal.json",
+              "bytes": 433,
+              "sha256": "de74aba04022c54d2368d3704682c2236c1fb65b69bc6fdeddce087badddc7be"
+            },
+            "matched": true
+          },
+          "intent_ref": {
+            "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/native_034.intent.json",
+            "bytes": 1122,
+            "sha256": "6a871aea397dd21c4edc654aba953581dd980ef7995191660fe7ac652bc466a2"
+          },
+          "terminal_ref": {
+            "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/native_034.terminal.json",
+            "bytes": 433,
+            "sha256": "de74aba04022c54d2368d3704682c2236c1fb65b69bc6fdeddce087badddc7be"
+          },
+          "intent": {
+            "at": "2026-10-08T09:40:59.446503+00:00",
+            "argv": [
+              "/usr/bin/osascript",
+              "-e",
+              "with timeout of 30 seconds\ntell application \"Microsoft Word\"\nopen (POSIX file \"/Users/lzhs/Library/Containers/com.microsoft.Word/Data/Documents/wordrev-pdf/plan13-final-8c31b68f761342b5bc58b7cc6fd1b0f0/plan13-final-8c31b68f761342b5bc58b7cc6fd1b0f0.docx\") add to recent files false\nset docRef to document \"plan13-final-8c31b68f761342b5bc58b7cc6fd1b0f0.docx\"\nif (posix full name of docRef) is not \"/Users/lzhs/Library/Containers/com.microsoft.Word/Data/Documents/wordrev-pdf/plan13-final-8c31b68f761342b5bc58b7cc6fd1b0f0/plan13-final-8c31b68f761342b5bc58b7cc6fd1b0f0.docx\" then error \"OWNED_PATH_CHANGED\"\nif not saved of docRef then error \"REOPEN_NOT_SAVED\"\nsave docRef\nif not saved of docRef then error \"RESAVE_NOT_OBSERVED\"\nclose docRef saving no\nreturn \"REOPENED_SAVED_CLOSED\"\nend tell\nend timeout"
+            ],
+            "label": "reopen_save_close",
+            "task_id": "cmaverse-finalize-actual40-20261008-v1",
+            "ticket": "da16b334-d8d5-4c2b-807a-05ca4107f5f2",
+            "hid_idle_seconds": 56.204244541,
+            "budget": 35
+          },
+          "terminal": {
+            "status": "PROCESS_EXITED",
+            "at": "2026-10-08T09:41:02.594639+00:00",
+            "pid": 95807,
+            "pgid": 95807,
+            "returncode": 0,
+            "stdout": "REOPENED_SAVED_CLOSED\n",
+            "stderr": "",
+            "timed_out": false,
+            "launch_error": null,
+            "process_group_empty": true,
+            "started": 1791452459.4464939,
+            "finished": 1791452462.594719,
+            "task_id": "cmaverse-finalize-actual40-20261008-v1",
+            "ticket": "da16b334-d8d5-4c2b-807a-05ca4107f5f2"
+          },
+          "identity_and_success_fields_matched": true,
+          "owned_path": "/Users/lzhs/Library/Containers/com.microsoft.Word/Data/Documents/wordrev-pdf/plan13-final-8c31b68f761342b5bc58b7cc6fd1b0f0/plan13-final-8c31b68f761342b5bc58b7cc6fd1b0f0.docx",
+          "supported_claim": "有owned路径守卫及保存状态断言的重开、再保存、关闭终态"
+        }
+      ],
+      "event_time_order_consistent": true,
+      "saved_reopened_saved_closed_evidence_bound": true,
+      "fresh_native_actions_performed_by_this_audit": false,
+      "existing_result_flags": {
+        "foreign_documents_remaining": 1,
+        "global_idle": false,
+        "global_release_authorized": false,
+        "release_performed": false,
+        "broker_release_called": false,
+        "lease_retained": true,
+        "broker_run_called": false,
+        "refresh_replayed": false,
+        "pdf_exported": false
+      }
+    },
+    "refresh_assessment": {
+      "status": "MACRO_RETURNED_NOT_COMPLETION",
+      "full_refresh_success_claim_supported": false,
+      "refresh_replayed": false,
+      "checkpoint_reference_binding": {
+        "recorded": {
+          "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/native_execution_map_20261007_v1/finalize_successor_v1/root_execution_20261008_v1/phase_finalize/execution/native_030.terminal.json",
+          "bytes": 440,
+          "sha256": "fcdbd8853d915fa1cf82b6633f1d861fbf69b11b85acacfb9ccf4bf00db7ac38"
+        },
+        "actual": {
+          "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/native_execution_map_20261007_v1/finalize_successor_v1/root_execution_20261008_v1/phase_finalize/execution/native_030.terminal.json",
+          "bytes": 440,
+          "sha256": "fcdbd8853d915fa1cf82b6633f1d861fbf69b11b85acacfb9ccf4bf00db7ac38"
+        },
+        "matched": true
+      },
+      "intent_ref": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/native_execution_map_20261007_v1/finalize_successor_v1/root_execution_20261008_v1/phase_finalize/execution/native_030.intent.json",
+        "bytes": 793,
+        "sha256": "333ff8521cd97bcf35ddc34fc49263c5cd242d6563b63eb4ad16a368a184de6a"
+      },
+      "intent": {
+        "at": "2026-10-07T17:20:09.445975+00:00",
+        "argv": [
+          "/usr/bin/osascript",
+          "-e",
+          "with timeout of 30 seconds\ntell application \"Microsoft Word\"\nset docRef to document \"plan13-final-8c31b68f761342b5bc58b7cc6fd1b0f0.docx\"\nif (posix full name of docRef) is not \"/Users/lzhs/Library/Containers/com.microsoft.Word/Data/Documents/wordrev-pdf/plan13-final-8c31b68f761342b5bc58b7cc6fd1b0f0/plan13-final-8c31b68f761342b5bc58b7cc6fd1b0f0.docx\" then error \"OWNED_PATH_CHANGED\"\nrun VB macro macro name \"ZoteroRefresh\"\nreturn \"MACRO_RETURNED_NOT_COMPLETION\"\nend tell\nend timeout"
+        ],
+        "label": "refresh_once",
+        "task_id": "cmaverse-finalize-actual40-20261008-v1",
+        "ticket": "da16b334-d8d5-4c2b-807a-05ca4107f5f2",
+        "hid_idle_seconds": 16.334724166,
+        "budget": 35
+      },
+      "terminal": {
+        "status": "PROCESS_EXITED",
+        "at": "2026-10-07T17:20:10.133119+00:00",
+        "pid": 60982,
+        "pgid": 60982,
+        "returncode": 0,
+        "stdout": "MACRO_RETURNED_NOT_COMPLETION\n",
+        "stderr": "",
+        "timed_out": false,
+        "launch_error": null,
+        "process_group_empty": true,
+        "started": 1791393609.445971,
+        "finished": 1791393610.133139,
+        "task_id": "cmaverse-finalize-actual40-20261008-v1",
+        "ticket": "da16b334-d8d5-4c2b-807a-05ca4107f5f2"
+      },
+      "scope": "仅ZoteroRefresh宏调用已返回的持久终态；后续两次idle观察、文件语义通过与保存重开不能提升为完整Refresh成功。"
+    },
+    "handoff_to_root": "ROOT须基于本JSON及既有31项结果作最终原生事件与四部件裁定；本文件不签发FIELD_DELTA_APPROVAL，不触发重放Refresh、释放资源或PDF操作。",
+    "source_stability": {
+      "all_read_inputs_sha256_unchanged_at_end": true,
+      "read_inputs": [
+        {
+          "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/native_readiness/native_citation_after_release_v5/native_saved_year_fixed.docx",
+          "bytes": 545513,
+          "sha256": "f2582b306d164858d79e3441b5d7bb4dbd4bb776a54820c9c64d4dc1ce60831b"
+        },
+        {
+          "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/final_refreshed.docx",
+          "bytes": 549074,
+          "sha256": "f3d8870937e818f55dbe5b73f178ce031d512fb2b063b94fca907fd4e666542f"
+        },
+        {
+          "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/claude_citation_order_repair_r4/implementation/final_saved_20261008_root_v1/RESULT.json",
+          "bytes": 45369,
+          "sha256": "31583a39a101d3e70d040daf7b4b8e0b842f54bf45e64b478df77f93634e7ae8"
+        },
+        {
+          "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/RESULT.json",
+          "bytes": 1687,
+          "sha256": "d55fa7beb0366dca755778856851ab23d96e0f50ff5ea3ca31a83e3ea8570010"
+        },
+        {
+          "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/OWNED_CHECKPOINT.json",
+          "bytes": 6062,
+          "sha256": "9f6afaaf5a3ce3483c631c316ee712223c3fac16e7c813cc832f6470d6ef773f"
+        },
+        {
+          "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/native_013.terminal.json",
+          "bytes": 1189,
+          "sha256": "82423edb7d163b381bcc4e94f94ab025d6a4fd264c5b054af5d05017487d3cae"
+        },
+        {
+          "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/native_013.intent.json",
+          "bytes": 1044,
+          "sha256": "eecceaeea475c22dbf832321ea3d44d62ff1bfc1390b30f30dc1b9a4b98e61b6"
+        },
+        {
+          "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/native_020.terminal.json",
+          "bytes": 1189,
+          "sha256": "e74d01e73f8f48ee0c98ac48c6f8b0c3b016ed9ad17e8ad0cb072b1c405ea7a3"
+        },
+        {
+          "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/native_020.intent.json",
+          "bytes": 1044,
+          "sha256": "18c5b0ced0b1152544e51c218a24ccba3847ae38f0de7cb9a5ae4718c45e449e"
+        },
+        {
+          "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/native_027.terminal.json",
+          "bytes": 425,
+          "sha256": "c7271b0a06e4457476494749cdd9e5510711c310b0b54b6461721cec9585886d"
+        },
+        {
+          "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/native_027.intent.json",
+          "bytes": 825,
+          "sha256": "f553899885bc77356ef53ba036abdab27fd196124c6c4c6f636edb8137ae4bf9"
+        },
+        {
+          "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/native_034.terminal.json",
+          "bytes": 433,
+          "sha256": "de74aba04022c54d2368d3704682c2236c1fb65b69bc6fdeddce087badddc7be"
+        },
+        {
+          "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/native_034.intent.json",
+          "bytes": 1122,
+          "sha256": "6a871aea397dd21c4edc654aba953581dd980ef7995191660fe7ac652bc466a2"
+        },
+        {
+          "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/native_execution_map_20261007_v1/finalize_successor_v1/root_execution_20261008_v1/phase_finalize/execution/native_030.terminal.json",
+          "bytes": 440,
+          "sha256": "fcdbd8853d915fa1cf82b6633f1d861fbf69b11b85acacfb9ccf4bf00db7ac38"
+        },
+        {
+          "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/native_execution_map_20261007_v1/finalize_successor_v1/root_execution_20261008_v1/phase_finalize/execution/native_030.intent.json",
+          "bytes": 793,
+          "sha256": "333ff8521cd97bcf35ddc34fc49263c5cd242d6563b63eb4ad16a368a184de6a"
+        }
+      ],
+      "source_docx_modified": false
+    }
+  }
+}

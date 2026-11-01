@@ -2,7 +2,7 @@
 
 磁盘40 GiB已重新达标；11月1日09:30—09:31三次复测最低42.76 GiB、最新43.72 GiB。[容量补记](CAPACITY_FOLLOWUP_20261101.json)。
 
-[系统报告与原始任务清单](TASK_REPORT_20261101.md) · [12项收尾台账](TASK_CHECKLIST_20261101.csv) · [网页原件与后继执行修订](report_sources/) · [本轮公共下载核验](REPORT_EVIDENCE_20261101.json)
+[系统报告与原始任务清单](TASK_REPORT_20261101.md) · [12项收尾台账](TASK_CHECKLIST_20261101.csv) · [网页原件与后继执行修订(16份完整版)](report_sources/) · [v6→09:41(v9)→V3h桥接审阅专页](v9_bridge/FOR_WEB_REVIEWERS_V9_TO_V3H.md) · [统计收尾与发表定位建议书](v9_bridge/STRATEGIC_CLOSEOUT_AND_PUBLICATION_GUIDE.md) · [v9→V3h桥接补充包(1.13 MB)](CMAverse_v9_to_V3h_bridge_20261101.zip) · [本轮公共下载核验](REPORT_EVIDENCE_20261101.json)
 
 本次交付已完成，研究结果仍为中介未获明确支持、少量探索性修饰线索。包内历史审阅文件中的待办按其原日期保留；当前状态以系统报告和最终验收为准。
 

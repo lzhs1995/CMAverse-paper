@@ -2,7 +2,7 @@
 
 报告日期：2026年11月1日（台北时间）。本次论文工作稿、原生文件、同版NLM终审、指定GitHub及百度交付已完成。磁盘在再次告警后于09:30—09:31完成三次复测，均超过40 GiB，最低42.757 GiB、最新43.725 GiB；之前的低空间快照按原时间保留。原先希望找到经搜索校正支持的清晰中介或最佳机制，现有证据没有达到该研究结论。计算和交付结项、假设是否获得支持分别报告。
 
-[47页最终PDF](https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/3ae3311ca95e5ad9cf06d57d70fff771d6b30bed/final/20261101-v3h/package/manuscript/CMAverse_V3h_final_accepted.pdf) · [Word接受稿](https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/3ae3311ca95e5ad9cf06d57d70fff771d6b30bed/final/20261101-v3h/package/manuscript/CMAverse_V3h_final_accepted.docx) · [修订对照稿](https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/3ae3311ca95e5ad9cf06d57d70fff771d6b30bed/final/20261101-v3h/package/manuscript/CMAverse_V3h_final_tracked.docx) · [完整交付ZIP](https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/3ae3311ca95e5ad9cf06d57d70fff771d6b30bed/final/20261101-v3h/CMAverse_V3h_final_20261101.zip)
+[47页最终PDF](https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/3ae3311ca95e5ad9cf06d57d70fff771d6b30bed/final/20261101-v3h/package/manuscript/CMAverse_V3h_final_accepted.pdf) · [Word接受稿](https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/3ae3311ca95e5ad9cf06d57d70fff771d6b30bed/final/20261101-v3h/package/manuscript/CMAverse_V3h_final_accepted.docx) · [修订对照稿](https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/3ae3311ca95e5ad9cf06d57d70fff771d6b30bed/final/20261101-v3h/package/manuscript/CMAverse_V3h_final_tracked.docx) · [完整交付ZIP](https://raw.githubusercontent.com/lzhs1995/CMAverse-paper/3ae3311ca95e5ad9cf06d57d70fff771d6b30bed/final/20261101-v3h/CMAverse_V3h_final_20261101.zip) · [v6→09:41(v9)→V3h桥接审阅专页](v9_bridge/FOR_WEB_REVIEWERS_V9_TO_V3H.md) · [统计收尾与发表定位建议书](v9_bridge/STRATEGIC_CLOSEOUT_AND_PUBLICATION_GUIDE.md) · [v9→V3h桥接补充包(1.13 MB, <25 MB)](CMAverse_v9_to_V3h_bridge_20261101.zip)
 
 **你的任务初衷**
 
@@ -12,7 +12,8 @@
 
 **实际收到的ChatGPT与Claude网页任务是什么**
 
-以下基于本机保存的网页导出原件及既有归档，不把本轮说成重新打开了网页会话。14份网页原件已按原字节附在[来源目录](report_sources/)，含完整标题、SHA和字节数的[来源清单](report_sources/SOURCE_MANIFEST.json)；另附1份本机已批准的执行修订。
+以下基于本机保存的网页导出原件及既有归档，不把本轮说成重新打开了网页会话。15份网页原件（含补齐的Claude第五轮复核与v9执行方案`20261008_第五轮复核与v9执行方案_仅2018-2022.md`）已按原字节附在[来源目录](report_sources/)，含完整标题、SHA和字节数的[来源清单](report_sources/SOURCE_MANIFEST.json)；另附1份本机已批准的执行修订（合计16份来源文件）。
+针对ChatGPT Pro第五版（`00_v6实质复核与分项裁定.md`、`01_给Astra的Mac有限接续执行单.md`）与Claude `v9`执行单点名要求的 `09:41` 保存重开DOCX原件（`f3d88709`）、工作母本（`f2582b30`）、原始回执、31项书目检查器输出（`BIB_31_RESULT.json`）、四项非正文XML差异13列裁定表（`02_XML差异裁定模板.csv`）、Refresh三层引文闭合逐域对比表（`REFRESH_THREE_LAYER_CLOSURE.json`）及47页逐页 `PDF_QA.csv`，已全部汇总于 [`v9_bridge/`](v9_bridge/FOR_WEB_REVIEWERS_V9_TO_V3H.md) 并打包为独立增量包 [`CMAverse_v9_to_V3h_bridge_20261101.zip`](CMAverse_v9_to_V3h_bridge_20261101.zip)（1.13 MB，严格 `<25 MB`）。
 
 | 来源及阶段 | 原始任务内容 | 最终如何执行 |
 |---|---|---|

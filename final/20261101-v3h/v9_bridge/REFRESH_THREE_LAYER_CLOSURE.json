@@ -1,0 +1,1232 @@
+{
+  "schema": "cma-v9-step-C-refresh-three-layer-closure-v1",
+  "generated_at_utc": "2026-11-01T07:17:26.916189+00:00",
+  "purpose": "回应 ChatGPT Pro 第五版第3步与 Claude v9 Step C1-C3：不重放 09:41 Refresh，通过操作回执 + 23/22个引文域与25条书目逐项对比 + 31项语义检查完成三层闭合。",
+  "layer_1_operation_receipt": {
+    "0941_refresh_call": "native_030 (2026-10-08T05:19:48Z) 返回 MACRO_RETURNED_NOT_COMPLETION / SCENE_CHANGED，随后 custom.xml 中 ZOTERO_PREF_1 session id 由 LSSeUiCE 更新为 Qzapb7xr，且 09:40-09:41 由 native_027/034 完成真实保存与重开保存。",
+    "v3h_c3_refresh_call": "2026-10-31 在 Zotero SQLite 将 Smith & VanderWeele (2019, LD33NKPV) 刊名修正为 Epidemiology、将 VanderWeele & Tchetgen Tchetgen (2017b, MEQZDXNW) 刊名修正为 Journal of the Royal Statistical Society Series B: Statistical Methodology 后，执行真实 Word Zotero Refresh 并完成三稿六次保存重开。",
+    "unlink_citations_used": false,
+    "all_dynamic_addin_zotero_fields_retained": true
+  },
+  "layer_2_field_by_field_comparison": {
+    "0941_vs_pre_refresh_23_fields_all_identical": true,
+    "0941_vs_pre_refresh_25_bib_entries_all_identical": true,
+    "v3h_intentional_deltas_from_0941": {
+      "citation_field_count_change": "23 -> 22（按双 Claude C1 要求，删除 word/footnotes.xml 脚注4中重复的 (Hsu et al., 2025) 独立引文域，改为文本说明，正文 21 个 + 脚注 1 个 = 22 个动态引文域）",
+      "bibliography_entry_count": "25 -> 25（全部 25 条书目完整保留，顺序不变）",
+      "c3_updated_bibliography_entries": [
+        "ADDIN ZOTERO_BIBL {\"uncited\":[],\"omitted\":[],\"custom\":[]} CSL_BIBLIOGRAPHY 王跃生, 2026. 中国家庭结构百年变迁及其特征分析[N]. 光明日报, 2026-04-01(11).",
+        "Smith L H, VanderWeele T J, 2019. Mediational E-values: Approximate sensitivity analysis for unmeasured mediator-outcome confounding[J]. Epidemiology, 30(6): 835-837.",
+        "VanderWeele T J, Tchetgen Tchetgen E J, 2017b. Mediation analysis with time varying exposures and mediators[J]. Journal of the Royal Statistical Society Series B: Statistical Methodology, 79(3): 917-938."
+      ]
+    },
+    "0941_23_field_comparison_table": [
+      {
+        "index": 1,
+        "part": "word/document.xml",
+        "citationID_before": "ydGrzFR0",
+        "citationID_after": "ydGrzFR0",
+        "uris_before": [],
+        "uris_after": [],
+        "display_before": "（2022）",
+        "display_after": "（2022）",
+        "instruction_identical": true,
+        "display_identical": true
+      },
+      {
+        "index": 2,
+        "part": "word/document.xml",
+        "citationID_before": "XadNs3oS",
+        "citationID_after": "XadNs3oS",
+        "uris_before": [],
+        "uris_after": [],
+        "display_before": "（2017）",
+        "display_after": "（2017）",
+        "instruction_identical": true,
+        "display_identical": true
+      },
+      {
+        "index": 3,
+        "part": "word/document.xml",
+        "citationID_before": "VSZB9qN9",
+        "citationID_after": "VSZB9qN9",
+        "uris_before": [],
+        "uris_after": [],
+        "display_before": "（2026）",
+        "display_after": "（2026）",
+        "instruction_identical": true,
+        "display_identical": true
+      },
+      {
+        "index": 4,
+        "part": "word/document.xml",
+        "citationID_before": "NkBFfCm7",
+        "citationID_after": "NkBFfCm7",
+        "uris_before": [],
+        "uris_after": [],
+        "display_before": "（Lundberg et al., 2021; Lundberg, 2024）",
+        "display_after": "（Lundberg et al., 2021; Lundberg, 2024）",
+        "instruction_identical": true,
+        "display_identical": true
+      },
+      {
+        "index": 5,
+        "part": "word/document.xml",
+        "citationID_before": "pQ2kWAng",
+        "citationID_after": "pQ2kWAng",
+        "uris_before": [],
+        "uris_after": [],
+        "display_before": "（Mikkonen et al., 2021; Wang et al., 2015）",
+        "display_after": "（Mikkonen et al., 2021; Wang et al., 2015）",
+        "instruction_identical": true,
+        "display_identical": true
+      },
+      {
+        "index": 6,
+        "part": "word/document.xml",
+        "citationID_before": "UaLAEGrh",
+        "citationID_after": "UaLAEGrh",
+        "uris_before": [],
+        "uris_after": [],
+        "display_before": "（VanderWeele, 2013）",
+        "display_after": "（VanderWeele, 2013）",
+        "instruction_identical": true,
+        "display_identical": true
+      },
+      {
+        "index": 7,
+        "part": "word/document.xml",
+        "citationID_before": "jIYY1c1p",
+        "citationID_after": "jIYY1c1p",
+        "uris_before": [],
+        "uris_after": [],
+        "display_before": "（Fujihara, 2024）",
+        "display_after": "（Fujihara, 2024）",
+        "instruction_identical": true,
+        "display_identical": true
+      },
+      {
+        "index": 8,
+        "part": "word/document.xml",
+        "citationID_before": "EzFYzaTF",
+        "citationID_after": "EzFYzaTF",
+        "uris_before": [],
+        "uris_after": [],
+        "display_before": "（2014）",
+        "display_after": "（2014）",
+        "instruction_identical": true,
+        "display_identical": true
+      },
+      {
+        "index": 9,
+        "part": "word/document.xml",
+        "citationID_before": "cslaBq0C",
+        "citationID_after": "cslaBq0C",
+        "uris_before": [],
+        "uris_after": [],
+        "display_before": "（VanderWeele, 2013; Ikram et al., 2015）",
+        "display_after": "（VanderWeele, 2013; Ikram et al., 2015）",
+        "instruction_identical": true,
+        "display_identical": true
+      },
+      {
+        "index": 10,
+        "part": "word/document.xml",
+        "citationID_before": "xyEe0J8W",
+        "citationID_after": "xyEe0J8W",
+        "uris_before": [],
+        "uris_after": [],
+        "display_before": "（VanderWeele, 2014）",
+        "display_after": "（VanderWeele, 2014）",
+        "instruction_identical": true,
+        "display_identical": true
+      },
+      {
+        "index": 11,
+        "part": "word/document.xml",
+        "citationID_before": "t6w7dFix",
+        "citationID_after": "t6w7dFix",
+        "uris_before": [],
+        "uris_after": [],
+        "display_before": "（2022）",
+        "display_after": "（2022）",
+        "instruction_identical": true,
+        "display_identical": true
+      },
+      {
+        "index": 12,
+        "part": "word/document.xml",
+        "citationID_before": "MT9r8E7y",
+        "citationID_after": "MT9r8E7y",
+        "uris_before": [],
+        "uris_after": [],
+        "display_before": "（2025）",
+        "display_after": "（2025）",
+        "instruction_identical": true,
+        "display_identical": true
+      },
+      {
+        "index": 13,
+        "part": "word/document.xml",
+        "citationID_before": "klmpKSpB",
+        "citationID_after": "klmpKSpB",
+        "uris_before": [],
+        "uris_after": [],
+        "display_before": "（2025）",
+        "display_after": "（2025）",
+        "instruction_identical": true,
+        "display_identical": true
+      },
+      {
+        "index": 14,
+        "part": "word/document.xml",
+        "citationID_before": "TeFeKv4b",
+        "citationID_after": "TeFeKv4b",
+        "uris_before": [],
+        "uris_after": [],
+        "display_before": "（Qin et al., 2022）",
+        "display_after": "（Qin et al., 2022）",
+        "instruction_identical": true,
+        "display_identical": true
+      },
+      {
+        "index": 15,
+        "part": "word/document.xml",
+        "citationID_before": "8lHE4Xlt",
+        "citationID_after": "8lHE4Xlt",
+        "uris_before": [],
+        "uris_after": [],
+        "display_before": "（VanderWeele, 2013, 2014; VanderWeele et al., 2017b; Rijnhart et al., 2023）",
+        "display_after": "（VanderWeele, 2013, 2014; VanderWeele et al., 2017b; Rijnhart et al., 2023）",
+        "instruction_identical": true,
+        "display_identical": true
+      },
+      {
+        "index": 16,
+        "part": "word/document.xml",
+        "citationID_before": "77tKz53v",
+        "citationID_after": "77tKz53v",
+        "uris_before": [],
+        "uris_after": [],
+        "display_before": "（VanderWeele et al., 2017b）",
+        "display_after": "（VanderWeele et al., 2017b）",
+        "instruction_identical": true,
+        "display_identical": true
+      },
+      {
+        "index": 17,
+        "part": "word/document.xml",
+        "citationID_before": "qyLrTr6v",
+        "citationID_after": "qyLrTr6v",
+        "uris_before": [],
+        "uris_after": [],
+        "display_before": "（VanderWeele et al., 2017b）",
+        "display_after": "（VanderWeele et al., 2017b）",
+        "instruction_identical": true,
+        "display_identical": true
+      },
+      {
+        "index": 18,
+        "part": "word/document.xml",
+        "citationID_before": "a2OZWlCP",
+        "citationID_after": "a2OZWlCP",
+        "uris_before": [],
+        "uris_after": [],
+        "display_before": "（Shi et al., 2021; VanderWeele, 2014）",
+        "display_after": "（Shi et al., 2021; VanderWeele, 2014）",
+        "instruction_identical": true,
+        "display_identical": true
+      },
+      {
+        "index": 19,
+        "part": "word/document.xml",
+        "citationID_before": "4Sjd1C46",
+        "citationID_after": "4Sjd1C46",
+        "uris_before": [],
+        "uris_after": [],
+        "display_before": "（Fujihara, 2024; Ding et al., 2016; VanderWeele et al., 2017a; Smith et al., 2019）",
+        "display_after": "（Fujihara, 2024; Ding et al., 2016; VanderWeele et al., 2017a; Smith et al., 2019）",
+        "instruction_identical": true,
+        "display_identical": true
+      },
+      {
+        "index": 20,
+        "part": "word/document.xml",
+        "citationID_before": "1cFBusvG",
+        "citationID_after": "1cFBusvG",
+        "uris_before": [],
+        "uris_after": [],
+        "display_before": "（2022）",
+        "display_after": "（2022）",
+        "instruction_identical": true,
+        "display_identical": true
+      },
+      {
+        "index": 21,
+        "part": "word/footnotes.xml",
+        "citationID_before": "ze6hmBJV",
+        "citationID_after": "ze6hmBJV",
+        "uris_before": [],
+        "uris_after": [],
+        "display_before": "（Al-kassab-Córdova et al., 2025; Fujihara, 2024; Mencarini et al., 2018; Vignoli et al., 2020; Mikkonen et al., 2021; Kratz et al., 2022）",
+        "display_after": "（Al-kassab-Córdova et al., 2025; Fujihara, 2024; Mencarini et al., 2018; Vignoli et al., 2020; Mikkonen et al., 2021; Kratz et al., 2022）",
+        "instruction_identical": true,
+        "display_identical": true
+      },
+      {
+        "index": 22,
+        "part": "word/footnotes.xml",
+        "citationID_before": "vWNJc6ec",
+        "citationID_after": "vWNJc6ec",
+        "uris_before": [],
+        "uris_after": [],
+        "display_before": "（Hsu et al., 2025）",
+        "display_after": "（Hsu et al., 2025）",
+        "instruction_identical": true,
+        "display_identical": true
+      },
+      {
+        "index": 23,
+        "part": "word/footnotes.xml",
+        "citationID_before": "hE2u8elZ",
+        "citationID_after": "hE2u8elZ",
+        "uris_before": [],
+        "uris_after": [],
+        "display_before": "（VanderWeele, 2014）",
+        "display_after": "（VanderWeele, 2014）",
+        "instruction_identical": true,
+        "display_identical": true
+      }
+    ]
+  },
+  "layer_3_snapshots": {
+    "v6_native_accepted_0a70a9b7": {
+      "file": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/web_feedback_20261008_v6/payload/native/revisions/accepted.docx",
+        "name": "accepted.docx",
+        "bytes": 548135,
+        "sha256": "0a70a9b791d6cbd8294a9e417270eeb897e9bed0e6a44e41f617917122d0eab9"
+      },
+      "zotero_pref": "><pref name=\"fieldType\" value=\"Field\"/></prefs></data>",
+      "citation_field_count": 23,
+      "bibliography_field_count": 1,
+      "bibliography_entry_count": 25,
+      "bibliography_entries": [
+        "ADDIN ZOTERO_BIBL {\"uncited\":[],\"omitted\":[],\"custom\":[]} CSL_BIBLIOGRAPHY 王跃生, 2026. 中国家庭结构百年变迁及其特征分析[N]. 光明日报, 2026-04-01(11).",
+        "许琪, 2022. 挣钱还是做家务——丈夫的经济贡献和家务贡献对妻子婚姻满意度的影响[J]. 社会学评论, 10(3): 43-63.",
+        "郑丹丹, 狄金华, 2017. 女性家庭权力、夫妻关系与家庭代际资源分配[J]. 社会学研究, 32(1): 171-192+245.",
+        "Al-kassab-Córdova A, Mezones-Holguin E, Kaufman J S, 2025. Diminished returns of maternal education on children’s vaccination status for indigenous women in Peru[J]. Social Science & Medicine, 370: 117862.",
+        "Ding P, VanderWeele T J, 2016. Sensitivity analysis without assumptions[J]. Epidemiology, 27(3): 368-377.",
+        "Fujihara S, 2024. Identifying the role of high school in educational inequality: A causal mediation approach[J]. Social Science Research, 124: 103077.",
+        "Hsu Y T, Grodstein F, Liu T H, et al., 2025. Causal mediation of the association between educational attainment and late-life cognitive function by trajectories of social participation[J]. Social Science & Medicine, 370: 117861.",
+        "Ikram M A, VanderWeele T J, 2015. A proposed clinical and biological interpretation of mediated interaction[J]. European Journal of Epidemiology, 30(10): 1115-1118.",
+        "Kratz F, Pettinger B, Grätz M, 2022. At which age is education the great equalizer? A causal mediation analysis of the (in-)direct effects of social origin over the life course[J]. European Sociological Review, 38(6): 866-881.",
+        "Lundberg I, 2024. The gap-closing estimand: A causal approach to study interventions that close disparities across social categories[J]. Sociological Methods & Research, 53(2): 507-570.",
+        "Lundberg I, Johnson R, Stewart B M, 2021. What is your estimand? Defining the target quantity connects statistical evidence to theory[J]. American Sociological Review, 86(3): 532-565.",
+        "Madia J E, Gruijters R J, Raabe I J, et al., 2025. Growth mindset and socioeconomic inequality in academic achievement across seventy-three PISA countries[J]. npj Science of Learning, 10(1): 81.",
+        "Mencarini L, Vignoli D, 2018. Employed women and marital union stability: It helps when men help[J]. Journal of Family Issues, 39(5): 1348-1373.",
+        "Mikkonen J, Remes H, Moustgaard H, et al., 2021. Early adolescent health problems, school performance, and upper secondary educational pathways: A counterfactual-based mediation analysis[J]. Social Forces, 99(3): 1146-1175.",
+        "Qin X, Yang F, 2022. Simulation-based sensitivity analysis for causal mediation studies[J]. Psychological Methods, 27(6): 1000-1013.",
+        "Rijnhart J J M, Valente M J, Smyth H L, et al., 2023. Statistical mediation analysis for models with a binary mediator and a binary outcome: The differences between causal and traditional mediation analysis[J]. Prevention Science, 24(3): 408-418.",
+        "Shi B, Choirat C, Coull B A, et al., 2021. CMAverse: A suite of functions for reproducible causal mediation analyses[J]. Epidemiology, 32(5): e20-e22.",
+        "Smith L H, VanderWeele T J, 2019. Mediational E-values: Approximate sensitivity analysis for unmeasured mediator-outcome confounding[J]. Epidemiology (Cambridge, Mass.), 30(6): 835-837.",
+        "VanderWeele T J, 2013. A three-way decomposition of a total effect into direct, indirect, and interactive effects[J]. Epidemiology, 24(2): 224-232.",
+        "VanderWeele T J, 2014. A unification of mediation and interaction: A 4-way decomposition[J]. Epidemiology, 25(5): 749-761.",
+        "VanderWeele T J, Ding P, 2017a. Sensitivity analysis in observational research: Introducing the E-value[J]. Annals of Internal Medicine, 167(4): 268-274.",
+        "VanderWeele T J, Tchetgen Tchetgen E J, 2017b. Mediation analysis with time varying exposures and mediators[J]. Journal of the Royal Statistical Society. Series B, Statistical methodology, 79(3): 917-938.",
+        "Vignoli D, Mencarini L, Alderotti G, 2020. Is the effect of job uncertainty on fertility intentions channeled by subjective well-being?[J]. Advances in Life Course Research, 46: 100343.",
+        "Wang A, Arah O A, 2015. G-computation demonstration in causal mediation analysis[J]. European Journal of Epidemiology, 30(10): 1119-1127.",
+        "Yazawa A, Shiba K, Inoue Y, et al., 2022. Early childhood adversity and late-life depressive symptoms: Unpacking mediation and interaction by adult socioeconomic status[J]. Social Psychiatry and Psychiatric Epidemiology, 57(6): 1147-1156."
+      ],
+      "citation_fields": [
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 10,
+          "citationID": "ydGrzFR0",
+          "uris": [],
+          "display_text": "（2022）",
+          "instruction_sha256": "5cf63e699a7a452c0faf5fdfbbe8a1479cfda64bb423093a14a1c65b1c16b19c"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 10,
+          "citationID": "XadNs3oS",
+          "uris": [],
+          "display_text": "（2017）",
+          "instruction_sha256": "907d9fbd945f17cd9320b25602e4a34edeff1bb29789cd83b6654ad04154191f"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 71,
+          "citationID": "VSZB9qN9",
+          "uris": [],
+          "display_text": "（2026）",
+          "instruction_sha256": "084c8cffe84390c0fb0cb66f30e2e19ba2fe5d670d96b245e35b29125c9108eb"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 88,
+          "citationID": "NkBFfCm7",
+          "uris": [],
+          "display_text": "（Lundberg et al., 2021; Lundberg, 2024）",
+          "instruction_sha256": "7896ff12c0acd8f44b572065de5339a6264fa98519f07242e598b544bf3c8f39"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 90,
+          "citationID": "pQ2kWAng",
+          "uris": [],
+          "display_text": "（Mikkonen et al., 2021; Wang et al., 2015）",
+          "instruction_sha256": "456f70e979c92a952ccbaa5f58116e4f708e23ae7545c1a3ad2564047c7fa62f"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 133,
+          "citationID": "UaLAEGrh",
+          "uris": [],
+          "display_text": "（VanderWeele, 2013）",
+          "instruction_sha256": "835aa0dc268138729bb73c9bd86a8f61493a30320bfdcb7b60aa824857ba4cbc"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 133,
+          "citationID": "jIYY1c1p",
+          "uris": [],
+          "display_text": "（Fujihara, 2024）",
+          "instruction_sha256": "b57653f21e7a63eae034e6d46ee836d995827c505c9b1b2f32a55a2cc5a3c38e"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 134,
+          "citationID": "EzFYzaTF",
+          "uris": [],
+          "display_text": "（2014）",
+          "instruction_sha256": "0cb87f5a71535bcf74b84bbf11d7f0b7f741f65db5fd7213c53a78abbdcca5da"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 135,
+          "citationID": "cslaBq0C",
+          "uris": [],
+          "display_text": "（VanderWeele, 2013; Ikram et al., 2015）",
+          "instruction_sha256": "dab59b5c902808f85dd4437b435c57a2b71edc89081f6193dce28bb59c5aad9e"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 136,
+          "citationID": "xyEe0J8W",
+          "uris": [],
+          "display_text": "（VanderWeele, 2014）",
+          "instruction_sha256": "43c89a27279c04a5c6e0fe7c50d06afecdacce40a5d923a2efa1db48ebeccf6f"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 182,
+          "citationID": "t6w7dFix",
+          "uris": [],
+          "display_text": "（2022）",
+          "instruction_sha256": "ae3351a0fce311838e5140eebe0de636472ef2c7f7c048a83a2ec6e12934986c"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 182,
+          "citationID": "MT9r8E7y",
+          "uris": [],
+          "display_text": "（2025）",
+          "instruction_sha256": "34fcd39c47b51254af4f05b492ad6fd2ab5687063559f47cda5f05aca548d2b7"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 182,
+          "citationID": "klmpKSpB",
+          "uris": [],
+          "display_text": "（2025）",
+          "instruction_sha256": "726c00c40bc3a4d4ae6189f2d484a19cddd7abbe831ac0135ff7f2ba58992de2"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 185,
+          "citationID": "TeFeKv4b",
+          "uris": [],
+          "display_text": "（Qin et al., 2022）",
+          "instruction_sha256": "a005ea34e3e1bba8dfa3beff161515f30ccbcb24a2094f890228b8ba2a4a5d1a"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 185,
+          "citationID": "8lHE4Xlt",
+          "uris": [],
+          "display_text": "（VanderWeele, 2013, 2014; VanderWeele et al., 2017b; Rijnhart et al., 2023）",
+          "instruction_sha256": "9bf16c0962c28a2d3b17c2716499737419c85e4db959adf5719eb9a9258d2e22"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 186,
+          "citationID": "77tKz53v",
+          "uris": [],
+          "display_text": "（VanderWeele et al., 2017b）",
+          "instruction_sha256": "055ad7207d187f2b60794685eb6179f5662fca26fdc20d1111d34937191d4987"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 198,
+          "citationID": "qyLrTr6v",
+          "uris": [],
+          "display_text": "（VanderWeele et al., 2017b）",
+          "instruction_sha256": "60994289dd88b5fb64075f70503709bf960d500450906f3ea9433f1ed17c3c60"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 198,
+          "citationID": "a2OZWlCP",
+          "uris": [],
+          "display_text": "（Shi et al., 2021; VanderWeele, 2014）",
+          "instruction_sha256": "c5641fb61b428e3ebf647feaa03bb09b9f73b3881151ba61432a12ede40413ab"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 199,
+          "citationID": "4Sjd1C46",
+          "uris": [],
+          "display_text": "（Fujihara, 2024; Ding et al., 2016; VanderWeele et al., 2017a; Smith et al., 2019）",
+          "instruction_sha256": "6aada6e7a3e6346bae6a6d2c02171a03e58c02ec2dd90aa61bdc5817918bd07d"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 954,
+          "citationID": "1cFBusvG",
+          "uris": [],
+          "display_text": "（2022）",
+          "instruction_sha256": "ec185a20416ba77c185ef67853dece61f93356cc9ab08bcaab0421968ce7f804"
+        },
+        {
+          "part": "word/footnotes.xml",
+          "paragraph_index": 8,
+          "citationID": "ze6hmBJV",
+          "uris": [],
+          "display_text": "（Al-kassab-Córdova et al., 2025; Fujihara, 2024; Mencarini et al., 2018; Vignoli et al., 2020; Mikkonen et al., 2021; Kratz et al., 2022）",
+          "instruction_sha256": "0204d9c45a4f13e9eebdd81d0d0cb7580896f8b5c0057430db6b092d9d87696d"
+        },
+        {
+          "part": "word/footnotes.xml",
+          "paragraph_index": 9,
+          "citationID": "vWNJc6ec",
+          "uris": [],
+          "display_text": "（Hsu et al., 2025）",
+          "instruction_sha256": "b113302284d2ddb5af604ca7ac4cfdfc84ced308662863964125ff7345328ac2"
+        },
+        {
+          "part": "word/footnotes.xml",
+          "paragraph_index": 10,
+          "citationID": "hE2u8elZ",
+          "uris": [],
+          "display_text": "（VanderWeele, 2014）",
+          "instruction_sha256": "7fa652a97ff900d8f4669078e159b9d937553e37677560973f18ee2df70aabed"
+        }
+      ],
+      "bibliography_fields": [
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 3329,
+          "instruction": "ADDIN ZOTERO_BIBL {\"uncited\":[],\"omitted\":[],\"custom\":[]} CSL_BIBLIOGRAPHY",
+          "display_text_length": 4093,
+          "display_sha256": "5dca42b80ab562b14886a3bc9ab60484f1640d4ab7700aef3e07d54bfa51be77"
+        }
+      ]
+    },
+    "pre_0941_native_saved_year_fixed_f2582b30": {
+      "file": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/native_readiness/native_citation_after_release_v5/native_saved_year_fixed.docx",
+        "name": "native_saved_year_fixed.docx",
+        "bytes": 545513,
+        "sha256": "f2582b306d164858d79e3441b5d7bb4dbd4bb776a54820c9c64d4dc1ce60831b"
+      },
+      "zotero_pref": "><pref name=\"fieldType\" value=\"Field\"/></prefs></data>",
+      "citation_field_count": 23,
+      "bibliography_field_count": 1,
+      "bibliography_entry_count": 25,
+      "bibliography_entries": [
+        "ADDIN ZOTERO_BIBL {\"uncited\":[],\"omitted\":[],\"custom\":[]} CSL_BIBLIOGRAPHY 王跃生, 2026. 中国家庭结构百年变迁及其特征分析[N]. 光明日报, 2026-04-01(11).",
+        "许琪, 2022. 挣钱还是做家务——丈夫的经济贡献和家务贡献对妻子婚姻满意度的影响[J]. 社会学评论, 10(3): 43-63.",
+        "郑丹丹, 狄金华, 2017. 女性家庭权力、夫妻关系与家庭代际资源分配[J]. 社会学研究, 32(1): 171-192+245.",
+        "Al-kassab-Córdova A, Mezones-Holguin E, Kaufman J S, 2025. Diminished returns of maternal education on children’s vaccination status for indigenous women in Peru[J]. Social Science & Medicine, 370: 117862.",
+        "Ding P, VanderWeele T J, 2016. Sensitivity analysis without assumptions[J]. Epidemiology, 27(3): 368-377.",
+        "Fujihara S, 2024. Identifying the role of high school in educational inequality: A causal mediation approach[J]. Social Science Research, 124: 103077.",
+        "Hsu Y T, Grodstein F, Liu T H, et al., 2025. Causal mediation of the association between educational attainment and late-life cognitive function by trajectories of social participation[J]. Social Science & Medicine, 370: 117861.",
+        "Ikram M A, VanderWeele T J, 2015. A proposed clinical and biological interpretation of mediated interaction[J]. European Journal of Epidemiology, 30(10): 1115-1118.",
+        "Kratz F, Pettinger B, Grätz M, 2022. At which age is education the great equalizer? A causal mediation analysis of the (in-)direct effects of social origin over the life course[J]. European Sociological Review, 38(6): 866-881.",
+        "Lundberg I, 2024. The gap-closing estimand: A causal approach to study interventions that close disparities across social categories[J]. Sociological Methods & Research, 53(2): 507-570.",
+        "Lundberg I, Johnson R, Stewart B M, 2021. What is your estimand? Defining the target quantity connects statistical evidence to theory[J]. American Sociological Review, 86(3): 532-565.",
+        "Madia J E, Gruijters R J, Raabe I J, et al., 2025. Growth mindset and socioeconomic inequality in academic achievement across seventy-three PISA countries[J]. npj Science of Learning, 10(1): 81.",
+        "Mencarini L, Vignoli D, 2018. Employed women and marital union stability: It helps when men help[J]. Journal of Family Issues, 39(5): 1348-1373.",
+        "Mikkonen J, Remes H, Moustgaard H, et al., 2021. Early adolescent health problems, school performance, and upper secondary educational pathways: A counterfactual-based mediation analysis[J]. Social Forces, 99(3): 1146-1175.",
+        "Qin X, Yang F, 2022. Simulation-based sensitivity analysis for causal mediation studies[J]. Psychological Methods, 27(6): 1000-1013.",
+        "Rijnhart J J M, Valente M J, Smyth H L, et al., 2023. Statistical mediation analysis for models with a binary mediator and a binary outcome: The differences between causal and traditional mediation analysis[J]. Prevention Science, 24(3): 408-418.",
+        "Shi B, Choirat C, Coull B A, et al., 2021. CMAverse: A suite of functions for reproducible causal mediation analyses[J]. Epidemiology, 32(5): e20-e22.",
+        "Smith L H, VanderWeele T J, 2019. Mediational E-values: Approximate sensitivity analysis for unmeasured mediator-outcome confounding[J]. Epidemiology (Cambridge, Mass.), 30(6): 835-837.",
+        "VanderWeele T J, 2013. A three-way decomposition of a total effect into direct, indirect, and interactive effects[J]. Epidemiology, 24(2): 224-232.",
+        "VanderWeele T J, 2014. A unification of mediation and interaction: A 4-way decomposition[J]. Epidemiology, 25(5): 749-761.",
+        "VanderWeele T J, Ding P, 2017a. Sensitivity analysis in observational research: Introducing the E-value[J]. Annals of Internal Medicine, 167(4): 268-274.",
+        "VanderWeele T J, Tchetgen Tchetgen E J, 2017b. Mediation analysis with time varying exposures and mediators[J]. Journal of the Royal Statistical Society. Series B, Statistical methodology, 79(3): 917-938.",
+        "Vignoli D, Mencarini L, Alderotti G, 2020. Is the effect of job uncertainty on fertility intentions channeled by subjective well-being?[J]. Advances in Life Course Research, 46: 100343.",
+        "Wang A, Arah O A, 2015. G-computation demonstration in causal mediation analysis[J]. European Journal of Epidemiology, 30(10): 1119-1127.",
+        "Yazawa A, Shiba K, Inoue Y, et al., 2022. Early childhood adversity and late-life depressive symptoms: Unpacking mediation and interaction by adult socioeconomic status[J]. Social Psychiatry and Psychiatric Epidemiology, 57(6): 1147-1156."
+      ],
+      "citation_fields": [
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 10,
+          "citationID": "ydGrzFR0",
+          "uris": [],
+          "display_text": "（2022）",
+          "instruction_sha256": "5cf63e699a7a452c0faf5fdfbbe8a1479cfda64bb423093a14a1c65b1c16b19c"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 10,
+          "citationID": "XadNs3oS",
+          "uris": [],
+          "display_text": "（2017）",
+          "instruction_sha256": "907d9fbd945f17cd9320b25602e4a34edeff1bb29789cd83b6654ad04154191f"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 71,
+          "citationID": "VSZB9qN9",
+          "uris": [],
+          "display_text": "（2026）",
+          "instruction_sha256": "084c8cffe84390c0fb0cb66f30e2e19ba2fe5d670d96b245e35b29125c9108eb"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 88,
+          "citationID": "NkBFfCm7",
+          "uris": [],
+          "display_text": "（Lundberg et al., 2021; Lundberg, 2024）",
+          "instruction_sha256": "7896ff12c0acd8f44b572065de5339a6264fa98519f07242e598b544bf3c8f39"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 90,
+          "citationID": "pQ2kWAng",
+          "uris": [],
+          "display_text": "（Mikkonen et al., 2021; Wang et al., 2015）",
+          "instruction_sha256": "456f70e979c92a952ccbaa5f58116e4f708e23ae7545c1a3ad2564047c7fa62f"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 133,
+          "citationID": "UaLAEGrh",
+          "uris": [],
+          "display_text": "（VanderWeele, 2013）",
+          "instruction_sha256": "835aa0dc268138729bb73c9bd86a8f61493a30320bfdcb7b60aa824857ba4cbc"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 133,
+          "citationID": "jIYY1c1p",
+          "uris": [],
+          "display_text": "（Fujihara, 2024）",
+          "instruction_sha256": "b57653f21e7a63eae034e6d46ee836d995827c505c9b1b2f32a55a2cc5a3c38e"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 134,
+          "citationID": "EzFYzaTF",
+          "uris": [],
+          "display_text": "（2014）",
+          "instruction_sha256": "0cb87f5a71535bcf74b84bbf11d7f0b7f741f65db5fd7213c53a78abbdcca5da"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 135,
+          "citationID": "cslaBq0C",
+          "uris": [],
+          "display_text": "（VanderWeele, 2013; Ikram et al., 2015）",
+          "instruction_sha256": "dab59b5c902808f85dd4437b435c57a2b71edc89081f6193dce28bb59c5aad9e"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 136,
+          "citationID": "xyEe0J8W",
+          "uris": [],
+          "display_text": "（VanderWeele, 2014）",
+          "instruction_sha256": "43c89a27279c04a5c6e0fe7c50d06afecdacce40a5d923a2efa1db48ebeccf6f"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 182,
+          "citationID": "t6w7dFix",
+          "uris": [],
+          "display_text": "（2022）",
+          "instruction_sha256": "ae3351a0fce311838e5140eebe0de636472ef2c7f7c048a83a2ec6e12934986c"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 182,
+          "citationID": "MT9r8E7y",
+          "uris": [],
+          "display_text": "（2025）",
+          "instruction_sha256": "34fcd39c47b51254af4f05b492ad6fd2ab5687063559f47cda5f05aca548d2b7"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 182,
+          "citationID": "klmpKSpB",
+          "uris": [],
+          "display_text": "（2025）",
+          "instruction_sha256": "726c00c40bc3a4d4ae6189f2d484a19cddd7abbe831ac0135ff7f2ba58992de2"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 185,
+          "citationID": "TeFeKv4b",
+          "uris": [],
+          "display_text": "（Qin et al., 2022）",
+          "instruction_sha256": "a005ea34e3e1bba8dfa3beff161515f30ccbcb24a2094f890228b8ba2a4a5d1a"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 185,
+          "citationID": "8lHE4Xlt",
+          "uris": [],
+          "display_text": "（VanderWeele, 2013, 2014; VanderWeele et al., 2017b; Rijnhart et al., 2023）",
+          "instruction_sha256": "9bf16c0962c28a2d3b17c2716499737419c85e4db959adf5719eb9a9258d2e22"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 186,
+          "citationID": "77tKz53v",
+          "uris": [],
+          "display_text": "（VanderWeele et al., 2017b）",
+          "instruction_sha256": "055ad7207d187f2b60794685eb6179f5662fca26fdc20d1111d34937191d4987"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 198,
+          "citationID": "qyLrTr6v",
+          "uris": [],
+          "display_text": "（VanderWeele et al., 2017b）",
+          "instruction_sha256": "60994289dd88b5fb64075f70503709bf960d500450906f3ea9433f1ed17c3c60"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 198,
+          "citationID": "a2OZWlCP",
+          "uris": [],
+          "display_text": "（Shi et al., 2021; VanderWeele, 2014）",
+          "instruction_sha256": "c5641fb61b428e3ebf647feaa03bb09b9f73b3881151ba61432a12ede40413ab"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 199,
+          "citationID": "4Sjd1C46",
+          "uris": [],
+          "display_text": "（Fujihara, 2024; Ding et al., 2016; VanderWeele et al., 2017a; Smith et al., 2019）",
+          "instruction_sha256": "6aada6e7a3e6346bae6a6d2c02171a03e58c02ec2dd90aa61bdc5817918bd07d"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 954,
+          "citationID": "1cFBusvG",
+          "uris": [],
+          "display_text": "（2022）",
+          "instruction_sha256": "ec185a20416ba77c185ef67853dece61f93356cc9ab08bcaab0421968ce7f804"
+        },
+        {
+          "part": "word/footnotes.xml",
+          "paragraph_index": 8,
+          "citationID": "ze6hmBJV",
+          "uris": [],
+          "display_text": "（Al-kassab-Córdova et al., 2025; Fujihara, 2024; Mencarini et al., 2018; Vignoli et al., 2020; Mikkonen et al., 2021; Kratz et al., 2022）",
+          "instruction_sha256": "0204d9c45a4f13e9eebdd81d0d0cb7580896f8b5c0057430db6b092d9d87696d"
+        },
+        {
+          "part": "word/footnotes.xml",
+          "paragraph_index": 9,
+          "citationID": "vWNJc6ec",
+          "uris": [],
+          "display_text": "（Hsu et al., 2025）",
+          "instruction_sha256": "b113302284d2ddb5af604ca7ac4cfdfc84ced308662863964125ff7345328ac2"
+        },
+        {
+          "part": "word/footnotes.xml",
+          "paragraph_index": 10,
+          "citationID": "hE2u8elZ",
+          "uris": [],
+          "display_text": "（VanderWeele, 2014）",
+          "instruction_sha256": "7fa652a97ff900d8f4669078e159b9d937553e37677560973f18ee2df70aabed"
+        }
+      ],
+      "bibliography_fields": [
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 3327,
+          "instruction": "ADDIN ZOTERO_BIBL {\"uncited\":[],\"omitted\":[],\"custom\":[]} CSL_BIBLIOGRAPHY",
+          "display_text_length": 4093,
+          "display_sha256": "5dca42b80ab562b14886a3bc9ab60484f1640d4ab7700aef3e07d54bfa51be77"
+        }
+      ]
+    },
+    "post_0941_final_refreshed_f3d88709": {
+      "file": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/paper_closeout_after_numerical_v1/final_closeout_execution_20261007_v2/minimal_final_execution_20261007_v3/root_owned_save_successor_20261008_v1/work/owned_20261008_foreign_metadata_v6/execution/final_refreshed.docx",
+        "name": "final_refreshed.docx",
+        "bytes": 549074,
+        "sha256": "f3d8870937e818f55dbe5b73f178ce031d512fb2b063b94fca907fd4e666542f"
+      },
+      "zotero_pref": "><pref name=\"fieldType\" value=\"Field\"/></prefs></data>",
+      "citation_field_count": 23,
+      "bibliography_field_count": 1,
+      "bibliography_entry_count": 25,
+      "bibliography_entries": [
+        "ADDIN ZOTERO_BIBL {\"uncited\":[],\"omitted\":[],\"custom\":[]} CSL_BIBLIOGRAPHY 王跃生, 2026. 中国家庭结构百年变迁及其特征分析[N]. 光明日报, 2026-04-01(11).",
+        "许琪, 2022. 挣钱还是做家务——丈夫的经济贡献和家务贡献对妻子婚姻满意度的影响[J]. 社会学评论, 10(3): 43-63.",
+        "郑丹丹, 狄金华, 2017. 女性家庭权力、夫妻关系与家庭代际资源分配[J]. 社会学研究, 32(1): 171-192+245.",
+        "Al-kassab-Córdova A, Mezones-Holguin E, Kaufman J S, 2025. Diminished returns of maternal education on children’s vaccination status for indigenous women in Peru[J]. Social Science & Medicine, 370: 117862.",
+        "Ding P, VanderWeele T J, 2016. Sensitivity analysis without assumptions[J]. Epidemiology, 27(3): 368-377.",
+        "Fujihara S, 2024. Identifying the role of high school in educational inequality: A causal mediation approach[J]. Social Science Research, 124: 103077.",
+        "Hsu Y T, Grodstein F, Liu T H, et al., 2025. Causal mediation of the association between educational attainment and late-life cognitive function by trajectories of social participation[J]. Social Science & Medicine, 370: 117861.",
+        "Ikram M A, VanderWeele T J, 2015. A proposed clinical and biological interpretation of mediated interaction[J]. European Journal of Epidemiology, 30(10): 1115-1118.",
+        "Kratz F, Pettinger B, Grätz M, 2022. At which age is education the great equalizer? A causal mediation analysis of the (in-)direct effects of social origin over the life course[J]. European Sociological Review, 38(6): 866-881.",
+        "Lundberg I, 2024. The gap-closing estimand: A causal approach to study interventions that close disparities across social categories[J]. Sociological Methods & Research, 53(2): 507-570.",
+        "Lundberg I, Johnson R, Stewart B M, 2021. What is your estimand? Defining the target quantity connects statistical evidence to theory[J]. American Sociological Review, 86(3): 532-565.",
+        "Madia J E, Gruijters R J, Raabe I J, et al., 2025. Growth mindset and socioeconomic inequality in academic achievement across seventy-three PISA countries[J]. npj Science of Learning, 10(1): 81.",
+        "Mencarini L, Vignoli D, 2018. Employed women and marital union stability: It helps when men help[J]. Journal of Family Issues, 39(5): 1348-1373.",
+        "Mikkonen J, Remes H, Moustgaard H, et al., 2021. Early adolescent health problems, school performance, and upper secondary educational pathways: A counterfactual-based mediation analysis[J]. Social Forces, 99(3): 1146-1175.",
+        "Qin X, Yang F, 2022. Simulation-based sensitivity analysis for causal mediation studies[J]. Psychological Methods, 27(6): 1000-1013.",
+        "Rijnhart J J M, Valente M J, Smyth H L, et al., 2023. Statistical mediation analysis for models with a binary mediator and a binary outcome: The differences between causal and traditional mediation analysis[J]. Prevention Science, 24(3): 408-418.",
+        "Shi B, Choirat C, Coull B A, et al., 2021. CMAverse: A suite of functions for reproducible causal mediation analyses[J]. Epidemiology, 32(5): e20-e22.",
+        "Smith L H, VanderWeele T J, 2019. Mediational E-values: Approximate sensitivity analysis for unmeasured mediator-outcome confounding[J]. Epidemiology (Cambridge, Mass.), 30(6): 835-837.",
+        "VanderWeele T J, 2013. A three-way decomposition of a total effect into direct, indirect, and interactive effects[J]. Epidemiology, 24(2): 224-232.",
+        "VanderWeele T J, 2014. A unification of mediation and interaction: A 4-way decomposition[J]. Epidemiology, 25(5): 749-761.",
+        "VanderWeele T J, Ding P, 2017a. Sensitivity analysis in observational research: Introducing the E-value[J]. Annals of Internal Medicine, 167(4): 268-274.",
+        "VanderWeele T J, Tchetgen Tchetgen E J, 2017b. Mediation analysis with time varying exposures and mediators[J]. Journal of the Royal Statistical Society. Series B, Statistical methodology, 79(3): 917-938.",
+        "Vignoli D, Mencarini L, Alderotti G, 2020. Is the effect of job uncertainty on fertility intentions channeled by subjective well-being?[J]. Advances in Life Course Research, 46: 100343.",
+        "Wang A, Arah O A, 2015. G-computation demonstration in causal mediation analysis[J]. European Journal of Epidemiology, 30(10): 1119-1127.",
+        "Yazawa A, Shiba K, Inoue Y, et al., 2022. Early childhood adversity and late-life depressive symptoms: Unpacking mediation and interaction by adult socioeconomic status[J]. Social Psychiatry and Psychiatric Epidemiology, 57(6): 1147-1156."
+      ],
+      "citation_fields": [
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 10,
+          "citationID": "ydGrzFR0",
+          "uris": [],
+          "display_text": "（2022）",
+          "instruction_sha256": "5cf63e699a7a452c0faf5fdfbbe8a1479cfda64bb423093a14a1c65b1c16b19c"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 10,
+          "citationID": "XadNs3oS",
+          "uris": [],
+          "display_text": "（2017）",
+          "instruction_sha256": "907d9fbd945f17cd9320b25602e4a34edeff1bb29789cd83b6654ad04154191f"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 71,
+          "citationID": "VSZB9qN9",
+          "uris": [],
+          "display_text": "（2026）",
+          "instruction_sha256": "084c8cffe84390c0fb0cb66f30e2e19ba2fe5d670d96b245e35b29125c9108eb"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 88,
+          "citationID": "NkBFfCm7",
+          "uris": [],
+          "display_text": "（Lundberg et al., 2021; Lundberg, 2024）",
+          "instruction_sha256": "7896ff12c0acd8f44b572065de5339a6264fa98519f07242e598b544bf3c8f39"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 90,
+          "citationID": "pQ2kWAng",
+          "uris": [],
+          "display_text": "（Mikkonen et al., 2021; Wang et al., 2015）",
+          "instruction_sha256": "456f70e979c92a952ccbaa5f58116e4f708e23ae7545c1a3ad2564047c7fa62f"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 133,
+          "citationID": "UaLAEGrh",
+          "uris": [],
+          "display_text": "（VanderWeele, 2013）",
+          "instruction_sha256": "835aa0dc268138729bb73c9bd86a8f61493a30320bfdcb7b60aa824857ba4cbc"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 133,
+          "citationID": "jIYY1c1p",
+          "uris": [],
+          "display_text": "（Fujihara, 2024）",
+          "instruction_sha256": "b57653f21e7a63eae034e6d46ee836d995827c505c9b1b2f32a55a2cc5a3c38e"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 134,
+          "citationID": "EzFYzaTF",
+          "uris": [],
+          "display_text": "（2014）",
+          "instruction_sha256": "0cb87f5a71535bcf74b84bbf11d7f0b7f741f65db5fd7213c53a78abbdcca5da"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 135,
+          "citationID": "cslaBq0C",
+          "uris": [],
+          "display_text": "（VanderWeele, 2013; Ikram et al., 2015）",
+          "instruction_sha256": "dab59b5c902808f85dd4437b435c57a2b71edc89081f6193dce28bb59c5aad9e"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 136,
+          "citationID": "xyEe0J8W",
+          "uris": [],
+          "display_text": "（VanderWeele, 2014）",
+          "instruction_sha256": "43c89a27279c04a5c6e0fe7c50d06afecdacce40a5d923a2efa1db48ebeccf6f"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 182,
+          "citationID": "t6w7dFix",
+          "uris": [],
+          "display_text": "（2022）",
+          "instruction_sha256": "ae3351a0fce311838e5140eebe0de636472ef2c7f7c048a83a2ec6e12934986c"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 182,
+          "citationID": "MT9r8E7y",
+          "uris": [],
+          "display_text": "（2025）",
+          "instruction_sha256": "34fcd39c47b51254af4f05b492ad6fd2ab5687063559f47cda5f05aca548d2b7"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 182,
+          "citationID": "klmpKSpB",
+          "uris": [],
+          "display_text": "（2025）",
+          "instruction_sha256": "726c00c40bc3a4d4ae6189f2d484a19cddd7abbe831ac0135ff7f2ba58992de2"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 185,
+          "citationID": "TeFeKv4b",
+          "uris": [],
+          "display_text": "（Qin et al., 2022）",
+          "instruction_sha256": "a005ea34e3e1bba8dfa3beff161515f30ccbcb24a2094f890228b8ba2a4a5d1a"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 185,
+          "citationID": "8lHE4Xlt",
+          "uris": [],
+          "display_text": "（VanderWeele, 2013, 2014; VanderWeele et al., 2017b; Rijnhart et al., 2023）",
+          "instruction_sha256": "9bf16c0962c28a2d3b17c2716499737419c85e4db959adf5719eb9a9258d2e22"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 186,
+          "citationID": "77tKz53v",
+          "uris": [],
+          "display_text": "（VanderWeele et al., 2017b）",
+          "instruction_sha256": "055ad7207d187f2b60794685eb6179f5662fca26fdc20d1111d34937191d4987"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 198,
+          "citationID": "qyLrTr6v",
+          "uris": [],
+          "display_text": "（VanderWeele et al., 2017b）",
+          "instruction_sha256": "60994289dd88b5fb64075f70503709bf960d500450906f3ea9433f1ed17c3c60"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 198,
+          "citationID": "a2OZWlCP",
+          "uris": [],
+          "display_text": "（Shi et al., 2021; VanderWeele, 2014）",
+          "instruction_sha256": "c5641fb61b428e3ebf647feaa03bb09b9f73b3881151ba61432a12ede40413ab"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 199,
+          "citationID": "4Sjd1C46",
+          "uris": [],
+          "display_text": "（Fujihara, 2024; Ding et al., 2016; VanderWeele et al., 2017a; Smith et al., 2019）",
+          "instruction_sha256": "6aada6e7a3e6346bae6a6d2c02171a03e58c02ec2dd90aa61bdc5817918bd07d"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 954,
+          "citationID": "1cFBusvG",
+          "uris": [],
+          "display_text": "（2022）",
+          "instruction_sha256": "ec185a20416ba77c185ef67853dece61f93356cc9ab08bcaab0421968ce7f804"
+        },
+        {
+          "part": "word/footnotes.xml",
+          "paragraph_index": 8,
+          "citationID": "ze6hmBJV",
+          "uris": [],
+          "display_text": "（Al-kassab-Córdova et al., 2025; Fujihara, 2024; Mencarini et al., 2018; Vignoli et al., 2020; Mikkonen et al., 2021; Kratz et al., 2022）",
+          "instruction_sha256": "0204d9c45a4f13e9eebdd81d0d0cb7580896f8b5c0057430db6b092d9d87696d"
+        },
+        {
+          "part": "word/footnotes.xml",
+          "paragraph_index": 9,
+          "citationID": "vWNJc6ec",
+          "uris": [],
+          "display_text": "（Hsu et al., 2025）",
+          "instruction_sha256": "b113302284d2ddb5af604ca7ac4cfdfc84ced308662863964125ff7345328ac2"
+        },
+        {
+          "part": "word/footnotes.xml",
+          "paragraph_index": 10,
+          "citationID": "hE2u8elZ",
+          "uris": [],
+          "display_text": "（VanderWeele, 2014）",
+          "instruction_sha256": "7fa652a97ff900d8f4669078e159b9d937553e37677560973f18ee2df70aabed"
+        }
+      ],
+      "bibliography_fields": [
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 3329,
+          "instruction": "ADDIN ZOTERO_BIBL {\"uncited\":[],\"omitted\":[],\"custom\":[]} CSL_BIBLIOGRAPHY",
+          "display_text_length": 4093,
+          "display_sha256": "5dca42b80ab562b14886a3bc9ab60484f1640d4ab7700aef3e07d54bfa51be77"
+        }
+      ]
+    },
+    "v3h_final_accepted_4eec9f0c": {
+      "file": {
+        "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v4/delivery_r2/package/manuscript/CMAverse_V3h_final_accepted.docx",
+        "name": "CMAverse_V3h_final_accepted.docx",
+        "bytes": 485438,
+        "sha256": "4eec9f0ccf4c510aa2aad5d7415006f937a292c2a23ddf201d291f1ec5fce650"
+      },
+      "zotero_pref": "><pref name=\"fieldType\" value=\"Field\"/></prefs></data>",
+      "citation_field_count": 22,
+      "bibliography_field_count": 1,
+      "bibliography_entry_count": 25,
+      "bibliography_entries": [
+        "ADDIN ZOTERO_BIBL {\"uncited\":[],\"omitted\":[],\"custom\":[]} CSL_BIBLIOGRAPHY 王跃生, 2026. 中国家庭结构百年变迁及其特征分析[N]. 光明日报, 2026-04-01(11).",
+        "许琪, 2022. 挣钱还是做家务——丈夫的经济贡献和家务贡献对妻子婚姻满意度的影响[J]. 社会学评论, 10(3): 43-63.",
+        "郑丹丹, 狄金华, 2017. 女性家庭权力、夫妻关系与家庭代际资源分配[J]. 社会学研究, 32(1): 171-192+245.",
+        "Al-kassab-Córdova A, Mezones-Holguin E, Kaufman J S, 2025. Diminished returns of maternal education on children’s vaccination status for indigenous women in Peru[J]. Social Science & Medicine, 370: 117862.",
+        "Ding P, VanderWeele T J, 2016. Sensitivity analysis without assumptions[J]. Epidemiology, 27(3): 368-377.",
+        "Fujihara S, 2024. Identifying the role of high school in educational inequality: A causal mediation approach[J]. Social Science Research, 124: 103077.",
+        "Hsu Y T, Grodstein F, Liu T H, et al., 2025. Causal mediation of the association between educational attainment and late-life cognitive function by trajectories of social participation[J]. Social Science & Medicine, 370: 117861.",
+        "Ikram M A, VanderWeele T J, 2015. A proposed clinical and biological interpretation of mediated interaction[J]. European Journal of Epidemiology, 30(10): 1115-1118.",
+        "Kratz F, Pettinger B, Grätz M, 2022. At which age is education the great equalizer? A causal mediation analysis of the (in-)direct effects of social origin over the life course[J]. European Sociological Review, 38(6): 866-881.",
+        "Lundberg I, 2024. The gap-closing estimand: A causal approach to study interventions that close disparities across social categories[J]. Sociological Methods & Research, 53(2): 507-570.",
+        "Lundberg I, Johnson R, Stewart B M, 2021. What is your estimand? Defining the target quantity connects statistical evidence to theory[J]. American Sociological Review, 86(3): 532-565.",
+        "Madia J E, Gruijters R J, Raabe I J, et al., 2025. Growth mindset and socioeconomic inequality in academic achievement across seventy-three PISA countries[J]. npj Science of Learning, 10(1): 81.",
+        "Mencarini L, Vignoli D, 2018. Employed women and marital union stability: It helps when men help[J]. Journal of Family Issues, 39(5): 1348-1373.",
+        "Mikkonen J, Remes H, Moustgaard H, et al., 2021. Early adolescent health problems, school performance, and upper secondary educational pathways: A counterfactual-based mediation analysis[J]. Social Forces, 99(3): 1146-1175.",
+        "Qin X, Yang F, 2022. Simulation-based sensitivity analysis for causal mediation studies[J]. Psychological Methods, 27(6): 1000-1013.",
+        "Rijnhart J J M, Valente M J, Smyth H L, et al., 2023. Statistical mediation analysis for models with a binary mediator and a binary outcome: The differences between causal and traditional mediation analysis[J]. Prevention Science, 24(3): 408-418.",
+        "Shi B, Choirat C, Coull B A, et al., 2021. CMAverse: A suite of functions for reproducible causal mediation analyses[J]. Epidemiology, 32(5): e20-e22.",
+        "Smith L H, VanderWeele T J, 2019. Mediational E-values: Approximate sensitivity analysis for unmeasured mediator-outcome confounding[J]. Epidemiology, 30(6): 835-837.",
+        "VanderWeele T J, 2013. A three-way decomposition of a total effect into direct, indirect, and interactive effects[J]. Epidemiology, 24(2): 224-232.",
+        "VanderWeele T J, 2014. A unification of mediation and interaction: A 4-way decomposition[J]. Epidemiology, 25(5): 749-761.",
+        "VanderWeele T J, Ding P, 2017a. Sensitivity analysis in observational research: Introducing the E-value[J]. Annals of Internal Medicine, 167(4): 268-274.",
+        "VanderWeele T J, Tchetgen Tchetgen E J, 2017b. Mediation analysis with time varying exposures and mediators[J]. Journal of the Royal Statistical Society Series B: Statistical Methodology, 79(3): 917-938.",
+        "Vignoli D, Mencarini L, Alderotti G, 2020. Is the effect of job uncertainty on fertility intentions channeled by subjective well-being?[J]. Advances in Life Course Research, 46: 100343.",
+        "Wang A, Arah O A, 2015. G-computation demonstration in causal mediation analysis[J]. European Journal of Epidemiology, 30(10): 1119-1127.",
+        "Yazawa A, Shiba K, Inoue Y, et al., 2022. Early childhood adversity and late-life depressive symptoms: Unpacking mediation and interaction by adult socioeconomic status[J]. Social Psychiatry and Psychiatric Epidemiology, 57(6): 1147-1156."
+      ],
+      "citation_fields": [
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 13,
+          "citationID": "ydGrzFR0",
+          "uris": [],
+          "display_text": "（2022）",
+          "instruction_sha256": "5cf63e699a7a452c0faf5fdfbbe8a1479cfda64bb423093a14a1c65b1c16b19c"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 13,
+          "citationID": "XadNs3oS",
+          "uris": [],
+          "display_text": "（2017）",
+          "instruction_sha256": "907d9fbd945f17cd9320b25602e4a34edeff1bb29789cd83b6654ad04154191f"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 74,
+          "citationID": "VSZB9qN9",
+          "uris": [],
+          "display_text": "（2026）",
+          "instruction_sha256": "084c8cffe84390c0fb0cb66f30e2e19ba2fe5d670d96b245e35b29125c9108eb"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 91,
+          "citationID": "NkBFfCm7",
+          "uris": [],
+          "display_text": "（Lundberg et al., 2021; Lundberg, 2024）",
+          "instruction_sha256": "7896ff12c0acd8f44b572065de5339a6264fa98519f07242e598b544bf3c8f39"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 93,
+          "citationID": "pQ2kWAng",
+          "uris": [],
+          "display_text": "（Mikkonen et al., 2021; Wang et al., 2015）",
+          "instruction_sha256": "456f70e979c92a952ccbaa5f58116e4f708e23ae7545c1a3ad2564047c7fa62f"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 136,
+          "citationID": "UaLAEGrh",
+          "uris": [],
+          "display_text": "（VanderWeele, 2013）",
+          "instruction_sha256": "835aa0dc268138729bb73c9bd86a8f61493a30320bfdcb7b60aa824857ba4cbc"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 136,
+          "citationID": "jIYY1c1p",
+          "uris": [],
+          "display_text": "（Fujihara, 2024）",
+          "instruction_sha256": "b57653f21e7a63eae034e6d46ee836d995827c505c9b1b2f32a55a2cc5a3c38e"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 137,
+          "citationID": "EzFYzaTF",
+          "uris": [],
+          "display_text": "（2014）",
+          "instruction_sha256": "0cb87f5a71535bcf74b84bbf11d7f0b7f741f65db5fd7213c53a78abbdcca5da"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 138,
+          "citationID": "cslaBq0C",
+          "uris": [],
+          "display_text": "（VanderWeele, 2013; Ikram et al., 2015）",
+          "instruction_sha256": "dab59b5c902808f85dd4437b435c57a2b71edc89081f6193dce28bb59c5aad9e"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 139,
+          "citationID": "xyEe0J8W",
+          "uris": [],
+          "display_text": "（VanderWeele, 2014）",
+          "instruction_sha256": "43c89a27279c04a5c6e0fe7c50d06afecdacce40a5d923a2efa1db48ebeccf6f"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 185,
+          "citationID": "t6w7dFix",
+          "uris": [],
+          "display_text": "（2022）",
+          "instruction_sha256": "ae3351a0fce311838e5140eebe0de636472ef2c7f7c048a83a2ec6e12934986c"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 185,
+          "citationID": "MT9r8E7y",
+          "uris": [],
+          "display_text": "（2025）",
+          "instruction_sha256": "34fcd39c47b51254af4f05b492ad6fd2ab5687063559f47cda5f05aca548d2b7"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 185,
+          "citationID": "klmpKSpB",
+          "uris": [],
+          "display_text": "（2025）",
+          "instruction_sha256": "726c00c40bc3a4d4ae6189f2d484a19cddd7abbe831ac0135ff7f2ba58992de2"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 188,
+          "citationID": "TeFeKv4b",
+          "uris": [],
+          "display_text": "（Qin et al., 2022）",
+          "instruction_sha256": "a005ea34e3e1bba8dfa3beff161515f30ccbcb24a2094f890228b8ba2a4a5d1a"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 188,
+          "citationID": "8lHE4Xlt",
+          "uris": [],
+          "display_text": "（VanderWeele, 2013, 2014; VanderWeele et al., 2017b; Rijnhart et al., 2023）",
+          "instruction_sha256": "c07536d62765b90722953e70842919ab7e95baeeb61d5d70000d0f4bf5f8b220"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 189,
+          "citationID": "77tKz53v",
+          "uris": [],
+          "display_text": "（VanderWeele et al., 2017b）",
+          "instruction_sha256": "f8e62437088789c3690289135f0c59ad75c88e2332b12f081e4ab9cce072baa4"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 201,
+          "citationID": "qyLrTr6v",
+          "uris": [],
+          "display_text": "（VanderWeele et al., 2017b）",
+          "instruction_sha256": "b26be9681fbcc5b85dccb5ee1a630d06574aab740404a5c4b7c8243664220ba3"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 201,
+          "citationID": "a2OZWlCP",
+          "uris": [],
+          "display_text": "（Shi et al., 2021; VanderWeele, 2014）",
+          "instruction_sha256": "c5641fb61b428e3ebf647feaa03bb09b9f73b3881151ba61432a12ede40413ab"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 202,
+          "citationID": "4Sjd1C46",
+          "uris": [],
+          "display_text": "（Fujihara, 2024; Ding et al., 2016; VanderWeele et al., 2017a; Smith et al., 2019）",
+          "instruction_sha256": "d2f07299f4879cc469afc2d976bb873d5043ae02f7da7175987903918f58d66e"
+        },
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 957,
+          "citationID": "1cFBusvG",
+          "uris": [],
+          "display_text": "（2022）",
+          "instruction_sha256": "ec185a20416ba77c185ef67853dece61f93356cc9ab08bcaab0421968ce7f804"
+        },
+        {
+          "part": "word/footnotes.xml",
+          "paragraph_index": 6,
+          "citationID": "ze6hmBJV",
+          "uris": [],
+          "display_text": "（Al-kassab-Córdova et al., 2025; Fujihara, 2024; Mencarini et al., 2018; Vignoli et al., 2020; Mikkonen et al., 2021; Kratz et al., 2022）",
+          "instruction_sha256": "852b1412233ab86aa85a33225f86e1f3ae8a482ca4cc73cf02b65dc14edcb2d8"
+        },
+        {
+          "part": "word/footnotes.xml",
+          "paragraph_index": 7,
+          "citationID": "vWNJc6ec",
+          "uris": [],
+          "display_text": "（Hsu et al., 2025）",
+          "instruction_sha256": "40e06d6d6c98c34b606fc7e2ef8b92306b4ad6eccc068ee0f3900ca5cb03e0b0"
+        }
+      ],
+      "bibliography_fields": [
+        {
+          "part": "word/document.xml",
+          "paragraph_index": 3332,
+          "instruction": "ADDIN ZOTERO_BIBL {\"uncited\":[],\"omitted\":[],\"custom\":[]} CSL_BIBLIOGRAPHY",
+          "display_text_length": 4073,
+          "display_sha256": "87ca35d52c3ea2b9a957a364f58fe6059784ccd1a7caec7e274f6a56036acbb2"
+        }
+      ]
+    }
+  }
+}

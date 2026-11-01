@@ -2,7 +2,7 @@
 
 磁盘40 GiB已重新达标；11月1日09:30—09:31三次复测最低42.76 GiB、最新43.72 GiB。[容量补记](final/20261101-v3h/CAPACITY_FOLLOWUP_20261101.json)。
 
-[系统报告：原始任务、研究结果、完成状态及GitHub证据](final/20261101-v3h/TASK_REPORT_20261101.md) · [12项收尾台账](final/20261101-v3h/TASK_CHECKLIST_20261101.csv) · [ChatGPT/Claude网页原件](final/20261101-v3h/report_sources/)
+[系统报告：原始任务、研究结果、完成状态及GitHub证据](final/20261101-v3h/TASK_REPORT_20261101.md) · [12项收尾台账](final/20261101-v3h/TASK_CHECKLIST_20261101.csv) · [ChatGPT/Claude网页原件(16份完整版)](final/20261101-v3h/report_sources/) · [v6→09:41(v9)→V3h桥接审阅专页](final/20261101-v3h/v9_bridge/FOR_WEB_REVIEWERS_V9_TO_V3H.md) · [统计收尾与发表定位建议书](final/20261101-v3h/v9_bridge/STRATEGIC_CLOSEOUT_AND_PUBLICATION_GUIDE.md) · [v9→V3h桥接补充包(1.13 MB, <25 MB)](final/20261101-v3h/CMAverse_v9_to_V3h_bridge_20261101.zip)
 
 本次论文工作稿与交付已完成；031/041保留探索性线索，经搜索校正确认的中介或最佳机制仍未确立。统计计算按原批准停止规则结项，具体限制和原始要求见系统报告。
 
