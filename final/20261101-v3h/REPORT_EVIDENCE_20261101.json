@@ -598,8 +598,32 @@
     "manuscript_and_delivery": "COMPLETE",
     "systematic_report_published_at_commit": "c182e1de8b01f029dd0c5d144108f302ed4b34c7",
     "disk_target_currently_met": false,
-    "disk_shortfall_bytes": 4619300864,
+    "disk_shortfall_bytes": 12382019584,
     "disk_decline_cause": "NOT_YET_ATTRIBUTED",
-    "new_cleanup_actions": 0
+    "new_cleanup_actions": 0,
+    "disk_snapshot_at_utc": "2026-11-01T01:07:14.742323+00:00",
+    "last_report_update_at_utc": "2026-11-01T01:10:13.791457+00:00"
+  },
+  "disk_latest_readonly_sample": {
+    "at_utc": "2026-11-01T01:07:14.742323+00:00",
+    "mountpoint": "/System/Volumes/Data",
+    "device": "disk3s5",
+    "statvfs_available_bytes": 30567653376,
+    "APFSContainerFree": 30665351168,
+    "effective_available_bytes": 30567653376,
+    "effective_GiB": 28.468345642089844,
+    "target_bytes": 42949672960,
+    "target_met": false,
+    "shortfall_bytes": 12382019584,
+    "shortfall_GiB": 11.531654357910156,
+    "source_mutations": 0
+  },
+  "current_report_source_verification": {
+    "local_web_originals": 14,
+    "copied_source_files_including_amendment": 15,
+    "all_original_sha256_matches": true,
+    "current_public_receipt_paths_verified": 26,
+    "prior_published_commit": "a75c10187065e3759e016347aa6415a250ff0cf3",
+    "scope": "Existing anonymous HTTP receipts plus current original/local hashes and remote main read; no rerun of scientific analyses."
   }
 }

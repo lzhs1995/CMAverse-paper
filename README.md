@@ -1,6 +1,6 @@
 ## 2026-11-01 CMAverse V3h 最终交付
 
-磁盘40 GiB曾达标；11月1日08:57最新复测为35.70 GiB，当前未保持目标。[容量补记](final/20261101-v3h/CAPACITY_FOLLOWUP_20261101.json)。
+磁盘40 GiB曾达标；11月1日09:07复测为28.47 GiB，距离目标差11.53 GiB。[容量补记](final/20261101-v3h/CAPACITY_FOLLOWUP_20261101.json)。
 
 [系统报告：原始任务、研究结果、完成状态及GitHub证据](final/20261101-v3h/TASK_REPORT_20261101.md) · [12项收尾台账](final/20261101-v3h/TASK_CHECKLIST_20261101.csv) · [ChatGPT/Claude网页原件](final/20261101-v3h/report_sources/)
 

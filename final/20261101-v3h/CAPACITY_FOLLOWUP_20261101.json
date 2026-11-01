@@ -1,19 +1,22 @@
 {
   "schema": "cma-capacity-post-publication-followup-v1",
-  "at_utc": "2026-11-01T01:00:26.318156+00:00",
+  "at_utc": "2026-11-01T01:10:13.791457+00:00",
   "sample": {
-    "at_utc": "2026-11-01T00:57:35.094009+00:00",
+    "at_utc": "2026-11-01T01:07:14.742323+00:00",
     "mountpoint": "/System/Volumes/Data",
-    "statvfs_available_bytes": 38330384384,
-    "APFSContainerFree": 38330372096,
-    "effective_available_bytes": 38330372096,
-    "effective_GiB": 35.697940826416016,
+    "device": "disk3s5",
+    "statvfs_available_bytes": 30567653376,
+    "APFSContainerFree": 30665351168,
+    "effective_available_bytes": 30567653376,
+    "effective_GiB": 28.468345642089844,
     "target_bytes": 42949672960,
     "target_met": false,
+    "shortfall_bytes": 12382019584,
+    "shortfall_GiB": 11.531654357910156,
     "source_mutations": 0
   },
-  "shortfall_bytes": 4619300864,
-  "shortfall_GiB": 4.302059173583984,
+  "shortfall_bytes": 12382019584,
+  "shortfall_GiB": 11.531654357910156,
   "prior_40GiB_acceptance_preserved": true,
   "manuscript_and_cloud_delivery_complete": true,
   "systematic_report_and_sources_published_commit": "c182e1de8b01f029dd0c5d144108f302ed4b34c7",
@@ -25,5 +28,24 @@
     "逐项保留SHA、属性与恢复依据，实际可用量下降时停止扩大。",
     "按min(statvfs可用,APFSContainerFree)两次复测至少40GiB后才报重新达标。"
   ],
-  "current_all_requirements_met": false
+  "current_all_requirements_met": false,
+  "previous_samples": [
+    {
+      "at_utc": "2026-11-01T00:57:35.094009+00:00",
+      "mountpoint": "/System/Volumes/Data",
+      "statvfs_available_bytes": 38330384384,
+      "APFSContainerFree": 38330372096,
+      "effective_available_bytes": 38330372096,
+      "effective_GiB": 35.697940826416016,
+      "target_bytes": 42949672960,
+      "target_met": false,
+      "source_mutations": 0
+    }
+  ],
+  "system_swap_observation": {
+    "at_utc": "2026-11-01T01:07:57.490871+00:00",
+    "command": "sysctl vm.swapusage",
+    "output": "vm.swapusage: total = 24576.00M  used = 24061.69M  free = 514.31M  (encrypted)",
+    "meaning": "Observed system usage; not claimed reclaimable space or complete attribution of the capacity decline."
+  }
 }
