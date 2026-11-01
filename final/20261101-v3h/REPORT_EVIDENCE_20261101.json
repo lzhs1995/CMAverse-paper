@@ -582,5 +582,24 @@
     "网页原始建议有被后继修订的部分，历史v2/v3不重新变成待执行任务。",
     "统计及原生验收引用已有实际记录；本轮新增的是来源/文件身份、公共下载与报告核对。",
     "本报告不宣布完整博士论文完成。"
-  ]
+  ],
+  "disk_followup_readonly_sample": {
+    "at_utc": "2026-11-01T00:57:35.094009+00:00",
+    "mountpoint": "/System/Volumes/Data",
+    "statvfs_available_bytes": 38330384384,
+    "APFSContainerFree": 38330372096,
+    "effective_available_bytes": 38330372096,
+    "effective_GiB": 35.697940826416016,
+    "target_bytes": 42949672960,
+    "target_met": false,
+    "source_mutations": 0
+  },
+  "current_scope_status": {
+    "manuscript_and_delivery": "COMPLETE",
+    "systematic_report_published_at_commit": "c182e1de8b01f029dd0c5d144108f302ed4b34c7",
+    "disk_target_currently_met": false,
+    "disk_shortfall_bytes": 4619300864,
+    "disk_decline_cause": "NOT_YET_ATTRIBUTED",
+    "new_cleanup_actions": 0
+  }
 }

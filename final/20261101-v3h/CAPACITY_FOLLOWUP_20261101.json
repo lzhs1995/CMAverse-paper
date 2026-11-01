@@ -1,0 +1,29 @@
+{
+  "schema": "cma-capacity-post-publication-followup-v1",
+  "at_utc": "2026-11-01T01:00:26.318156+00:00",
+  "sample": {
+    "at_utc": "2026-11-01T00:57:35.094009+00:00",
+    "mountpoint": "/System/Volumes/Data",
+    "statvfs_available_bytes": 38330384384,
+    "APFSContainerFree": 38330372096,
+    "effective_available_bytes": 38330372096,
+    "effective_GiB": 35.697940826416016,
+    "target_bytes": 42949672960,
+    "target_met": false,
+    "source_mutations": 0
+  },
+  "shortfall_bytes": 4619300864,
+  "shortfall_GiB": 4.302059173583984,
+  "prior_40GiB_acceptance_preserved": true,
+  "manuscript_and_cloud_delivery_complete": true,
+  "systematic_report_and_sources_published_commit": "c182e1de8b01f029dd0c5d144108f302ed4b34c7",
+  "new_cleanup_actions": 0,
+  "decline_cause": "NOT_YET_ATTRIBUTED",
+  "next_steps": [
+    "只读对比本次新占用，按APFS实际独占空间核定可回收来源。",
+    "只处理新确认终态缓存及已有完整云回验的具名归档；不删除研究原始资料、不重放旧STOP。",
+    "逐项保留SHA、属性与恢复依据，实际可用量下降时停止扩大。",
+    "按min(statvfs可用,APFSContainerFree)两次复测至少40GiB后才报重新达标。"
+  ],
+  "current_all_requirements_met": false
+}
