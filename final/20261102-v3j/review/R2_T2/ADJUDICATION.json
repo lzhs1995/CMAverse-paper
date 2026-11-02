@@ -1,0 +1,49 @@
+{
+  "reviewer": "Codex source-grounded semantic adjudication of actual NotebookLM answer",
+  "round": 2,
+  "theme": 2,
+  "document_sha256": "ef99fcb202056bcfb1c3e559fb6b47f669f78d2b0c65dc2870003c7aab79f8d1",
+  "source_id": "cf7f3d95-715e-496b-b5b9-d8a6ebad1859",
+  "status": "PASS",
+  "criteria": [
+    {
+      "id": "T2-1",
+      "status": "PASS",
+      "verified_source": "Table2 note and tables3-4: descriptive13092 intervals/8528 distinct dyads/5318 children; each eligible chain retains its own complete-case sample."
+    },
+    {
+      "id": "T2-2",
+      "status": "PASS",
+      "verified_source": "Table11/P185 and original-score rebuild: complete cases9879, transition1559; self-up442, spouse-down1372, overlap255, 442+1372-255=1559 and all denominators1559; none of these equals independent-cluster count."
+    },
+    {
+      "id": "T2-3",
+      "status": "PASS",
+      "verified_source": "Table11/appendixE.1: FEAS031 baseline own score<=spouse risk set9879, FEAS041 endpoint validity excludes61 yielding12564; differential eligibility explicitly precludes comparing social mechanism strength from absolute OR differences."
+    },
+    {
+      "id": "T2-4",
+      "status": "PASS",
+      "verified_source": "Methods/P168/appendixD.2: C3/C4 spouse evaluation of respondent economic contribution remains distinct from general marital evaluationQM801."
+    },
+    {
+      "id": "T2-5",
+      "status": "PASS",
+      "verified_source": "Time-window discussion/appendixB/E.4: overlapping retrospective periods, four-wave dwm future information, continuous marriage requirement and inherited missing-data transformations explicitly retained as limitations."
+    }
+  ],
+  "native_citations": 12,
+  "manuscript_changes_required": false,
+  "machine_checks_are_not_substituted_for_semantic_review": true,
+  "adjudication_notes": [],
+  "provenance": {
+    "request_id": "42ae5b64148683c2271b62de2b34a9fce37a15e6f2b7231e371ea0b3e0bedb09",
+    "original_receipt_sha256": "9ce4c8ca6ff527032afa4700dd45b819058d2ef20b0fcfbee859388a7b0cbe0b",
+    "original_raw_sha256": "71711c9f9e6911120aa9672ce001e6c950e9b9d25fff75ad1922cc4ef573489d",
+    "started_at": 1793615068.877248,
+    "ended_at": 1793615109.9567628,
+    "remote_terminal": true,
+    "raw_answer": "ANSWER.raw.json",
+    "export_note": "Public projection omits local account/lease/runtime paths; exact native answer bytes remain unchanged."
+  }
+}

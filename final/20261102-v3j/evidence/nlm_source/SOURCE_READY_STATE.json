@@ -1,0 +1,23 @@
+{
+  "source_id": "cf7f3d95-715e-496b-b5b9-d8a6ebad1859",
+  "receipt": {
+    "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/54627f267920204c31b13c51f623f1be45d87f23badf55737fc221f803f6fa87/receipt.json",
+    "sha256": "9a51cc17d27556b7f22f8d35af5a13b68f4537b8128ac11919439cde7e76294c"
+  },
+  "raw": {
+    "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/54627f267920204c31b13c51f623f1be45d87f23badf55737fc221f803f6fa87/raw.json",
+    "sha256": "ba1db46e7f0b0c9f538f81d365d2c532fc70d9c07ad84c2b54805b35c1863d83"
+  },
+  "matches": [
+    {
+      "id": "cf7f3d95-715e-496b-b5b9-d8a6ebad1859",
+      "title": "CMAverse_V3j_final_accepted.pdf",
+      "source_type": 3,
+      "source_type_name": "pdf",
+      "url": null,
+      "drive_doc_id": null,
+      "can_sync": false,
+      "status": 2
+    }
+  ]
+}

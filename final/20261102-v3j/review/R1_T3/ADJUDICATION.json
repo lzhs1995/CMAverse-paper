@@ -1,0 +1,50 @@
+{
+  "reviewer": "Codex source-grounded semantic adjudication of actual NotebookLM answer",
+  "round": 1,
+  "theme": 3,
+  "document_sha256": "ef99fcb202056bcfb1c3e559fb6b47f669f78d2b0c65dc2870003c7aab79f8d1",
+  "source_id": "cf7f3d95-715e-496b-b5b9-d8a6ebad1859",
+  "status": "PASS",
+  "criteria": [
+    {
+      "id": "T3-1",
+      "status": "PASS",
+      "verified_source": "P110-P123; table5 and table10; eligible-population association preserved"
+    },
+    {
+      "id": "T3-2",
+      "status": "PASS",
+      "verified_source": "table6 and P129; -8.76/q=.032 versus +6.82/q=.094 kept distinct"
+    },
+    {
+      "id": "T3-3",
+      "status": "PASS",
+      "verified_source": "table6 note and native reference6 explicitly distinguish delta RD CI, bootstrap IC-RD CI and delta-p BH q",
+      "answer_citation_correction": "NLM row cites [5]; its same-answer reference [6] contains the actual table6 note. Raw answer unchanged."
+    },
+    {
+      "id": "T3-4",
+      "status": "PASS",
+      "verified_source": "P130; 7058-record role contrast explicitly outside eight-test BH family"
+    },
+    {
+      "id": "T3-5",
+      "status": "PASS",
+      "verified_source": "table8 note and P100; OR null1 versus differences null0; pairwise associations do not prove mediation"
+    }
+  ],
+  "native_citations": 13,
+  "manuscript_changes_required": false,
+  "machine_checks_are_not_substituted_for_semantic_review": true,
+  "adjudication_notes": [],
+  "provenance": {
+    "request_id": "cafd54f3be54c438f4c4c3022e701893ab65da90a15081217c7e92ecc0cd4e5b",
+    "original_receipt_sha256": "42813ae1d6e63902a43b71cd11770232f26eb422f5717ee3cc3f8dd4c5acce25",
+    "original_raw_sha256": "c326987f4286281751b426273b67702e8e4a875d5f3d32ec36e72afc6aa47c43",
+    "started_at": 1793613510.631382,
+    "ended_at": 1793613558.957031,
+    "remote_terminal": true,
+    "raw_answer": "ANSWER.raw.json",
+    "export_note": "Public projection omits local account/lease/runtime paths; exact native answer bytes remain unchanged."
+  }
+}

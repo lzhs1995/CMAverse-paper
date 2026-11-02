@@ -1,0 +1,149 @@
+{
+  "at": "2026-11-02T08:36:46.576438+00:00",
+  "reviewer": "Codex visual review via local rendered images",
+  "status": "PASS_WITH_PUBLICATION_FORMATTING_LIMITATION",
+  "pdf": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3j-audit-20261102/manuscript/CMAverse_V3j_final_accepted.pdf",
+    "bytes": 1511390,
+    "sha256": "ef99fcb202056bcfb1c3e559fb6b47f669f78d2b0c65dc2870003c7aab79f8d1"
+  },
+  "all_47_pages_viewed_as_contact_sheets": true,
+  "detailed_pages": [
+    1,
+    18,
+    25,
+    27,
+    36,
+    37,
+    38,
+    46,
+    47
+  ],
+  "contact_sheets": [
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3j-audit-20261102/evidence/pdf_visual_v1/contact_01_09.jpg",
+      "bytes": 353077,
+      "sha256": "1c8766992816c254e97474e158f600c3bdbbc3824187d11f74f1295e514b97d8"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3j-audit-20261102/evidence/pdf_visual_v1/contact_10_18.jpg",
+      "bytes": 339846,
+      "sha256": "4dc639529bd4d3d19c13423c57b590f669a62ff5f2cb4c2a99edf510551f0892"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3j-audit-20261102/evidence/pdf_visual_v1/contact_19_27.jpg",
+      "bytes": 346993,
+      "sha256": "a6d9a23984cc8d9eaaa7c413b23cdada09a3fcc6b232a99a8e1c90228aa2a4d8"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3j-audit-20261102/evidence/pdf_visual_v1/contact_28_36.jpg",
+      "bytes": 262361,
+      "sha256": "e57efb404a72a67cd19c3a9fb3840668f15db42477d2309ab4e1ee6d5ecae28b"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3j-audit-20261102/evidence/pdf_visual_v1/contact_37_45.jpg",
+      "bytes": 368684,
+      "sha256": "68e1a59f987e55c010e4bf22ec78480bc458737e0a945d0caff2e36a54fda606"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3j-audit-20261102/evidence/pdf_visual_v1/contact_46_47.jpg",
+      "bytes": 107806,
+      "sha256": "5dd03f525916a8f77b3557fdf1d5b0d368472268d84523b534edbf708457457f"
+    }
+  ],
+  "detailed_images": [
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3j-audit-20261102/evidence/pdf_visual_v1/detail/page-01.png",
+      "bytes": 644838,
+      "sha256": "b9d0bc56b58bf2bb3057c8d0d0b600dea3f65ba3559db6041eab1ecdcc3eecff"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3j-audit-20261102/evidence/pdf_visual_v1/detail/page-18.png",
+      "bytes": 529586,
+      "sha256": "1c63eb27e4870b7442836192f7c16fd42e7ebc4dba2ce467436540f63bf01f51"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3j-audit-20261102/evidence/pdf_visual_v1/detail/page-25.png",
+      "bytes": 594188,
+      "sha256": "8dd6c262df5a5cf398999aad71634e2011878f277bbc0d2c630045beeb119139"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3j-audit-20261102/evidence/pdf_visual_v1/detail/page-27.png",
+      "bytes": 788305,
+      "sha256": "9e91c3629128e941707d57788c6fb7b8726e38cb693cac6375e7129187321485"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3j-audit-20261102/evidence/pdf_visual_v1/detail/page-36.png",
+      "bytes": 412007,
+      "sha256": "41cfc575b08d31d01ea6bc304d7d85754a4b8c934397a5529af3c34b030a19f3"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3j-audit-20261102/evidence/pdf_visual_v1/detail/page-37.png",
+      "bytes": 645499,
+      "sha256": "30272e28eaf9ab00c6fb542dcbcfced7996851181e71f21cabaa1f7e07a97748"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3j-audit-20261102/evidence/pdf_visual_v1/detail/page-38.png",
+      "bytes": 495208,
+      "sha256": "b907f3256b4e1b1ef7cda4ec901ece3af6f8ce7f2d65da79d1a13fa3cf244a2e"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3j-audit-20261102/evidence/pdf_visual_v1/detail/page-46.png",
+      "bytes": 823431,
+      "sha256": "0351586c2ed86c104c45efa0bc8dd29fa113d7bce7a07c2b6cf8792b15b0e247"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3j-audit-20261102/evidence/pdf_visual_v1/detail/page-47.png",
+      "bytes": 396007,
+      "sha256": "0971d3249401e9b030cd876910429323600d0af8edca2d052145abee0545d3a0"
+    }
+  ],
+  "automated_checks": {
+    "out_of_page_words": 0,
+    "empty_pages": [],
+    "replacement_characters": [],
+    "fonts_all_embedded": true
+  },
+  "findings": [
+    {
+      "check": "Word auto grid at body child138",
+      "page": 18,
+      "status": "PASS",
+      "note": "Table6 all nine columns, CI endpoints, BH q intact; no clipped or split numerical cells."
+    },
+    {
+      "check": "Word auto grid at body child250",
+      "pages": [
+        36,
+        37
+      ],
+      "status": "PASS",
+      "note": "TableD1 target, unit, estimate and interval columns readable through continuation header."
+    },
+    {
+      "check": "central corrections",
+      "pages": [
+        1,
+        25,
+        27,
+        38
+      ],
+      "status": "PASS",
+      "note": "Six of 14 mediation specifications, descriptive1559 counts, interval boundaries and with/without-dwm separation visible."
+    },
+    {
+      "check": "bibliography indentation and citations",
+      "pages": [
+        46,
+        47
+      ],
+      "status": "PASS",
+      "note": "Hanging indents and full reference text visible, no edit markup, grey pane or truncation."
+    }
+  ],
+  "limitations": [
+    "Contact sheets assess global layout; selected detailed pages inspect the high-risk tables and new text.",
+    "47-page landscape evidence manuscript retains source formatting; this is not a journal-ready JMF/SSR typeset submission.",
+    "Visual review does not independently validate statistical estimates or source claims."
+  ]
+}

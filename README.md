@@ -1,3 +1,13 @@
+## 2026-11-02 CMAverse V3j：审核纠错与真实终验
+
+[V3j总览与完整交付](final/20261102-v3j/README.md) · [47页最终PDF](final/20261102-v3j/manuscript/CMAverse_V3j_final_accepted.pdf) · [原AGY质量评审与优化方案](final/20261102-v3j/AGY_QUALITY_AUDIT_AND_OPTIMIZED_PLAN_V3J.md) · [实际两轮审查](final/20261102-v3j/review/FINAL_REVIEW_REPORT.md)
+
+V3j纠正V3i的跃迁分母342为1,559条记录，区分8项修饰与6项概率中介，撤回普遍零效应／规范刚性推断，并分开新估计与历史校正。28项裁定、真实Word和Zotero保存重开、最终PDF及同PDF两轮六主题审查已经完成。该稿为研究证据稿，尚非按指定期刊排版的已投稿稿。
+
+**以下V3i等记录是历史原文。V3i的常量表核对不能称为原始数据独立复算；本地合成NLM PASS与LibreOffice导出不能称为真实NLM／Word终验。请以V3j纠错报告为准。历史磁盘容量也不是当前余量。**
+
+---
+
 ## 2026-11-01 CMAverse V3i 推进稿（三大统计锚点 + 文稿去审计日志化 + 理论升华与发表定位 · Word修订版）
 
 [V3i 推进稿总览](final/20261101-v3i/README.md) · [28处逐段修订对照表(V3h→V3i)](final/20261101-v3i/REVISION_COMPARISON_V3H_TO_V3I.md) · [五轮审校报告](final/20261101-v3i/WRITING_QUALITY_AUDIT_V3I.md) · [发表策略与博士论文定位方案(三大方案模板)](final/20261101-v3i/PUBLICATION_AND_THESIS_POSITIONING_V3I.md) · [V3i 在线全文阅读](final/20261101-v3i/MANUSCRIPT_READING_V3I.md) · [五大技能经验沉淀(Agent公用 vs AGY CLI)](final/20261101-v3i/SKILL_EXPERIENCE_AND_AGY_OPTIMIZATION_20261101.md)

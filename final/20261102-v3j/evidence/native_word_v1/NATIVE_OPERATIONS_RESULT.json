@@ -1,0 +1,25 @@
+{
+  "at": "2026-11-02T08:03:35.920719+00:00",
+  "native_accept_reject_save_reopen": "COMPLETE",
+  "semantic_and_layout_adjudication": "PENDING",
+  "Zotero_refresh": "PENDING",
+  "PDF_export": "PENDING",
+  "NLM": "PENDING",
+  "outputs": {
+    "accepted": {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3j-audit-20261102/manuscript/native_word_v1/CMAverse_V3j_accepted.docx",
+      "bytes": 551526,
+      "sha256": "c13772c975c6ea63b78d9c9ae6e60e1ac7fdb03eeba3d6281dbaa28f8f8228c8"
+    },
+    "rejected": {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3j-audit-20261102/manuscript/native_word_v1/CMAverse_V3j_rejected.docx",
+      "bytes": 515092,
+      "sha256": "6224dd31838170a5b44d2faed3c8d5da5af602c1fe38d91e70b1ce7eda247103"
+    },
+    "tracked": {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3j-audit-20261102/manuscript/native_word_v1/CMAverse_V3j_tracked.docx",
+      "bytes": 489513,
+      "sha256": "6db7ed435e5db5d511b32a93c0d19c60c7d6b472645280274cd7d761893e0d7f"
+    }
+  }
+}

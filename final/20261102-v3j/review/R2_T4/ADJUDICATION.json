@@ -1,0 +1,52 @@
+{
+  "reviewer": "Codex source-grounded semantic adjudication of actual NotebookLM answer",
+  "round": 2,
+  "theme": 4,
+  "document_sha256": "ef99fcb202056bcfb1c3e559fb6b47f669f78d2b0c65dc2870003c7aab79f8d1",
+  "source_id": "cf7f3d95-715e-496b-b5b9-d8a6ebad1859",
+  "status": "PASS",
+  "criteria": [
+    {
+      "id": "T4-1",
+      "status": "PASS",
+      "verified_source": "P138/table7 and all-eight-TNIE CSV: point-estimate range[.98609519,1.00409291] distinct from minimum/maximum pointwise CI endpoints[.96043554,1.02002451]."
+    },
+    {
+      "id": "T4-2",
+      "status": "PASS",
+      "verified_source": "P096/P168/tablesD.2-D.3: A4+B4 modifiers versus C4+D2 probability mediation; endpoint versus three-wave timing and C3/C4 economic-contribution construct maintained."
+    },
+    {
+      "id": "T4-3",
+      "status": "PASS",
+      "verified_source": "P002/P168/tableD.3: six unadjusted B200 intervals contain0, not joint band or equivalence/universal exclusion; Monte Carlo/identification limits explicit."
+    },
+    {
+      "id": "T4-4",
+      "status": "PASS",
+      "verified_source": "P277-P279/appendicesD.2/E.2: historicalB1 195/200<98% still deferred; P3 repairs numerical solution for its same original model and2000 draws only."
+    },
+    {
+      "id": "T4-5",
+      "status": "PASS",
+      "verified_source": "Historical methods/P187/appendixB: record-level bootstrap dependency limits, connected-cluster coverage limits and within-family BH/BY versus adaptive-search history explicitly differentiated."
+    }
+  ],
+  "native_citations": 14,
+  "manuscript_changes_required": false,
+  "machine_checks_are_not_substituted_for_semantic_review": true,
+  "adjudication_notes": [
+    "NLM T4-4 calls P3 a 复合似然修复. The source says 同似然修复 under the same Gamma/Log model and saved draws; no composite-likelihood method was introduced. Only the version-separation assessment is accepted, with this answer terminology corrected.",
+    "T4-1 endpoint 全覆盖范围 refers only to the numerical minimum/maximum of pointwise intervals; it is not a simultaneous statistical coverage guarantee."
+  ],
+  "provenance": {
+    "request_id": "57faae94334be6f4ce52552096ab66d1374a359dc4191ea52772144ce1bce326",
+    "original_receipt_sha256": "b78ad367b7210b72725357d2c97670e3c8d7d1ff9b6f42dfe217843baa62c217",
+    "original_raw_sha256": "232b8650aed3bf6d0771c9d956ca252f236ce19969fcb268ae9ac3d48642f81c",
+    "started_at": 1793615274.815142,
+    "ended_at": 1793615322.1345239,
+    "remote_terminal": true,
+    "raw_answer": "ANSWER.raw.json",
+    "export_note": "Public projection omits local account/lease/runtime paths; exact native answer bytes remain unchanged."
+  }
+}

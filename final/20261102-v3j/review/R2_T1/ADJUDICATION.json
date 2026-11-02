@@ -1,0 +1,49 @@
+{
+  "reviewer": "Codex source-grounded semantic adjudication of actual NotebookLM answer",
+  "round": 2,
+  "theme": 1,
+  "document_sha256": "ef99fcb202056bcfb1c3e559fb6b47f669f78d2b0c65dc2870003c7aab79f8d1",
+  "source_id": "cf7f3d95-715e-496b-b5b9-d8a6ebad1859",
+  "status": "PASS",
+  "criteria": [
+    {
+      "id": "T1-1",
+      "status": "PASS",
+      "verified_source": "P002/Introduction I(ii)/P183: mediation transmission and statistical relational context remain separate across abstract/body/conclusion; stepwise associations cannot establish complete mediation."
+    },
+    {
+      "id": "T1-2",
+      "status": "PASS",
+      "verified_source": "P060/P139/P185 and NLM references4/5: no measured resource negotiation, bargaining/power or normative mechanism is inferred from direct effects or relative-score associations."
+    },
+    {
+      "id": "T1-3",
+      "status": "PASS",
+      "verified_source": "P002/P138-P140/P168/P183: non-significant indirect comparisons and B200 pointwise intervals are not equivalence or universal zero-effect evidence."
+    },
+    {
+      "id": "T1-4",
+      "status": "PASS",
+      "verified_source": "P038/P105-P109/P185: relative upgrading versus absolute marital improvement distinguished, including the 1559 score-transition composition."
+    },
+    {
+      "id": "T1-5",
+      "status": "PASS",
+      "verified_source": "P186/P187 and NLM references9-11: actual marriage-service support yield is not identified or quantified; policy discussion remains conditional and exploratory."
+    }
+  ],
+  "native_citations": 11,
+  "manuscript_changes_required": false,
+  "machine_checks_are_not_substituted_for_semantic_review": true,
+  "adjudication_notes": [],
+  "provenance": {
+    "request_id": "52c1d4628d024f1fd840428e003553f3969741b272110d14e028eb6e1aeda8a1",
+    "original_receipt_sha256": "290c3babcb97843fee4042a7baf7ebd75a72375510c500e0a1a8c972b66141df",
+    "original_raw_sha256": "fa77d1da0fafa53a2cce41cfe5458b7b7c8e91a4a51348326f00962db67e2bbd",
+    "started_at": 1793614998.3635268,
+    "ended_at": 1793615032.7230139,
+    "remote_terminal": true,
+    "raw_answer": "ANSWER.raw.json",
+    "export_note": "Public projection omits local account/lease/runtime paths; exact native answer bytes remain unchanged."
+  }
+}

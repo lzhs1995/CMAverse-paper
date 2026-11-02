@@ -1,0 +1,20 @@
+{
+  "exit_code": 0,
+  "files": [
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3j-audit-20261102/scripts/rebuild_feas031_from_scores.R",
+      "bytes": 2480,
+      "sha256": "6410e04e10fcfcd5ee1b7106f7ae19531bed57241455dfcafec5ac2a3c5e5726"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3j-audit-20261102/evidence/FEAS031_SCORE_REBUILD.log",
+      "bytes": 1145,
+      "sha256": "782fed5e235d61a4cd084535d224a5ba19fffe92a35fb5e94400587cbc78e988"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3j-audit-20261102/results/FEAS031_SCORE_REBUILD_CHECKS.csv",
+      "bytes": 217,
+      "sha256": "985db8cebde696765c99e1d71fd1ce15741bdfabf7c9b0eabe671ba13fbdae18"
+    }
+  ]
+}

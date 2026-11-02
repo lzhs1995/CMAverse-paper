@@ -1,0 +1,51 @@
+{
+  "reviewer": "Codex source-grounded semantic adjudication of actual NotebookLM answer",
+  "round": 1,
+  "theme": 2,
+  "document_sha256": "ef99fcb202056bcfb1c3e559fb6b47f669f78d2b0c65dc2870003c7aab79f8d1",
+  "source_id": "cf7f3d95-715e-496b-b5b9-d8a6ebad1859",
+  "status": "PASS",
+  "criteria": [
+    {
+      "id": "T2-1",
+      "status": "PASS",
+      "verified_source": "Table2 note/P110 and source extraction: 13092 dyad-period records, 8528 distinct dyads, 5318 children; BASIC_CHAIN_SAMPLES_V3J.csv keeps chain-specific samples distinct."
+    },
+    {
+      "id": "T2-2",
+      "status": "PASS",
+      "verified_source": "P185/table11, FEAS031_RECOUNT_V3J.csv and SCORE_REBUILD_CHECKS: complete cases9879, dependent clusters2939, transition1559; 442+1372-255=1559, only-self187, only-spouse1117, both255, neither0. Units are interval records."
+    },
+    {
+      "id": "T2-3",
+      "status": "PASS",
+      "verified_source": "Table11 and CANDIDATE_DEFINITIONS_V3J.csv: 031 relative-position risk set differs from 041 valid endpoints with61 excluded/12564 retained and3149 clusters. No cross-population mechanism-ranking claim."
+    },
+    {
+      "id": "T2-4",
+      "status": "PASS",
+      "verified_source": "P096/P168 and appendixD.2: C3/C4 spouse satisfaction with respondent income/economic contribution, not QM801 overall marital satisfaction."
+    },
+    {
+      "id": "T2-5",
+      "status": "PASS",
+      "verified_source": "Identification/time-window section, P187 and appendicesB/E.4: income recall/support overlap, four-wave dwm cumulative look-ahead, continuously married selection and inherited missing-income transformations disclosed; disclosure does not repair identification."
+    }
+  ],
+  "native_citations": 13,
+  "manuscript_changes_required": false,
+  "machine_checks_are_not_substituted_for_semantic_review": true,
+  "adjudication_notes": [
+    "NLM names the Table2 section 二（一）; its actual location is 三（一）. This is an answer locator error, not a manuscript error. Exact source and tabular counts were checked locally."
+  ],
+  "provenance": {
+    "request_id": "ceefae51f477000cb3892a91843a600a32e8c291d8c1448417204298c4f210fd",
+    "original_receipt_sha256": "181df7dea2689ae8707893cc6c83194b4b07304aa3d79211a325afffbe87baf9",
+    "original_raw_sha256": "406646fe1d05fc325d8c1281ba76c2b220930796c244447b5b9e5f53b023bad2",
+    "started_at": 1793614694.026835,
+    "ended_at": 1793614732.0822039,
+    "remote_terminal": true,
+    "raw_answer": "ANSWER.raw.json",
+    "export_note": "Public projection omits local account/lease/runtime paths; exact native answer bytes remain unchanged."
+  }
+}

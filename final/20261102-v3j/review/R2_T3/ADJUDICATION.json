@@ -1,0 +1,49 @@
+{
+  "reviewer": "Codex source-grounded semantic adjudication of actual NotebookLM answer",
+  "round": 2,
+  "theme": 3,
+  "document_sha256": "ef99fcb202056bcfb1c3e559fb6b47f669f78d2b0c65dc2870003c7aab79f8d1",
+  "source_id": "cf7f3d95-715e-496b-b5b9-d8a6ebad1859",
+  "status": "PASS",
+  "criteria": [
+    {
+      "id": "T3-1",
+      "status": "PASS",
+      "verified_source": "P002/P122-P123/table5: 4.90pp association in own-satisfaction eligible absolute-income sample; adjusted association is not a population causal effect."
+    },
+    {
+      "id": "T3-2",
+      "status": "PASS",
+      "verified_source": "Table6/P129 and BASIC_INTERACTION_BOOTSTRAP_V3J.csv: AR-S -8.76pp CI[-14.79,-2.41], delta-family BHq .032; AR-P +6.82pp CI[1.05,12.62], BHq .094. Different significance does not establish a general role difference."
+    },
+    {
+      "id": "T3-3",
+      "status": "PASS",
+      "verified_source": "Table6 note and underlying separate result tables: conditional RD delta intervals versus IC-RD cluster-bootstrap intervals; BH q based on delta p, not bootstrap p."
+    },
+    {
+      "id": "T3-4",
+      "status": "PASS",
+      "verified_source": "P130: common baseline-score sample7058, role-contrast -16.40pp, CI[-26.96,-5.85] from1050 replicates; explicitly outside eight-test BH family."
+    },
+    {
+      "id": "T3-5",
+      "status": "PASS",
+      "verified_source": "P100/table1/table8: marginal OR difference null0, TNIE OR null1, risk difference unitspp; pairwise paths do not establish complete mediation."
+    }
+  ],
+  "native_citations": 8,
+  "manuscript_changes_required": false,
+  "machine_checks_are_not_substituted_for_semantic_review": true,
+  "adjudication_notes": [],
+  "provenance": {
+    "request_id": "37399c297d9fa7b93914e81d86273ceb6e8092aa23b8257abfca7d7f1d1923b3",
+    "original_receipt_sha256": "4f720779cd07cff787421990edcf7cddf512187a4367258960978682539f70cd",
+    "original_raw_sha256": "593687658a663fd81355061121c58b62dbd678c5791e08640cd14626d7e65fd0",
+    "started_at": 1793615162.3366861,
+    "ended_at": 1793615207.787314,
+    "remote_terminal": true,
+    "raw_answer": "ANSWER.raw.json",
+    "export_note": "Public projection omits local account/lease/runtime paths; exact native answer bytes remain unchanged."
+  }
+}

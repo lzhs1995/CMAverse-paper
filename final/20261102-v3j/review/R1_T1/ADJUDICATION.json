@@ -1,0 +1,49 @@
+{
+  "reviewer": "Codex source-grounded semantic adjudication of actual NotebookLM answer",
+  "round": 1,
+  "theme": 1,
+  "document_sha256": "ef99fcb202056bcfb1c3e559fb6b47f669f78d2b0c65dc2870003c7aab79f8d1",
+  "source_id": "cf7f3d95-715e-496b-b5b9-d8a6ebad1859",
+  "status": "PASS",
+  "criteria": [
+    {
+      "id": "T1-1",
+      "status": "PASS",
+      "verified_source": "P006-P020: separate marital satisfaction as mediating transmission versus relational context; individual link associations do not establish the complete causal chain."
+    },
+    {
+      "id": "T1-2",
+      "status": "PASS",
+      "verified_source": "Figure2 note and P139: push/pull directional hypotheses are not empirically confirmed; opposite signs of tiny historical indirect quantities cannot carry substantive mechanism claims."
+    },
+    {
+      "id": "T1-3",
+      "status": "PASS",
+      "verified_source": "Introduction operationalization and P185: relative upgrading distinct from absolute quality; 1559-record score decomposition; resource negotiation/control unmeasured and cannot be inferred causally."
+    },
+    {
+      "id": "T1-4",
+      "status": "PASS",
+      "verified_source": "P002/P168/P183/P186: six unadjusted B200 intervals and uncertainty do not establish equivalence, universal zero effects, normative rigidity or quantified policy yield."
+    },
+    {
+      "id": "T1-5",
+      "status": "PASS",
+      "verified_source": "P097-P102/P187/P188: post-selection exploration and simultaneous recall-window limitations disclosed consistently; no preregistration or independent confirmation claim."
+    }
+  ],
+  "native_citations": 8,
+  "manuscript_changes_required": false,
+  "machine_checks_are_not_substituted_for_semantic_review": true,
+  "adjudication_notes": [],
+  "provenance": {
+    "request_id": "ebc667b31003723ee79cbde859c6d5f50413aa04847ae79d94f05e3f473d535c",
+    "original_receipt_sha256": "11fc7e1eb5a63e8eaaf8f608e09cebef40e12e0aa91de96b5b13a383e326d60c",
+    "original_raw_sha256": "6b75d6aa1e6f4eac9f7be4563c19dc408f1479e2419f2a7e65313563a861b2ef",
+    "started_at": 1793614849.6489542,
+    "ended_at": 1793614881.211863,
+    "remote_terminal": true,
+    "raw_answer": "ANSWER.raw.json",
+    "export_note": "Public projection omits local account/lease/runtime paths; exact native answer bytes remain unchanged."
+  }
+}

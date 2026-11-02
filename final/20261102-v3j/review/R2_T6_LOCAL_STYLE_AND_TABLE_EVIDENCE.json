@@ -1,0 +1,15 @@
+{
+  "docx": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3j-audit-20261102/manuscript/native_zotero_v1/CMAverse_V3j_accepted.docx",
+  "docx_sha256": "4f647c6356bc9ec260cb99cf5d5efff3a7df2b2263e47fffb204ff009cc70654",
+  "style": "/Users/lzhs/Zotero/styles/gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses.csl",
+  "style_sha256": "cc8cbf558ed305be62c65393d8c9df37ffe21965ad21411c7dcad90de9775fd4",
+  "style_id_bound_by_docx_preferences": true,
+  "citation_et_al_min": 2,
+  "citation_et_al_use_first": 1,
+  "bibliography_authors": [
+    "Qin X",
+    "Yang F"
+  ],
+  "table5_note": "模型4分别报告同时纳入X与M后的两项关联",
+  "disposition": "R2 T6 two ISSUE labels are optional presentation/style suggestions, not defects against the current explicit document style and table definition. No document edit or native replay."
+}

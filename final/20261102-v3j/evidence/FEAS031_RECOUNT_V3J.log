@@ -1,0 +1,43 @@
+阶段：读取原候选构造与冻结样本成员
+样本计数：
+ frozen_intervals complete_case_intervals complete_case_unique_dyads
+            13092                    9879                       6922
+ transition_intervals transition_unique_dyads transition_missing_differences
+                 1559                    1559                              0
+实际分子、分母：
+                category numerator denominator  percent
+        self_up_marginal       442        1559 28.35151
+    spouse_down_marginal      1372        1559 88.00513
+ self_not_up_spouse_down      1117        1559 71.64849
+     self_up_spouse_down       255        1559 16.35664
+ self_up_spouse_not_down       187        1559 11.99487
+                 neither         0        1559  0.00000
+                        sample                  unit
+ FEAS_031_frozen_complete_case dyad_interval_records
+ FEAS_031_frozen_complete_case dyad_interval_records
+ FEAS_031_frozen_complete_case dyad_interval_records
+ FEAS_031_frozen_complete_case dyad_interval_records
+ FEAS_031_frozen_complete_case dyad_interval_records
+ FEAS_031_frozen_complete_case dyad_interval_records
+候选规格字段： spec_id, data_support_id, x, m, y, n, clusters, astar, a, mval0, mval1, mreg, yreg, outcome_scale, contrast_in_marginal_range, support_note, sample_sha256, equivalent_m_family, adjustment, time_structure, stage, B_screen, B_verify, parent_spec_id, parent_n, parent_clusters, excluded_n, excluded_fraction 
+原始评分字段： self_sat_begin, self_sat_end, spouse_sat_begin, spouse_sat_end, self_rel_sat_status_begin, self_rel_sat_status_end, spouse_rel_sat_status_begin, spouse_rel_sat_status_end, eligible_m_self_abs, m_self_abs, eligible_m_spouse_abs, m_spouse_abs, eligible_m_self_rel, m_self_rel, eligible_m_spouse_rel, m_spouse_rel, dm_self_abs, dm_spouse_abs, dm_self_rel, dm_spouse_rel, dm_self_ridit, dm_spouse_ridit 
+验证：整数构成穷尽且互斥；模型重估0；bootstrap重跑0。
+R version 4.6.1 (2026-06-24)
+Platform: aarch64-apple-darwin23
+Running under: macOS Tahoe 26.5
+
+Matrix products: default
+BLAS:   /Library/Frameworks/R.framework/Versions/4.6/Resources/lib/libRblas.0.dylib 
+LAPACK: /Library/Frameworks/R.framework/Versions/4.6/Resources/lib/libRlapack.dylib;  LAPACK version 3.12.1
+
+locale:
+[1] C.UTF-8/C.UTF-8/C.UTF-8/C/C.UTF-8/C.UTF-8
+
+time zone: Asia/Taipei
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+loaded via a namespace (and not attached):
+[1] compiler_4.6.1

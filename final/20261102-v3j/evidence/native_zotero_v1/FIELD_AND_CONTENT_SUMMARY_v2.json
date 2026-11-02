@@ -1,0 +1,24 @@
+{
+  "at": "2026-11-02T08:18:48.647206+00:00",
+  "all_views_pass": true,
+  "view_receipts": [
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3j-audit-20261102/evidence/native_zotero_v1/accepted.accepted.FIELD_AND_CONTENT_AUDIT.json",
+      "sha256": "58e549d861e84c91586fc86c2c056964675492fa01b4c059d683dc4b9c2f64a3"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3j-audit-20261102/evidence/native_zotero_v1/rejected.rejected.FIELD_AND_CONTENT_AUDIT.json",
+      "sha256": "f718d2cf37b3ab7caa40d523087104873c978f93e57f6268e6cb8fef106e3ab5"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3j-audit-20261102/evidence/native_zotero_v1/tracked.accepted.FIELD_AND_CONTENT_AUDIT_v2.json",
+      "sha256": "55ff44d9511acbf2ebca4e038ac3217069345a4c5c1c73aa5e7761078298a62b"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3j-audit-20261102/evidence/native_zotero_v1/tracked.rejected.FIELD_AND_CONTENT_AUDIT_v2.json",
+      "sha256": "aa4639de7462e36d48caeb651b0807d60c2738a8248653355e98c33b3638d671"
+    }
+  ],
+  "summary_write_recovery": "Original wrapper completed both audits, then passed a str to binding(); no native operation or audit replay was needed.",
+  "visual_acceptance": "PENDING"
+}

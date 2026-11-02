@@ -1,0 +1,28 @@
+读取冻结原评分与样本成员；原数据保持不变。
+                        check pass audited_intervals
+        relative_status_begin TRUE             13092
+          relative_status_end TRUE             13092
+ eligible_relative_transition TRUE             13092
+        self_score_difference TRUE             13092
+      spouse_score_difference TRUE             13092
+原评分独立重建：完整案例 9879 ；跃迁区间 1559 ；六个分子 442,1372,1117,255,187,0 
+与先前读取保存变量的重计全部一致；新模型0，新bootstrap0。
+R version 4.6.1 (2026-06-24)
+Platform: aarch64-apple-darwin23
+Running under: macOS Tahoe 26.5
+
+Matrix products: default
+BLAS:   /Library/Frameworks/R.framework/Versions/4.6/Resources/lib/libRblas.0.dylib 
+LAPACK: /Library/Frameworks/R.framework/Versions/4.6/Resources/lib/libRlapack.dylib;  LAPACK version 3.12.1
+
+locale:
+[1] C.UTF-8/C.UTF-8/C.UTF-8/C/C.UTF-8/C.UTF-8
+
+time zone: Asia/Taipei
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+loaded via a namespace (and not attached):
+[1] compiler_4.6.1

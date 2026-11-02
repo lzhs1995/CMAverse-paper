@@ -1,0 +1,53 @@
+{
+  "reviewer": "Codex source-grounded semantic adjudication of actual NotebookLM answer",
+  "round": 2,
+  "theme": 6,
+  "document_sha256": "ef99fcb202056bcfb1c3e559fb6b47f669f78d2b0c65dc2870003c7aab79f8d1",
+  "source_id": "cf7f3d95-715e-496b-b5b9-d8a6ebad1859",
+  "status": "PASS",
+  "criteria": [
+    {
+      "id": "T6-1",
+      "status": "PASS",
+      "verified_source": "摘要、表2、表5/6与最终稿已保存数值核对：13,092描述记录，AA-S RD4.90百分点，AR-S IC-RD -8.76百分点/BH q=.032；六项新概率中介未调整区间含0但非等效性。接受所核锚点一致，不采纳“全部完全一致”的无限外推。"
+    },
+    {
+      "id": "T6-2",
+      "status": "PASS",
+      "verified_source": "图5/表5-6是边际标准化概率/RD百分点；图6/表7-8为历史OR及配对OR差；图6两参考线分别1与0。沿用本轮实际PDF视觉与文本验收，不由NLM答复代替渲染验证。"
+    },
+    {
+      "id": "T6-3",
+      "status": "PASS",
+      "verified_source": "一（二）4、二（一）1、三（三）3.3、附录A及讨论均明确暂停PE/干预量化解释，无政策份额保证。"
+    },
+    {
+      "id": "T6-4",
+      "status": "PASS",
+      "verified_source": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3j-audit-20261102/nlm_v3j/R2_T6_LOCAL_STYLE_AND_TABLE_EVIDENCE.json：DOCX已绑定CSL citation et-al-min=2 / et-al-use-first=1，Qin et al.,2022与两作者书目相容于当前样式；原答建议Qin & Yang为替换投稿样式选项，不是当前稿事实矛盾。未联网重核书目。"
+    },
+    {
+      "id": "T6-5",
+      "status": "PASS",
+      "verified_source": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3j-audit-20261102/nlm_v3j/R2_T6_LOCAL_STYLE_AND_TABLE_EVIDENCE.json：表5两个模型4列已分别标X|M与M|X；表下注明同一模型同时纳入X和M后两项关联。原答建议冒号改括号仅排版偏好，不需改编号或重开原生验收。"
+    }
+  ],
+  "native_citations": 11,
+  "manuscript_changes_required": false,
+  "machine_checks_are_not_substituted_for_semantic_review": true,
+  "adjudication_notes": [
+    "原生答复的T6-4/T6-5为ISSUE并自标可选投稿/排版建议。Codex据实际DOCX样式绑定、已安装CSL和表5原注将其裁定为非阻断建议，原答逐字保留，未假称NLM原答五项均PASS。",
+    "不能以未指定的APA规则推翻本稿已采用的GB/T派生样式；具体投稿格式仍待期刊选择。",
+    "原答的“完全一致/严格一致”只在已核关键锚点范围接受；NLM未运行模型、未联网核全部文献，也不替代Word动态域/版面验证。"
+  ],
+  "provenance": {
+    "request_id": "91cb78f7012aaa8c1050a555cd631ef6a5ca099162001f770989385ff6e70e6c",
+    "original_receipt_sha256": "b6e9f599a6639faa7e9c9aa4911aebd09b69caac501f01fd829729fca6dd5ed0",
+    "original_raw_sha256": "dd009733a3c84a4f849056d7dcd6196cb31094b5f5c380d6f1bf55b386c3458b",
+    "started_at": 1793615474.8917818,
+    "ended_at": 1793615533.471487,
+    "remote_terminal": true,
+    "raw_answer": "ANSWER.raw.json",
+    "export_note": "Public projection omits local account/lease/runtime paths; exact native answer bytes remain unchanged."
+  }
+}

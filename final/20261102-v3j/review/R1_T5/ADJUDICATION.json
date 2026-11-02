@@ -1,0 +1,52 @@
+{
+  "reviewer": "Codex source-grounded semantic adjudication of actual NotebookLM answer",
+  "round": 1,
+  "theme": 5,
+  "document_sha256": "ef99fcb202056bcfb1c3e559fb6b47f669f78d2b0c65dc2870003c7aab79f8d1",
+  "source_id": "cf7f3d95-715e-496b-b5b9-d8a6ebad1859",
+  "status": "PASS",
+  "criteria": [
+    {
+      "id": "T5-1",
+      "status": "PASS",
+      "verified_source": "P170-P173/tables11-12: modified no-dwm estimates retain own B1000 intervals with no new p/search adjustment; historical p values explicitly use retained dwm and cannot apply to revised models."
+    },
+    {
+      "id": "T5-2",
+      "status": "PASS",
+      "verified_source": "P100/P170/P187 and candidate definitions: FEAS031 9879/2939 vs FEAS041 12564/3149; eligibility, simultaneous windows, original sample/draw pairing and exploratory-only interpretation preserved."
+    },
+    {
+      "id": "T5-3",
+      "status": "PASS",
+      "verified_source": "P177/table13/P184/P279 and P3_OMNIBUS_V3J.csv: original p264/2001=.13193403 and capped p160/2001=.07996002; monthly-yuan level contrast, no local-significance mechanism claim."
+    },
+    {
+      "id": "T5-4",
+      "status": "PASS",
+      "verified_source": "P101/P277-P279: same likelihood/model/formula/sample and original 2000 draw hashes; 49 failures repaired numerically, historical deficient fits not covered; no independent replication claim."
+    },
+    {
+      "id": "T5-5",
+      "status": "PASS",
+      "verified_source": "P102/P180/P281/tableE.1 and SIX_TEST_FAMILY_V3J.csv: means are between-person associations, deviations not causal within effects or FE; all four BH/BY q>.05. Exact q_BH6 first three .11994003, spouse-within .19462668."
+    }
+  ],
+  "native_citations": 14,
+  "manuscript_changes_required": false,
+  "machine_checks_are_not_substituted_for_semantic_review": true,
+  "adjudication_notes": [
+    "NLM T5-5 compresses all N1 BH q values to .120. Actual tableE.1/CSV has spouse-within q=.19462668336981; first three are .119940029985007. Local correction only; raw answer unchanged. The manuscript itself and the no-adjusted-significance conclusion are consistent.",
+    "NLM section labels such as 二（四） are imprecise; local evidence uses P100-P102 and III(4)/AppendixE. No Word document change is needed."
+  ],
+  "provenance": {
+    "request_id": "d96a96d14d196660edc19327cbc73d38428bb98ca0207b413eb42581af647a81",
+    "original_receipt_sha256": "ad76b11b569d647479db85cb2d56ff8ac4b043fb123e59e605dfa0a69c723395",
+    "original_raw_sha256": "9feb7559215f750cd400cbe15d1735e8a18bdcee01f1fe83200f48193bbb7d54",
+    "started_at": 1793614193.039018,
+    "ended_at": 1793614235.80638,
+    "remote_terminal": true,
+    "raw_answer": "ANSWER.raw.json",
+    "export_note": "Public projection omits local account/lease/runtime paths; exact native answer bytes remain unchanged."
+  }
+}

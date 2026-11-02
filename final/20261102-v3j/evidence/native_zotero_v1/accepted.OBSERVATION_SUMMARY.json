@@ -1,0 +1,13 @@
+{
+  "saved_state_change_observed": true,
+  "stable_readbacks": 3,
+  "observations": [
+    "saved=true;revisions=0;fields=21;characters=67617;tables=34;temp=false",
+    "saved=true;revisions=0;fields=21;characters=67617;tables=34;temp=false",
+    "saved=false;revisions=0;fields=21;characters=67617;tables=34;temp=false",
+    "saved=false;revisions=0;fields=21;characters=67617;tables=34;temp=false",
+    "saved=false;revisions=0;fields=21;characters=67617;tables=34;temp=false",
+    "saved=false;revisions=0;fields=21;characters=67617;tables=34;temp=false"
+  ],
+  "claim_scope": "Native refresh trigger, saved-state change and stable Word readback; final field content verified separately"
+}

@@ -1,0 +1,51 @@
+{
+  "reviewer": "Codex source-grounded semantic adjudication of actual NotebookLM answer",
+  "round": 2,
+  "theme": 5,
+  "document_sha256": "ef99fcb202056bcfb1c3e559fb6b47f669f78d2b0c65dc2870003c7aab79f8d1",
+  "source_id": "cf7f3d95-715e-496b-b5b9-d8a6ebad1859",
+  "status": "PASS",
+  "criteria": [
+    {
+      "id": "T5-1",
+      "status": "PASS",
+      "verified_source": "最终PDF表11、表12注及三（四），DOCX完整读回：新去dwm修订模型未搭配含dwm历史搜索p；明确不拼接。"
+    },
+    {
+      "id": "T5-2",
+      "status": "PASS",
+      "verified_source": "表11资格定义（031：9,879记录/2,939簇；041：12,564/3,149），未计算新p或搜索校正；讨论保留支持、时序及探索性限定。"
+    },
+    {
+      "id": "T5-3",
+      "status": "PASS",
+      "verified_source": "最终PDF表13与讨论，原金额/99%封顶整体p=.132/.080，单位元/月；不使用局部点排序替代整体结论；与既存汇总值一致。"
+    },
+    {
+      "id": "T5-4",
+      "status": "PASS",
+      "verified_source": "二（四）、附录E.2与实际原答引文6/7：同一样本、公式、Gamma/Log似然及原2,000整簇抽样，49旧失败留存；未宣称换模型或独立复制。"
+    },
+    {
+      "id": "T5-5",
+      "status": "PASS",
+      "verified_source": "N1方法、三（四）、表E.1与DOCX：人际均值/个人内偏差属于关联；不是本人固定效应或中介模型；固定六项调整后四项满意度关联均未显著。"
+    }
+  ],
+  "native_citations": 9,
+  "manuscript_changes_required": false,
+  "machine_checks_are_not_substituted_for_semantic_review": true,
+  "adjudication_notes": [
+    "完整审读42.17秒原生答复及全部9条来源引用；只核对应最终文稿，没有重跑模型或查询。"
+  ],
+  "provenance": {
+    "request_id": "01b06904c2775ec604dced321fa66b1950ac0a754812bbdbd6703696d375ff9a",
+    "original_receipt_sha256": "2b2a0665b44e6863bb6be1d7a82f84afc3e367f828b217200e83350e56f4f0d3",
+    "original_raw_sha256": "7fc025442d9893dfeaf65eb38fbb35ca4e9358dd2a214359b626f4a6aa5ae26a",
+    "started_at": 1793615389.930743,
+    "ended_at": 1793615432.105716,
+    "remote_terminal": true,
+    "raw_answer": "ANSWER.raw.json",
+    "export_note": "Public projection omits local account/lease/runtime paths; exact native answer bytes remain unchanged."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "at": "2026-11-02T08:09:50.183396+00:00",
+  "status": "NATIVE_REFRESH_OBSERVED_SAVE_REOPEN_COMPLETE",
+  "outputs": {
+    "accepted": {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3j-audit-20261102/manuscript/native_zotero_v1/CMAverse_V3j_accepted.docx",
+      "bytes": 550981,
+      "sha256": "4f647c6356bc9ec260cb99cf5d5efff3a7df2b2263e47fffb204ff009cc70654"
+    },
+    "rejected": {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3j-audit-20261102/manuscript/native_zotero_v1/CMAverse_V3j_rejected.docx",
+      "bytes": 549479,
+      "sha256": "35dbde9e74238775bf7729df16960cfb4015013e9ac8c8c319e0c9313642291c"
+    },
+    "tracked": {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3j-audit-20261102/manuscript/native_zotero_v1/CMAverse_V3j_tracked.docx",
+      "bytes": 555366,
+      "sha256": "4634b27bd33209195b75b3f381a39fc7e28da36667cb0bb8734aeb2c3dce2d7a"
+    }
+  },
+  "field_structure_content_and_visual_validation": "PENDING",
+  "PDF": "PENDING",
+  "NLM": "PENDING"
+}

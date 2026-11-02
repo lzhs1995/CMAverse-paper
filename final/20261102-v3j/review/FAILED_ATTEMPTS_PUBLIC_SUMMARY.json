@@ -1,0 +1,57 @@
+{
+  "attempts": [
+    {
+      "request_id": "678f40e091e63579c2facbab5431e6d56d2f06f39a3f3ccd392f807e669fadb0",
+      "round_id": "V3J_R1_T1",
+      "original_status": "UNCERTAIN",
+      "original_receipt_sha256": "fdcb7d28ef26b8a2374f6aa832fdfb0e9c9469890ea4d32b456accca5ae0409d",
+      "raw_answer_sha256": "1389822af4322aa9ad5a3ca3959635d0e6a33f8117e6568f9599ffb43a06490e",
+      "original_error": "INVALID_RESPONSE: REMOTE_ERROR_RESPONSE",
+      "duration_seconds": 242.15718603134155,
+      "local_ledger_state": "FAILED",
+      "local_lease_state": "CANCELLED",
+      "remote_outcome": "UNKNOWN_PRESERVED",
+      "formal_review_credit": 0,
+      "quota_refunded": false,
+      "original_request_reposted": false,
+      "original_result_reconciliation_completed": true,
+      "local_disposition_sha256": "17d78fb2e01ffec994d7a354cd4602370627558331954581266e20c9c8937550"
+    },
+    {
+      "request_id": "abd8f6f46793d92665196ebf6cd78b1e3c8bd8b5db494a92f08b852f492fe6d2",
+      "round_id": "V3J_R1_T2",
+      "original_status": "UNCERTAIN",
+      "original_receipt_sha256": "1ca553832a752a7e5b65175979d479f19022bab00edbcc989225b1d776d97935",
+      "raw_answer_sha256": "87870aab003e77b07a9062d926a6c6614850d6de9c3cbd3e479a1a3310795321",
+      "original_error": "INVALID_RESPONSE: REMOTE_ERROR_RESPONSE",
+      "duration_seconds": 90.72790288925171,
+      "local_ledger_state": "FAILED",
+      "local_lease_state": "CANCELLED",
+      "remote_outcome": "UNKNOWN_PRESERVED",
+      "formal_review_credit": 0,
+      "quota_refunded": false,
+      "original_request_reposted": false,
+      "original_result_reconciliation_completed": true,
+      "local_disposition_sha256": "8398d06f57dc140c25aa2ece1fd2745f4b964435e156f5b73f48e6858443d8df"
+    },
+    {
+      "request_id": "88a9e1e3528f0b7794f353f3db92c6efcdb1e08093a78bf15f146774d3385d9d",
+      "round_id": "V3J_R1_T1_TARGETED_COMPLETION",
+      "original_status": "UNCERTAIN",
+      "original_receipt_sha256": "9cfb3b0ac9aa96ad2a9f5be5c3c423f6e719f1348fcc5b56633229e96880829e",
+      "raw_answer_sha256": "87870aab003e77b07a9062d926a6c6614850d6de9c3cbd3e479a1a3310795321",
+      "original_error": "INVALID_RESPONSE: REMOTE_ERROR_RESPONSE",
+      "duration_seconds": 91.01763892173767,
+      "local_ledger_state": "FAILED",
+      "local_lease_state": "CANCELLED",
+      "remote_outcome": "UNKNOWN_PRESERVED",
+      "formal_review_credit": 0,
+      "quota_refunded": false,
+      "original_request_reposted": false,
+      "original_result_reconciliation_completed": true,
+      "local_disposition_sha256": "7d87028f2a6c7dc05a453e0d91a826626bdbf07d5e4e0b4be85aa3b0a4ca6f89"
+    }
+  ],
+  "originals_preserved_locally": true,
+  "secrets_or_runtime_exports_included": false
+}

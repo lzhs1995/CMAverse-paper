@@ -1,0 +1,336 @@
+{
+  "at": "2026-11-02T07:40:51.752746+00:00",
+  "scope": "full stated result sets; source extraction and descriptive recount; not full statistical reproduction",
+  "checks": [
+    {
+      "check": "basic_full_8_chains_and_4_families",
+      "pass": true,
+      "inference_note": "FDR uses delta-method p; bootstrap intervals/p are separate columns/files, not interchangeable."
+    },
+    {
+      "check": "historical_all_eight_not_selected_four",
+      "pass": true,
+      "point_min": 0.986095191983978,
+      "point_max": 1.0040929094936,
+      "ci_envelope": [
+        0.960435542085175,
+        1.02002450793366
+      ]
+    },
+    {
+      "check": "14_total_8_moderation_6_probability_mediation",
+      "pass": true,
+      "probability_point_ci_envelope": [
+        -0.167786154340405,
+        0.31882159883525596
+      ],
+      "all_six_intervals_include_zero": true,
+      "equivalence_or_simultaneous_exclusion_claim": false
+    },
+    {
+      "check": "with_dwm_and_no_dwm_inference_kept_separate",
+      "pass": true
+    },
+    {
+      "check": "frozen_data_row_recount",
+      "pass": true,
+      "denominator": 1559,
+      "method": "Rscript; original_RDS_and_frozen_membership; no_model_refit"
+    }
+  ],
+  "sources": [
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/data/identity_target_13092.rds",
+      "bytes": 3517930,
+      "sha256": "1fc9e250af22285cf7cf763ce15fe4e479d798a7e31d3cdd1f64cc1ffe5f4a4c",
+      "historical_expected_hashes": [],
+      "verification": "historical_hash_match"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/data/v6_provisional_dyad_intervals_recovered.rds",
+      "bytes": 589112,
+      "sha256": "f379c6a5d5d7ba6ead448083f0bb96ebc698431c78ca96d37e2444596d01b7b2",
+      "historical_expected_hashes": [],
+      "verification": "historical_hash_match"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/candidate_data.R",
+      "bytes": 1629,
+      "sha256": "802a91bb456de0a193049998e5f5392049bacb5903ca672eafc62aef5eb2d9a1",
+      "historical_expected_hashes": [],
+      "verification": "historical_hash_match"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/feasible_population_v1/sample_membership.rds",
+      "bytes": 4414621,
+      "sha256": "0772812949afd163bb77c9dad2d7fa7790c82a0e8ad4e553e7f26182810e7403",
+      "historical_expected_hashes": [],
+      "verification": "historical_hash_match"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/feasible_population_v1/specifications.csv",
+      "bytes": 80519,
+      "sha256": "9ed331391d5359a707692e9ff5ce849ef63e11f87d926368c889ca347a79ddd3",
+      "historical_expected_hashes": [],
+      "verification": "historical_hash_match"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/n1_n2/runtime_v2/N1_formal_v3/N1_primary_four.csv",
+      "bytes": 922,
+      "sha256": "7e316aefe1087dfed5cdea08778153aa8e9a8869647f96c6bca040499ef3316c",
+      "historical_expected_hashes": [],
+      "verification": "historical_hash_match"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/exports/P3_OMNIBUS.csv",
+      "bytes": 276,
+      "sha256": "66efaccabcb3d9cc27849239c38e3dd186fce674db90a2491c6224f18a37375a",
+      "historical_expected_hashes": [],
+      "verification": "historical_hash_match"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/exports/P3_POINTS.csv",
+      "bytes": 349,
+      "sha256": "b26fd98a7d07cc1011f7f80a0aaba2d12150563bb2359a483e286e2818d5cb71",
+      "historical_expected_hashes": [],
+      "verification": "historical_hash_match"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/exports/SIX_TEST_FAMILY.csv",
+      "bytes": 458,
+      "sha256": "898dae5ff61817e300c949ce3d450d739bba1c94eb1300bc576631697c2d5885",
+      "historical_expected_hashes": [],
+      "verification": "historical_hash_match"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/search_audit/ALL_150_REGISTER.csv",
+      "bytes": 90581,
+      "sha256": "4d253cb8f7cdd795e185633d0d556e662277251497b15bf236e27998ee0d16e6",
+      "historical_expected_hashes": [],
+      "verification": "historical_hash_match"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/numerical_closeout_20261006_v1/search_audit/RW_ALL_240.csv",
+      "bytes": 21754,
+      "sha256": "06369784ef17c1c66fa2dd4e7528db69aee28a5520dd23b7ed26c55e4bb229b6",
+      "historical_expected_hashes": [],
+      "verification": "historical_hash_match"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/p1_p2/readonly_summary_v1/FEAS_031_intervals.csv",
+      "bytes": 906,
+      "sha256": "a16da1aae8ba566623908e17eae1056e27e7abc7325a3319abd0631d9f4a5872",
+      "historical_expected_hashes": [
+        "a16da1aae8ba566623908e17eae1056e27e7abc7325a3319abd0631d9f4a5872"
+      ],
+      "verification": "historical_hash_match"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/p1_p2/readonly_summary_v1/FEAS_031_loo.csv",
+      "bytes": 2304318,
+      "sha256": "3f8578a3af9da01b3f0b2b79be8ff1826ef3cff235b3e890f60156e4ee26c8e8",
+      "historical_expected_hashes": [],
+      "verification": "historical_hash_match"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/p1_p2/readonly_summary_v1/FEAS_031_period.csv",
+      "bytes": 1698,
+      "sha256": "b28984ffa5430c7caf249daff7b5abd5c982fe6ca7e362c3a18eda4776c29113",
+      "historical_expected_hashes": [],
+      "verification": "historical_hash_match"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/p1_p2/readonly_summary_v1/FEAS_041_intervals.csv",
+      "bytes": 911,
+      "sha256": "b52e0385b11f9311c6ef4eea60bfd56aa630bfa2bfd649d31b494ad4d0237617",
+      "historical_expected_hashes": [
+        "b52e0385b11f9311c6ef4eea60bfd56aa630bfa2bfd649d31b494ad4d0237617"
+      ],
+      "verification": "historical_hash_match"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/p1_p2/readonly_summary_v1/FEAS_041_loo.csv",
+      "bytes": 2475478,
+      "sha256": "2166abaae863ba80a94282276e3c69bd64a8ccad3a5f9595412cbf337b6adc83",
+      "historical_expected_hashes": [],
+      "verification": "historical_hash_match"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/limited_followup_20261006_v1/p1_p2/readonly_summary_v1/FEAS_041_period.csv",
+      "bytes": 1699,
+      "sha256": "ba6cd4e404f38445b8910dde5a22a2d47d7a1399b13dc58b0b331e45673af8f3",
+      "historical_expected_hashes": [],
+      "verification": "historical_hash_match"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/manuscript_integration_v1/NEW14_PRIMARY_METRICS_v1.csv",
+      "bytes": 4535,
+      "sha256": "dae1bab93fd081d9333bbf509f48d1b83768321b46286f1f5e2fe4bb49d9c078",
+      "historical_expected_hashes": [],
+      "verification": "current_bytes_pinned"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/pro_claude_v4_consensus_20261005_v1/probability_recovery_v1/B200_PRIMARY_SELECTION_CORRECTED.csv",
+      "bytes": 3044,
+      "sha256": "6188a58adb31be542e6413759499e1ed19e110889eedec1c0da7b809a6bf3921",
+      "historical_expected_hashes": [
+        "6188a58adb31be542e6413759499e1ed19e110889eedec1c0da7b809a6bf3921"
+      ],
+      "verification": "historical_hash_match"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/verify_B1000_v1/FEAS_031/METRICS.csv",
+      "bytes": 591,
+      "sha256": "b0b72189ba173917e4e454e38d3d9baaf7471e5690ec84af09aca3b469030952",
+      "historical_expected_hashes": [],
+      "verification": "historical_hash_match"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/next_phase/PLAN13_全稿实证复核与修订_20260929/exploratory_specification_search_20261005_v1/verify_B1000_v1/FEAS_041/METRICS.csv",
+      "bytes": 594,
+      "sha256": "514527d3f778b1fbe54f5146bdc21bc0608a8991a9f6db3b0d999530ec654dba",
+      "historical_expected_hashes": [],
+      "verification": "historical_hash_match"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/results/basic_v71/results/02_chain_sample_summary.csv",
+      "bytes": 1375,
+      "sha256": "157487dad907ba84e3018e10ae31f26d26f32bef51eb9687e3654c5e6951dbb6",
+      "historical_expected_hashes": [
+        "157487dad907ba84e3018e10ae31f26d26f32bef51eb9687e3654c5e6951dbb6"
+      ],
+      "verification": "historical_hash_match"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/results/basic_v71/results/05_standardized_effects_actor_cluster.csv",
+      "bytes": 29486,
+      "sha256": "51f4704032dc79dbdc6f475e02ef6db253485c0a0ed52e1f26069d5503a5f678",
+      "historical_expected_hashes": [
+        "51f4704032dc79dbdc6f475e02ef6db253485c0a0ed52e1f26069d5503a5f678"
+      ],
+      "verification": "historical_hash_match"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/results/basic_v71/results/13_bh_fdr_four_families.csv",
+      "bytes": 4992,
+      "sha256": "a428207aea3c539ed4047cdac7278671dcb0f5664cebe46803ac543518c6f831",
+      "historical_expected_hashes": [
+        "a428207aea3c539ed4047cdac7278671dcb0f5664cebe46803ac543518c6f831"
+      ],
+      "verification": "historical_hash_match"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/results/basic_v71/results/17_shared_actor_bootstrap_interaction_summary.csv",
+      "bytes": 1620,
+      "sha256": "bbb04dc300097a583d3dd3cc042453afe2901cf0935d7ec08bc67915908a1a09",
+      "historical_expected_hashes": [
+        "bbb04dc300097a583d3dd3cc042453afe2901cf0935d7ec08bc67915908a1a09"
+      ],
+      "verification": "historical_hash_match"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/results/basic_v71/results/19_ar_common_risk_role_bootstrap_summary.csv",
+      "bytes": 735,
+      "sha256": "13ed24dcbb70c4504cdbe45a676119a21843b94977b22d500f9f78b216684300",
+      "historical_expected_hashes": [
+        "13ed24dcbb70c4504cdbe45a676119a21843b94977b22d500f9f78b216684300"
+      ],
+      "verification": "historical_hash_match"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/CMAverse_恢复工程_20260927/sources/extracted/v751_empirical/research/20260905_basic_regression_cmaverse_v7_4_1/cma/summary/formal_effects_all_chains_long.csv",
+      "bytes": 50517,
+      "sha256": "d1791120f06c1dfc6a04e7123e764f3996c65bb354667d64d86f7ac0ab24df13",
+      "historical_expected_hashes": [
+        "d1791120f06c1dfc6a04e7123e764f3996c65bb354667d64d86f7ac0ab24df13"
+      ],
+      "verification": "historical_hash_match"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v4/delivery_r2/package/provenance/SOURCE_INDEX.json",
+      "bytes": 237692,
+      "sha256": "0f1a1b13359a22a5f6e46ab4471fb0c68cb56eb75391915ae4e53276956f5616",
+      "historical_expected_hashes": [],
+      "verification": "current_bytes_pinned"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v4/delivery_r2/package/results/CANDIDATE_DEFINITIONS.csv",
+      "bytes": 2582,
+      "sha256": "91594719bdb90408d2db2d8dc3b7d058f8010af3580ab36d1089dbf236c69713",
+      "historical_expected_hashes": [],
+      "verification": "current_bytes_pinned"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v4/delivery_r2/package/results/CANDIDATE_HISTORY_PANELS.csv",
+      "bytes": 12136,
+      "sha256": "3783cf06ca139b7d019d3a8cdecffbe734622f41e5f5d08dd01a7c673aa39c36",
+      "historical_expected_hashes": [],
+      "verification": "current_bytes_pinned"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v4/delivery_r2/package/results/CANDIDATE_LOO_SUMMARY.csv",
+      "bytes": 1127,
+      "sha256": "3b3e1fecba910204070f91e552d79848af3d9b60a62f6088521949b918f0061f",
+      "historical_expected_hashes": [],
+      "verification": "current_bytes_pinned"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v4/delivery_r2/package/results/CANDIDATE_PERIOD_DIAGNOSTICS.csv",
+      "bytes": 3583,
+      "sha256": "45ad54ecde9ff1aca7d9b125f265dffd0501237d1ce78aeb4a38426a7315d659",
+      "historical_expected_hashes": [],
+      "verification": "current_bytes_pinned"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v4/delivery_r2/package/results/N1_FOUR_WITH_FINAL_SIX_ADJUSTMENT.csv",
+      "bytes": 3786,
+      "sha256": "f4a13582042d0ddfff237ead1050c2fb0fda71fe15324d877af058c7ccf3ca9a",
+      "historical_expected_hashes": [],
+      "verification": "current_bytes_pinned"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v4/delivery_r2/package/results/P3_OMNIBUS.csv",
+      "bytes": 981,
+      "sha256": "ccffc457e5d67b0ba6f75800ce897e8ffe64fb0d838cbeec691a3d71028c23b3",
+      "historical_expected_hashes": [],
+      "verification": "current_bytes_pinned"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v4/delivery_r2/package/results/P3_THREE_STATE.csv",
+      "bytes": 1776,
+      "sha256": "1b0781887c17597ee31372357e61633563a8f2faff20bd8eb3c78202b0bfca11",
+      "historical_expected_hashes": [],
+      "verification": "current_bytes_pinned"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v4/delivery_r2/package/results/SIX_TEST_FAMILY.csv",
+      "bytes": 2587,
+      "sha256": "add3162358ec82782d17fc1a8e7001af3db338999f4de60e8e1134f7b4cbf36e",
+      "historical_expected_hashes": [],
+      "verification": "current_bytes_pinned"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3j-audit-20261102/results/FEAS031_RECOUNT_V3J.csv",
+      "bytes": 666,
+      "sha256": "306b947ec9912b76067986f3d5d30c698b65470a3bca3147a389ec3feb118bf3",
+      "historical_expected_hashes": [],
+      "verification": "current_bytes_pinned"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3j-audit-20261102/scripts/audit_sources.py",
+      "bytes": 9366,
+      "sha256": "3f3e989a1a60359b4fecf176710429687e39617792c9a894efe928a5561e2c83",
+      "historical_expected_hashes": [],
+      "verification": "current_bytes_pinned"
+    },
+    {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3j-audit-20261102/scripts/recount_feas031.R",
+      "bytes": 3016,
+      "sha256": "cf253e828ed2c2369f818efbb032a082da92ba80a441d34cb5038e513416b1f5",
+      "historical_expected_hashes": [],
+      "verification": "current_bytes_pinned"
+    }
+  ],
+  "model_fits": 0,
+  "bootstrap_runs": 0
+}

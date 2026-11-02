@@ -1,0 +1,7 @@
+"category","numerator","denominator","percent","sample","unit"
+"self_up_marginal",442,1559,28.3515073765234,"FEAS_031_frozen_complete_case","dyad_interval_records"
+"spouse_down_marginal",1372,1559,88.0051314945478,"FEAS_031_frozen_complete_case","dyad_interval_records"
+"self_not_up_spouse_down",1117,1559,71.6484926234766,"FEAS_031_frozen_complete_case","dyad_interval_records"
+"self_up_spouse_down",255,1559,16.3566388710712,"FEAS_031_frozen_complete_case","dyad_interval_records"
+"self_up_spouse_not_down",187,1559,11.9948685054522,"FEAS_031_frozen_complete_case","dyad_interval_records"
+"neither",0,1559,0,"FEAS_031_frozen_complete_case","dyad_interval_records"

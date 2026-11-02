@@ -1,0 +1,60 @@
+BASIC_ALL_STANDARDIZED_RESULTS_V3J.csv rows= 232
+BASIC_FOUR_FDR_FAMILIES_V3J.csv rows= 32
+BASIC_INTERACTION_BOOTSTRAP_V3J.csv rows= 8
+BASIC_CHAIN_SAMPLES_V3J.csv rows= 8
+BASIC_COMMON_RISK_ROLE_CONTRASTS_V3J.csv rows= 3
+HISTORICAL_ALL_EIGHT_TNIE_V3J.csv rows= 8
+NEW14_COMPLETE_SPECIFICATIONS_V3J.csv rows= 14
+NEW14_SELECTION_V3J.csv rows= 14
+SIX_PROBABILITY_MEDIATION_V3J.csv rows= 6
+CANDIDATES_ALL_VERSION_PANELS_V3J.csv rows= 20
+CANDIDATES_PAIRED_INTERVALS_SEPARATE_VERSIONS_V3J.csv rows= 12
+N1_FOUR_WITH_FINAL_SIX_ADJUSTMENT_V3J.csv rows= 4
+P3_THREE_STATE_V3J.csv rows= 3
+P3_OMNIBUS_V3J.csv rows= 2
+SIX_TEST_FAMILY_V3J.csv rows= 6
+CANDIDATE_DEFINITIONS_V3J.csv rows= 2
+CANDIDATE_LOO_SUMMARY_V3J.csv rows= 2
+CANDIDATE_PERIOD_DIAGNOSTICS_V3J.csv rows= 4
+{
+  "checks": [
+    {
+      "check": "basic_full_8_chains_and_4_families",
+      "pass": true,
+      "inference_note": "FDR uses delta-method p; bootstrap intervals/p are separate columns/files, not interchangeable."
+    },
+    {
+      "check": "historical_all_eight_not_selected_four",
+      "pass": true,
+      "point_min": 0.986095191983978,
+      "point_max": 1.0040929094936,
+      "ci_envelope": [
+        0.960435542085175,
+        1.02002450793366
+      ]
+    },
+    {
+      "check": "14_total_8_moderation_6_probability_mediation",
+      "pass": true,
+      "probability_point_ci_envelope": [
+        -0.167786154340405,
+        0.31882159883525596
+      ],
+      "all_six_intervals_include_zero": true,
+      "equivalence_or_simultaneous_exclusion_claim": false
+    },
+    {
+      "check": "with_dwm_and_no_dwm_inference_kept_separate",
+      "pass": true
+    },
+    {
+      "check": "frozen_data_row_recount",
+      "pass": true,
+      "denominator": 1559,
+      "method": "Rscript; original_RDS_and_frozen_membership; no_model_refit"
+    }
+  ],
+  "source_count": 39,
+  "model_fits": 0,
+  "bootstrap_runs": 0
+}

@@ -1,0 +1,258 @@
+{
+  "at": 1793616808.56192,
+  "status": "PASS",
+  "document_sha256": "ef99fcb202056bcfb1c3e559fb6b47f669f78d2b0c65dc2870003c7aab79f8d1",
+  "source_id": "cf7f3d95-715e-496b-b5b9-d8a6ebad1859",
+  "same_pdf_two_rounds": true,
+  "source_ready_status": 2,
+  "fulltext_characters_read": 70915,
+  "key_source_anchors_checked": 13,
+  "fulltext_check_scope": "Whitespace and standalone PDF font-label lines removed for anchor search only. Full raw is preserved; no claim of byte-identical extraction or OCR layout equivalence.",
+  "all_native_citations_current_source": true,
+  "completed_themes": 12,
+  "criterion_adjudications": 60,
+  "independent_completed_conversations": 12,
+  "native_citation_records": 152,
+  "actual_query_attempts": 15,
+  "failed_attempts_preserved": 3,
+  "active_or_uncertain_owned_query_records": 0,
+  "manuscript_changes_required": false,
+  "entries": [
+    {
+      "round": 1,
+      "theme": 1,
+      "status": "PASS",
+      "checks": 5,
+      "native_citation_records": 8,
+      "request_id": "ebc667b31003723ee79cbde859c6d5f50413aa04847ae79d94f05e3f473d535c",
+      "original_receipt_sha256": "11fc7e1eb5a63e8eaaf8f608e09cebef40e12e0aa91de96b5b13a383e326d60c",
+      "raw_answer_sha256": "6b75d6aa1e6f4eac9f7be4563c19dc408f1479e2419f2a7e65313563a861b2ef",
+      "adjudication_sha256": "597185d377a9fd56f341d77919219daf16945b6b2eb43f1708811713a2a3cc6f",
+      "started_at": 1793614849.6489542,
+      "ended_at": 1793614881.211863,
+      "duration_seconds": 31.56290888786316
+    },
+    {
+      "round": 1,
+      "theme": 2,
+      "status": "PASS",
+      "checks": 5,
+      "native_citation_records": 13,
+      "request_id": "ceefae51f477000cb3892a91843a600a32e8c291d8c1448417204298c4f210fd",
+      "original_receipt_sha256": "181df7dea2689ae8707893cc6c83194b4b07304aa3d79211a325afffbe87baf9",
+      "raw_answer_sha256": "406646fe1d05fc325d8c1281ba76c2b220930796c244447b5b9e5f53b023bad2",
+      "adjudication_sha256": "26548fba0cffe792e03ea95ccb10426c01c6fbfec4c54359c626100f95902b7d",
+      "started_at": 1793614694.026835,
+      "ended_at": 1793614732.0822039,
+      "duration_seconds": 38.05536890029907
+    },
+    {
+      "round": 1,
+      "theme": 3,
+      "status": "PASS",
+      "checks": 5,
+      "native_citation_records": 13,
+      "request_id": "cafd54f3be54c438f4c4c3022e701893ab65da90a15081217c7e92ecc0cd4e5b",
+      "original_receipt_sha256": "42813ae1d6e63902a43b71cd11770232f26eb422f5717ee3cc3f8dd4c5acce25",
+      "raw_answer_sha256": "c326987f4286281751b426273b67702e8e4a875d5f3d32ec36e72afc6aa47c43",
+      "adjudication_sha256": "8a95b882f670aced40a9a694728e4e8f77db1134d2a52f819417c738e7afe6d0",
+      "started_at": 1793613510.631382,
+      "ended_at": 1793613558.957031,
+      "duration_seconds": 48.32564902305603
+    },
+    {
+      "round": 1,
+      "theme": 4,
+      "status": "PASS",
+      "checks": 5,
+      "native_citation_records": 13,
+      "request_id": "fdfafac6ca85447cd7d3ceebbeadfb6a0b5bad3644262ddaf2d3ec0814f41c80",
+      "original_receipt_sha256": "6fc91dc92c4f5d3eb3e6901f24a08323e422add6906f1647ef36a494c3f985ca",
+      "raw_answer_sha256": "d4174764f98105323eb277f61cacfdbc6eb834fc9f7a40c119f74f4d7ee4b469",
+      "adjudication_sha256": "ed2cdff118c6da750c93d3b7504af832f836a234d16ecc82af03042541a946d2",
+      "started_at": 1793613826.655064,
+      "ended_at": 1793613878.342541,
+      "duration_seconds": 51.68747687339783
+    },
+    {
+      "round": 1,
+      "theme": 5,
+      "status": "PASS",
+      "checks": 5,
+      "native_citation_records": 14,
+      "request_id": "d96a96d14d196660edc19327cbc73d38428bb98ca0207b413eb42581af647a81",
+      "original_receipt_sha256": "ad76b11b569d647479db85cb2d56ff8ac4b043fb123e59e605dfa0a69c723395",
+      "raw_answer_sha256": "9feb7559215f750cd400cbe15d1735e8a18bdcee01f1fe83200f48193bbb7d54",
+      "adjudication_sha256": "5f7d876eaf44b139f4723a27252749e72cc4aa287a67345ff595c66883e51b0d",
+      "started_at": 1793614193.039018,
+      "ended_at": 1793614235.80638,
+      "duration_seconds": 42.767362117767334
+    },
+    {
+      "round": 1,
+      "theme": 6,
+      "status": "PASS",
+      "checks": 5,
+      "native_citation_records": 26,
+      "request_id": "1a593a281b442741b47477e4a20fa8b1d25fa693b8460e7d6623579082c33e99",
+      "original_receipt_sha256": "e76cbdf71077744828477c7a885ae481fb225a0f973047012a8d2f806d344c94",
+      "raw_answer_sha256": "cafc3ce3f5b91d45fafe3e92c4defea148a1083803b31b1d8d88875be5480df9",
+      "adjudication_sha256": "eea0c3eceb1b524dc24642dcf1b05068241772b39016a307db353b42bf659593",
+      "started_at": 1793614344.461996,
+      "ended_at": 1793614396.691575,
+      "duration_seconds": 52.22957897186279
+    },
+    {
+      "round": 2,
+      "theme": 1,
+      "status": "PASS",
+      "checks": 5,
+      "native_citation_records": 11,
+      "request_id": "52c1d4628d024f1fd840428e003553f3969741b272110d14e028eb6e1aeda8a1",
+      "original_receipt_sha256": "290c3babcb97843fee4042a7baf7ebd75a72375510c500e0a1a8c972b66141df",
+      "raw_answer_sha256": "fa77d1da0fafa53a2cce41cfe5458b7b7c8e91a4a51348326f00962db67e2bbd",
+      "adjudication_sha256": "27a3af3114383715b25d03a25fd0871f6ded730aace017c64aaff1012ee06fb4",
+      "started_at": 1793614998.3635268,
+      "ended_at": 1793615032.7230139,
+      "duration_seconds": 34.35948705673218
+    },
+    {
+      "round": 2,
+      "theme": 2,
+      "status": "PASS",
+      "checks": 5,
+      "native_citation_records": 12,
+      "request_id": "42ae5b64148683c2271b62de2b34a9fce37a15e6f2b7231e371ea0b3e0bedb09",
+      "original_receipt_sha256": "9ce4c8ca6ff527032afa4700dd45b819058d2ef20b0fcfbee859388a7b0cbe0b",
+      "raw_answer_sha256": "71711c9f9e6911120aa9672ce001e6c950e9b9d25fff75ad1922cc4ef573489d",
+      "adjudication_sha256": "92028b70178e08ce09467fb235066b6a11e7b22358dfd012671ed9f6549d3498",
+      "started_at": 1793615068.877248,
+      "ended_at": 1793615109.9567628,
+      "duration_seconds": 41.07951474189758
+    },
+    {
+      "round": 2,
+      "theme": 3,
+      "status": "PASS",
+      "checks": 5,
+      "native_citation_records": 8,
+      "request_id": "37399c297d9fa7b93914e81d86273ceb6e8092aa23b8257abfca7d7f1d1923b3",
+      "original_receipt_sha256": "4f720779cd07cff787421990edcf7cddf512187a4367258960978682539f70cd",
+      "raw_answer_sha256": "593687658a663fd81355061121c58b62dbd678c5791e08640cd14626d7e65fd0",
+      "adjudication_sha256": "94782bb5547c24ce5c3eba1806e0fade32edf205aaf46519f21c3b3f0152a3a0",
+      "started_at": 1793615162.3366861,
+      "ended_at": 1793615207.787314,
+      "duration_seconds": 45.45062780380249
+    },
+    {
+      "round": 2,
+      "theme": 4,
+      "status": "PASS",
+      "checks": 5,
+      "native_citation_records": 14,
+      "request_id": "57faae94334be6f4ce52552096ab66d1374a359dc4191ea52772144ce1bce326",
+      "original_receipt_sha256": "b78ad367b7210b72725357d2c97670e3c8d7d1ff9b6f42dfe217843baa62c217",
+      "raw_answer_sha256": "232b8650aed3bf6d0771c9d956ca252f236ce19969fcb268ae9ac3d48642f81c",
+      "adjudication_sha256": "a26bd7d3ac16a21eefd7ae88573bb292492a269873e6104625610232e06d83aa",
+      "started_at": 1793615274.815142,
+      "ended_at": 1793615322.1345239,
+      "duration_seconds": 47.31938195228577
+    },
+    {
+      "round": 2,
+      "theme": 5,
+      "status": "PASS",
+      "checks": 5,
+      "native_citation_records": 9,
+      "request_id": "01b06904c2775ec604dced321fa66b1950ac0a754812bbdbd6703696d375ff9a",
+      "original_receipt_sha256": "2b2a0665b44e6863bb6be1d7a82f84afc3e367f828b217200e83350e56f4f0d3",
+      "raw_answer_sha256": "7fc025442d9893dfeaf65eb38fbb35ca4e9358dd2a214359b626f4a6aa5ae26a",
+      "adjudication_sha256": "156eb61273ce03028ed9ed4a29c6326603b2bc78005d89ed7bccfa1f00b6b3d9",
+      "started_at": 1793615389.930743,
+      "ended_at": 1793615432.105716,
+      "duration_seconds": 42.174973011016846
+    },
+    {
+      "round": 2,
+      "theme": 6,
+      "status": "PASS",
+      "checks": 5,
+      "native_citation_records": 11,
+      "request_id": "91cb78f7012aaa8c1050a555cd631ef6a5ca099162001f770989385ff6e70e6c",
+      "original_receipt_sha256": "b6e9f599a6639faa7e9c9aa4911aebd09b69caac501f01fd829729fca6dd5ed0",
+      "raw_answer_sha256": "dd009733a3c84a4f849056d7dcd6196cb31094b5f5c380d6f1bf55b386c3458b",
+      "adjudication_sha256": "67f9987fb66679bfb0779da258981a580b1f349fb24821e5e35418296b6a907d",
+      "started_at": 1793615474.8917818,
+      "ended_at": 1793615533.471487,
+      "duration_seconds": 58.579705238342285
+    }
+  ],
+  "answer_corrections_and_limits": [
+    {
+      "round": 1,
+      "theme": 2,
+      "note": "NLM names the Table2 section 二（一）; its actual location is 三（一）. This is an answer locator error, not a manuscript error. Exact source and tabular counts were checked locally."
+    },
+    {
+      "round": 1,
+      "theme": 3,
+      "note": "NLM row cites [5]; its same-answer reference [6] contains the actual table6 note. Raw answer unchanged."
+    },
+    {
+      "round": 1,
+      "theme": 5,
+      "note": "NLM T5-5 compresses all N1 BH q values to .120. Actual tableE.1/CSV has spouse-within q=.19462668336981; first three are .119940029985007. Local correction only; raw answer unchanged. The manuscript itself and the no-adjusted-significance conclusion are consistent."
+    },
+    {
+      "round": 1,
+      "theme": 5,
+      "note": "NLM section labels such as 二（四） are imprecise; local evidence uses P100-P102 and III(4)/AppendixE. No Word document change is needed."
+    },
+    {
+      "round": 1,
+      "theme": 6,
+      "note": "Reject NLM concluding assertion that all publication requirements are satisfied. The checked deliverable is a 47-page landscape evidence manuscript; current JMF/SSR instructions were unavailable (HTTP403), and no journal-ready submission is certified."
+    },
+    {
+      "round": 1,
+      "theme": 6,
+      "note": "NLM cites a manuscript methods paragraph to support its own offline/sandbox claim. That citation does not establish service capabilities. Only the actual scope—no external bibliography verification in this query—is retained."
+    },
+    {
+      "round": 1,
+      "theme": 6,
+      "note": "NLM references AppendixD.3 imprecisely; the six probability intervals are TableD.3 in AppendixD.2. Raw answer unchanged; internal manuscript cross-references are accepted from source/visual evidence."
+    },
+    {
+      "round": 2,
+      "theme": 4,
+      "note": "NLM T4-4 calls P3 a 复合似然修复. The source says 同似然修复 under the same Gamma/Log model and saved draws; no composite-likelihood method was introduced. Only the version-separation assessment is accepted, with this answer terminology corrected."
+    },
+    {
+      "round": 2,
+      "theme": 4,
+      "note": "T4-1 endpoint 全覆盖范围 refers only to the numerical minimum/maximum of pointwise intervals; it is not a simultaneous statistical coverage guarantee."
+    },
+    {
+      "round": 2,
+      "theme": 5,
+      "note": "完整审读42.17秒原生答复及全部9条来源引用；只核对应最终文稿，没有重跑模型或查询。"
+    },
+    {
+      "round": 2,
+      "theme": 6,
+      "note": "原生答复的T6-4/T6-5为ISSUE并自标可选投稿/排版建议。Codex据实际DOCX样式绑定、已安装CSL和表5原注将其裁定为非阻断建议，原答逐字保留，未假称NLM原答五项均PASS。"
+    },
+    {
+      "round": 2,
+      "theme": 6,
+      "note": "不能以未指定的APA规则推翻本稿已采用的GB/T派生样式；具体投稿格式仍待期刊选择。"
+    },
+    {
+      "round": 2,
+      "theme": 6,
+      "note": "原答的“完全一致/严格一致”只在已核关键锚点范围接受；NLM未运行模型、未联网核全部文献，也不替代Word动态域/版面验证。"
+    }
+  ],
+  "acceptance_scope": "Actual NotebookLM source-bound review plus Codex manual source-grounded adjudication; not journal acceptance or independent raw-data replication"
+}

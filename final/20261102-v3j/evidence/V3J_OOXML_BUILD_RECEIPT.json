@@ -1,0 +1,510 @@
+{
+  "at": "2026-11-02T07:48:05.373611+00:00",
+  "scope": "OOXML production and semantic projection only; native Word and NLM not yet performed",
+  "source": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-successor-01a19133-20261031/continuation_20261101_v4/delivery_r2/package/manuscript/CMAverse_V3h_final_accepted.docx",
+    "bytes": 485438,
+    "sha256": "4eec9f0ccf4c510aa2aad5d7415006f937a292c2a23ddf201d291f1ec5fce650"
+  },
+  "helper": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3i-progression-20261101/scripts/build_v3i_word_revisions.py",
+    "bytes": 64355,
+    "sha256": "87f61f7d71ca6c03ddc7a6d695e6025453afa1d69825a089599fda8ac6c090ff"
+  },
+  "adjudication": {
+    "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3j-audit-20261102/ADJUDICATION_28_V3J.json",
+    "bytes": 63828,
+    "sha256": "65f7007bcabc3524156313247a83f09b55e1b52953e8160b25bee3a8c9c76202"
+  },
+  "outputs": {
+    "accepted": {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3j-audit-20261102/manuscript/pre_native/CMAverse_V3j_accepted.docx",
+      "bytes": 487481,
+      "sha256": "83f374e38ba3101b05a5d446415a8aedbf23fec69169f842026b2697c5b8db82"
+    },
+    "tracked": {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3j-audit-20261102/manuscript/pre_native/CMAverse_V3j_tracked.docx",
+      "bytes": 489513,
+      "sha256": "6db7ed435e5db5d511b32a93c0d19c60c7d6b472645280274cd7d761893e0d7f"
+    },
+    "rejected": {
+      "path": "/Users/lzhs/Documents/cnm/tasks/01_R_analysis/handoff/cmaverse-v3j-audit-20261102/manuscript/pre_native/CMAverse_V3j_rejected.docx",
+      "bytes": 486259,
+      "sha256": "afe7a98bbc431e19b22d93f51594744cbedae37df45a49cb8dcacedc0ed80805"
+    }
+  },
+  "tables_unchanged": 34,
+  "story_checks": {
+    "word/document.xml": {
+      "accepted_projection_matches": true,
+      "rejected_projection_matches_v3h": true,
+      "field_audit": {
+        "pass": true,
+        "field_count": 21,
+        "kind_counts": {
+          "zotero_citation": 20,
+          "zotero_bibliography": 1
+        },
+        "fields": [
+          {
+            "display": "（2022）",
+            "separate": true,
+            "instruction_sha256": "88b4b2e59b61d53f67264e95449bb0d5ba623046d73bb78be487c0fe92d32260",
+            "kind": "zotero_citation"
+          },
+          {
+            "display": "（2017）",
+            "separate": true,
+            "instruction_sha256": "de2b74dfb1c88fec0a6c141fc2e8bcfc83cb3e0163464c5a1163040123009cc9",
+            "kind": "zotero_citation"
+          },
+          {
+            "display": "（2026）",
+            "separate": true,
+            "instruction_sha256": "de0b79bfe9e766f6413bbea043d1947582351cdd8b8bb717679805cae69661f8",
+            "kind": "zotero_citation"
+          },
+          {
+            "display": "（Lundberg et al., 2021; Lundberg, 2024）",
+            "separate": true,
+            "instruction_sha256": "b0e5a88379fd7911bce575b2831a0bf0242d2205de65efbee9333f13b90aa24f",
+            "kind": "zotero_citation"
+          },
+          {
+            "display": "（Mikkonen et al., 2021; Wang et al., 2015）",
+            "separate": true,
+            "instruction_sha256": "2628ab0d24552ccfd237374247c399740c9c1f3d74cab4ea3426a35d12374f6e",
+            "kind": "zotero_citation"
+          },
+          {
+            "display": "（VanderWeele, 2013）",
+            "separate": true,
+            "instruction_sha256": "ba527d22faac8f80d1dffa72d02f0ca837c66ce1557c4e57d7e328c316db398e",
+            "kind": "zotero_citation"
+          },
+          {
+            "display": "（Fujihara, 2024）",
+            "separate": true,
+            "instruction_sha256": "62722ee006cd12fa7bd15d62ea314e92c1cbf36ad31474dc4a39aa849ac252eb",
+            "kind": "zotero_citation"
+          },
+          {
+            "display": "（2014）",
+            "separate": true,
+            "instruction_sha256": "7b9b992b31c7c7d7e888a21b996c8ce8b1c1725069a38e8b078da3214b3369b9",
+            "kind": "zotero_citation"
+          },
+          {
+            "display": "（VanderWeele, 2013; Ikram et al., 2015）",
+            "separate": true,
+            "instruction_sha256": "9d3db613d82f64c5910376e90b90ab7336412c8eeade7e8eb6b5c4b631817f21",
+            "kind": "zotero_citation"
+          },
+          {
+            "display": "（VanderWeele, 2014）",
+            "separate": true,
+            "instruction_sha256": "e5b172106b8d30c2bda2ae911f16cce271bda53a23abce4707b8cde583394feb",
+            "kind": "zotero_citation"
+          },
+          {
+            "display": "（2022）",
+            "separate": true,
+            "instruction_sha256": "be0a9ead80d0bf1daf6b0f1e1da6e61498c5bd6a808eb67f77c5c8697e0a0351",
+            "kind": "zotero_citation"
+          },
+          {
+            "display": "（2025）",
+            "separate": true,
+            "instruction_sha256": "b247a610f3bb3b02673f868a58872a9470bec47b6001ff94f1770252cf3e5836",
+            "kind": "zotero_citation"
+          },
+          {
+            "display": "（2025）",
+            "separate": true,
+            "instruction_sha256": "8863628c12ff6ac21d777db36e53eaf4bbb40281f92fe2f7f983b3b0a533c7b2",
+            "kind": "zotero_citation"
+          },
+          {
+            "display": "（Qin et al., 2022）",
+            "separate": true,
+            "instruction_sha256": "a664cb822d3edae493541e61c04228445460f7bc2ea41e1a7ad6e50acd6b88f5",
+            "kind": "zotero_citation"
+          },
+          {
+            "display": "（VanderWeele, 2013, 2014; VanderWeele et al., 2017b; Rijnhart et al., 2023）",
+            "separate": true,
+            "instruction_sha256": "d97e15656b602fbaa30a9729a6d4bde615e69c57de8deff7bf1e8b525ebfecb5",
+            "kind": "zotero_citation"
+          },
+          {
+            "display": "（VanderWeele et al., 2017b）",
+            "separate": true,
+            "instruction_sha256": "7b050a5f0b86117cf8481c6d0dd5d34b2b2bc0e968bd52a87e4589382d386af9",
+            "kind": "zotero_citation"
+          },
+          {
+            "display": "（VanderWeele et al., 2017b）",
+            "separate": true,
+            "instruction_sha256": "08228bfe5959bde9df16c3fcb6d993f1b39f028c7f92c689e702bdd1de11a524",
+            "kind": "zotero_citation"
+          },
+          {
+            "display": "（Shi et al., 2021; VanderWeele, 2014）",
+            "separate": true,
+            "instruction_sha256": "215338c0806225d639e920466d603c659ed084713fea4072aabd6795ef2d9b79",
+            "kind": "zotero_citation"
+          },
+          {
+            "display": "（Fujihara, 2024; Ding et al., 2016; VanderWeele et al., 2017a; Smith et al., 2019）",
+            "separate": true,
+            "instruction_sha256": "4893e77d9ed35b47de3869262f0a08386b7ad2324907324d0b1ab05e4b49d51b",
+            "kind": "zotero_citation"
+          },
+          {
+            "display": "（2022）",
+            "separate": true,
+            "instruction_sha256": "8041ea40b23d74fbf94655d575e5c12cba2f8592bd783bdc2c0246461261e55a",
+            "kind": "zotero_citation"
+          },
+          {
+            "display": "王跃生, 2026. 中国家庭结构百年变迁及其特征分析[N]. 光明日报, 2026-04-01(11).许琪, 2022. 挣钱还是做家务——丈夫的经济贡献和家务贡献对妻子婚姻满意度的影响[J]. 社会学评论, 10(3): 43-63.郑丹丹, 狄金华, 2017. 女性家庭权力、夫妻关系与家庭代际资源分配[J]. 社会学研究, 32(1): 171-192+245.Al-kassab-Córdova A, Mezones-Holguin E, Kaufman J S, 2025. Diminished returns of maternal education on children’s vaccination status for indigenous women in Peru[J]. Social Science & Medicine, 370: 117862.Ding P, VanderWeele T J, 2016. Sensitivity analysis without assumptions[J]. Epidemiology, 27(3): 368-377.Fujihara S, 2024. Identifying the role of high school in educational inequality: A causal mediation approach[J]. Social Science Research, 124: 103077.Hsu Y T, Grodstein F, Liu T H, et al., 2025. Causal mediation of the association between educational attainment and late-life cognitive function by trajectories of social participation[J]. Social Science & Medicine, 370: 117861.Ikram M A, VanderWeele T J, 2015. A proposed clinical and biological interpretation of mediated interaction[J]. European Journal of Epidemiology, 30(10): 1115-1118.Kratz F, Pettinger B, Grätz M, 2022. At which age is education the great equalizer? A causal mediation analysis of the (in-)direct effects of social origin over the life course[J]. European Sociological Review, 38(6): 866-881.Lundberg I, 2024. The gap-closing estimand: A causal approach to study interventions that close disparities across social categories[J]. Sociological Methods & Research, 53(2): 507-570.Lundberg I, Johnson R, Stewart B M, 2021. What is your estimand? Defining the target quantity connects statistical evidence to theory[J]. American Sociological Review, 86(3): 532-565.Madia J E, Gruijters R J, Raabe I J, et al., 2025. Growth mindset and socioeconomic inequality in academic achievement across seventy-three PISA countries[J]. npj Science of Learning, 10(1): 81.Mencarini L, Vignoli D, 2018. Employed women and marital union stability: It helps when men help[J]. Journal of Family Issues, 39(5): 1348-1373.Mikkonen J, Remes H, Moustgaard H, et al., 2021. Early adolescent health problems, school performance, and upper secondary educational pathways: A counterfactual-based mediation analysis[J]. Social Forces, 99(3): 1146-1175.Qin X, Yang F, 2022. Simulation-based sensitivity analysis for causal mediation studies[J]. Psychological Methods, 27(6): 1000-1013.Rijnhart J J M, Valente M J, Smyth H L, et al., 2023. Statistical mediation analysis for models with a binary mediator and a binary outcome: The differences between causal and traditional mediation analysis[J]. Prevention Science, 24(3): 408-418.Shi B, Choirat C, Coull B A, et al., 2021. CMAverse: A suite of functions for reproducible causal mediation analyses[J]. Epidemiology, 32(5): e20-e22.Smith L H, VanderWeele T J, 2019. Mediational E-values: Approximate sensitivity analysis for unmeasured mediator-outcome confounding[J]. Epidemiology, 30(6): 835-837.VanderWeele T J, 2013. A three-way decomposition of a total effect into direct, indirect, and interactive effects[J]. Epidemiology, 24(2): 224-232.VanderWeele T J, 2014. A unification of mediation and interaction: A 4-way decomposition[J]. Epidemiology, 25(5): 749-761.VanderWeele T J, Ding P, 2017a. Sensitivity analysis in observational research: Introducing the E-value[J]. Annals of Internal Medicine, 167(4): 268-274.VanderWeele T J, Tchetgen Tchetgen E J, 2017b. Mediation analysis with time varying exposures and mediators[J]. Journal of the Royal Statistical Society Series B: Statistical Methodology, 79(3): 917-938.Vignoli D, Mencarini L, Alderotti G, 2020. Is the effect of job uncertainty on fertility intentions channeled by subjective well-being?[J]. Advances in Life Course Research, 46: 100343.Wang A, Arah O A, 2015. G-computation demonstration in causal mediation analysis[J]. European Journal of Epidemiology, 30(10): 1119-1127.Yazawa A, Shiba K, Inoue Y, et al., 2022. Early childhood adversity and late-life depressive symptoms: Unpacking mediation and interaction by adult socioeconomic status[J]. Social Psychiatry and Psychiatric Epidemiology, 57(6): 1147-1156.",
+            "separate": true,
+            "instruction_sha256": "f27e51892d0d10cf587790238a3ac625adcaa2096492e0fb77967a4d7c974b86",
+            "kind": "zotero_bibliography"
+          }
+        ],
+        "simple_field_count": 0
+      },
+      "tracked_revisions": {
+        "ins": 122,
+        "del": 53
+      }
+    },
+    "word/footnotes.xml": {
+      "accepted_projection_matches": true,
+      "rejected_projection_matches_v3h": true,
+      "field_audit": {
+        "pass": true,
+        "field_count": 2,
+        "kind_counts": {
+          "zotero_citation": 2
+        },
+        "fields": [
+          {
+            "display": "（Al-kassab-Córdova et al., 2025; Fujihara, 2024; Mencarini et al., 2018; Vignoli et al., 2020; Mikkonen et al., 2021; Kratz et al., 2022）",
+            "separate": true,
+            "instruction_sha256": "82bef7bdcd04e6b10336382a616b43c0d6a1ea65effa807ed010c30852b545ec",
+            "kind": "zotero_citation"
+          },
+          {
+            "display": "（Hsu et al., 2025）",
+            "separate": true,
+            "instruction_sha256": "680303b6e209444d217c6a3b65920777db0cca0ac03bb2f1e863e09345bfbc37",
+            "kind": "zotero_citation"
+          }
+        ],
+        "simple_field_count": 0
+      },
+      "tracked_revisions": {}
+    },
+    "word/endnotes.xml": {
+      "accepted_projection_matches": true,
+      "rejected_projection_matches_v3h": true,
+      "field_audit": {
+        "pass": true,
+        "field_count": 0,
+        "kind_counts": {},
+        "fields": [],
+        "simple_field_count": 0
+      },
+      "tracked_revisions": {}
+    },
+    "word/header1.xml": {
+      "accepted_projection_matches": true,
+      "rejected_projection_matches_v3h": true,
+      "field_audit": {
+        "pass": true,
+        "field_count": 0,
+        "kind_counts": {},
+        "fields": [],
+        "simple_field_count": 0
+      },
+      "tracked_revisions": {}
+    },
+    "word/header2.xml": {
+      "accepted_projection_matches": true,
+      "rejected_projection_matches_v3h": true,
+      "field_audit": {
+        "pass": true,
+        "field_count": 0,
+        "kind_counts": {},
+        "fields": [],
+        "simple_field_count": 0
+      },
+      "tracked_revisions": {}
+    },
+    "word/footer1.xml": {
+      "accepted_projection_matches": true,
+      "rejected_projection_matches_v3h": true,
+      "field_audit": {
+        "pass": true,
+        "field_count": 0,
+        "kind_counts": {},
+        "fields": [],
+        "simple_field_count": 0
+      },
+      "tracked_revisions": {}
+    },
+    "word/footer2.xml": {
+      "accepted_projection_matches": true,
+      "rejected_projection_matches_v3h": true,
+      "field_audit": {
+        "pass": true,
+        "field_count": 1,
+        "kind_counts": {
+          "other": 1
+        },
+        "fields": [
+          {
+            "display": "3",
+            "separate": true,
+            "instruction_sha256": "8a7ec6820565d7b1ae43fc384b3f497291bbc6090871629370bd43609f26f2cd",
+            "kind": "other"
+          }
+        ],
+        "simple_field_count": 0
+      },
+      "tracked_revisions": {}
+    },
+    "word/header3.xml": {
+      "accepted_projection_matches": true,
+      "rejected_projection_matches_v3h": true,
+      "field_audit": {
+        "pass": true,
+        "field_count": 0,
+        "kind_counts": {},
+        "fields": [],
+        "simple_field_count": 0
+      },
+      "tracked_revisions": {}
+    },
+    "word/footer3.xml": {
+      "accepted_projection_matches": true,
+      "rejected_projection_matches_v3h": true,
+      "field_audit": {
+        "pass": true,
+        "field_count": 0,
+        "kind_counts": {},
+        "fields": [],
+        "simple_field_count": 0
+      },
+      "tracked_revisions": {}
+    }
+  },
+  "semantic_checks": {
+    "accepted": {
+      "all_pass": true,
+      "mode": "DUAL_VIEW_SEMANTIC_V1",
+      "changed": [],
+      "expected_snapshot_sha256": "6b7040de568fda1002e2ee8abc58ca24c681c6503cf6cb0ea3211d2646f5254e",
+      "actual_snapshot_sha256": "6b7040de568fda1002e2ee8abc58ca24c681c6503cf6cb0ea3211d2646f5254e",
+      "expected_page_cache": [
+        {
+          "story": "word/footer2.xml",
+          "ordinal": 0,
+          "instruction_sha256": "8a7ec6820565d7b1ae43fc384b3f497291bbc6090871629370bd43609f26f2cd",
+          "cache": "3"
+        }
+      ],
+      "actual_page_cache": [
+        {
+          "story": "word/footer2.xml",
+          "ordinal": 0,
+          "instruction_sha256": "8a7ec6820565d7b1ae43fc384b3f497291bbc6090871629370bd43609f26f2cd",
+          "cache": "3"
+        }
+      ],
+      "actual_page_cache_required": false,
+      "scope": "ALL_STORIES_EFFECTIVE_FORMAT_FIELDS_ANCHORS_MEDIA_AND_FULL_TABLE_STRUCTURE",
+      "native_rendering_proven": false,
+      "scientific_acceptance": false
+    },
+    "rejected": {
+      "all_pass": true,
+      "mode": "DUAL_VIEW_SEMANTIC_V1",
+      "changed": [],
+      "expected_snapshot_sha256": "379c4896af779c886573a3d4cf3effd8c5049872f83aeaa0d4b5648666d8fb25",
+      "actual_snapshot_sha256": "379c4896af779c886573a3d4cf3effd8c5049872f83aeaa0d4b5648666d8fb25",
+      "expected_page_cache": [],
+      "actual_page_cache": [],
+      "actual_page_cache_required": false,
+      "scope": "ALL_STORIES_EFFECTIVE_FORMAT_FIELDS_ANCHORS_MEDIA_AND_FULL_TABLE_STRUCTURE",
+      "native_rendering_proven": false,
+      "scientific_acceptance": false
+    },
+    "reject_vs_v3h": {
+      "all_pass": true,
+      "mode": "DUAL_VIEW_SEMANTIC_V1",
+      "changed": [],
+      "expected_snapshot_sha256": "9a2da7cc31b5b423247f8cbdba90579cba2cb4a750fcfbb3044a6414881d289b",
+      "actual_snapshot_sha256": "9a2da7cc31b5b423247f8cbdba90579cba2cb4a750fcfbb3044a6414881d289b",
+      "expected_page_cache": [
+        {
+          "story": "word/footer2.xml",
+          "ordinal": 0,
+          "instruction_sha256": "8a7ec6820565d7b1ae43fc384b3f497291bbc6090871629370bd43609f26f2cd",
+          "cache": "3"
+        }
+      ],
+      "actual_page_cache": [
+        {
+          "story": "word/footer2.xml",
+          "ordinal": 0,
+          "instruction_sha256": "8a7ec6820565d7b1ae43fc384b3f497291bbc6090871629370bd43609f26f2cd",
+          "cache": "3"
+        }
+      ],
+      "actual_page_cache_required": false,
+      "scope": "ALL_STORIES_EFFECTIVE_FORMAT_FIELDS_ANCHORS_MEDIA_AND_FULL_TABLE_STRUCTURE",
+      "native_rendering_proven": false,
+      "scientific_acceptance": false
+    }
+  },
+  "prior_qualified_conclusion_anchors": [
+    {
+      "id": "W01",
+      "needle": "新增14项均已完成B=200初筛",
+      "expected_minimum": 1,
+      "actual": 1,
+      "preserved": true
+    },
+    {
+      "id": "W01",
+      "needle": "未提供明确的完整中介证据",
+      "expected_minimum": 1,
+      "actual": 1,
+      "preserved": true
+    },
+    {
+      "id": "W02",
+      "needle": "未作新的搜索校正",
+      "expected_minimum": 3,
+      "actual": 3,
+      "preserved": true
+    },
+    {
+      "id": "W02",
+      "needle": "历史校正与去dwm后的模型分开报告",
+      "expected_minimum": 1,
+      "actual": 1,
+      "preserved": true
+    },
+    {
+      "id": "W03",
+      "needle": "ΔOR不表示概率或百分点变化",
+      "expected_minimum": 1,
+      "actual": 1,
+      "preserved": true
+    },
+    {
+      "id": "W03",
+      "needle": "9,879／2,939",
+      "expected_minimum": 1,
+      "actual": 1,
+      "preserved": true
+    },
+    {
+      "id": "W03",
+      "needle": "12,564／3,149",
+      "expected_minimum": 1,
+      "actual": 1,
+      "preserved": true
+    },
+    {
+      "id": "W04",
+      "needle": "期末总体月均支持金额（水平量）",
+      "expected_minimum": 2,
+      "actual": 2,
+      "preserved": true
+    },
+    {
+      "id": "W04",
+      "needle": "整体p分别为0.132和0.080",
+      "expected_minimum": 2,
+      "actual": 2,
+      "preserved": true
+    },
+    {
+      "id": "W05",
+      "needle": "固定六项",
+      "expected_minimum": 6,
+      "actual": 6,
+      "preserved": true
+    },
+    {
+      "id": "W05",
+      "needle": "0.131934",
+      "expected_minimum": 1,
+      "actual": 1,
+      "preserved": true
+    },
+    {
+      "id": "W05",
+      "needle": "0.079960",
+      "expected_minimum": 1,
+      "actual": 1,
+      "preserved": true
+    },
+    {
+      "id": "W06",
+      "needle": "表10汇总基础回归、历史八链、系统探索及选择后限定复核",
+      "expected_minimum": 1,
+      "actual": 1,
+      "preserved": true
+    },
+    {
+      "id": "W07",
+      "needle": "两类可以重叠",
+      "expected_minimum": 1,
+      "actual": 1,
+      "preserved": true
+    },
+    {
+      "id": "W07",
+      "needle": "不能由相对评分差确认权力或谈判机制",
+      "expected_minimum": 1,
+      "actual": 1,
+      "preserved": true
+    },
+    {
+      "id": "W07",
+      "needle": "待检验解释",
+      "expected_minimum": 1,
+      "actual": 1,
+      "preserved": true
+    },
+    {
+      "id": "W08",
+      "needle": "R1_B1（486/500",
+      "expected_minimum": 1,
+      "actual": 1,
+      "preserved": true
+    },
+    {
+      "id": "W08",
+      "needle": "其BH/BY q值记为NA",
+      "expected_minimum": 1,
+      "actual": 1,
+      "preserved": true
+    },
+    {
+      "id": "W08",
+      "needle": "原金额的数值失败已",
+      "expected_minimum": 1,
+      "actual": 1,
+      "preserved": true
+    }
+  ],
+  "native_word_status": "NOT_YET_PERFORMED",
+  "nlm_status": "NOT_YET_PERFORMED"
+}

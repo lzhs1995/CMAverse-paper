@@ -1,0 +1,53 @@
+{
+  "reviewer": "Codex source-grounded semantic adjudication of actual NotebookLM answer",
+  "round": 1,
+  "theme": 6,
+  "document_sha256": "ef99fcb202056bcfb1c3e559fb6b47f669f78d2b0c65dc2870003c7aab79f8d1",
+  "source_id": "cf7f3d95-715e-496b-b5b9-d8a6ebad1859",
+  "status": "PASS",
+  "criteria": [
+    {
+      "id": "T6-1",
+      "status": "PASS",
+      "verified_source": "P002/P110-P130/P168/P183 and source-derived result CSVs: 4.90 pp RD, -8.76 pp IC-RD, q=.032 delta-family and six B200 intervals align. Descriptive 13092 records separate from chain-specific complete cases."
+    },
+    {
+      "id": "T6-2",
+      "status": "PASS",
+      "verified_source": "P122/P133/P142-P147 and final PDF visual acceptance: figure5/table5 risk differences and figure6/table8 CDE OR/paired differences use separate units and correct nulls; captions and in-text references align."
+    },
+    {
+      "id": "T6-3",
+      "status": "PASS",
+      "verified_source": "P071-P080/P151-P160/P186/appendixA: PE and prediction scenarios preserved as technical records; no causal policy yield or contribution percentage claimed."
+    },
+    {
+      "id": "T6-4",
+      "status": "PASS",
+      "verified_source": "P284-P311 bibliography plus native Zotero four-view content checks: displayed Lundberg2021/2024, Fujihara2024, Hsu2025 and VanderWeele2013/2014/2017a/2017b entries correspond. This is internal author-year consistency, not a fresh independent publisher verification."
+    },
+    {
+      "id": "T6-5",
+      "status": "PASS",
+      "verified_source": "Final reading text and 47-page visual evidence: corrected constructs, units and captions readable; design limitations are declared, landscape journal formatting remains an explicitly separate deliverable."
+    }
+  ],
+  "native_citations": 26,
+  "manuscript_changes_required": false,
+  "machine_checks_are_not_substituted_for_semantic_review": true,
+  "adjudication_notes": [
+    "Reject NLM concluding assertion that all publication requirements are satisfied. The checked deliverable is a 47-page landscape evidence manuscript; current JMF/SSR instructions were unavailable (HTTP403), and no journal-ready submission is certified.",
+    "NLM cites a manuscript methods paragraph to support its own offline/sandbox claim. That citation does not establish service capabilities. Only the actual scope—no external bibliography verification in this query—is retained.",
+    "NLM references AppendixD.3 imprecisely; the six probability intervals are TableD.3 in AppendixD.2. Raw answer unchanged; internal manuscript cross-references are accepted from source/visual evidence."
+  ],
+  "provenance": {
+    "request_id": "1a593a281b442741b47477e4a20fa8b1d25fa693b8460e7d6623579082c33e99",
+    "original_receipt_sha256": "e76cbdf71077744828477c7a885ae481fb225a0f973047012a8d2f806d344c94",
+    "original_raw_sha256": "cafc3ce3f5b91d45fafe3e92c4defea148a1083803b31b1d8d88875be5480df9",
+    "started_at": 1793614344.461996,
+    "ended_at": 1793614396.691575,
+    "remote_terminal": true,
+    "raw_answer": "ANSWER.raw.json",
+    "export_note": "Public projection omits local account/lease/runtime paths; exact native answer bytes remain unchanged."
+  }
+}

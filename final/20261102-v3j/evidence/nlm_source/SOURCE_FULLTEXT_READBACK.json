@@ -1,0 +1,72 @@
+{
+  "at": "2026-11-02T08:49:05.033253+00:00",
+  "source_id": "cf7f3d95-715e-496b-b5b9-d8a6ebad1859",
+  "title": "CMAverse_V3j_final_accepted.pdf",
+  "source_type": "pdf",
+  "remote_char_count": 70915,
+  "full_original_raw": {
+    "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/b9e7fcd4d410ab1c87d0716b0e37f5f2b43cf8efd6b3a595cdb9c06931fdbff4/raw.json",
+    "sha256": "726d372f8dbd19a12ed94820e95cd4393251592a77fcfd1586fe39bdae2b9d17"
+  },
+  "source_receipt": {
+    "path": "/Users/lzhs/.local/state/nlm-account-budget/receipts/b9e7fcd4d410ab1c87d0716b0e37f5f2b43cf8efd6b3a595cdb9c06931fdbff4/receipt.json",
+    "sha256": "52d39d35267d60edbcfa04da777257d0742766ef5af685825eb4981f3a57c7eb"
+  },
+  "checks": [
+    {
+      "text": "新增14项检验中的六项概率中介规格",
+      "present": true
+    },
+    {
+      "text": "首轮B=200",
+      "present": true
+    },
+    {
+      "text": "−0.168至0.319",
+      "present": true
+    },
+    {
+      "text": "1,559条相对位置跃迁区间记录",
+      "present": true
+    },
+    {
+      "text": "442条（28.35%）",
+      "present": true
+    },
+    {
+      "text": "1,372条（88.01%）",
+      "present": true
+    },
+    {
+      "text": "255条（16.36%）",
+      "present": true
+    },
+    {
+      "text": "71.65%",
+      "present": true
+    },
+    {
+      "text": "不是跨规格的联合置信带",
+      "present": true
+    },
+    {
+      "text": "不构成正式等效性检验",
+      "present": true
+    },
+    {
+      "text": "本研究没有直接测量资源协商与控制过程",
+      "present": true
+    },
+    {
+      "text": "YazawaA,ShibaK,InoueY",
+      "present": true
+    },
+    {
+      "text": "1147-1156",
+      "present": true
+    }
+  ],
+  "status": "FULLTEXT_AND_KEY_ANCHORS_PRESENT",
+  "normalization_scope": "Whitespace and standalone PDF font-label lines removed for anchor search only. Full raw is preserved; no claim of byte-identical extraction or OCR layout equivalence.",
+  "ready_status": "PENDING_SOURCE_STATE_READBACK"
+}
